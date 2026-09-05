@@ -1,4 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  <url><loc>https://starbuckspreise.com/ /starbucks-in-meiner-naehe /kontakt-uns /ueber-uns /datenschutzerklaerung /geschaeftsbedingungen /haftungsausschluss /starbucks-aktie /starbucks-tasse /iced-caramel-macchiato</loc><changefreq>weekly</changefreq><priority>0.6</priority></url>
+  <url><loc>https://starbuckspreise.com/</loc><changefreq>weekly</changefreq><priority>1.0</priority></url>
+  <url><loc>https://starbuckspreise.com/starbucks-in-meiner-naehe</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://starbuckspreise.com/starbucks-aktie</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://starbuckspreise.com/starbucks-tasse</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://starbuckspreise.com/iced-caramel-macchiato</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://starbuckspreise.com/ueber-uns</loc><changefreq>monthly</changefreq><priority>0.4</priority></url>
+  <url><loc>https://starbuckspreise.com/kontakt-uns</loc><changefreq>monthly</changefreq><priority>0.4</priority></url>
+  <url><loc>https://starbuckspreise.com/datenschutzerklaerung</loc><changefreq>yearly</changefreq><priority>0.2</priority></url>
+  <url><loc>https://starbuckspreise.com/geschaeftsbedingungen</loc><changefreq>yearly</changefreq><priority>0.2</priority></url>
+  <url><loc>https://starbuckspreise.com/haftungsausschluss</loc><changefreq>yearly</changefreq><priority>0.2</priority></url>
 </urlset>
