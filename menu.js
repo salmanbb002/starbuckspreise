@@ -3,7 +3,7 @@ const slug = s => s.replace(/[^\w.-]+/g,'-').replace(/-+/g,'-').replace(/^-|-$/g
 const IMG = base => `/img/${slug(base)}.webp`;
 
 const DATA = [
- {id:'getraenke', h:'Starbucks Getränke liste Preise', groups:[
+ {id:'getraenke', h:'Kaffee-Klassiker: Espresso-Getränke im Überblick', groups:[
    {g:'Hot Espresso Drinks &#8211; Starbucks Preis Deutschland', items:[
      ["Toffee Nut Latte","Toffee-Nut-Latte","6,20 €","993kJ/237kcal"],
      ["Lebkuchen Latte","Lebkuchen-Latte","6,70 €","1148kJ/274kcal"],
@@ -22,7 +22,7 @@ const DATA = [
      ["Espresso","Espresso","2,75 €","15kJ/4kcal"]
    ]}
  ]},
- {id:'iced-espresso', h:'Iced Espresso Drinks &#8211; Starbucks Speisekarte preise', groups:[
+ {id:'iced-espresso', h:'Kalte Espresso-Drinks für unterwegs', groups:[
    {items:[
      ["Iced Toffee Nut Latte","Iced-Toffee-Nut-Latte","6,70 €","727kJ/172kcal"],
      ["Iced Mocha Mousse Latte","Iced-Mocha-Mousse-Latte","6,20 €","1180kJ/281kcal"],
@@ -36,14 +36,14 @@ const DATA = [
      ["Iced Caffè Mocha","Iced-Caffe-Mocha","5,79 €","1431kJ/342kcal"]
    ]}
  ]},
- {id:'filterkaffee', h:'Filterkaffee Starbucks Menu Prices Germany', groups:[
+ {id:'filterkaffee', h:'Filterkaffee &amp; Cold Brew: die einfachen Klassiker', groups:[
    {items:[
      ["Frisch gebrühter Filterkaffee – Pike Place® Roast","Frisch-gebruhter-Filterkaffee-Pike-Place®-Roast","5 €","132kJ/31kcal"],
      ["Cold Brew Latte","Cold-Brew-Latte","5,90 €","520kJ/123kcal"],
      ["Cold Brew","Cold-Brew","4,60 €","97kJ/22kcal"]
    ]}
  ]},
- {id:'teavana-hot', h:'Hot Teavana&#8482; Tea &#8211; Starbucks Preise Matcha', groups:[
+ {id:'teavana-hot', h:'Warme Tees und Matcha-Spezialitäten', groups:[
    {items:[
      ["Lebkuchen Matcha Latte","Lebkuchen-Matcha-Latte","7,40 €","1299kJ/310kcal"],
      ["Pumpkin Spice Matcha Latte","Pumpkin-Spice-Matcha-Latte","7,90 €","1271kJ/303kcal"],
@@ -58,7 +58,7 @@ const DATA = [
      ["Emperor's Clouds & Mist Tea","Emperor26-Mist","4,90 €","15kJ/4kcal"]
    ]}
  ]},
- {id:'teavana-iced', h:'Iced Teavana&#8482; Tea &#8211; Preise Starbucks Deutschland', groups:[
+ {id:'teavana-iced', h:'Eistees und kalte Matcha-Kreationen', groups:[
    {items:[
      ["Toffee Nut Cream Iced Matcha Latte","Toffee-Nut-Cream-Iced-Matcha-Latte","7,40 €","1147kJ/274kcal"],
      ["Iced Pumpkin Spice Matcha Latte","Iced-Pumpkin-Spice-Matcha-Latte","8,90 €","1003kJ/240kcal"],
@@ -69,7 +69,7 @@ const DATA = [
      ["Iced Peach Tea","Iced-Peach-Tea","6,90 €","182kJ/43kcal"]
    ]}
  ]},
- {id:'refresha', h:'Starbucks Refresha® Drink &#8211; starbucks preise 2026', groups:[
+ {id:'refresha', h:'Fruchtige Refresha-Erfrischungsgetränke', groups:[
    {items:[
      ["Dragon Coconut Starbucks Refresha®","Dragon-Coconut-Starbucks-Refresha®","7,40 €","664kJ/158kcal"],
      ["Strawberry Acai Starbucks Refresha®","Strawberry-Acai-Starbucks-Refresha®","6,40 €","369kJ/87kcal"],
@@ -77,7 +77,7 @@ const DATA = [
      ["Mango Dragonfruit Starbucks Refresha®","Mango-Dragonfruit-Starbucks-Refresha®","6,90 €","427kJ/101kcal"]
    ]}
  ]},
- {id:'frappuccino', h:'Starbucks Preise Frappuccino® Blended Beverages', groups:[
+ {id:'frappuccino', h:'Frappuccino: die cremigen Eiskaffee-Mixgetränke', groups:[
    {g:'Coffee Frappuccino®', items:[
      ["Toffee Nut Coffee Frappuccino®","Toffee-Nut-Coffee-Frappuccino®","7,40 €","1339kJ/319kcal"],
      ["Pumpkin Spice Frappuccino®","Pumpkin-Spice-Frappuccino®","7,40 €","1563kJ/372kcal"],
@@ -104,7 +104,7 @@ const DATA = [
      ["Cookies and Cream Frappuccino®","Cookies-and-Cream-Frappuccino®","6,90 €","1621kJ/387kcal"]
    ]}
  ]},
- {id:'schokolade', h:'Schokolade &amp; Milch &#8211; starbucks menü preise', groups:[
+ {id:'schokolade', h:'Heiße Schokolade und Milchgetränke', groups:[
    {g:'Hot Chocolate', items:[
      ["Signature Hot Chocolate","Signature-Hot-Chocolate","6,40 €","1471kJ/351kcal"],
      ["Hot White Chocolate","Hot-White-Chocolate","6,40 €","1498kJ/357kcal"],
@@ -118,8 +118,8 @@ const DATA = [
      ["Hot Milk","Hot-Milk","8,50 €","849kJ/203kcal"]
    ]}
  ]},
- {id:'essen', divider:true, h:'Essen Starbucks Menü Preis 2026'},
- {id:'desserts', h:'Desserts &#8211; starbuck preise', groups:[
+ {id:'essen', divider:true, h:'Snacks &amp; Gebäck: die Food-Auswahl'},
+ {id:'desserts', h:'Süßes zum Kaffee: Desserts &amp; Kuchen', groups:[
    {g:'Breakfast Bakery', items:[
      ["Lebkuchen Zimtschnecke","Lebkuchen-Zimtschnecke","4,80 €","1649kJ/394kcal"],
      ["Ofenfrisch – Signature Cone Pistachio","Ofenfrisch-Signature-Cone-Pistachio","2,10 €","946kJ/227kcal"],
@@ -158,7 +158,7 @@ const DATA = [
      ["Cake Pop – Polar","Cake-Pop-Polar","2,80 €","685kJ/164kcal"]
    ]}
  ]},
- {id:'sandwiches', h:'Sandwiches &#8211; starbuck preis 2026', groups:[
+ {id:'sandwiches', h:'Herzhafte Sandwiches &amp; Snacks', groups:[
    {items:[
      ["Breakfast Croissant","Breakfast-Croissant","4,90 €","1666kJ/399kcal"],
      ["Ofenfrisch – Tomato Franz","Ofenfrisch-Tomato-Franz","2,90 €","1417kJ/339kcal"],
@@ -177,7 +177,7 @@ const DATA = [
      ["Melted Cheese Croissant","Melted-Cheese-Croissant","3,20 €","1355kJ/324kcal"]
    ]}
  ]},
- {id:'snacks', h:'Snacks &amp; Süße &#8211; Starbuck Preis Deutschland', groups:[
+ {id:'snacks', h:'Kleine Snacks, Riegel &amp; Süßigkeiten', groups:[
    {items:[
      ["Gold Coin","Gold-Coin","3.650 €","501kJ/119kcal"],
      ["Cookie Straw","Cookie-Straw","3,90 €","377kJ/90kcal"],
@@ -197,7 +197,7 @@ const DATA = [
      ["Oat Bar Peanut","Oat-Bar-Peanut","2,80 €","792kJ/190kcal"]
    ]}
  ]},
- {id:'flaschen', divider:true, h:'Flaschengetränke Starbucks Menu prices Germany'},
+ {id:'flaschen', divider:true, h:'Wasser, Saft &amp; Flaschengetränke'},
  {id:'wasser', h:'Wasser', groups:[
    {items:[
      ["Stilles Wasser Volvic 0,75l EINWEG","Stilles-Wasser-Volvic-075l-EINWEG","0,25 €","0kJ/0kcal"],
@@ -220,22 +220,22 @@ const DATA = [
      ["Apfelschorle Adelholzener 0,5l EINWEG","Apfelschorle-Adelholzener-05l-EINWEG","1,60 €","485kJ/115kcal"]
    ]}
  ]},
- {id:'saefte', h:'Säfte &amp; Smoothies &#8211; Starbucks Preise Deutschland', groups:[
+ {id:'saefte', h:'Frische Säfte und Smoothies', groups:[
    {items:[
      ["Strawberry Smash","Strawberry-Smash","6,50 €","505kJ/120kcal"],
      ["Grandmade Orangensaft 0,25l EINWEG","Grandmade-Orangensaft-025l-EINWEG","3,29 €","420kJ/102kcal"],
      ["Ginger Volcano","Ginger-Volcano","8,50 €","74kJ/18kcal"]
    ]}
  ]},
- {id:'togo', divider:true, h:'To Go &#8211; Starbucks Menu Germany Prices'},
- {id:'verpackung', h:'Verpackung &#8211; Starbucks Preise Deutschland', groups:[
+ {id:'togo', divider:true, h:'Zum Mitnehmen: Verpackung &amp; To-Go'},
+ {id:'verpackung', h:'Tüten &amp; Verpackungsmaterial', groups:[
    {items:[
      ["Große Papiertüte","Grose-Papiertute","0,42 €",""],
      ["Kleine Papiertüte","Kleine-Papiertute","0,50 €",""]
    ]}
  ]},
- {id:'kaffee-hause', divider:true, h:'Kaffee zu Hause &#8211; Starbucks Menu Germany Prices'},
- {id:'kaffeebohnen', h:'Kaffeebohnen &#8211; Starbucks Preise Deutschland', groups:[
+ {id:'kaffee-hause', divider:true, h:'Kaffeebohnen für zu Hause'},
+ {id:'kaffeebohnen', h:'Röstungen im Vergleich: Blonde, Medium &amp; Dark', groups:[
    {g:'Blonde Roast', items:[
      ["Starbucks® Blonde 2026 250g","Starbucks®-Blonde-2025-250g","9,90 €",""],
      ["Starbucks® Blonde Espresso Roast 250g","Starbucks®-Blonde-Espresso-Roast-250g","9,90 €",""]
@@ -252,8 +252,8 @@ const DATA = [
      ["Starbucks® Decaf Espresso Roast 250g","Starbucks®-Decaf-Espresso-Roast-250g","9,99 €",""]
    ]}
  ]},
- {id:'merch', divider:true, h:'Merchandise &#8211; Starbuck Menu Price Germany'},
- {id:'mehrwegbecher', h:'Mehrwegbecher &#8211; starbucks deutschland menü', groups:[
+ {id:'merch', divider:true, h:'Merchandise: Tassen, Becher &amp; mehr'},
+ {id:'mehrwegbecher', h:'Wiederverwendbare Mehrwegbecher', groups:[
    {items:[
      ["Reusable Hot Cup Red","Reusable-Hot-Cup-Red","2,40 €",""],
      ["Reusable Cold Cup Gingerbread","Reusable-Cold-Cup-Gingerbread","2,50 €",""],
@@ -264,7 +264,7 @@ const DATA = [
      ["Reusable Cold Cup","Reusable-Cold-Cup","2,50 €",""]
    ]}
  ]},
- {id:'tassen', h:'Tassen &#8211; Starbucks speisekarte Preise', groups:[
+ {id:'tassen', h:'Klassische Tassen &amp; Mugs', groups:[
    {items:[
      ["Mug Gold Pleat","Mug-Gold-Pleat","40,00 €",""],
      ["Mug Brown Bear","Mug-Brown-Bear","49 €",""],
@@ -275,7 +275,7 @@ const DATA = [
      ["Recycled Coffee Cup","Recycled-Coffee-Cup","12,90 €",""]
    ]}
  ]},
- {id:'becher', h:'Becher &#8211; starbucks menü preise deutschland', groups:[
+ {id:'becher', h:'Tumbler, Cold Cups &amp; Trinkbecher', groups:[
    {items:[
      ["Tumbler Green","Tumbler-Green","41,00 €",""],
      ["Tumbler Red Brushed","Tumbler-Red-Brushed","39 €",""],
@@ -299,12 +299,12 @@ const DATA = [
      ["Cold Cup Bling Soft Touch Black","Cold-Cup-Bling-Soft-Touch-Black","19,90 €",""]
    ]}
  ]},
- {id:'stabfilterkanne', h:'Stabfilterkanne &#8211; Starbucks speisekarte Preis deutschland', groups:[
+ {id:'stabfilterkanne', h:'Kaffeezubehör: Stempelkanne &amp; Co.', groups:[
    {items:[
      ["Coffee Press Black","Coffee-Press-Black","61,90 €",""]
    ]}
  ]},
- {id:'sonstiges', h:'Sonstiges &#8211; Starbucks speisekarte 2026', groups:[
+ {id:'sonstiges', h:'Weiteres Zubehör &amp; Extras', groups:[
    {items:[
      ["Pin Badge Set 4","Pin-Badge-Set-4","89,00 €",""],
      ["HOL25 Pin Badge Gingerbread MOP","HOL25-Pin-Badge-Gingerbread-MOP","29,95 €",""],
@@ -316,36 +316,30 @@ const DATA = [
 ];
 
 const FAQ = [
- ["Wie viel kostet ein normaler Kaffee bei starbucks in deutschland?","Ein klassischer Filterkaffee (z. B. Brewed Coffee) startet bei etwa 3,20 € für eine kleine Tasse. Perfekt für einen schnellen Kick!"],
- ["Was sind die Preise für Lattes bei starbucks?","Ein Caffè Latte kostet ab 4,50 € (klein) bis 5,50 € (groß). Mit pflanzlicher Milch gibt's einen kleinen Aufpreis von ca. 0,50 €."],
- ["Wie teuer ist ein Frappuccino?","Ein Coffee Frappuccino beginnt bei 5,90 € (klein) und geht bis 7,20 € (groß). Im Sommer ein absoluter Erfrischungshit!"],
- ["Welche Preise gibt es für saisonale Getränke wie den Pumpkin Spice Latte?","Der PSL kostet ca. 6,40 € bis 7,50 €, je nach Größe. Er ist ab September verfügbar und bringt Herbststimmung pur."],
- ["Wie viel kostet ein Cappuccino?","Ab 4,20 € für klein – ein cremiges Meisterwerk mit frischem Espresso!"],
- ["Was kostet ein Iced Latte?","Etwa 5,00 € bis 6,00 €. Ideal für warme Tage, mit extra Eiswürfeln für den ultimativen Cool-Down."],
- ["Preise für Tees bei Starbucks 2026?","Ein Teavana Hot Tea startet bei 3,80 €. Probieren Sie den English Breakfast für einen gemütlichen Start."],
- ["Wie teuer sind Sandwiches?","Ein Tomaten-Mozzarella-Sandwich kostet ca. 5,50 €. Frisch und lecker – super zum Mitnehmen!"],
- ["Was kostet ein Croissant?","Ab 3,20 €. Butterig, fluffig und der perfekte Begleiter zu Ihrem Kaffee."],
- ["Preise für Muffins oder Cupcakes?","Ein Blueberry Muffin liegt bei 4,00 €. Süßes Highlight für Naschkatzen!"],
- ["Wie viel für einen Bagel?","Ca. 3,50 € pur, mit Aufstrich ab 4,50 €. New Yorker Vibes in Deutschland!"],
- ["Gibt es vegane Optionen und wie viel kosten sie?","Ja! Ein veganes Wrap kostet ab 5,00 €. Mit pflanzlicher Milch sparen Sie sogar Geld."],
- ["Preise für Whole Bean Kaffee zum Mitnehmen?","250g Blonde Espresso Roast für 9,99 €. Frisch mahlen und genießen!"],
- ["Was kostet die Starbucks Card?","Die Karte selbst ist 5,00 € (einmalig), Aufladung ab 10,00 €. Praktisch für Treuepunkte!"],
- ["Wie viele Starbucks-Filialen gibt es in Deutschland 2026?","Über 160 – in Städten wie Berlin, Hamburg und München. Immer eine in der Nähe!"],
- ["Sind die Preise in Berlin höher als anderswo?","Ähnlich wie bundesweit, aber in Touristen-Hotspots wie dem Ku'damm ca. 0,20 € mehr."],
- ["Was sind die Frühstücksangebote und Preise?","Ein Breakfast Combo (Kaffee + Croissant) für 6,50 €. Der Morgen-Boost zum Sparpreis!"],
- ["Preise für kalte Getränke wie Refreshers?","Ein Mango Dragonfruit Refresher ab 5,20 €. Fruchtig und prickelnd!"],
- ["Wie teuer ist der Matcha Latte?","Ab 5,50 € – grüner Tee mit Milch, für Wellness-Fans ein Muss."],
- ["Gibt es Rabatte für Studenten?","Nicht offiziell, aber mit der App und Rewards bis zu 20% sparen durch Punkte."],
- ["Was kostet eine heiße Schokolade?","Ab 4,80 €. Mit Marshmallows für extra Gemütlichkeit im Winter."],
- ["Preise für saisonale Neuheiten 2026?","Kokos-Karamell Cold Brew ab 6,00 € (Sommer). Frisch und tropisch!"],
- ["Wie viel für ein Cheesecake?","New York Cheesecake für 5,90 €. Cremig und unwiderstehlich!"],
- ["Sind Preise in Flughafen-Filialen höher?","Ja, ca. 1,00 € Aufschlag durch Mietkosten. Aber der Kaffee schmeckt überall gleich gut!"],
- ["Was kostet der Zimt-Vanilla Latte (Winter 2026)?","Ab 6,20 € – winterlich-warm mit Vanille-Aroma."],
- ["Preise für verpackte Snacks?","Ein Protein-Brownie für 3,80 €. Praktisch für unterwegs!"],
- ["Gibt es Lieferoptionen und Preise?","Ja, via Uber Eats ab 2,00 € Liefergebühr. Menüpreise bleiben gleich."],
- ["Wie wirkt sich die App auf Preise aus?","Mit Starbucks Rewards: Kostenlose Upgrades ab 150 Punkten – spart langfristig!"],
- ["Was sind die günstigsten Optionen?","Ein kleiner Tee für 3,80 € oder ein Cookie für 2,50 €. Budget-freundlich!"],
- ["Ändern sich Preise saisonal?","Ja, saisonale Spezialitäten sind teurer (bis +1,00 €), aber limitiert und lohnenswert. Schauen Sie regelmäßig nach!"]
+ ["Wie viel kostet ein Getränk bei Starbucks in Deutschland?","Die meisten Getränke liegen zwischen 2,75 € (Espresso) und 8,50 € (große Frappuccinos). Im Schnitt zahlst du für einen Kaffee oder Latte etwa 4,50 € bis 6,50 €, je nach Größe und Extras."],
+ ["Ist Starbucks teuer im Vergleich zu anderen Cafés?","Starbucks liegt preislich über klassischen Bäckereien oder Imbiss-Cafés, ist aber ähnlich positioniert wie andere Premium-Ketten. Für den Preis bekommst du individuell anpassbare Getränke, WLAN und eine feste Sitzgelegenheit."],
+ ["Was kostet eine Tasse Kaffee bei Starbucks?","Ein Filterkaffee (Pike Place Roast) startet bei etwa 5 €, ein Caffè Americano bei rund 3,10 €. Milchgetränke wie Caffè Latte oder Cappuccino liegen zwischen 3,90 € und 6,20 €, abhängig von der Größe."],
+ ["Was kostet der teuerste Kaffee bei Starbucks?","Aufwendige Signature-Drinks wie Iced Pumpkin Spice Matcha Latte oder große Frappuccino-Varianten in Venti-Größe erreichen die höchsten Preise, meist zwischen 7,90 € und 8,90 €."],
+ ["Wie viel kostet ein Cappuccino bei Starbucks?","Ein Cappuccino kostet ab etwa 3,90 € in der Standardgröße. Mit pflanzlicher Milch oder zusätzlichem Espresso-Shot kommen üblicherweise 0,50 € bis 0,80 € dazu."],
+ ["Was kostet ein Caramel Frappuccino bei Starbucks?","Ein Caramel Frappuccino kostet je nach Größe zwischen etwa 6,90 € (Tall) und 7,90 € (Venti). Die Cream-Variante liegt in einem ähnlichen Preisbereich."],
+ ["Wie teuer ist der Iced Matcha Latte bei Starbucks?","Der Iced Matcha Latte kostet zwischen 6,90 € und 7,90 €, abhängig von der gewählten Größe. Die heiße Variante ist minimal günstiger."],
+ ["Wie viel kostet die komplette Starbucks Speisekarte an Preisen im Schnitt?","Getränke bewegen sich zwischen 2,75 € und 8,90 €, Snacks und Gebäck zwischen 1,80 € und 5,60 €. Eine vollständige Übersicht mit allen Kategorien findest du weiter oben auf dieser Seite."],
+ ["Was kostet ein Sandwich oder Snack bei Starbucks?","Herzhafte Snacks wie Sandwiches oder Bagels liegen meist zwischen 3,20 € und 5,60 €. Süße Snacks wie Cookies oder Riegel starten bereits bei 1,80 €."],
+ ["Wie viel kostet ein Muffin oder Kuchen bei Starbucks?","Muffins kosten meist um 3,80 € bis 3,99 €, Kuchenstücke wie New York Cheesecake liegen bei etwa 4,80 € bis 4,90 €."],
+ ["Gibt es bei Starbucks vegane Optionen und was kosten sie?","Ja, unter anderem veganes Pain au Chocolat, vegane Croissants und pflanzliche Milchalternativen. Preislich unterscheiden sich diese kaum von den klassischen Varianten, pflanzliche Milch kostet meist 0,50 € bis 0,80 € Aufpreis."],
+ ["Was kostet eine Starbucks Tasse oder ein Becher?","Einfache Keramiktassen starten bei etwa 12,90 €, Sammler-Mugs kosten teils deutlich mehr. Wiederverwendbare Becher und Tumbler liegen meist zwischen 15 € und 45 €, limitierte Editionen auch darüber."],
+ ["Wie viel kosten Kaffeebohnen zum Mitnehmen bei Starbucks?","Eine 250g-Packung Kaffeebohnen kostet meist zwischen 6,99 € und 9,99 €, abhängig von Röstung und Sorte."],
+ ["Wie finde ich Starbucks Filialen in meiner Nähe?","Am einfachsten über den offiziellen Store-Locator, die Starbucks App oder Google Maps. Alle drei zeigen dir aktuelle Öffnungszeiten und die Entfernung zur nächsten Filiale an."],
+ ["Wie viele Starbucks-Filialen gibt es in Deutschland?","Aktuell gibt es über 160 Filialen bundesweit, mit den meisten Standorten in Berlin, München, Hamburg, Köln und Frankfurt sowie an großen Bahnhöfen und Flughäfen."],
+ ["Wann haben die meisten Starbucks-Filialen geöffnet?","In Innenstadtlagen meist Montag bis Samstag von 7 oder 8 Uhr bis 20 oder 21 Uhr. Filialen an Bahnhöfen und Flughäfen haben oft deutlich längere oder durchgehende Öffnungszeiten."],
+ ["Sind die Preise in allen Starbucks-Filialen in Deutschland gleich?","Nein, die Preise können je nach Standort leicht variieren. In Flughafen- oder Bahnhofsfilialen sowie in Innenstadt-Lagen mancher Großstädte sind einzelne Getränke teils etwas teurer."],
+ ["Was kostet der Iced Caramel Macchiato bei Starbucks?","Der Iced Caramel Macchiato kostet ab etwa 5,79 € in der Standardgröße, je nach Filiale und Größe bis knapp 7 €."],
+ ["Was kostet ein Frappuccino im Vergleich zu einem Latte?","Frappuccinos sind meist teurer als klassische Milchgetränke, da sie aufwendiger zubereitet werden. Ein Frappuccino kostet ab ca. 5,29 €, ein Caffè Latte bereits ab 4,59 €."],
+ ["Lohnt sich die Starbucks Rewards App preislich?","Mit der App sammelst du bei jedem Einkauf Sterne, die sich gegen kostenlose Getränke eintauschen lassen. Bei regelmäßigem Besuch kann sich das langfristig lohnen, auch wenn es keinen direkten Rabatt auf den Einzelpreis gibt."],
+ ["Was kostet ein Getränk mit pflanzlicher Milch zusätzlich?","Der Aufpreis für Hafer-, Soja- oder Mandelmilch liegt in der Regel bei 0,50 € bis 0,80 € pro Getränk, unabhängig von der gewählten Größe."],
+ ["Was kostet eine heiße Schokolade bei Starbucks?","Eine klassische Hot Chocolate kostet ab etwa 4,99 €, Varianten mit weißer Schokolade oder gesalzenem Karamell liegen meist zwischen 5,40 € und 6,40 €."],
+ ["Ändern sich die Starbucks Preise saisonal?","Ja, saisonale Editionen wie Lebkuchen- oder Pumpkin-Spice-Getränke sind meist etwas teurer als die Standardvarianten und nur für einen begrenzten Zeitraum verfügbar."],
+ ["Was ist die günstigste Möglichkeit, bei Starbucks einzukaufen?","Ein kleiner Filterkaffee oder Espresso ab 2,75 € ist die preisgünstigste Getränkeoption. Bei Snacks sind einzelne Cookies oder kleine Gebäckstücke ab etwa 1,80 € am günstigsten."]
 ];
 
 const esc = s => s.replace(/&(?!#?\w+;)/g,'&amp;');
@@ -375,8 +369,8 @@ DATA.forEach(sec=>{
 });
 
 toc.insertAdjacentHTML('beforeend',
-  '<li><a href="#highlights">Starbucks Menü deutschland: Preise, Highlights &amp; Tipps (2026)</a></li>' +
-  '<li><a href="#faq">Häufig gestellte Fragen zu Starbucks preisen, menü und Speisekarte in Deutschland</a></li>');
+  '<li><a href="#highlights">So setzen sich die Starbucks Preise 2026 zusammen</a></li>' +
+  '<li><a href="#faq">Starbucks Preise: Häufige Fragen &amp; Antworten (2026)</a></li>');
 
 document.getElementById('faq-list').innerHTML =
   FAQ.map(([q,a])=>`<details><summary>${esc(q)}</summary><p>${esc(a)}</p></details>`).join('');
