@@ -124,3 +124,7 @@ img{max-width:100%;display:block}
 .featured-img{border-radius:16px;overflow:hidden;margin:1.2rem 0 1.6rem;box-shadow:0 4px 16px rgba(0,0,0,.08);background:var(--dark)}
 .featured-img img{width:100%;max-height:380px;object-fit:cover;display:block}
 .featured-img.contain img{object-fit:contain;padding:2.4rem;max-height:320px}
+
+/* secondary in-body image within a blog article */
+.inline-img{border-radius:14px;overflow:hidden;margin:1.4rem 0;box-shadow:0 4px 16px rgba(0,0,0,.08)}
+.inline-img img{width:100%;max-height:300px;object-fit:cover;display:block}
