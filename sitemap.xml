@@ -11,7 +11,9 @@
   <url><loc>https://starbuckspreise.com/geschaeftsbedingungen</loc><changefreq>yearly</changefreq><priority>0.2</priority></url>
   <url><loc>https://starbuckspreise.com/haftungsausschluss</loc><changefreq>yearly</changefreq><priority>0.2</priority></url>
   <url><loc>https://starbuckspreise.com/blog</loc><changefreq>weekly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://starbuckspreise.com/blog/starbucks-kaffee</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
   <url><loc>https://starbuckspreise.com/blog/starbucks-latte-macchiato</loc><changefreq>monthly</changefreq><priority>0.6</priority></url>
+
   <url><loc>https://starbuckspreise.com/blog/starbucks-groessen-tall-grande-venti</loc><changefreq>monthly</changefreq><priority>0.6</priority></url>
   <url><loc>https://starbuckspreise.com/blog/starbucks-frappuccino-sorten</loc><changefreq>monthly</changefreq><priority>0.6</priority></url>
   <url><loc>https://starbuckspreise.com/blog/starbucks-kalorien-guide</loc><changefreq>monthly</changefreq><priority>0.6</priority></url>
