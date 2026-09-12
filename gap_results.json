@@ -1,0 +1,241 @@
+{
+  "Karlsruhe": {
+    "cityCoord": {
+      "lat": 49.0068705,
+      "lon": 8.4034195
+    },
+    "nearestStore": {
+      "id": 5656734350,
+      "lat": 49.162025,
+      "lon": 8.567386,
+      "city": "Forst",
+      "street": null,
+      "housenumber": null,
+      "postcode": "76694",
+      "phone": null,
+      "opening_hours": "Mo-Th 08:00-19:00; Fr-Su 08:00-20:00",
+      "website": "https://www.starbucks.com/store-locator/store/1029566/bruchsal-west-a-5-bruchsal-west-a-5-bruchsal-bw-76694-de",
+      "official": false,
+      "name_hint": "Starbucks",
+      "display_name_fallback": null
+    },
+    "distKm": 21
+  },
+  "Würzburg": {
+    "cityCoord": {
+      "lat": 49.7780356,
+      "lon": 9.9434769
+    },
+    "nearestStore": {
+      "id": 399216246,
+      "lat": 49.5822584,
+      "lon": 10.9264923,
+      "city": "Häusling",
+      "street": "A 3",
+      "housenumber": null,
+      "postcode": "91056",
+      "phone": null,
+      "opening_hours": "24/7",
+      "website": "https://www.starbucks.co.uk/store-locator/81193-310508/aurach-sued-a3-herzogenaurach",
+      "official": false,
+      "name_hint": "Starbucks",
+      "display_name_fallback": "A 3, Klosterwald, Häusling, Erlangen, Bayern, 91056, Deutschland"
+    },
+    "distKm": 74
+  },
+  "Kassel": {
+    "cityCoord": {
+      "lat": 51.3157833,
+      "lon": 9.4978479
+    },
+    "nearestStore": {
+      "id": 4430951953,
+      "lat": 50.5837103,
+      "lon": 8.6728413,
+      "city": "Gießen",
+      "street": "Goethestraße",
+      "housenumber": null,
+      "postcode": "35390",
+      "phone": null,
+      "opening_hours": "Mo-Fr 08:00-20:00, Sa 09:00-20:00",
+      "website": null,
+      "name_hint": "Starbucks",
+      "display_name_fallback": "Goethestraße, Gießen, Landkreis Gießen, Hessen, 35390, Deutschland"
+    },
+    "distKm": 99.8
+  },
+  "Trier": {
+    "cityCoord": {
+      "lat": 49.7596208,
+      "lon": 6.6441878
+    },
+    "nearestStore": {
+      "id": 2145619320,
+      "lat": 49.238097,
+      "lon": 6.9908561,
+      "city": "Saarbrücken",
+      "street": "Bahnhofstraße",
+      "housenumber": "103",
+      "postcode": "66111",
+      "phone": null,
+      "opening_hours": "Mo-Fr 07:00-20:30; Sa 08:00-22:00; PH,Su 09:00-20:00",
+      "website": "https://www.starbucks.co.uk/store-locator/82996-312552/saarbruecken-bahnhofstrasse-10",
+      "official": false,
+      "name_hint": "Starbucks",
+      "display_name_fallback": null
+    },
+    "distKm": 63.2
+  },
+  "Chemnitz": {
+    "cityCoord": {
+      "lat": 50.8323531,
+      "lon": 12.918914
+    },
+    "nearestStore": {
+      "id": 2500054664,
+      "lat": 51.0405557,
+      "lon": 13.7321148,
+      "city": "Dresden",
+      "street": "Wiener Platz",
+      "housenumber": null,
+      "postcode": "01069",
+      "phone": "+49 351 42776967",
+      "opening_hours": "Mo-Fr 05:00-20:00; Sa-Su 07:00-20:00",
+      "website": null,
+      "name_hint": "Starbucks",
+      "display_name_fallback": "Wiener Platz, Seevorstadt-Ost/Großer Garten, Seevorstadt, Altstadt, Dresden, Sachsen, 01069, Deutschland"
+    },
+    "distKm": 61.5
+  },
+  "Mainz": {
+    "cityCoord": {
+      "lat": 49.9995205,
+      "lon": 8.2736253
+    },
+    "nearestStore": {
+      "id": 5713812746,
+      "lat": 50.0814588,
+      "lon": 8.2385951,
+      "city": "Wiesbaden",
+      "street": "Kirchgasse",
+      "housenumber": "35-43",
+      "postcode": "65183",
+      "phone": null,
+      "opening_hours": null,
+      "website": "https://www.starbucks.co.uk/store-locator/53153-281862/wiesbaden,-kirchgasse-35-43",
+      "official": false,
+      "name_hint": "Starbucks",
+      "display_name_fallback": null
+    },
+    "distKm": 9.4
+  },
+  "Oldenburg": {
+    "cityCoord": {
+      "lat": 53.1389753,
+      "lon": 8.2146017
+    },
+    "nearestStore": {
+      "id": 2467927693,
+      "lat": 53.0752007,
+      "lon": 8.8072891,
+      "city": "Bremen",
+      "street": "Am Markt",
+      "housenumber": null,
+      "postcode": "28195",
+      "phone": null,
+      "opening_hours": "Mo-Fr 07:30-19:30; Sa 08:00-19:30; Su 09:00-18:30; PH 10:00-17:00",
+      "website": "https://www.starbucks.co.uk/store-locator/53106-281939/bremen,-marktstrasse-3",
+      "official": false,
+      "name_hint": "Starbucks",
+      "display_name_fallback": "Am Markt, Ansgari-Viertel, Altstadt, Mitte, Bremen-Mitte, Bremen, 28195, Deutschland"
+    },
+    "distKm": 40.2
+  },
+  "Bamberg": {
+    "cityCoord": {
+      "lat": 49.8916044,
+      "lon": 10.8868478
+    },
+    "nearestStore": {
+      "id": 399216246,
+      "lat": 49.5822584,
+      "lon": 10.9264923,
+      "city": "Häusling",
+      "street": "A 3",
+      "housenumber": null,
+      "postcode": "91056",
+      "phone": null,
+      "opening_hours": "24/7",
+      "website": "https://www.starbucks.co.uk/store-locator/81193-310508/aurach-sued-a3-herzogenaurach",
+      "official": false,
+      "name_hint": "Starbucks",
+      "display_name_fallback": "A 3, Klosterwald, Häusling, Erlangen, Bayern, 91056, Deutschland"
+    },
+    "distKm": 34.5
+  },
+  "Göttingen": {
+    "cityCoord": {
+      "lat": 51.5328328,
+      "lon": 9.9351811
+    },
+    "nearestStore": {
+      "id": 6853875161,
+      "lat": 52.2621589,
+      "lon": 10.5250149,
+      "city": "Braunschweig",
+      "street": "Damm",
+      "housenumber": null,
+      "postcode": "38100",
+      "phone": null,
+      "opening_hours": "Mo-Fr 08:00-20:00; Sa 11:00-18:00; Su 12:00-18:00",
+      "website": "https://www.starbucks.co.uk/store-locator/81776-311207/braunschweig-damm-22",
+      "official": false,
+      "name_hint": "Starbucks",
+      "display_name_fallback": "Damm, Mitte, Braunschweig, Niedersachsen, 38100, Deutschland"
+    },
+    "distKm": 90.6
+  },
+  "Gelsenkirchen": {
+    "cityCoord": {
+      "lat": 51.5110321,
+      "lon": 7.0960124
+    },
+    "nearestStore": {
+      "id": 4125308894,
+      "lat": 51.4590349,
+      "lon": 7.0053197,
+      "city": "Essen",
+      "street": "Limbecker Platz",
+      "housenumber": null,
+      "postcode": "45127",
+      "phone": null,
+      "opening_hours": "Mo-Sa 09:00-20:00",
+      "website": "https://www.starbucks.de/de/store-locator/53178-281942/essen-limbecker-platz",
+      "official": true,
+      "name_hint": "Starbucks",
+      "display_name_fallback": null
+    },
+    "distKm": 8.5
+  },
+  "Fürth": {
+    "cityCoord": {
+      "lat": 49.4885711,
+      "lon": 10.9587203
+    },
+    "nearestStore": {
+      "id": 1539266290,
+      "lat": 49.4510619,
+      "lon": 11.0726206,
+      "city": "Nürnberg",
+      "street": "Hefnersplatz",
+      "housenumber": "10",
+      "postcode": "90402",
+      "phone": null,
+      "opening_hours": "Mo-Fr 10:00-20:00",
+      "website": null,
+      "name_hint": "Starbucks",
+      "display_name_fallback": null
+    },
+    "distKm": 9.2
+  }
+}

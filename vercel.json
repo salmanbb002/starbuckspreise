@@ -79,6 +79,14 @@
     {
       "source": "/starbucks-geoeffnet",
       "destination": "/blog/starbucks-geoeffnet"
+    },
+    {
+      "source": "/starbucks-closest-to-me",
+      "destination": "/blog/starbucks-closest-to-me.html"
+    },
+    {
+      "source": "/blog/starbucks-closest-to-me",
+      "destination": "/blog/starbucks-closest-to-me.html"
     }
   ]
 }
