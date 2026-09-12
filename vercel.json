@@ -82,19 +82,11 @@
     },
     {
       "source": "/starbucks-closest-to-me",
-      "destination": "/blog/starbucks-closest-to-me.html"
-    },
-    {
-      "source": "/blog/starbucks-closest-to-me",
-      "destination": "/blog/starbucks-closest-to-me.html"
+      "destination": "/blog/starbucks-closest-to-me"
     },
     {
       "source": "/starbucks-near-me",
-      "destination": "/blog/starbucks-near-me.html"
-    },
-    {
-      "source": "/blog/starbucks-near-me",
-      "destination": "/blog/starbucks-near-me.html"
+      "destination": "/blog/starbucks-near-me"
     }
   ]
 }
