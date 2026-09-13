@@ -1,0 +1,27 @@
+{
+  "slug": "starbucks-heilbronn",
+  "keyword": "starbucks heilbronn",
+  "language": "de-DE",
+  "title": "Starbucks Heilbronn: Adresse, Öffnungszeiten & Parken",
+  "description": "Starbucks Heilbronn: Die Filiale liegt an der Kilianstraße 6. Adresse, aktuelle Öffnungszeiten, Parkmöglichkeiten und Lieferoptionen im Überblick.",
+  "outline": [
+    [1, "Starbucks Heilbronn: Adresse, Öffnungszeiten und Parken an der Kilianstraße", "starbucks heilbronn", ["Starbucks", "Heilbronn"]],
+    [2, "Wo liegt der Starbucks in Heilbronn?", "starbucks heilbronn adresse", ["Kilianstraße 6"]],
+    [2, "Welche Öffnungszeiten gelten an der Kilianstraße?", "starbucks heilbronn öffnungszeiten", ["Öffnungszeiten"]],
+    [2, "Wie und wo parken Sie am besten?", "starbucks heilbronn parken", ["Parkplätze"]],
+    [2, "Was bietet die Filiale (WLAN, Vorbestellen, Rewards)?", "starbucks heilbronn ausstattung", ["WLAN", "Mobile Order & Pay", "Starbucks Rewards", "Drive-Thru"]],
+    [2, "Gibt es weitere Starbucks-Filialen in der Region Heilbronn?", "starbucks heilbronn weitere filialen", ["Baden-Württemberg"]],
+    [2, "Häufig gestellte Fragen", "starbucks heilbronn faq", []]
+  ],
+  "entities": "see entities.json",
+  "competitors": ["heilbronn_de", "oezb", "kaufda", "locator"],
+  "information_gain": "Explizite Übereinstimmungs-Notiz (alle vier Quellen bestätigen dieselbe Adresse/Zeiten) plus ein Parkplatz-Hinweis, der nur beim städtischen Finder steht — kein Wettbewerber kombiniert beides.",
+  "date_researched": "2026-09-13",
+  "sources": {
+    "locator": {"url": "https://www.starbucks.de/de/store-locator/53134-281941/heilbronn-kilianstrasse-6", "title": "Heilbronn, Kilianstrasse 6 | Starbucks", "facts": "Kilianstrasse 6, 74072 Heilbronn. Mo-Fr 08:30-21:00, Sa 08:30-21:30, So 08:30-20:30. Lists Wi-Fi, reward redemption, mobile ordering.", "accessed": "2026-09-13"},
+    "heilbronn_de": {"url": "https://www.heilbronn.de/shop-und-gastrofinder/adresse/starbucks.html", "title": "Stadt Heilbronn: Starbucks", "facts": "Municipal finder confirms Kilianstraße 6; phone 07131 5943667; notes nearby Parkplätze.", "accessed": "2026-09-13"},
+    "oezb": {"url": "https://www.oeffnungszeitenbuch.de/filiale/Heilbronn-Starbucks%2520Coffee%2520House-340479K.html", "title": "Starbucks Coffee House in Heilbronn | Öffnungszeitenbuch", "facts": "Confirms Kilianstraße 6 address.", "accessed": "2026-09-13"},
+    "kaufda": {"url": "https://www.kaufda.de/Filialen/Heilbronn/Starbucks-Kilianstrasse/v-f125020218", "title": "Starbucks Kilianstraße 6 in 74072 Heilbronn - Kaufda", "facts": "Same address; hours Mo-Fr 08:30-21:00, Sa 08:30-21:30, So 08:30-20:30 — matches official locator exactly.", "accessed": "2026-09-13"},
+    "delivery": {"url": "https://wolt.com/en/deu/heilbronn/restaurant/starbucks-kilianstr", "title": "Starbucks Kilianstr. | Wolt", "facts": "Listed on Wolt; also confirmed on Uber Eats and Lieferando with pick-up option.", "accessed": "2026-09-13"}
+  }
+}

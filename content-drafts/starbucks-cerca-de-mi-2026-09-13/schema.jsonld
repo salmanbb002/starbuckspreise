@@ -1,0 +1,211 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "BlogPosting",
+      "@id": "https://starbuckspreise.com/blog/starbucks-cerca-de-mi#article",
+      "headline": "Starbucks cerca de mí: guía práctica para encontrar tu café",
+      "description": "Starbucks cerca de mí: encuentra tu cafetería, comprueba horarios y compara rutas. Guía en español para buscar en Alemania y elegir el localizador adecuado.",
+      "inLanguage": "es",
+      "dateModified": "2026-09-13",
+      "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": "https://starbuckspreise.com/blog/starbucks-cerca-de-mi"
+      },
+      "publisher": {
+        "@type": "Organization",
+        "name": "Starbucks Preise",
+        "url": "https://starbuckspreise.com/"
+      },
+      "about": [
+        {
+          "@type": "Organization",
+          "name": "Starbucks",
+          "sameAs": "https://www.starbucks.de/"
+        },
+        {
+          "@type": "Place",
+          "name": "Alemania"
+        }
+      ],
+      "mentions": [
+        {
+          "@type": "SoftwareApplication",
+          "name": "localizador",
+          "sameAs": [
+            "https://www.starbucks.de/de/store-locator"
+          ]
+        },
+        {
+          "@type": "SoftwareApplication",
+          "name": "Google Maps",
+          "sameAs": [
+            "https://maps.google.com/"
+          ]
+        },
+        {
+          "@type": "Place",
+          "name": "España"
+        },
+        {
+          "@type": "Place",
+          "name": "México"
+        },
+        {
+          "@type": "Product",
+          "name": "Starbucks Rewards"
+        }
+      ],
+      "speakable": {
+        "@type": "SpeakableSpecification",
+        "cssSelector": [
+          "#direct-answer"
+        ]
+      },
+      "wordCount": 2007
+    },
+    {
+      "@type": "FAQPage",
+      "@id": "https://starbuckspreise.com/blog/starbucks-cerca-de-mi#faq",
+      "inLanguage": "es",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "¿Debo escribir «mí» con tilde?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "En la expresión «cerca de mí», el pronombre «mí» lleva tilde. Puedes usar esa forma al escribir el nombre de tu búsqueda; para encontrar una dirección concreta, añade también la ciudad cuando sea necesario."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "¿Necesito una cuenta para consultar el localizador web?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Las páginas públicas de los localizadores alemán y español ofrecen un campo para introducir una ubicación sin mostrar un inicio de sesión obligatorio para esa consulta. Pedir y pagar mediante la app es una función distinta, con sus propios requisitos."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "¿Puedo preparar la búsqueda antes de viajar?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Puedes buscar alrededor de una dirección de destino aunque todavía no estés allí. Introduce el hotel o la estación y revisa el área correspondiente, como explica Google para la búsqueda de lugares cercanos a una dirección."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "¿Por qué el primer resultado no es el más cercano?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Google combina relevancia, distancia y prominencia al ordenar los resultados locales. Por eso conviene comparar la ruta y no asumir que la primera posición significa menor distancia. Criterios explicados por Google."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "¿Funcionan los mapas descargados sin internet?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Los mapas descargados permiten un uso limitado sin conexión, pero no sustituyen todas las funciones disponibles online. Google indica que sin conexión no están disponibles las rutas a pie, en bicicleta o en transporte público; tampoco debes contar con información recién actualizada del negocio. Limitaciones de mapas sin conexión."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "¿El cierre del reparto significa que la cafetería está cerrada?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Que una plataforma no acepte un pedido no confirma por sí solo el cierre del local al público. Para una visita presencial, revisa la ficha de la cafetería; para recibir en casa, comprueba la disponibilidad del canal de entrega."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "¿Sirve una tienda de supermercado que vende café Starbucks?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Vender café envasado de la marca no convierte automáticamente un supermercado en una cafetería Starbucks. Si quieres una bebida preparada, comprueba que el resultado identifique un Coffee House y una dirección de atención al público."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "¿Puedo asegurar una mesa porque la ficha indica wifi?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "La indicación de wifi no confirma una mesa libre ni una reserva. Comprueba el espacio al llegar y prepara otra opción si necesitas conectarte a una hora fija."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "¿La búsqueda confirma que la entrada es accesible?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Encontrar una sucursal en un mapa no confirma que todo el acceso se adapte a tus necesidades. Revisa la entrada concreta, los cambios de nivel y cualquier información del edificio antes de elegir el recorrido."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "¿Cómo compartir una sucursal concreta con otra persona?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Comparte la ficha de la sucursal junto con su dirección completa. Añade la ciudad y el punto de encuentro acordado, especialmente si el café está dentro de una estación o un centro comercial."
+          }
+        }
+      ]
+    },
+    {
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Inicio",
+          "item": "https://starbuckspreise.com/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Blog",
+          "item": "https://starbuckspreise.com/blog/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "Starbucks cerca de mí: guía práctica para encontrar tu café",
+          "item": "https://starbuckspreise.com/blog/starbucks-cerca-de-mi"
+        }
+      ]
+    },
+    {
+      "@type": "HowTo",
+      "@id": "https://starbuckspreise.com/blog/starbucks-cerca-de-mi#howto",
+      "name": "Encontrar una sucursal cercana",
+      "inLanguage": "es",
+      "step": [
+        {
+          "@type": "HowToStep",
+          "position": 1,
+          "text": "Abre el mapa o el localizador y revisa el lugar desde el que estás buscando."
+        },
+        {
+          "@type": "HowToStep",
+          "position": 2,
+          "text": "Permite el acceso a tu ubicación si quieres usarla, o introduce manualmente tu ciudad y dirección de referencia."
+        },
+        {
+          "@type": "HowToStep",
+          "position": 3,
+          "text": "Busca Starbucks y selecciona una sucursal concreta, no solo el nombre general de la cadena."
+        },
+        {
+          "@type": "HowToStep",
+          "position": 4,
+          "text": "Comprueba la calle, el horario correspondiente a tu visita y el enlace a la ficha oficial."
+        },
+        {
+          "@type": "HowToStep",
+          "position": 5,
+          "text": "Calcula el trayecto con tu medio de transporte y decide si llegarás con tiempo para pedir."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,840 @@
+{
+  "slug": "starbucks-cerca-de-mi",
+  "keyword": "starbucks cerca de mi",
+  "language": "es",
+  "title": "Starbucks cerca de mí: guía práctica para encontrar tu café",
+  "description": "Starbucks cerca de mí: encuentra tu cafetería, comprueba horarios y compara rutas. Guía en español para buscar en Alemania y elegir el localizador adecuado.",
+  "outline": [
+    [
+      1,
+      "Starbucks cerca de mí: guía práctica para encontrar tu café",
+      "starbucks cerca de mi",
+      [
+        "Starbucks",
+        "ubicación",
+        "Alemania"
+      ]
+    ],
+    [
+      2,
+      "¿Cómo encontrar una cafetería desde tu ubicación actual?",
+      "starbucks cerca de mi ubicación",
+      [
+        "ubicación",
+        "Google Maps",
+        "dirección",
+        "localizador"
+      ]
+    ],
+    [
+      3,
+      "¿Qué hacer si el mapa te sitúa en otra ciudad?",
+      "ubicación incorrecta maps",
+      [
+        "ubicación",
+        "dirección"
+      ]
+    ],
+    [
+      2,
+      "¿Qué localizador usar en Alemania, España o México?",
+      "localizador starbucks por país",
+      [
+        "Alemania",
+        "España",
+        "México",
+        "localizador"
+      ]
+    ],
+    [
+      3,
+      "¿Qué significan las indicaciones alemanas de la ficha?",
+      "horarios starbucks alemán español",
+      [
+        "horario",
+        "acceso"
+      ]
+    ],
+    [
+      2,
+      "¿Cómo comprobar si estará abierto cuando llegues?",
+      "starbucks abierto ahora",
+      [
+        "abierto ahora",
+        "horario",
+        "domingo",
+        "festivos"
+      ]
+    ],
+    [
+      2,
+      "¿Qué ruta conviene para llegar a pie o en transporte público?",
+      "ruta starbucks cercano",
+      [
+        "ruta",
+        "a pie",
+        "acceso"
+      ]
+    ],
+    [
+      2,
+      "¿Cuándo elegir pedido anticipado y cuándo entrega a domicilio?",
+      "starbucks recoger o entrega",
+      [
+        "Mobile Order & Pay",
+        "Starbucks Rewards",
+        "entrega"
+      ]
+    ],
+    [
+      2,
+      "¿Dónde comprobar el menú, los precios y los servicios?",
+      "starbucks cerca menú precios",
+      [
+        "precios",
+        "wifi"
+      ]
+    ],
+    [
+      2,
+      "¿Qué opción elegir según tu situación?",
+      "comparar métodos encontrar starbucks",
+      [
+        "ubicación",
+        "dirección",
+        "ruta",
+        "entrega"
+      ]
+    ],
+    [
+      2,
+      "Preguntas frecuentes",
+      "starbucks cerca de mi preguntas",
+      []
+    ],
+    [
+      3,
+      "¿Debo escribir «mí» con tilde?",
+      "cerca de mí tilde",
+      []
+    ],
+    [
+      3,
+      "¿Necesito una cuenta para consultar el localizador web?",
+      "localizador sin cuenta",
+      [
+        "localizador"
+      ]
+    ],
+    [
+      3,
+      "¿Puedo preparar la búsqueda antes de viajar?",
+      "buscar cerca hotel antes viaje",
+      [
+        "dirección"
+      ]
+    ],
+    [
+      3,
+      "¿Por qué el primer resultado no es el más cercano?",
+      "orden resultados maps distancia",
+      [
+        "Google Maps"
+      ]
+    ],
+    [
+      3,
+      "¿Funcionan los mapas descargados sin internet?",
+      "maps offline café",
+      [
+        "sin conexión"
+      ]
+    ],
+    [
+      3,
+      "¿El cierre del reparto significa que la cafetería está cerrada?",
+      "horario reparto local",
+      [
+        "entrega"
+      ]
+    ],
+    [
+      3,
+      "¿Sirve una tienda de supermercado que vende café Starbucks?",
+      "café starbucks supermercado local",
+      [
+        "Starbucks"
+      ]
+    ],
+    [
+      3,
+      "¿Puedo asegurar una mesa porque la ficha indica wifi?",
+      "wifi mesa disponible",
+      [
+        "wifi"
+      ]
+    ],
+    [
+      3,
+      "¿La búsqueda confirma que la entrada es accesible?",
+      "accesibilidad entrada café",
+      [
+        "acceso"
+      ]
+    ],
+    [
+      3,
+      "¿Cómo compartir una sucursal concreta con otra persona?",
+      "compartir dirección starbucks",
+      [
+        "dirección"
+      ]
+    ]
+  ],
+  "entities": [
+    {
+      "canonical": "Starbucks",
+      "type": "Organization",
+      "tier": 1,
+      "aliases": [],
+      "kind": "entity",
+      "sameAs": [
+        "https://www.starbucks.de/"
+      ],
+      "competitor_sources": [
+        "es_locator",
+        "sucursales",
+        "firmania",
+        "rappi"
+      ],
+      "competitor_count": 4,
+      "in_title_or_h2": true,
+      "source_ids": [
+        "de_locator",
+        "es_locator"
+      ],
+      "relationship": "Starbucks dispone de buscadores oficiales por mercado."
+    },
+    {
+      "canonical": "ubicación",
+      "type": "Concept",
+      "tier": 1,
+      "aliases": [
+        "ubicaciones",
+        "ubicación actual"
+      ],
+      "kind": "term",
+      "sameAs": [],
+      "competitor_sources": [
+        "es_locator",
+        "sucursales",
+        "firmania",
+        "rappi"
+      ],
+      "competitor_count": 4,
+      "in_title_or_h2": true,
+      "source_ids": [
+        "maps_location"
+      ],
+      "relationship": "La ubicación o una dirección manual establece el punto de búsqueda."
+    },
+    {
+      "canonical": "Alemania",
+      "type": "Place",
+      "tier": 1,
+      "aliases": [],
+      "kind": "entity",
+      "sameAs": [],
+      "competitor_sources": [],
+      "competitor_count": 0,
+      "in_title_or_h2": true,
+      "source_ids": [
+        "de_locator",
+        "station"
+      ],
+      "relationship": "La búsqueda para un viaje a Alemania debe usar la ciudad alemana concreta."
+    },
+    {
+      "canonical": "localizador",
+      "type": "SoftwareApplication",
+      "tier": 2,
+      "aliases": [
+        "buscador oficial"
+      ],
+      "kind": "entity",
+      "sameAs": [
+        "https://www.starbucks.de/de/store-locator"
+      ],
+      "competitor_sources": [],
+      "competitor_count": 0,
+      "in_title_or_h2": true,
+      "source_ids": [
+        "de_locator",
+        "es_locator"
+      ],
+      "relationship": "El localizador del país enlaza a las fichas de sus cafeterías."
+    },
+    {
+      "canonical": "Google Maps",
+      "type": "SoftwareApplication",
+      "tier": 2,
+      "aliases": [],
+      "kind": "entity",
+      "sameAs": [
+        "https://maps.google.com/"
+      ],
+      "competitor_sources": [],
+      "competitor_count": 0,
+      "in_title_or_h2": false,
+      "source_ids": [
+        "maps_search",
+        "maps_routes"
+      ],
+      "relationship": "Google Maps permite buscar una cafetería y calcular la ruta."
+    },
+    {
+      "canonical": "dirección",
+      "type": "Concept",
+      "tier": 2,
+      "aliases": [
+        "direcciones"
+      ],
+      "kind": "term",
+      "sameAs": [],
+      "competitor_sources": [
+        "es_locator",
+        "firmania",
+        "rappi"
+      ],
+      "competitor_count": 3,
+      "in_title_or_h2": false,
+      "source_ids": [
+        "maps_search"
+      ],
+      "relationship": "Una dirección explícita permite buscar sin usar la ubicación actual."
+    },
+    {
+      "canonical": "horario",
+      "type": "Concept",
+      "tier": 2,
+      "aliases": [
+        "horarios"
+      ],
+      "kind": "term",
+      "sameAs": [],
+      "competitor_sources": [
+        "firmania"
+      ],
+      "competitor_count": 1,
+      "in_title_or_h2": false,
+      "source_ids": [
+        "kettwiger",
+        "limbecker",
+        "hbf_locator"
+      ],
+      "relationship": "El horario pertenece a una sucursal y a un día concretos."
+    },
+    {
+      "canonical": "abierto ahora",
+      "type": "Concept",
+      "tier": 2,
+      "aliases": [
+        "abierta",
+        "abierto"
+      ],
+      "kind": "term",
+      "sameAs": [],
+      "competitor_sources": [],
+      "competitor_count": 0,
+      "in_title_or_h2": false,
+      "source_ids": [
+        "maps_search"
+      ],
+      "relationship": "La etiqueta de apertura debe comprobarse contra la hora de llegada."
+    },
+    {
+      "canonical": "ruta",
+      "type": "Concept",
+      "tier": 2,
+      "aliases": [
+        "trayecto"
+      ],
+      "kind": "term",
+      "sameAs": [],
+      "competitor_sources": [],
+      "competitor_count": 0,
+      "in_title_or_h2": true,
+      "source_ids": [
+        "maps_routes"
+      ],
+      "relationship": "El medio de transporte cambia el recorrido y la duración estimada."
+    },
+    {
+      "canonical": "a pie",
+      "type": "Concept",
+      "tier": 2,
+      "aliases": [
+        "caminando"
+      ],
+      "kind": "term",
+      "sameAs": [],
+      "competitor_sources": [],
+      "competitor_count": 0,
+      "in_title_or_h2": true,
+      "source_ids": [
+        "maps_routes"
+      ],
+      "relationship": "La ruta a pie se consulta con ese modo seleccionado."
+    },
+    {
+      "canonical": "España",
+      "type": "Place",
+      "tier": 2,
+      "aliases": [],
+      "kind": "entity",
+      "sameAs": [],
+      "competitor_sources": [
+        "es_locator",
+        "firmania"
+      ],
+      "competitor_count": 2,
+      "in_title_or_h2": true,
+      "source_ids": [
+        "es_locator",
+        "firmania"
+      ],
+      "relationship": "España tiene un buscador oficial en español."
+    },
+    {
+      "canonical": "México",
+      "type": "Place",
+      "tier": 2,
+      "aliases": [],
+      "kind": "entity",
+      "sameAs": [],
+      "competitor_sources": [
+        "sucursales",
+        "rappi"
+      ],
+      "competitor_count": 2,
+      "in_title_or_h2": true,
+      "source_ids": [
+        "sucursales",
+        "rappi"
+      ],
+      "relationship": "Los resultados de estos directorios de México no son una lista alemana."
+    },
+    {
+      "canonical": "domingo",
+      "type": "Concept",
+      "tier": 2,
+      "aliases": [
+        "domingos"
+      ],
+      "kind": "term",
+      "sameAs": [],
+      "competitor_sources": [],
+      "competitor_count": 0,
+      "in_title_or_h2": false,
+      "source_ids": [
+        "limbecker",
+        "kettwiger"
+      ],
+      "relationship": "La apertura dominical no se puede generalizar a toda la cadena."
+    },
+    {
+      "canonical": "festivos",
+      "type": "Concept",
+      "tier": 2,
+      "aliases": [
+        "festivo"
+      ],
+      "kind": "term",
+      "sameAs": [],
+      "competitor_sources": [],
+      "competitor_count": 0,
+      "in_title_or_h2": false,
+      "source_ids": [
+        "hbf_db",
+        "center"
+      ],
+      "relationship": "Un horario habitual no confirma la apertura en festivo."
+    },
+    {
+      "canonical": "Mobile Order & Pay",
+      "type": "Concept",
+      "tier": 2,
+      "aliases": [
+        "pedido anticipado"
+      ],
+      "kind": "term",
+      "sameAs": [],
+      "competitor_sources": [],
+      "competitor_count": 0,
+      "in_title_or_h2": false,
+      "source_ids": [
+        "mop"
+      ],
+      "relationship": "El pedido anticipado requiere la app, inicio de sesión y una tienda participante."
+    },
+    {
+      "canonical": "Starbucks Rewards",
+      "type": "Product",
+      "tier": 2,
+      "aliases": [
+        "Rewards"
+      ],
+      "kind": "entity",
+      "sameAs": [],
+      "competitor_sources": [],
+      "competitor_count": 0,
+      "in_title_or_h2": false,
+      "source_ids": [
+        "mop",
+        "card"
+      ],
+      "relationship": "No debe darse por supuesta la compatibilidad internacional de una cuenta."
+    },
+    {
+      "canonical": "entrega",
+      "type": "Concept",
+      "tier": 2,
+      "aliases": [
+        "a domicilio",
+        "reparto"
+      ],
+      "kind": "term",
+      "sameAs": [],
+      "competitor_sources": [
+        "rappi"
+      ],
+      "competitor_count": 1,
+      "in_title_or_h2": true,
+      "source_ids": [
+        "delivery",
+        "rappi"
+      ],
+      "relationship": "El reparto se comprueba con la dirección de entrega."
+    },
+    {
+      "canonical": "precios",
+      "type": "Concept",
+      "tier": 2,
+      "aliases": [
+        "precio"
+      ],
+      "kind": "term",
+      "sameAs": [],
+      "competitor_sources": [],
+      "competitor_count": 0,
+      "in_title_or_h2": true,
+      "source_ids": [
+        "menu",
+        "mop"
+      ],
+      "relationship": "La ficha de compra elegida es la referencia para el pedido concreto."
+    },
+    {
+      "canonical": "wifi",
+      "type": "Concept",
+      "tier": 2,
+      "aliases": [
+        "Wi-Fi"
+      ],
+      "kind": "term",
+      "sameAs": [],
+      "competitor_sources": [],
+      "competitor_count": 0,
+      "in_title_or_h2": false,
+      "source_ids": [
+        "kettwiger"
+      ],
+      "relationship": "Una ficha puede indicar wifi sin garantizar asientos o enchufes."
+    },
+    {
+      "canonical": "sin conexión",
+      "type": "Concept",
+      "tier": 2,
+      "aliases": [
+        "offline"
+      ],
+      "kind": "term",
+      "sameAs": [],
+      "competitor_sources": [],
+      "competitor_count": 0,
+      "in_title_or_h2": false,
+      "source_ids": [
+        "maps_offline"
+      ],
+      "relationship": "Las funciones de mapas descargados son limitadas."
+    },
+    {
+      "canonical": "acceso",
+      "type": "Concept",
+      "tier": 2,
+      "aliases": [
+        "entrada",
+        "accesible"
+      ],
+      "kind": "term",
+      "sameAs": [],
+      "competitor_sources": [],
+      "competitor_count": 0,
+      "in_title_or_h2": false,
+      "source_ids": [
+        "station"
+      ],
+      "relationship": "La entrada física y la accesibilidad deben comprobarse para el viaje."
+    },
+    {
+      "canonical": "Drive-Thru",
+      "type": "Concept",
+      "tier": 3,
+      "aliases": [
+        "autoservicio"
+      ],
+      "kind": "term",
+      "sameAs": [],
+      "competitor_sources": [],
+      "competitor_count": 0,
+      "in_title_or_h2": false,
+      "source_ids": [],
+      "relationship": "No se confirma disponibilidad local."
+    },
+    {
+      "canonical": "descuento",
+      "type": "Concept",
+      "tier": 3,
+      "aliases": [
+        "cupones"
+      ],
+      "kind": "term",
+      "sameAs": [],
+      "competitor_sources": [],
+      "competitor_count": 0,
+      "in_title_or_h2": false,
+      "source_ids": [],
+      "relationship": "No se usa una promoción no comprobada."
+    }
+  ],
+  "competitors": [
+    "es_locator",
+    "sucursales",
+    "firmania",
+    "rappi"
+  ],
+  "serp": [
+    "es_locator",
+    "us_locator",
+    "sucursales",
+    "firmania",
+    "rappi",
+    "de_locator"
+  ],
+  "source_ids": [
+    "de_locator",
+    "es_locator",
+    "us_locator",
+    "sucursales",
+    "firmania",
+    "rappi",
+    "kettwiger",
+    "limbecker",
+    "hbf_locator",
+    "hbf_db",
+    "station",
+    "center",
+    "kaufda",
+    "wolt",
+    "maps_search",
+    "maps_nearby",
+    "maps_routes",
+    "maps_location",
+    "maps_offline",
+    "mop",
+    "card",
+    "food",
+    "menu",
+    "delivery",
+    "delivery_faq"
+  ],
+  "information_gain": "Spanish-language guide for Germany with country-selector table, German-to-Spanish label glossary and scenario decision matrix. Prevents confusion between cafe location and delivery catchment.",
+  "date_researched": "2026-09-13",
+  "sources": {
+    "de_locator": {
+      "url": "https://www.starbucks.de/de/store-locator",
+      "title": "Finde ein Coffee House - Suche | Starbucks",
+      "facts": "Official interactive locator; location entry. No complete personalized result set was exposed.",
+      "accessed": "2026-09-13",
+      "published_date": "Not visibly established"
+    },
+    "es_locator": {
+      "url": "https://www.starbucks.es/store-locator",
+      "title": "Encontrar una tienda - Buscar | Starbucks",
+      "facts": "Official Spanish locator; manual location field. Not a guarantee that a Spanish-language query means the reader is in Spain.",
+      "accessed": "2026-09-13",
+      "published_date": "Not visibly established"
+    },
+    "us_locator": {
+      "url": "https://www.starbucks.com/store-locator",
+      "title": "Café Locator: Starbucks Coffee Company",
+      "facts": "US locator with pickup/delivery controls; supplemental SERP page, not a global directory.",
+      "accessed": "2026-09-13",
+      "published_date": "Not visibly established"
+    },
+    "sucursales": {
+      "url": "https://www.sucursales24.com.mx/starbucks/cerca-de-mi/",
+      "title": "Starbucks Cerca de Mi - Todas las Sucursales",
+      "facts": "Mexico directory; geographic position prompt and city list. Not Germany coverage.",
+      "accessed": "2026-09-13",
+      "published_date": "Not visibly established"
+    },
+    "firmania": {
+      "url": "https://firmania.es/b/starbucks",
+      "title": "Buscar ubicaciones de Starbucks cerca de mí | Firmania",
+      "facts": "Spain directory with addresses and opening-status displays. Its footer states third-party data limitations.",
+      "accessed": "2026-09-13",
+      "published_date": "Not visibly established"
+    },
+    "rappi": {
+      "url": "https://www.rappi.com.mx/restaurantes/delivery/1010-starbucks",
+      "title": "Starbucks cerca de mi - Rappi",
+      "facts": "Mexico delivery directory asks for delivery address. Visible count changed between search and page retrieval; not used as store count.",
+      "accessed": "2026-09-13",
+      "published_date": "Not visibly established"
+    },
+    "kettwiger": {
+      "url": "https://www.starbucks.de/de/store-locator/85773-313935",
+      "title": "Essen Kettwiger Strasse 2-10 | Starbucks",
+      "facts": "Kettwiger Strasse 2–10, 45127 Essen. Mon–Fri 07:30–20:00; Sat 08:00–20:30; Sun 10:00–19:00. Lists Wi-Fi, reward redemption and mobile ordering.",
+      "accessed": "2026-09-13",
+      "published_date": "Not visibly established"
+    },
+    "limbecker": {
+      "url": "https://www.starbucks.de/de/store-locator/53178-281942",
+      "title": "Essen, Limbecker Platz | Starbucks",
+      "facts": "Limbecker Platz 1a. Mon–Thu 09:00–20:00; Fri–Sat 09:00–20:30; Sun closed. Lists Wi-Fi, reward redemption and mobile ordering.",
+      "accessed": "2026-09-13",
+      "published_date": "Not visibly established"
+    },
+    "hbf_locator": {
+      "url": "https://www.starbucks.de/de/store-locator/53187-282033/essen-hauptbahnhof",
+      "title": "Essen Hauptbahnhof | Starbucks",
+      "facts": "Am Hauptbahnhof 5. Mon–Fri 05:30–21:00; Sat–Sun 07:00–21:00. Lists Wi-Fi, reward redemption and mobile ordering. Conflicts with DB; neither source independently establishes actual hours.",
+      "accessed": "2026-09-13",
+      "published_date": "Not visibly established"
+    },
+    "hbf_db": {
+      "url": "https://www.bahnhof.de/essen-hbf/einkaufen-und-essen/starbucks",
+      "title": "Starbucks – Essen Hbf",
+      "facts": "Ground floor. Mon–Fri 06:00–21:30; Sat 09:00–21:30; Sun including holidays 06:30–21:00. Cash, Girocard, Mastercard, Visa and American Express. Conflicts with Starbucks locator.",
+      "accessed": "2026-09-13",
+      "published_date": "Not visibly established"
+    },
+    "station": {
+      "url": "https://www.bahnhof.de/essen-hbf",
+      "title": "Essen Hbf | Deutsche Bahn",
+      "facts": "Station address Am Hauptbahnhof 5, 45127 Essen. Provides station map, departure information, accessibility and lift status resources.",
+      "accessed": "2026-09-13",
+      "published_date": "Not visibly established"
+    },
+    "center": {
+      "url": "https://www.limbecker-platz.de/service/oeffnungszeiten/",
+      "title": "Öffnungszeiten | Limbecker Platz Essen",
+      "facts": "Center Mon–Sat 10:00–20:00; Sunday closed. Starbucks separately Mon–Sat 09:00–20:00. Conflicts with Starbucks Friday/Saturday closing time. Center advises contacting individual shops.",
+      "accessed": "2026-09-13",
+      "published_date": "Not visibly established"
+    },
+    "kaufda": {
+      "url": "https://www.kaufda.de/Filialen/Essen-Ruhr/Starbucks/v-r494",
+      "title": "Starbucks Filialen in Essen - Adressen & Öffnungszeiten",
+      "facts": "Directory lists Theaterplatz 1, Am Hauptbahnhof 5 and Limbecker Platz 1a. Theaterplatz was not independently confirmed as a separate current branch; do not claim closure or relocation.",
+      "accessed": "2026-09-13",
+      "published_date": "Not visibly established"
+    },
+    "wolt": {
+      "url": "https://wolt.com/de/deu/essen/brand/starbucks",
+      "title": "Starbucks - Essen | Wolt",
+      "facts": "Delivery index contains Kettwiger Strasse, Hauptbahnhof and Limbecker Platz. Neighborhood links are delivery areas, not proof of separate stores.",
+      "accessed": "2026-09-13",
+      "published_date": "Not visibly established"
+    },
+    "maps_search": {
+      "url": "https://support.google.com/maps/answer/3092445?co=GENIE.Platform%3DAndroid&hl=en",
+      "title": "Search locations on Google Maps",
+      "facts": "Can search by business, address, city and postcode. Filters vary by country/language; details include hours and website. Ranking is not strictly nearest first.",
+      "accessed": "2026-09-13",
+      "published_date": "Not visibly established"
+    },
+    "maps_nearby": {
+      "url": "https://support.google.com/maps/answer/4610185?hl=en-NA",
+      "title": "Search for nearby places and explore the area",
+      "facts": "Nearby search can be anchored to a place/address. Local results combine relevance, distance and prominence; data from multiple sources.",
+      "accessed": "2026-09-13",
+      "published_date": "Not visibly established"
+    },
+    "maps_routes": {
+      "url": "https://support.google.com/maps/answer/144339?hl=es",
+      "title": "Obtener indicaciones y mostrar rutas en Google Maps",
+      "facts": "Select start, destination and transport mode. Durations are estimates; driving and walking routes differ.",
+      "accessed": "2026-09-13",
+      "published_date": "Not visibly established"
+    },
+    "maps_location": {
+      "url": "https://support.google.com/maps/answer/2839911?hl=es",
+      "title": "Encontrar tu ubicación y mejorar la precisión en Google Maps",
+      "facts": "Location permissions and the blue location indicator help check the origin; accuracy can vary.",
+      "accessed": "2026-09-13",
+      "published_date": "Not visibly established"
+    },
+    "maps_offline": {
+      "url": "https://support.google.com/maps/answer/6291838?hl=es",
+      "title": "Descargar zonas y navegar sin conexión en Google Maps",
+      "facts": "Downloadable areas; offline restrictions include no walking/cycling/transit directions and no live traffic. Do not promise fresh opening hours offline.",
+      "accessed": "2026-09-13",
+      "published_date": "Not visibly established"
+    },
+    "mop": {
+      "url": "https://www.starbucks.de/de/faq-mop",
+      "title": "FAQ zu Mobile Order & Pay",
+      "facts": "App and Rewards sign-in required; participating stores identified in locator. Prepared order is collected in chosen store. No additional service fee; product availability and preparation vary.",
+      "accessed": "2026-09-13",
+      "published_date": "Not visibly established"
+    },
+    "card": {
+      "url": "https://www.starbucks.de/de/faq-starbucks-card",
+      "title": "FAQ zur Starbucks® Card",
+      "facts": "Card acceptance limited to participating German stores; licensed exceptions. Does not establish universal cross-border account/card interoperability.",
+      "accessed": "2026-09-13",
+      "published_date": "Not visibly established"
+    },
+    "food": {
+      "url": "https://www.starbucks.de/de/faq-food-drink",
+      "title": "FAQ zu Getränken und Speisen",
+      "facts": "General menu can have short-term stock gaps. Vegan food and plant drinks available in range. Links to current nutrition and allergens; no medical/allergen-safety inference.",
+      "accessed": "2026-09-13",
+      "published_date": "Not visibly established"
+    },
+    "menu": {
+      "url": "https://www.starbucks.de/de/menu",
+      "title": "Order - Menu | Starbucks",
+      "facts": "Menu categories: espresso, tea, Frappuccino, chocolate; desserts, sandwiches, snacks. No verified branch-specific price list.",
+      "accessed": "2026-09-13",
+      "published_date": "Not visibly established"
+    },
+    "delivery": {
+      "url": "https://www.starbucks.de/de/delivers",
+      "title": "Starbucks Delivers",
+      "facts": "Official German delivery partners: Uber Eats, Wolt, Lieferando. No claim every address served.",
+      "accessed": "2026-09-13",
+      "published_date": "Not visibly established"
+    },
+    "delivery_faq": {
+      "url": "https://www.starbucks.de/de/faq-delivers",
+      "title": "FAQ Delivers | Starbucks",
+      "facts": "Supplemental delivery FAQ; used only where specific text was inspected. Delivery price/availability checked at ordering stage.",
+      "accessed": "2026-09-13",
+      "published_date": "Not visibly established"
+    }
+  }
+}

@@ -1,0 +1,64 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "Article",
+      "@id": "https://starbuckspreise.com/blog/starbucks-braunschweig/#article",
+      "headline": "Starbucks Braunschweig: Filiale, Adresse und Öffnungszeiten am Damm",
+      "description": "Starbucks Braunschweig: Die einzige aktuelle Filiale liegt am Damm 22. Adresse, Öffnungszeiten, Lieferung und warum ältere Standorte nicht mehr gelten.",
+      "datePublished": "TODO: set actual publish date",
+      "dateModified": "TODO: set actual publish date",
+      "inLanguage": "de-DE",
+      "author": {
+        "@type": "Organization",
+        "name": "TODO: confirm byline — placeholder StarbucksPreise Redaktion",
+        "url": "https://starbuckspreise.com"
+      },
+      "publisher": {
+        "@type": "Organization",
+        "name": "StarbucksPreise Deutschland",
+        "url": "https://starbuckspreise.com"
+      },
+      "mainEntityOfPage": "https://starbuckspreise.com/blog/starbucks-braunschweig",
+      "about": [
+        {"@type": "Organization", "name": "Starbucks", "sameAs": "https://de.wikipedia.org/wiki/Starbucks"},
+        {"@type": "Place", "name": "Braunschweig", "sameAs": "https://de.wikipedia.org/wiki/Braunschweig"}
+      ],
+      "mentions": [
+        {"@type": "Place", "name": "Damm 22, Braunschweig"},
+        {"@type": "Place", "name": "Kohlmarkt 18, Braunschweig"},
+        {"@type": "Place", "name": "Schloss-Arkaden Braunschweig"}
+      ],
+      "speakable": {
+        "@type": "SpeakableSpecification",
+        "cssSelector": ["#direct-answer"]
+      }
+    },
+    {
+      "@type": "BreadcrumbList",
+      "@id": "https://starbuckspreise.com/blog/starbucks-braunschweig/#breadcrumb",
+      "itemListElement": [
+        {"@type": "ListItem", "position": 1, "name": "Startseite", "item": "https://starbuckspreise.com"},
+        {"@type": "ListItem", "position": 2, "name": "Blog", "item": "https://starbuckspreise.com/blog"},
+        {"@type": "ListItem", "position": 3, "name": "Starbucks Braunschweig", "item": "https://starbuckspreise.com/blog/starbucks-braunschweig"}
+      ]
+    },
+    {
+      "@type": "FAQPage",
+      "@id": "https://starbuckspreise.com/blog/starbucks-braunschweig/#faq",
+      "mainEntity": [
+        {"@type": "Question", "name": "Gibt es noch einen Starbucks am Kohlmarkt in Braunschweig?", "acceptedAnswer": {"@type": "Answer", "text": "Nein. Die Filiale am Kohlmarkt 18 lief rund zehn Jahre und wurde etwa 2019 aufgegeben; auf Bewertungsportalen ist sie inzwischen ausdrücklich als geschlossen markiert."}},
+        {"@type": "Question", "name": "Ist der Starbucks in den Schloss-Arkaden noch geöffnet?", "acceptedAnswer": {"@type": "Answer", "text": "Nein, dieser Standort in den Schloss-Arkaden (Bohlweg 74-75) schloss bereits 2016. Einige ältere Verzeichnisse zeigen die Adresse dennoch weiterhin an."}},
+        {"@type": "Question", "name": "Wo genau liegt der aktuelle Starbucks in Braunschweig?", "acceptedAnswer": {"@type": "Answer", "text": "Am Damm 22, 38100 Braunschweig, in der Fußgängerzone der Innenstadt."}},
+        {"@type": "Question", "name": "Wann hat Starbucks am Damm sonntags geöffnet?", "acceptedAnswer": {"@type": "Answer", "text": "Sonntags von 11:00 bis 18:00 Uhr, laut dem offiziellen Store Locator zum Recherchestand."}},
+        {"@type": "Question", "name": "Seit wann gibt es die Filiale am Damm?", "acceptedAnswer": {"@type": "Answer", "text": "Sie eröffnete Anfang Dezember 2024, nachdem Starbucks rund fünf Jahre lang keinen Standort in Braunschweig betrieben hatte."}},
+        {"@type": "Question", "name": "Wie groß ist die Filiale am Damm?", "acceptedAnswer": {"@type": "Answer", "text": "Rund 200 Quadratmeter, laut der Ankündigung zur Neueröffnung."}},
+        {"@type": "Question", "name": "Gibt es bei Starbucks in Braunschweig einen Drive-Thru?", "acceptedAnswer": {"@type": "Answer", "text": "Nein, für die Innenstadtfiliale am Damm ist kein Drive-Thru-Schalter gelistet."}},
+        {"@type": "Question", "name": "Kann ich mir Starbucks in Braunschweig liefern lassen?", "acceptedAnswer": {"@type": "Answer", "text": "Ja, über Uber Eats, Wolt oder Lieferando; alternativ lässt sich in denselben Apps die Pick-up-Funktion zur Selbstabholung wählen."}},
+        {"@type": "Question", "name": "Bietet die Filiale am Damm kostenloses WLAN?", "acceptedAnswer": {"@type": "Answer", "text": "Ja, der Store Locator listet für Damm 22 einen drahtlosen Hotspot."}},
+        {"@type": "Question", "name": "Kann ich vorbestellen und Rewards-Sterne einlösen?", "acceptedAnswer": {"@type": "Answer", "text": "Ja, Mobile Order & Pay und die Einlösung von Starbucks Rewards sind für diesen Standort gelistet."}},
+        {"@type": "Question", "name": "Warum hatte Braunschweig jahrelang gar keinen Starbucks?", "acceptedAnswer": {"@type": "Answer", "text": "Nach der Schließung der Schloss-Arkaden-Filiale 2016 und der Aufgabe des Kohlmarkt-Standorts um 2019 gab es bis zur Neueröffnung am Damm Ende 2024 keine aktive Filiale mehr in der Stadt."}}
+      ]
+    }
+  ]
+}

@@ -1,0 +1,491 @@
+[
+  {
+    "canonical": "Starbucks",
+    "type": "Organization",
+    "tier": 1,
+    "aliases": [],
+    "kind": "entity",
+    "sameAs": [
+      "https://www.starbucks.de/"
+    ],
+    "competitor_sources": [
+      "kettwiger",
+      "hbf_db",
+      "center",
+      "kaufda"
+    ],
+    "competitor_count": 4,
+    "in_title_or_h2": true,
+    "source_ids": [
+      "kettwiger",
+      "limbecker",
+      "hbf_locator"
+    ],
+    "relationship": "Starbucks betreibt beziehungsweise listet Coffee Houses an den hier genannten Essener Adressen.",
+    "covered": true,
+    "evidence": " Starbucks Essen: Filialen und Öffnungszeiten im Überblick",
+    "relationship_review": "Manually reviewed in cited body / source ledger"
+  },
+  {
+    "canonical": "Essen",
+    "type": "Place",
+    "tier": 1,
+    "aliases": [],
+    "kind": "entity",
+    "sameAs": [],
+    "competitor_sources": [
+      "kettwiger",
+      "hbf_db",
+      "center",
+      "kaufda"
+    ],
+    "competitor_count": 4,
+    "in_title_or_h2": true,
+    "source_ids": [
+      "station",
+      "kettwiger"
+    ],
+    "relationship": "Essen ist der Ort der adressbezogenen Filialsuche.",
+    "covered": true,
+    "evidence": " Starbucks Essen: Filialen und Öffnungszeiten im Überblick",
+    "relationship_review": "Manually reviewed in cited body / source ledger"
+  },
+  {
+    "canonical": "Essen Hauptbahnhof",
+    "type": "Place",
+    "tier": 1,
+    "aliases": [
+      "Hauptbahnhof",
+      "Essen Hbf"
+    ],
+    "kind": "entity",
+    "sameAs": [
+      "https://www.bahnhof.de/essen-hbf"
+    ],
+    "competitor_sources": [
+      "hbf_db",
+      "kaufda"
+    ],
+    "competitor_count": 2,
+    "in_title_or_h2": false,
+    "source_ids": [
+      "hbf_locator",
+      "hbf_db"
+    ],
+    "relationship": "Die Filiale am Hauptbahnhof liegt laut DB im Erdgeschoss.",
+    "covered": true,
+    "evidence": "In Essen finden Sie offiziell gelistete Starbucks-Filialen am Hauptbahnhof, an der Kettwiger Straße und im Limbecker Platz. Welche passt, hängt von Ihrem Weg und Besuchstag ab. Prüfen Sie die jeweilige Filialseite vor der Anfahrt: Besonders am Hauptbahnhof und im Einkaufszentrum widersprechen sich veröffentlichte Öffnungszeiten.",
+    "relationship_review": "Manually reviewed in cited body / source ledger"
+  },
+  {
+    "canonical": "Kettwiger Straße",
+    "type": "Place",
+    "tier": 2,
+    "aliases": [
+      "Kettwiger Strasse"
+    ],
+    "kind": "entity",
+    "sameAs": [],
+    "competitor_sources": [
+      "kettwiger"
+    ],
+    "competitor_count": 1,
+    "in_title_or_h2": false,
+    "source_ids": [
+      "kettwiger"
+    ],
+    "relationship": "Die offizielle Filialadresse lautet Kettwiger Straße 2–10.",
+    "covered": true,
+    "evidence": "In Essen finden Sie offiziell gelistete Starbucks-Filialen am Hauptbahnhof, an der Kettwiger Straße und im Limbecker Platz. Welche passt, hängt von Ihrem Weg und Besuchstag ab. Prüfen Sie die jeweilige Filialseite vor der Anfahrt: Besonders am Hauptbahnhof und im Einkaufszentrum widersprechen sich veröffentlichte Öffnungszeiten.",
+    "relationship_review": "Supporting concept"
+  },
+  {
+    "canonical": "Limbecker Platz",
+    "type": "Place",
+    "tier": 2,
+    "aliases": [],
+    "kind": "entity",
+    "sameAs": [],
+    "competitor_sources": [
+      "center",
+      "kaufda"
+    ],
+    "competitor_count": 2,
+    "in_title_or_h2": false,
+    "source_ids": [
+      "limbecker",
+      "center"
+    ],
+    "relationship": "Das Einkaufszentrum enthält eine Starbucks-Filiale an der Adresse Limbecker Platz 1a.",
+    "covered": true,
+    "evidence": "In Essen finden Sie offiziell gelistete Starbucks-Filialen am Hauptbahnhof, an der Kettwiger Straße und im Limbecker Platz. Welche passt, hängt von Ihrem Weg und Besuchstag ab. Prüfen Sie die jeweilige Filialseite vor der Anfahrt: Besonders am Hauptbahnhof und im Einkaufszentrum widersprechen sich veröffentlichte Öffnungszeiten.",
+    "relationship_review": "Supporting concept"
+  },
+  {
+    "canonical": "Öffnungszeiten",
+    "type": "Concept",
+    "tier": 2,
+    "aliases": [],
+    "kind": "term",
+    "sameAs": [],
+    "competitor_sources": [
+      "kettwiger",
+      "center",
+      "kaufda"
+    ],
+    "competitor_count": 3,
+    "in_title_or_h2": true,
+    "source_ids": [
+      "hbf_db",
+      "hbf_locator",
+      "center"
+    ],
+    "relationship": "Veröffentlichte Zeitpläne widersprechen sich und sind keine Live-Bestätigung.",
+    "covered": true,
+    "evidence": " Starbucks Essen: Filialen und Öffnungszeiten im Überblick",
+    "relationship_review": "Supporting concept"
+  },
+  {
+    "canonical": "Sonntag",
+    "type": "Concept",
+    "tier": 2,
+    "aliases": [
+      "sonntags"
+    ],
+    "kind": "term",
+    "sameAs": [],
+    "competitor_sources": [
+      "kettwiger",
+      "center"
+    ],
+    "competitor_count": 2,
+    "in_title_or_h2": true,
+    "source_ids": [
+      "kettwiger",
+      "limbecker",
+      "hbf_db"
+    ],
+    "relationship": "Die Sonntagsangaben unterscheiden sich je Filiale.",
+    "covered": true,
+    "evidence": " Welcher Starbucks in Essen hat sonntags geöffnet?",
+    "relationship_review": "Supporting concept"
+  },
+  {
+    "canonical": "Feiertage",
+    "type": "Concept",
+    "tier": 2,
+    "aliases": [
+      "Feiertag"
+    ],
+    "kind": "term",
+    "sameAs": [],
+    "competitor_sources": [],
+    "competitor_count": 0,
+    "in_title_or_h2": false,
+    "source_ids": [
+      "hbf_db",
+      "center"
+    ],
+    "relationship": "Feiertagsöffnung muss gesondert geprüft werden.",
+    "covered": true,
+    "evidence": "Ein Sonntag ist außerdem nicht automatisch mit jedem Feiertag gleichzusetzen. Prüfen Sie bei einem besonderen Besuchsdatum die konkrete Filialinformation. Eine angekündigte Sonderöffnung des Einkaufszentrums bestätigt noch nicht die Teilnahme jedes einzelnen Geschäfts oder Cafés. Allgemeine Hinweise ergänzt unser Ratgeber zur Filialsuche.",
+    "relationship_review": "Supporting concept"
+  },
+  {
+    "canonical": "Theaterplatz",
+    "type": "Place",
+    "tier": 2,
+    "aliases": [],
+    "kind": "entity",
+    "sameAs": [],
+    "competitor_sources": [
+      "kaufda"
+    ],
+    "competitor_count": 1,
+    "in_title_or_h2": true,
+    "source_ids": [
+      "kaufda"
+    ],
+    "relationship": "Ein Verzeichniseintrag bestätigt keine weitere aktuelle Filiale.",
+    "covered": true,
+    "evidence": " Ist Starbucks am Theaterplatz noch ein eigener Standort?",
+    "relationship_review": "Supporting concept"
+  },
+  {
+    "canonical": "Adresse",
+    "type": "Concept",
+    "tier": 2,
+    "aliases": [
+      "Adressen"
+    ],
+    "kind": "term",
+    "sameAs": [],
+    "competitor_sources": [
+      "kettwiger",
+      "kaufda"
+    ],
+    "competitor_count": 2,
+    "in_title_or_h2": false,
+    "source_ids": [
+      "station",
+      "kettwiger"
+    ],
+    "relationship": "Die konkrete Straßenadresse identifiziert die Filiale.",
+    "covered": true,
+    "evidence": "Die offizielle Starbucks-Suche führt die Standorte Essen Hauptbahnhof, Kettwiger Straße 2–10 und Limbecker Platz. Über die jeweiligen Detailseiten können Sie Adresse und Ausstattung kontrollieren und eine Wegbeschreibung öffnen. Diese Auswahl ist keine garantierte vollständige Bestandsliste für das gesamte Stadtgebiet.",
+    "relationship_review": "Supporting concept"
+  },
+  {
+    "canonical": "Google Maps",
+    "type": "SoftwareApplication",
+    "tier": 2,
+    "aliases": [],
+    "kind": "entity",
+    "sameAs": [
+      "https://maps.google.com/"
+    ],
+    "competitor_sources": [],
+    "competitor_count": 0,
+    "in_title_or_h2": false,
+    "source_ids": [
+      "maps_routes"
+    ],
+    "relationship": "Die Routenplanung verwendet Start, Ziel und Verkehrsmittel.",
+    "covered": true,
+    "evidence": "Eine brauchbare Route beginnt mit der vollständigen Adresse und dem passenden Verkehrsmittel. Google Maps unterscheidet unter anderem Wege zu Fuß, mit dem Auto und mit öffentlichen Verkehrsmitteln. Die angezeigte Dauer ist eine Schätzung für die gewählte Verbindung. Google-Hilfe zur Routenplanung.",
+    "relationship_review": "Supporting concept"
+  },
+  {
+    "canonical": "Store Locator",
+    "type": "SoftwareApplication",
+    "tier": 2,
+    "aliases": [
+      "Starbucks-Locator",
+      "Locator"
+    ],
+    "kind": "entity",
+    "sameAs": [
+      "https://www.starbucks.de/de/store-locator"
+    ],
+    "competitor_sources": [],
+    "competitor_count": 0,
+    "in_title_or_h2": false,
+    "source_ids": [
+      "de_locator"
+    ],
+    "relationship": "Der offizielle Locator verbindet Filialadresse, Zeiten und Ausstattung.",
+    "covered": true,
+    "evidence": "Die veröffentlichten Öffnungszeiten unterscheiden sich nach Standort und Wochentag. Die folgende Tabelle gibt die Angaben des Starbucks Store Locator zum Recherchestand wieder. Für Hauptbahnhof und Limbecker Platz stehen direkt darunter abweichende Angaben anderer offizieller Standortseiten.",
+    "relationship_review": "Supporting concept"
+  },
+  {
+    "canonical": "Mobile Order & Pay",
+    "type": "Concept",
+    "tier": 2,
+    "aliases": [
+      "Vorbestellung",
+      "mobilen Bestellen"
+    ],
+    "kind": "term",
+    "sameAs": [],
+    "competitor_sources": [],
+    "competitor_count": 0,
+    "in_title_or_h2": false,
+    "source_ids": [
+      "mop"
+    ],
+    "relationship": "Die App-Bestellung wird im ausgewählten teilnehmenden Coffee House abgeholt.",
+    "covered": true,
+    "evidence": " Sind Vorbestellung, WLAN und Lieferung verfügbar?",
+    "relationship_review": "Supporting concept"
+  },
+  {
+    "canonical": "WLAN",
+    "type": "Concept",
+    "tier": 2,
+    "aliases": [
+      "Hotspot"
+    ],
+    "kind": "term",
+    "sameAs": [],
+    "competitor_sources": [],
+    "competitor_count": 0,
+    "in_title_or_h2": true,
+    "source_ids": [
+      "kettwiger",
+      "limbecker",
+      "hbf_locator"
+    ],
+    "relationship": "Die drei Locator-Einträge nennen einen drahtlosen Hotspot.",
+    "covered": true,
+    "evidence": " Sind Vorbestellung, WLAN und Lieferung verfügbar?",
+    "relationship_review": "Supporting concept"
+  },
+  {
+    "canonical": "Starbucks Rewards",
+    "type": "Product",
+    "tier": 2,
+    "aliases": [
+      "Rewards",
+      "Reward"
+    ],
+    "kind": "entity",
+    "sameAs": [],
+    "competitor_sources": [],
+    "competitor_count": 0,
+    "in_title_or_h2": false,
+    "source_ids": [
+      "mop",
+      "card"
+    ],
+    "relationship": "Mobile Order & Pay setzt ein angemeldetes Rewards-Konto voraus.",
+    "covered": true,
+    "evidence": "Die drei geprüften Starbucks-Filialprofile nennen einen drahtlosen Hotspot, das Einlösen von Rewards und mobiles Bestellen. Für die Vorbestellung zählt jedoch, ob der Standort im aktuellen Bestellvorgang auswählbar ist. Mobile Order & Pay bedeutet Abholung im gewählten teilnehmenden Coffee House. Starbucks erläutert den Ablauf.",
+    "relationship_review": "Supporting concept"
+  },
+  {
+    "canonical": "Lieferung",
+    "type": "Concept",
+    "tier": 2,
+    "aliases": [
+      "Lieferdienst",
+      "Lieferdienste",
+      "Liefergebiet"
+    ],
+    "kind": "term",
+    "sameAs": [],
+    "competitor_sources": [],
+    "competitor_count": 0,
+    "in_title_or_h2": true,
+    "source_ids": [
+      "delivery",
+      "wolt"
+    ],
+    "relationship": "Lieferverfügbarkeit wird für die Lieferadresse geprüft.",
+    "covered": true,
+    "evidence": " Sind Vorbestellung, WLAN und Lieferung verfügbar?",
+    "relationship_review": "Supporting concept"
+  },
+  {
+    "canonical": "Speisekarte",
+    "type": "Concept",
+    "tier": 2,
+    "aliases": [
+      "Menü",
+      "Getränke"
+    ],
+    "kind": "term",
+    "sameAs": [],
+    "competitor_sources": [],
+    "competitor_count": 0,
+    "in_title_or_h2": true,
+    "source_ids": [
+      "menu",
+      "food"
+    ],
+    "relationship": "Das Sortiment ist von der aktuellen Filialverfügbarkeit zu unterscheiden.",
+    "covered": true,
+    "evidence": " Was gibt es auf der Speisekarte und wie prüfen Sie Preise?",
+    "relationship_review": "Supporting concept"
+  },
+  {
+    "canonical": "Preise",
+    "type": "Concept",
+    "tier": 2,
+    "aliases": [
+      "Preis"
+    ],
+    "kind": "term",
+    "sameAs": [],
+    "competitor_sources": [],
+    "competitor_count": 0,
+    "in_title_or_h2": true,
+    "source_ids": [
+      "menu",
+      "mop"
+    ],
+    "relationship": "Für die ausgewählte Bestellung gilt der dort angezeigte Preis; keine lokale Preisliste wurde verifiziert.",
+    "covered": true,
+    "evidence": " Was gibt es auf der Speisekarte und wie prüfen Sie Preise?",
+    "relationship_review": "Supporting concept"
+  },
+  {
+    "canonical": "Barrierefreiheit",
+    "type": "Concept",
+    "tier": 2,
+    "aliases": [
+      "barrierefrei",
+      "stufenlos"
+    ],
+    "kind": "term",
+    "sameAs": [],
+    "competitor_sources": [],
+    "competitor_count": 0,
+    "in_title_or_h2": false,
+    "source_ids": [
+      "station"
+    ],
+    "relationship": "Bahnhofsaufzüge können über DB geprüft werden; der Zugang zum Café bleibt gesondert zu klären.",
+    "covered": true,
+    "evidence": "Für den Hauptbahnhof bietet die DB-Bahnhofsseite zusätzlich Orientierungskarten, Abfahrtsinformationen und Angaben zu Aufzügen. Benötigen Sie einen stufenlosen Zugang, prüfen Sie den gesamten Weg bis zum Café. Eine verfügbare Bahnhofseinrichtung bestätigt nicht automatisch jeden Abschnitt dieser Route.",
+    "relationship_review": "Supporting concept"
+  },
+  {
+    "canonical": "Zahlungsmittel",
+    "type": "Concept",
+    "tier": 2,
+    "aliases": [
+      "Bargeld",
+      "Girocard"
+    ],
+    "kind": "term",
+    "sameAs": [],
+    "competitor_sources": [],
+    "competitor_count": 0,
+    "in_title_or_h2": false,
+    "source_ids": [
+      "hbf_db"
+    ],
+    "relationship": "DB nennt für die Bahnhofsfiliale Bargeld und mehrere Kartentypen.",
+    "covered": true,
+    "evidence": "Im DB-Filialprofil ist Bargeld als Zahlungsmittel aufgeführt. Dort werden außerdem Girocard, Mastercard, Visa und American Express genannt. Die Angabe bezieht sich auf diese Filiale. Zahlungsmittel laut DB.",
+    "relationship_review": "Supporting concept"
+  },
+  {
+    "canonical": "Drive-Thru",
+    "type": "Concept",
+    "tier": 3,
+    "aliases": [
+      "Drive-through"
+    ],
+    "kind": "term",
+    "sameAs": [],
+    "competitor_sources": [],
+    "competitor_count": 0,
+    "in_title_or_h2": false,
+    "source_ids": [],
+    "relationship": "Nicht als vorhandene Ausstattung bestätigt.",
+    "covered": false,
+    "evidence": "",
+    "relationship_review": "Supporting concept"
+  },
+  {
+    "canonical": "Parkgebühren",
+    "type": "Concept",
+    "tier": 3,
+    "aliases": [],
+    "kind": "term",
+    "sameAs": [],
+    "competitor_sources": [],
+    "competitor_count": 0,
+    "in_title_or_h2": false,
+    "source_ids": [
+      "station",
+      "center"
+    ],
+    "relationship": "Kein überprüfter Tarif vorhanden; ausgelassen.",
+    "covered": false,
+    "evidence": "",
+    "relationship_review": "Supporting concept"
+  }
+]

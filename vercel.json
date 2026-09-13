@@ -95,6 +95,22 @@
     {
       "source": "/blog/starbucks-in-der-naehe",
       "destination": "/blog/starbucks-in-der-naehe.html"
+    },
+    {
+      "source": "/starbucks-braunschweig",
+      "destination": "/blog/starbucks-braunschweig.html"
+    },
+    {
+      "source": "/blog/starbucks-braunschweig",
+      "destination": "/blog/starbucks-braunschweig.html"
+    },
+    {
+      "source": "/starbucks-heilbronn",
+      "destination": "/blog/starbucks-heilbronn.html"
+    },
+    {
+      "source": "/blog/starbucks-heilbronn",
+      "destination": "/blog/starbucks-heilbronn.html"
     }
   ]
 }

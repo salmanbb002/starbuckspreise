@@ -1,0 +1,495 @@
+[
+  {
+    "canonical": "Starbucks",
+    "type": "Organization",
+    "tier": 1,
+    "aliases": [],
+    "kind": "entity",
+    "sameAs": [
+      "https://www.starbucks.de/"
+    ],
+    "competitor_sources": [
+      "es_locator",
+      "sucursales",
+      "firmania",
+      "rappi"
+    ],
+    "competitor_count": 4,
+    "in_title_or_h2": true,
+    "source_ids": [
+      "de_locator",
+      "es_locator"
+    ],
+    "relationship": "Starbucks dispone de buscadores oficiales por mercado.",
+    "covered": true,
+    "evidence": " Starbucks cerca de mí: guía práctica para encontrar tu café",
+    "relationship_review": "Manually reviewed in cited body / source ledger"
+  },
+  {
+    "canonical": "ubicación",
+    "type": "Concept",
+    "tier": 1,
+    "aliases": [
+      "ubicaciones",
+      "ubicación actual"
+    ],
+    "kind": "term",
+    "sameAs": [],
+    "competitor_sources": [
+      "es_locator",
+      "sucursales",
+      "firmania",
+      "rappi"
+    ],
+    "competitor_count": 4,
+    "in_title_or_h2": true,
+    "source_ids": [
+      "maps_location"
+    ],
+    "relationship": "La ubicación o una dirección manual establece el punto de búsqueda.",
+    "covered": true,
+    "evidence": "Para encontrar un Starbucks cerca de ti, abre el localizador oficial del país donde estás o busca Starbucks en Google Maps con tu ubicación actual. Comprueba la dirección, el horario del día y la ruta antes de salir. En Alemania, utiliza la ficha alemana de la sucursal elegida.",
+    "relationship_review": "Manually reviewed in cited body / source ledger"
+  },
+  {
+    "canonical": "Alemania",
+    "type": "Place",
+    "tier": 1,
+    "aliases": [],
+    "kind": "entity",
+    "sameAs": [],
+    "competitor_sources": [],
+    "competitor_count": 0,
+    "in_title_or_h2": true,
+    "source_ids": [
+      "de_locator",
+      "station"
+    ],
+    "relationship": "La búsqueda para un viaje a Alemania debe usar la ciudad alemana concreta.",
+    "covered": true,
+    "evidence": "Para encontrar un Starbucks cerca de ti, abre el localizador oficial del país donde estás o busca Starbucks en Google Maps con tu ubicación actual. Comprueba la dirección, el horario del día y la ruta antes de salir. En Alemania, utiliza la ficha alemana de la sucursal elegida.",
+    "relationship_review": "Manually reviewed in cited body / source ledger"
+  },
+  {
+    "canonical": "localizador",
+    "type": "SoftwareApplication",
+    "tier": 2,
+    "aliases": [
+      "buscador oficial"
+    ],
+    "kind": "entity",
+    "sameAs": [
+      "https://www.starbucks.de/de/store-locator"
+    ],
+    "competitor_sources": [],
+    "competitor_count": 0,
+    "in_title_or_h2": true,
+    "source_ids": [
+      "de_locator",
+      "es_locator"
+    ],
+    "relationship": "El localizador del país enlaza a las fichas de sus cafeterías.",
+    "covered": true,
+    "evidence": "Para encontrar un Starbucks cerca de ti, abre el localizador oficial del país donde estás o busca Starbucks en Google Maps con tu ubicación actual. Comprueba la dirección, el horario del día y la ruta antes de salir. En Alemania, utiliza la ficha alemana de la sucursal elegida.",
+    "relationship_review": "Supporting concept"
+  },
+  {
+    "canonical": "Google Maps",
+    "type": "SoftwareApplication",
+    "tier": 2,
+    "aliases": [],
+    "kind": "entity",
+    "sameAs": [
+      "https://maps.google.com/"
+    ],
+    "competitor_sources": [],
+    "competitor_count": 0,
+    "in_title_or_h2": false,
+    "source_ids": [
+      "maps_search",
+      "maps_routes"
+    ],
+    "relationship": "Google Maps permite buscar una cafetería y calcular la ruta.",
+    "covered": true,
+    "evidence": "Para encontrar un Starbucks cerca de ti, abre el localizador oficial del país donde estás o busca Starbucks en Google Maps con tu ubicación actual. Comprueba la dirección, el horario del día y la ruta antes de salir. En Alemania, utiliza la ficha alemana de la sucursal elegida.",
+    "relationship_review": "Supporting concept"
+  },
+  {
+    "canonical": "dirección",
+    "type": "Concept",
+    "tier": 2,
+    "aliases": [
+      "direcciones"
+    ],
+    "kind": "term",
+    "sameAs": [],
+    "competitor_sources": [
+      "es_locator",
+      "firmania",
+      "rappi"
+    ],
+    "competitor_count": 3,
+    "in_title_or_h2": false,
+    "source_ids": [
+      "maps_search"
+    ],
+    "relationship": "Una dirección explícita permite buscar sin usar la ubicación actual.",
+    "covered": true,
+    "evidence": "Para encontrar un Starbucks cerca de ti, abre el localizador oficial del país donde estás o busca Starbucks en Google Maps con tu ubicación actual. Comprueba la dirección, el horario del día y la ruta antes de salir. En Alemania, utiliza la ficha alemana de la sucursal elegida.",
+    "relationship_review": "Supporting concept"
+  },
+  {
+    "canonical": "horario",
+    "type": "Concept",
+    "tier": 2,
+    "aliases": [
+      "horarios"
+    ],
+    "kind": "term",
+    "sameAs": [],
+    "competitor_sources": [
+      "firmania"
+    ],
+    "competitor_count": 1,
+    "in_title_or_h2": false,
+    "source_ids": [
+      "kettwiger",
+      "limbecker",
+      "hbf_locator"
+    ],
+    "relationship": "El horario pertenece a una sucursal y a un día concretos.",
+    "covered": true,
+    "evidence": "Para encontrar un Starbucks cerca de ti, abre el localizador oficial del país donde estás o busca Starbucks en Google Maps con tu ubicación actual. Comprueba la dirección, el horario del día y la ruta antes de salir. En Alemania, utiliza la ficha alemana de la sucursal elegida.",
+    "relationship_review": "Supporting concept"
+  },
+  {
+    "canonical": "abierto ahora",
+    "type": "Concept",
+    "tier": 2,
+    "aliases": [
+      "abierta",
+      "abierto"
+    ],
+    "kind": "term",
+    "sameAs": [],
+    "competitor_sources": [],
+    "competitor_count": 0,
+    "in_title_or_h2": false,
+    "source_ids": [
+      "maps_search"
+    ],
+    "relationship": "La etiqueta de apertura debe comprobarse contra la hora de llegada.",
+    "covered": true,
+    "evidence": " ¿Cómo comprobar si estará abierto cuando llegues?",
+    "relationship_review": "Supporting concept"
+  },
+  {
+    "canonical": "ruta",
+    "type": "Concept",
+    "tier": 2,
+    "aliases": [
+      "trayecto"
+    ],
+    "kind": "term",
+    "sameAs": [],
+    "competitor_sources": [],
+    "competitor_count": 0,
+    "in_title_or_h2": true,
+    "source_ids": [
+      "maps_routes"
+    ],
+    "relationship": "El medio de transporte cambia el recorrido y la duración estimada.",
+    "covered": true,
+    "evidence": "Para encontrar un Starbucks cerca de ti, abre el localizador oficial del país donde estás o busca Starbucks en Google Maps con tu ubicación actual. Comprueba la dirección, el horario del día y la ruta antes de salir. En Alemania, utiliza la ficha alemana de la sucursal elegida.",
+    "relationship_review": "Supporting concept"
+  },
+  {
+    "canonical": "a pie",
+    "type": "Concept",
+    "tier": 2,
+    "aliases": [
+      "caminando"
+    ],
+    "kind": "term",
+    "sameAs": [],
+    "competitor_sources": [],
+    "competitor_count": 0,
+    "in_title_or_h2": true,
+    "source_ids": [
+      "maps_routes"
+    ],
+    "relationship": "La ruta a pie se consulta con ese modo seleccionado.",
+    "covered": true,
+    "evidence": " ¿Qué ruta conviene para llegar a pie o en transporte público?",
+    "relationship_review": "Supporting concept"
+  },
+  {
+    "canonical": "España",
+    "type": "Place",
+    "tier": 2,
+    "aliases": [],
+    "kind": "entity",
+    "sameAs": [],
+    "competitor_sources": [
+      "es_locator",
+      "firmania"
+    ],
+    "competitor_count": 2,
+    "in_title_or_h2": true,
+    "source_ids": [
+      "es_locator",
+      "firmania"
+    ],
+    "relationship": "España tiene un buscador oficial en español.",
+    "covered": true,
+    "evidence": "Si buscas «starbucks cerca de mi» durante un viaje, el idioma de la consulta no basta para indicar dónde quieres tomar café. Esta guía está pensada especialmente para lectores que buscan en español mientras visitan Alemania. También te ayuda a reconocer cuándo un resultado corresponde a España, México o a un servicio de reparto.",
+    "relationship_review": "Supporting concept"
+  },
+  {
+    "canonical": "México",
+    "type": "Place",
+    "tier": 2,
+    "aliases": [],
+    "kind": "entity",
+    "sameAs": [],
+    "competitor_sources": [
+      "sucursales",
+      "rappi"
+    ],
+    "competitor_count": 2,
+    "in_title_or_h2": true,
+    "source_ids": [
+      "sucursales",
+      "rappi"
+    ],
+    "relationship": "Los resultados de estos directorios de México no son una lista alemana.",
+    "covered": true,
+    "evidence": "Si buscas «starbucks cerca de mi» durante un viaje, el idioma de la consulta no basta para indicar dónde quieres tomar café. Esta guía está pensada especialmente para lectores que buscan en español mientras visitan Alemania. También te ayuda a reconocer cuándo un resultado corresponde a España, México o a un servicio de reparto.",
+    "relationship_review": "Supporting concept"
+  },
+  {
+    "canonical": "domingo",
+    "type": "Concept",
+    "tier": 2,
+    "aliases": [
+      "domingos"
+    ],
+    "kind": "term",
+    "sameAs": [],
+    "competitor_sources": [],
+    "competitor_count": 0,
+    "in_title_or_h2": false,
+    "source_ids": [
+      "limbecker",
+      "kettwiger"
+    ],
+    "relationship": "La apertura dominical no se puede generalizar a toda la cadena.",
+    "covered": true,
+    "evidence": "En Alemania, no supongas que todas las tiendas abren los domingos o los festivos. Al consultar las fuentes el 13 de septiembre de 2026, la ficha del Limbecker Platz indicaba cierre dominical, mientras la de Kettwiger Straße incluía horario de domingo. Son ejemplos de variación entre sucursales, no una regla para todo el país.",
+    "relationship_review": "Supporting concept"
+  },
+  {
+    "canonical": "festivos",
+    "type": "Concept",
+    "tier": 2,
+    "aliases": [
+      "festivo"
+    ],
+    "kind": "term",
+    "sameAs": [],
+    "competitor_sources": [],
+    "competitor_count": 0,
+    "in_title_or_h2": false,
+    "source_ids": [
+      "hbf_db",
+      "center"
+    ],
+    "relationship": "Un horario habitual no confirma la apertura en festivo.",
+    "covered": true,
+    "evidence": "En Alemania, no supongas que todas las tiendas abren los domingos o los festivos. Al consultar las fuentes el 13 de septiembre de 2026, la ficha del Limbecker Platz indicaba cierre dominical, mientras la de Kettwiger Straße incluía horario de domingo. Son ejemplos de variación entre sucursales, no una regla para todo el país.",
+    "relationship_review": "Supporting concept"
+  },
+  {
+    "canonical": "Mobile Order & Pay",
+    "type": "Concept",
+    "tier": 2,
+    "aliases": [
+      "pedido anticipado"
+    ],
+    "kind": "term",
+    "sameAs": [],
+    "competitor_sources": [],
+    "competitor_count": 0,
+    "in_title_or_h2": false,
+    "source_ids": [
+      "mop"
+    ],
+    "relationship": "El pedido anticipado requiere la app, inicio de sesión y una tienda participante.",
+    "covered": true,
+    "evidence": " ¿Cuándo elegir pedido anticipado y cuándo entrega a domicilio?",
+    "relationship_review": "Supporting concept"
+  },
+  {
+    "canonical": "Starbucks Rewards",
+    "type": "Product",
+    "tier": 2,
+    "aliases": [
+      "Rewards"
+    ],
+    "kind": "entity",
+    "sameAs": [],
+    "competitor_sources": [],
+    "competitor_count": 0,
+    "in_title_or_h2": false,
+    "source_ids": [
+      "mop",
+      "card"
+    ],
+    "relationship": "No debe darse por supuesta la compatibilidad internacional de una cuenta.",
+    "covered": true,
+    "evidence": "En Alemania, Mobile Order & Pay requiere la app, una sesión iniciada en Starbucks Rewards y un establecimiento participante. Comprueba el nombre y la dirección de recogida antes de pagar. Las condiciones están en las preguntas oficiales sobre pedido móvil; no des por hecho que una cuenta o tarjeta de otro país tendrá las mismas condiciones de uso. La FAQ alemana de Starbucks Card explica la participación de los establecimientos alemanes.",
+    "relationship_review": "Supporting concept"
+  },
+  {
+    "canonical": "entrega",
+    "type": "Concept",
+    "tier": 2,
+    "aliases": [
+      "a domicilio",
+      "reparto"
+    ],
+    "kind": "term",
+    "sameAs": [],
+    "competitor_sources": [
+      "rappi"
+    ],
+    "competitor_count": 1,
+    "in_title_or_h2": true,
+    "source_ids": [
+      "delivery",
+      "rappi"
+    ],
+    "relationship": "El reparto se comprueba con la dirección de entrega.",
+    "covered": true,
+    "evidence": "Si buscas «starbucks cerca de mi» durante un viaje, el idioma de la consulta no basta para indicar dónde quieres tomar café. Esta guía está pensada especialmente para lectores que buscan en español mientras visitan Alemania. También te ayuda a reconocer cuándo un resultado corresponde a España, México o a un servicio de reparto.",
+    "relationship_review": "Supporting concept"
+  },
+  {
+    "canonical": "precios",
+    "type": "Concept",
+    "tier": 2,
+    "aliases": [
+      "precio"
+    ],
+    "kind": "term",
+    "sameAs": [],
+    "competitor_sources": [],
+    "competitor_count": 0,
+    "in_title_or_h2": true,
+    "source_ids": [
+      "menu",
+      "mop"
+    ],
+    "relationship": "La ficha de compra elegida es la referencia para el pedido concreto.",
+    "covered": true,
+    "evidence": " ¿Dónde comprobar el menú, los precios y los servicios?",
+    "relationship_review": "Supporting concept"
+  },
+  {
+    "canonical": "wifi",
+    "type": "Concept",
+    "tier": 2,
+    "aliases": [
+      "Wi-Fi"
+    ],
+    "kind": "term",
+    "sameAs": [],
+    "competitor_sources": [],
+    "competitor_count": 0,
+    "in_title_or_h2": false,
+    "source_ids": [
+      "kettwiger"
+    ],
+    "relationship": "Una ficha puede indicar wifi sin garantizar asientos o enchufes.",
+    "covered": true,
+    "evidence": "Si necesitas wifi, busca ese servicio en la ficha elegida. Un servicio anunciado no indica cuántas mesas quedan libres ni dónde hay enchufes. Para una reunión o una sesión de trabajo, conviene comprobar esas condiciones al llegar antes de comprometerte con una estancia larga.",
+    "relationship_review": "Supporting concept"
+  },
+  {
+    "canonical": "sin conexión",
+    "type": "Concept",
+    "tier": 2,
+    "aliases": [
+      "offline"
+    ],
+    "kind": "term",
+    "sameAs": [],
+    "competitor_sources": [],
+    "competitor_count": 0,
+    "in_title_or_h2": false,
+    "source_ids": [
+      "maps_offline"
+    ],
+    "relationship": "Las funciones de mapas descargados son limitadas.",
+    "covered": true,
+    "evidence": "Los mapas descargados permiten un uso limitado sin conexión, pero no sustituyen todas las funciones disponibles online. Google indica que sin conexión no están disponibles las rutas a pie, en bicicleta o en transporte público; tampoco debes contar con información recién actualizada del negocio. Limitaciones de mapas sin conexión.",
+    "relationship_review": "Supporting concept"
+  },
+  {
+    "canonical": "acceso",
+    "type": "Concept",
+    "tier": 2,
+    "aliases": [
+      "entrada",
+      "accesible"
+    ],
+    "kind": "term",
+    "sameAs": [],
+    "competitor_sources": [],
+    "competitor_count": 0,
+    "in_title_or_h2": false,
+    "source_ids": [
+      "station"
+    ],
+    "relationship": "La entrada física y la accesibilidad deben comprobarse para el viaje.",
+    "covered": true,
+    "evidence": "2. Permite el acceso a tu ubicación si quieres usarla, o introduce manualmente tu ciudad y dirección de referencia.",
+    "relationship_review": "Supporting concept"
+  },
+  {
+    "canonical": "Drive-Thru",
+    "type": "Concept",
+    "tier": 3,
+    "aliases": [
+      "autoservicio"
+    ],
+    "kind": "term",
+    "sameAs": [],
+    "competitor_sources": [],
+    "competitor_count": 0,
+    "in_title_or_h2": false,
+    "source_ids": [],
+    "relationship": "No se confirma disponibilidad local.",
+    "covered": false,
+    "evidence": "",
+    "relationship_review": "Supporting concept"
+  },
+  {
+    "canonical": "descuento",
+    "type": "Concept",
+    "tier": 3,
+    "aliases": [
+      "cupones"
+    ],
+    "kind": "term",
+    "sameAs": [],
+    "competitor_sources": [],
+    "competitor_count": 0,
+    "in_title_or_h2": false,
+    "source_ids": [],
+    "relationship": "No se usa una promoción no comprobada.",
+    "covered": false,
+    "evidence": "",
+    "relationship_review": "Supporting concept"
+  }
+]

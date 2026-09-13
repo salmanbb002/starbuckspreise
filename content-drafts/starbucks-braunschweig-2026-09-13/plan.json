@@ -1,0 +1,30 @@
+{
+  "slug": "starbucks-braunschweig",
+  "keyword": "starbucks braunschweig",
+  "language": "de-DE",
+  "title": "Starbucks Braunschweig: Filiale, Adresse & Öffnungszeiten am Damm",
+  "description": "Starbucks Braunschweig: Die einzige aktuelle Filiale liegt am Damm 22. Adresse, Öffnungszeiten, Lieferung und warum ältere Standorte nicht mehr gelten.",
+  "outline": [
+    [1, "Starbucks Braunschweig: Filiale, Adresse und Öffnungszeiten am Damm", "starbucks braunschweig", ["Starbucks", "Braunschweig"]],
+    [2, "Wo ist der aktuelle Starbucks in Braunschweig?", "starbucks braunschweig adresse", ["Damm 22", "Fußgängerzone Damm"]],
+    [3, "Warum listen manche Verzeichnisse noch den Kohlmarkt oder die Schloss-Arkaden?", "starbucks braunschweig kohlmarkt schloss arkaden", ["Kohlmarkt 18", "Schloss-Arkaden / Bohlweg 74-75"]],
+    [2, "Welche Öffnungszeiten gelten am Damm 22?", "starbucks braunschweig öffnungszeiten", ["Öffnungszeiten"]],
+    [2, "Warum kehrte Starbucks erst Ende 2024 nach Braunschweig zurück?", "starbucks braunschweig eröffnung", ["Braunschweig", "Kohlmarkt 18", "Schloss-Arkaden / Bohlweg 74-75", "Niedersachsen"]],
+    [2, "Was bietet die Filiale am Damm?", "starbucks braunschweig ausstattung", ["WLAN", "Mobile Order & Pay", "Starbucks Rewards", "Drive-Thru"]],
+    [2, "Können Sie sich Starbucks aus Braunschweig liefern lassen?", "starbucks braunschweig lieferung", ["Lieferung"]],
+    [2, "Wie kommen Sie am besten zum Damm 22?", "starbucks braunschweig anfahrt", ["Damm 22", "Fußgängerzone Damm"]],
+    [2, "Häufig gestellte Fragen", "starbucks braunschweig faq", []]
+  ],
+  "entities": "see entities.json",
+  "competitors": ["oezb", "offennet", "tonline", "yelp"],
+  "information_gain": "\"Aktuell vs. veraltet\"-Einordnung: Kohlmarkt 18 und Schloss-Arkaden/Bohlweg 74-75 werden explizit als geschlossen benannt (Yelp-Status + t-online-Daten), etwas, das keiner der vier Wettbewerber leistet.",
+  "date_researched": "2026-09-13",
+  "sources": {
+    "de_locator": {"url": "https://www.starbucks.de/de/store-locator/81776-311207", "title": "Coffee House Suche - Details - Braunschweig Damm 22 | Starbucks", "facts": "Damm 22, 38100 Braunschweig. Mo-Fr 08:00-20:00, Sa 09:00-20:00, So 11:00-18:00. Lists Wi-Fi, reward redemption, mobile ordering.", "accessed": "2026-09-13"},
+    "oezb": {"url": "https://www.oeffnungszeitenbuch.de/filiale/Braunschweig-Starbucks%2520Coffee-133825P.html", "title": "Starbucks Coffee in Braunschweig | Öffnungszeitenbuch", "facts": "Lists Bohlweg 74-75 (Schloss Arkaden) as current address, plus Kohlmarkt 18 nearby. Stale relative to official locator.", "accessed": "2026-09-13"},
+    "offennet": {"url": "https://www.offen.net/braunschweig/filialen/starbucks-1HVM0.html", "title": "Starbucks in Braunschweig | Offen.net", "facts": "Lists Kohlmarkt 18 and Bohlweg 74 as the two Innenstadt locations. No hours, no Damm 22.", "accessed": "2026-09-13"},
+    "tonline": {"url": "https://braunschweig.t-online.de/region/braunschweig/id_100517224/braunschweig-starbucks-eroeffnet-anfang-dezember-filiale-in-der-innenstadt.html", "title": "Braunschweig: Starbucks eröffnet Filiale in der Innenstadt", "facts": "Starbucks fully left Braunschweig ~5 years before Dec 2024; prior stores Kohlmarkt (~10 yrs, closed) and Schloss-Arkaden (closed 2016); new ~200 sqm store opens early Dec 2024 on Damm pedestrian zone; reasoning paraphrased re: site potential and Braunschweig as Lower Saxony's 2nd-largest city.", "accessed": "2026-09-13"},
+    "yelp": {"url": "https://www.yelp.com/biz/starbucks-braunschweig-3", "title": "Starbucks - CLOSED - Kohlmarkt 18, Braunschweig | Yelp", "facts": "Kohlmarkt 18 listing marked CLOSED, updated March 2026 — third-party confirmation.", "accessed": "2026-09-13"},
+    "delivery": {"url": "https://wolt.com/en/deu/brunswick/restaurant/starbucks-braunschweig", "title": "Starbucks Braunschweig | Wolt", "facts": "Damm 22 listed on Wolt; also confirmed on Uber Eats and Lieferando with pick-up option and a delivery-restricted menu.", "accessed": "2026-09-13"}
+  }
+}
