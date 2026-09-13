@@ -98,19 +98,19 @@
     },
     {
       "source": "/starbucks-braunschweig",
-      "destination": "/blog/starbucks-braunschweig.html"
+      "destination": "/blog/starbucks-braunschweig"
     },
     {
       "source": "/blog/starbucks-braunschweig",
-      "destination": "/blog/starbucks-braunschweig.html"
+      "destination": "/blog/starbucks-braunschweig"
     },
     {
       "source": "/starbucks-heilbronn",
-      "destination": "/blog/starbucks-heilbronn.html"
+      "destination": "/blog/starbucks-heilbronn"
     },
     {
       "source": "/blog/starbucks-heilbronn",
-      "destination": "/blog/starbucks-heilbronn.html"
+      "destination": "/blog/starbucks-heilbronn"
     }
   ]
 }
