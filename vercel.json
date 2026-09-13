@@ -87,6 +87,14 @@
     {
       "source": "/starbucks-near-me",
       "destination": "/blog/starbucks-near-me"
+    },
+    {
+      "source": "/starbucks-in-der-naehe",
+      "destination": "/blog/starbucks-in-der-naehe.html"
+    },
+    {
+      "source": "/blog/starbucks-in-der-naehe",
+      "destination": "/blog/starbucks-in-der-naehe.html"
     }
   ]
 }
