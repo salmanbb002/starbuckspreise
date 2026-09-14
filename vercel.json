@@ -119,6 +119,14 @@
     {
       "source": "/blog/starbucks-loerrach",
       "destination": "/blog/starbucks-loerrach.html"
+    },
+    {
+      "source": "/starbucks-wuerzburg",
+      "destination": "/blog/starbucks-wuerzburg.html"
+    },
+    {
+      "source": "/blog/starbucks-wuerzburg",
+      "destination": "/blog/starbucks-wuerzburg.html"
     }
   ]
 }
