@@ -105,7 +105,7 @@ Nearby search can be anchored to a place/address. Local results combine relevanc
 
 ### maps_routes
 
-[Obtener indicaciones y mostrar rutas en Google Maps](https://support.google.com/maps/answer/144339?hl=es) — accessed 2026-09-13.
+[Wegbeschreibungen abrufen und Routen in Google Maps anzeigen](https://support.google.com/maps/answer/144339?hl=de) — accessed 2026-09-13.
 Select start, destination and transport mode. Durations are estimates; driving and walking routes differ.
 
 ### maps_location

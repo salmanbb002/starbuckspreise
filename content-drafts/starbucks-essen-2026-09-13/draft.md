@@ -64,7 +64,7 @@ Daraus folgt weder sicher eine Schließung noch ein Umzug. Wer gezielt nach „S
 
 ## Wie planen Sie die Anfahrt ohne unnötigen Umweg?
 
-Eine brauchbare Route beginnt mit der vollständigen Adresse und dem passenden Verkehrsmittel. Google Maps unterscheidet unter anderem Wege zu Fuß, mit dem Auto und mit öffentlichen Verkehrsmitteln. Die angezeigte Dauer ist eine Schätzung für die gewählte Verbindung. [Google-Hilfe zur Routenplanung](https://support.google.com/maps/answer/144339?hl=es).
+Eine brauchbare Route beginnt mit der vollständigen Adresse und dem passenden Verkehrsmittel. Google Maps unterscheidet unter anderem Wege zu Fuß, mit dem Auto und mit öffentlichen Verkehrsmitteln. Die angezeigte Dauer ist eine Schätzung für die gewählte Verbindung. [Google-Hilfe zur Routenplanung](https://support.google.com/maps/answer/144339?hl=de).
 
 1. Öffnen Sie die gewünschte Filialseite und übernehmen Sie die genaue Adresse als Ziel.
 2. Prüfen Sie den Startpunkt. Bei der Reiseplanung kann das Ihr Hotel oder ein Bahnhof statt Ihres jetzigen Aufenthaltsorts sein.

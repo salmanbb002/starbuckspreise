@@ -111,6 +111,14 @@
     {
       "source": "/blog/starbucks-heilbronn",
       "destination": "/blog/starbucks-heilbronn"
+    },
+    {
+      "source": "/starbucks-loerrach",
+      "destination": "/blog/starbucks-loerrach.html"
+    },
+    {
+      "source": "/blog/starbucks-loerrach",
+      "destination": "/blog/starbucks-loerrach.html"
     }
   ]
 }
