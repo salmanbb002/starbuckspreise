@@ -127,6 +127,22 @@
     {
       "source": "/blog/starbucks-wuerzburg",
       "destination": "/blog/starbucks-wuerzburg.html"
+    },
+    {
+      "source": "/starbucks-kassel",
+      "destination": "/blog/starbucks-kassel.html"
+    },
+    {
+      "source": "/blog/starbucks-kassel",
+      "destination": "/blog/starbucks-kassel.html"
+    },
+    {
+      "source": "/starbucks-trier",
+      "destination": "/blog/starbucks-trier.html"
+    },
+    {
+      "source": "/blog/starbucks-trier",
+      "destination": "/blog/starbucks-trier.html"
     }
   ]
 }
