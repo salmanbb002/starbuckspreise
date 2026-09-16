@@ -1,0 +1,15 @@
+[
+  {"canonical": "Starbucks Corporation", "type": "Organization", "aliases": ["Starbucks"], "sameAs": "https://de.wikipedia.org/wiki/Starbucks", "kind": "entity", "competitor_count": 4, "in_title_or_h2": true, "tier": 1},
+  {"canonical": "Berlin", "type": "Place", "aliases": [], "sameAs": "https://de.wikipedia.org/wiki/Berlin", "kind": "entity", "competitor_count": 4, "in_title_or_h2": true, "tier": 1},
+  {"canonical": "You Are Here Series", "type": "Product line", "aliases": ["YAH"], "sameAs": "", "kind": "term", "competitor_count": 3, "in_title_or_h2": false, "tier": 1},
+  {"canonical": "Been There Series", "type": "Product line", "aliases": [], "sameAs": "", "kind": "term", "competitor_count": 1, "in_title_or_h2": false, "tier": 1},
+  {"canonical": "Icon Series", "type": "Product line", "aliases": [], "sameAs": "", "kind": "term", "competitor_count": 2, "in_title_or_h2": false, "tier": 2},
+  {"canonical": "Relief Series", "type": "Product line", "aliases": ["Relief Mug"], "sameAs": "", "kind": "term", "competitor_count": 2, "in_title_or_h2": false, "tier": 2},
+  {"canonical": "Ornament Mug", "type": "Product", "aliases": ["Mini Mug"], "sameAs": "", "kind": "term", "competitor_count": 2, "in_title_or_h2": false, "tier": 2},
+  {"canonical": "Brandenburger Tor", "type": "Landmark", "aliases": [], "sameAs": "https://de.wikipedia.org/wiki/Brandenburger_Tor", "kind": "entity", "competitor_count": 0, "in_title_or_h2": false, "tier": 2},
+  {"canonical": "Berliner Fernsehturm", "type": "Landmark", "aliases": ["Fernsehturm"], "sameAs": "https://de.wikipedia.org/wiki/Berliner_Fernsehturm", "kind": "entity", "competitor_count": 0, "in_title_or_h2": false, "tier": 3},
+  {"canonical": "Keramik", "type": "Material", "aliases": ["ceramic"], "sameAs": "https://de.wikipedia.org/wiki/Keramik", "kind": "term", "competitor_count": 3, "in_title_or_h2": false, "tier": 2},
+  {"canonical": "SKU-Aufkleber", "type": "Concept", "aliases": ["Bodenstempel"], "sameAs": "", "kind": "term", "competitor_count": 1, "in_title_or_h2": false, "tier": 2},
+  {"canonical": "thecoffeemugshop.de", "type": "Organization", "aliases": [], "sameAs": "", "kind": "entity", "competitor_count": 1, "in_title_or_h2": false, "tier": 2},
+  {"canonical": "Kleinanzeigen / eBay", "type": "Marketplace", "aliases": ["Zweitmarkt"], "sameAs": "", "kind": "term", "competitor_count": 2, "in_title_or_h2": false, "tier": 2}
+]

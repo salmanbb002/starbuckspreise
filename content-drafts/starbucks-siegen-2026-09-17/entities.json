@@ -1,0 +1,156 @@
+[
+  {
+    "canonical": "Starbucks",
+    "type": "Organization",
+    "tier": 1,
+    "aliases": [],
+    "kind": "entity",
+    "sameAs": ["https://de.wikipedia.org/wiki/Starbucks"],
+    "competitor_count": 5,
+    "in_title_or_h2": true,
+    "relationship": "Betreibt die Filiale in der City Galerie Siegen, Am Bahnhof 40."
+  },
+  {
+    "canonical": "Siegen",
+    "type": "Place",
+    "tier": 1,
+    "aliases": [],
+    "kind": "entity",
+    "sameAs": ["https://de.wikipedia.org/wiki/Siegen"],
+    "competitor_count": 5,
+    "in_title_or_h2": true,
+    "relationship": "Stadt in Nordrhein-Westfalen mit rund 102.685 Einwohnern (Stand 31.12.2024)."
+  },
+  {
+    "canonical": "City Galerie Siegen / Am Bahnhof 40",
+    "type": "Place",
+    "tier": 1,
+    "aliases": ["Am Bahnhof 40", "City Galerie"],
+    "kind": "entity",
+    "sameAs": ["https://www.starbucks.de/de/store-locator/55528-288975/siegen-city-galerie"],
+    "competitor_count": 5,
+    "in_title_or_h2": true,
+    "relationship": "Adresse der einzigen Starbucks-Filiale in Siegen, direkt am Hauptbahnhof."
+  },
+  {
+    "canonical": "Öffnungszeiten",
+    "type": "Concept",
+    "tier": 1,
+    "aliases": [],
+    "kind": "term",
+    "sameAs": "",
+    "competitor_count": 3,
+    "in_title_or_h2": true,
+    "relationship": "Mo–Fr 08:30–20:00, Sa 09:00–20:00, So geschlossen laut offiziellem Store Locator."
+  },
+  {
+    "canonical": "Parkhaus City-Galerie",
+    "type": "Place",
+    "tier": 2,
+    "aliases": [],
+    "kind": "entity",
+    "sameAs": "",
+    "competitor_count": 2,
+    "in_title_or_h2": false,
+    "relationship": "1.200 Stellplätze, geöffnet 08:00–20:30 Uhr, direkt am Einkaufszentrum."
+  },
+  {
+    "canonical": "Siegen Hauptbahnhof",
+    "type": "Place",
+    "tier": 2,
+    "aliases": [],
+    "kind": "entity",
+    "sameAs": ["https://en.wikipedia.org/wiki/Siegen_Hauptbahnhof"],
+    "competitor_count": 1,
+    "in_title_or_h2": false,
+    "relationship": "Rund 40 Buslinien am Vorplatz, zahlreiche Zuganbindungen in die Region."
+  },
+  {
+    "canonical": "Lieferando",
+    "type": "Product",
+    "tier": 2,
+    "aliases": [],
+    "kind": "entity",
+    "sameAs": ["https://de.wikipedia.org/wiki/Lieferando"],
+    "competitor_count": 1,
+    "in_title_or_h2": false,
+    "relationship": "Liefert Starbucks Siegen: 4,1★ (19 Bewertungen), 35–50 Min. Lieferzeit, 6,79 € Gebühr, 20 € Mindestbestellwert."
+  },
+  {
+    "canonical": "Uber Eats",
+    "type": "Product",
+    "tier": 2,
+    "aliases": [],
+    "kind": "entity",
+    "sameAs": ["https://de.wikipedia.org/wiki/Uber_Eats"],
+    "competitor_count": 1,
+    "in_title_or_h2": false,
+    "relationship": "Zweite Lieferplattform, listet dieselbe City-Galerie-Filiale."
+  },
+  {
+    "canonical": "Mobile Order & Pay",
+    "type": "Concept",
+    "tier": 2,
+    "aliases": [],
+    "kind": "term",
+    "sameAs": "",
+    "competitor_count": 1,
+    "in_title_or_h2": false,
+    "relationship": "Laut Store Locator für die City-Galerie-Filiale verfügbar."
+  },
+  {
+    "canonical": "Starbucks Rewards",
+    "type": "Product",
+    "tier": 2,
+    "aliases": [],
+    "kind": "entity",
+    "sameAs": "",
+    "competitor_count": 1,
+    "in_title_or_h2": false,
+    "relationship": "Einlösung von Rewards-Sternen laut Store Locator möglich."
+  },
+  {
+    "canonical": "WLAN",
+    "type": "Concept",
+    "tier": 2,
+    "aliases": ["drahtloser Hotspot"],
+    "kind": "term",
+    "sameAs": "",
+    "competitor_count": 1,
+    "in_title_or_h2": false,
+    "relationship": "Drahtloser Hotspot laut Store Locator vorhanden."
+  },
+  {
+    "canonical": "Universität Siegen",
+    "type": "Organization",
+    "tier": 2,
+    "aliases": [],
+    "kind": "entity",
+    "sameAs": ["https://de.wikipedia.org/wiki/Universit%C3%A4t_Siegen"],
+    "competitor_count": 1,
+    "in_title_or_h2": false,
+    "relationship": "13.755 Studierende im Wintersemester 2025/2026, nahe der Innenstadt."
+  },
+  {
+    "canonical": "Siegen Lane (Baton Rouge, USA)",
+    "type": "Place",
+    "tier": 3,
+    "aliases": ["Siegen Lane"],
+    "kind": "entity",
+    "sameAs": "",
+    "competitor_count": 2,
+    "in_title_or_h2": false,
+    "relationship": "Unabhängige Straße mit eigenem Starbucks in Baton Rouge, Louisiana — Ursache für internationale Namensverwechslung."
+  },
+  {
+    "canonical": "Drive-Thru",
+    "type": "Concept",
+    "tier": 3,
+    "aliases": [],
+    "kind": "term",
+    "sameAs": "",
+    "competitor_count": 0,
+    "in_title_or_h2": false,
+    "relationship": "Nicht als Ausstattung gelistet; Center-Lage ohne Durchfahrt."
+  }
+]

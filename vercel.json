@@ -143,6 +143,46 @@
     {
       "source": "/blog/starbucks-trier",
       "destination": "/blog/starbucks-trier.html"
+    },
+    {
+      "source": "/starbucks-giessen",
+      "destination": "/blog/starbucks-giessen.html"
+    },
+    {
+      "source": "/blog/starbucks-giessen",
+      "destination": "/blog/starbucks-giessen.html"
+    },
+    {
+      "source": "/starbucks-siegen",
+      "destination": "/blog/starbucks-siegen.html"
+    },
+    {
+      "source": "/blog/starbucks-siegen",
+      "destination": "/blog/starbucks-siegen.html"
+    },
+    {
+      "source": "/starbucks-chemnitz",
+      "destination": "/blog/starbucks-chemnitz.html"
+    },
+    {
+      "source": "/blog/starbucks-chemnitz",
+      "destination": "/blog/starbucks-chemnitz.html"
+    },
+    {
+      "source": "/starbucks-mainz",
+      "destination": "/blog/starbucks-mainz.html"
+    },
+    {
+      "source": "/blog/starbucks-mainz",
+      "destination": "/blog/starbucks-mainz.html"
+    },
+    {
+      "source": "/starbucks-tasse-berlin",
+      "destination": "/blog/starbucks-tasse-berlin.html"
+    },
+    {
+      "source": "/blog/starbucks-tasse-berlin",
+      "destination": "/blog/starbucks-tasse-berlin.html"
     }
   ]
 }

@@ -1,0 +1,54 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "Article",
+      "@id": "https://starbuckspreise.com/blog/starbucks-mainz/#article",
+      "headline": "Starbucks Mainz: Filiale am Hauptbahnhof, Öffnungszeiten und Anfahrt",
+      "description": "Starbucks in Mainz liegt im Hauptbahnhof auf der 2. Etage nahe Bahnsteig 3/4. Adresse, Öffnungszeiten, Anfahrt und weitere Filialen im nahen Wiesbaden im Überblick.",
+      "image": "https://starbuckspreise.com/img/blog/starbucks-braunschweig-hero.webp",
+      "datePublished": "2026-09-17T09:00:00+02:00",
+      "dateModified": "2026-09-17T09:00:00+02:00",
+      "inLanguage": "de-DE",
+      "author": {"@type": "Organization", "name": "StarbucksPreise Redaktion", "url": "https://starbuckspreise.com"},
+      "publisher": {"@type": "Organization", "name": "StarbucksPreise Deutschland", "url": "https://starbuckspreise.com"},
+      "mainEntityOfPage": "https://starbuckspreise.com/blog/starbucks-mainz",
+      "about": [
+        {"@type": "Organization", "name": "Starbucks", "sameAs": "https://de.wikipedia.org/wiki/Starbucks"},
+        {"@type": "Place", "name": "Mainz", "sameAs": "https://de.wikipedia.org/wiki/Mainz"}
+      ],
+      "mentions": [
+        {"@type": "Place", "name": "Mainz Hauptbahnhof", "sameAs": "https://de.wikipedia.org/wiki/Mainz_Hauptbahnhof"},
+        {"@type": "Place", "name": "Wiesbaden", "sameAs": "https://de.wikipedia.org/wiki/Wiesbaden"}
+      ],
+      "speakable": {"@type": "SpeakableSpecification", "cssSelector": ["#direct-answer"]}
+    },
+    {
+      "@type": "BreadcrumbList",
+      "@id": "https://starbuckspreise.com/blog/starbucks-mainz/#breadcrumb",
+      "itemListElement": [
+        {"@type": "ListItem", "position": 1, "name": "Startseite", "item": "https://starbuckspreise.com"},
+        {"@type": "ListItem", "position": 2, "name": "Blog", "item": "https://starbuckspreise.com/blog"},
+        {"@type": "ListItem", "position": 3, "name": "Starbucks Mainz", "item": "https://starbuckspreise.com/blog/starbucks-mainz"}
+      ]
+    },
+    {
+      "@type": "FAQPage",
+      "@id": "https://starbuckspreise.com/blog/starbucks-mainz/#faq",
+      "mainEntity": [
+        {"@type": "Question", "name": "Gibt es einen Starbucks in Mainz?", "acceptedAnswer": {"@type": "Answer", "text": "Ja, im Mainzer Hauptbahnhof am Bahnhofsplatz 1, auf der 2. Etage nahe Bahnsteig 3/4."}},
+        {"@type": "Question", "name": "Welche Öffnungszeiten hat der Starbucks in Mainz?", "acceptedAnswer": {"@type": "Answer", "text": "Laut Bahnhofsbetreiber täglich einschließlich Feiertagen von 8:00 bis 20:00 Uhr."}},
+        {"@type": "Question", "name": "Warum zeigen manche Verzeichnisse andere Öffnungszeiten an?", "acceptedAnswer": {"@type": "Answer", "text": "Mehrere Filial-Verzeichnisse geben für diese Adresse technisch unplausible, widersprüchliche Zeiten an - ein bekanntes Datenproblem bei automatisiert erfassten Bahnhofsstandorten. Die Angabe des Bahnhofsbetreibers gilt als verlässlichste Quelle."}},
+        {"@type": "Question", "name": "Was hat es mit der Römerpassage auf sich?", "acceptedAnswer": {"@type": "Answer", "text": "2011 galt die Römerpassage in der Mainzer Innenstadt als wahrscheinlichster Standort für die erste Filiale. Eröffnet wurde der Store am Ende jedoch im Hauptbahnhof, nicht in der Passage."}},
+        {"@type": "Question", "name": "Seit wann gibt es den Starbucks in Mainz?", "acceptedAnswer": {"@type": "Answer", "text": "Die Filiale ging 2011 in Betrieb, nachdem Starbucks zuvor gezielt Personal für den Standort gesucht hatte."}},
+        {"@type": "Question", "name": "Gibt es eine zweite Starbucks-Filiale in Mainz?", "acceptedAnswer": {"@type": "Answer", "text": "Nach aktuellem Rechercheeinstand nicht - die Hauptbahnhof-Filiale ist die einzige innerhalb der Stadtgrenzen."}},
+        {"@type": "Question", "name": "Wo finde ich die nächsten weiteren Filialen?", "acceptedAnswer": {"@type": "Answer", "text": "Im rund 45 Kilometer entfernten Wiesbaden gibt es zwei Filialen: am Hauptbahnhof (Bahnhofsplatz 3) und in der Innenstadt (Kirchgasse 35-43)."}},
+        {"@type": "Question", "name": "Wie komme ich ohne Auto zur Filiale?", "acceptedAnswer": {"@type": "Answer", "text": "Die Filiale liegt im Bahnhofsgebäude selbst; von den Bahnsteigen führen Rolltreppen und Aufzüge direkt zur 2. Etage, Bus und Straßenbahn halten unmittelbar am Hauptbahnhof."}},
+        {"@type": "Question", "name": "Kann ich am Bahnhof in Mainz mit Karte bezahlen?", "acceptedAnswer": {"@type": "Answer", "text": "Ja, akzeptiert werden Bargeld, Girocard, Mastercard und Visa."}},
+        {"@type": "Question", "name": "Bietet die Filiale Mobile Order & Pay an?", "acceptedAnswer": {"@type": "Answer", "text": "An vielen deutschen Bahnhofs-Standorten wird Mobile Order & Pay unterstützt; eine kurze Prüfung in der App vor dem Besuch wird empfohlen."}},
+        {"@type": "Question", "name": "Folgen die Preise in Mainz der bundesweiten Starbucks-Preisliste?", "acceptedAnswer": {"@type": "Answer", "text": "Ja, es gibt keine gesonderten Mainz-Preise - maßgeblich ist die bundesweit einheitliche Preisliste von Starbucks Deutschland."}},
+        {"@type": "Question", "name": "Kann ich Kaffeebohnen zum Mitnehmen kaufen?", "acceptedAnswer": {"@type": "Answer", "text": "Ja, die Filiale führt Kaffeebohnen, die auf Wunsch direkt vor Ort gemahlen werden."}}
+      ]
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+[
+  {"canonical": "Starbucks", "type": "Organization", "aliases": ["Starbucks Coffee", "Starbucks Corporation"], "sameAs": "https://de.wikipedia.org/wiki/Starbucks", "kind": "entity", "competitor_count": 4, "in_title_or_h2": true, "tier": 1},
+  {"canonical": "Mainz", "type": "Place", "aliases": [], "sameAs": "https://de.wikipedia.org/wiki/Mainz", "kind": "entity", "competitor_count": 4, "in_title_or_h2": true, "tier": 1},
+  {"canonical": "Mainz Hauptbahnhof", "type": "Place", "aliases": ["Mainz Hbf"], "sameAs": "https://de.wikipedia.org/wiki/Mainz_Hauptbahnhof", "kind": "entity", "competitor_count": 3, "in_title_or_h2": true, "tier": 1},
+  {"canonical": "Bahnhofsplatz 1", "type": "Place", "aliases": ["Bahnhofplatz 1"], "sameAs": "", "kind": "entity", "competitor_count": 3, "in_title_or_h2": false, "tier": 1},
+  {"canonical": "Öffnungszeiten", "type": "Concept", "aliases": ["opening hours"], "sameAs": "", "kind": "term", "competitor_count": 4, "in_title_or_h2": true, "tier": 1},
+  {"canonical": "Römerpassage", "type": "Place", "aliases": [], "sameAs": "", "kind": "entity", "competitor_count": 1, "in_title_or_h2": false, "tier": 2},
+  {"canonical": "Wiesbaden", "type": "Place", "aliases": [], "sameAs": "https://de.wikipedia.org/wiki/Wiesbaden", "kind": "entity", "competitor_count": 2, "in_title_or_h2": true, "tier": 2},
+  {"canonical": "DB Station&Service", "type": "Organization", "aliases": ["Deutsche Bahn"], "sameAs": "", "kind": "entity", "competitor_count": 1, "in_title_or_h2": false, "tier": 2},
+  {"canonical": "Fairtrade-Espresso", "type": "Product", "aliases": ["Fairtrade-zertifizierter Espresso"], "sameAs": "", "kind": "term", "competitor_count": 1, "in_title_or_h2": false, "tier": 2},
+  {"canonical": "Frappuccino", "type": "Product", "aliases": [], "sameAs": "", "kind": "entity", "competitor_count": 1, "in_title_or_h2": false, "tier": 3},
+  {"canonical": "Caramel Macchiato", "type": "Product", "aliases": [], "sameAs": "", "kind": "entity", "competitor_count": 1, "in_title_or_h2": false, "tier": 3},
+  {"canonical": "Mobile Order & Pay", "type": "Product", "aliases": ["Mobile Order"], "sameAs": "", "kind": "term", "competitor_count": 2, "in_title_or_h2": false, "tier": 2}
+]

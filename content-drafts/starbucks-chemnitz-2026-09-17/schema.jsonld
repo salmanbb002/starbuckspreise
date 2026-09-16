@@ -1,0 +1,61 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "Article",
+      "@id": "https://starbuckspreise.com/blog/starbucks-chemnitz/#article",
+      "headline": "Starbucks Chemnitz: Gibt es eine Filiale? Standorte und Alternativen",
+      "description": "Starbucks in Chemnitz: Aktuell gibt es in der Stadt kein eigenes Coffee House. Wo die nächsten Filialen liegen, was es mit der Innenstadt-Ankündigung auf sich hat und gute Alternativen.",
+      "image": "https://starbuckspreise.com/img/blog/starbucks-heilbronn-hero.webp",
+      "datePublished": "2026-09-17T09:00:00+02:00",
+      "dateModified": "2026-09-17T09:00:00+02:00",
+      "inLanguage": "de-DE",
+      "author": {
+        "@type": "Organization",
+        "name": "StarbucksPreise Redaktion",
+        "url": "https://starbuckspreise.com"
+      },
+      "publisher": {
+        "@type": "Organization",
+        "name": "StarbucksPreise Deutschland",
+        "url": "https://starbuckspreise.com"
+      },
+      "mainEntityOfPage": "https://starbuckspreise.com/blog/starbucks-chemnitz",
+      "about": [
+        {"@type": "Organization", "name": "Starbucks", "sameAs": "https://de.wikipedia.org/wiki/Starbucks"},
+        {"@type": "Place", "name": "Chemnitz", "sameAs": "https://de.wikipedia.org/wiki/Chemnitz"}
+      ],
+      "mentions": [
+        {"@type": "Organization", "name": "Coffee Fellows", "sameAs": "https://de.wikipedia.org/wiki/Coffee_Fellows"},
+        {"@type": "Place", "name": "Dresden", "sameAs": "https://de.wikipedia.org/wiki/Dresden"},
+        {"@type": "Place", "name": "Leipzig", "sameAs": "https://de.wikipedia.org/wiki/Leipzig"}
+      ],
+      "speakable": {"@type": "SpeakableSpecification", "cssSelector": ["#direct-answer"]}
+    },
+    {
+      "@type": "BreadcrumbList",
+      "@id": "https://starbuckspreise.com/blog/starbucks-chemnitz/#breadcrumb",
+      "itemListElement": [
+        {"@type": "ListItem", "position": 1, "name": "Startseite", "item": "https://starbuckspreise.com"},
+        {"@type": "ListItem", "position": 2, "name": "Blog", "item": "https://starbuckspreise.com/blog"},
+        {"@type": "ListItem", "position": 3, "name": "Starbucks Chemnitz", "item": "https://starbuckspreise.com/blog/starbucks-chemnitz"}
+      ]
+    },
+    {
+      "@type": "FAQPage",
+      "@id": "https://starbuckspreise.com/blog/starbucks-chemnitz/#faq",
+      "mainEntity": [
+        {"@type": "Question", "name": "Gibt es einen Starbucks in Chemnitz?", "acceptedAnswer": {"@type": "Answer", "text": "Nein, aktuell betreibt Starbucks kein eigenständiges Coffee House innerhalb der Stadt Chemnitz. Der offizielle Store Locator listet für Chemnitz keinen Treffer."}},
+        {"@type": "Question", "name": "Was hat es mit der angeblichen Starbucks-Eröffnung in der Chemnitzer Innenstadt auf sich?", "acceptedAnswer": {"@type": "Answer", "text": "Die Freie Presse nannte Starbucks im Mai 2025 im Zusammenhang mit neuen Innenstadtläden, allerdings auch unter Projekten, die am Ende nicht umgesetzt wurden. Eine Eröffnung ist bis heute nicht erfolgt."}},
+        {"@type": "Question", "name": "Warum zeigt eine Suche nach \"Starbucks Altmarkt\" einen Treffer für Chemnitz an?", "acceptedAnswer": {"@type": "Answer", "text": "Der Eintrag bezieht sich tatsächlich auf die Filiale am Altmarkt 7 in Dresden, nicht auf Chemnitz. Beide Städte haben einen zentralen Platz namens Altmarkt, was bei Lieferdienst-Plattformen zu Verwechslungen führt."}},
+        {"@type": "Question", "name": "Wo liegt der nächstgelegene Starbucks zu Chemnitz?", "acceptedAnswer": {"@type": "Answer", "text": "Die nächste Filiale liegt am Altmarkt 7 in Dresden, rund 77 Kilometer beziehungsweise etwa 54 Autominuten entfernt."}},
+        {"@type": "Question", "name": "Gibt es auch eine gute Option in Leipzig?", "acceptedAnswer": {"@type": "Answer", "text": "Ja, Leipzig bietet mit mehreren Filialen in der Innenstadt - etwa an der Grimmaischen Straße 1 oder am Hauptbahnhof - die größere Auswahl, liegt mit rund 85 Kilometern aber etwas weiter als Dresden."}},
+        {"@type": "Question", "name": "Warum hat eine Stadt mit über 250.000 Einwohnern keinen Starbucks?", "acceptedAnswer": {"@type": "Answer", "text": "Eine offizielle Begründung gibt es nicht. Die Einwohnerzahl allein erklärt die Lücke nicht, da Standortentscheidungen bei Starbucks auch von Mietflächen, Fußgängerfrequenz und Franchise-Partnern abhängen."}},
+        {"@type": "Question", "name": "Welche Alternative zu Starbucks gibt es direkt in Chemnitz?", "acceptedAnswer": {"@type": "Answer", "text": "Die Kette Coffee Fellows betreibt zwei Filialen in Chemnitz, am Neumarkt 2 und am Thomas-Mann-Platz 1, jeweils montags bis samstags von 10 bis 19 Uhr geöffnet."}},
+        {"@type": "Question", "name": "Hat Coffee Fellows in Chemnitz sonntags geöffnet?", "acceptedAnswer": {"@type": "Answer", "text": "Nein, beide Chemnitzer Filialen von Coffee Fellows bleiben sonntags geschlossen."}},
+        {"@type": "Question", "name": "Kann ich in Chemnitz trotzdem Starbucks-Produkte kaufen?", "acceptedAnswer": {"@type": "Answer", "text": "Ja, verpackte Starbucks-Produkte wie Dosengetränke und Röstkaffee sind unabhängig von einer Café-Filiale in vielen Chemnitzer Supermärkten erhältlich."}},
+        {"@type": "Question", "name": "Wie erfahre ich, falls Starbucks doch eine Filiale in Chemnitz eröffnet?", "acceptedAnswer": {"@type": "Answer", "text": "Am zuverlässigsten ist eine gelegentliche Prüfung des offiziellen Store Locators auf starbucks.de, da neue Standorte dort in der Regel zeitnah gelistet werden."}}
+      ]
+    }
+  ]
+}

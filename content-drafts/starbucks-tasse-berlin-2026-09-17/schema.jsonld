@@ -1,0 +1,92 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "Article",
+      "@id": "https://starbuckspreise.com/starbucks-tasse-berlin/#article",
+      "isPartOf": {
+        "@type": "WebSite",
+        "@id": "https://starbuckspreise.com/#website",
+        "name": "Starbucks Preise Deutschland",
+        "url": "https://starbuckspreise.com"
+      },
+      "headline": "Starbucks Tasse Berlin: Motive, Preise und wo Sie sie 2026 kaufen",
+      "description": "Starbucks Tasse Berlin: aktuelle Filialpreise, alle Serien seit 2012, Sammlerwert und wo Sie die Been-There- und You-Are-Here-Ausgabe 2026 kaufen.",
+      "inLanguage": "de-DE",
+      "mainEntityOfPage": "https://starbuckspreise.com/starbucks-tasse-berlin/",
+      "datePublished": "2026-09-17T08:00:00+02:00",
+      "dateModified": "2026-09-17T08:00:00+02:00",
+      "author": {
+        "@type": "Organization",
+        "name": "Redaktion starbuckspreise.com",
+        "url": "https://starbuckspreise.com"
+      },
+      "publisher": {
+        "@type": "Organization",
+        "name": "Starbucks Preise Deutschland",
+        "url": "https://starbuckspreise.com"
+      },
+      "about": [
+        {
+          "@type": "Organization",
+          "name": "Starbucks Corporation",
+          "sameAs": "https://de.wikipedia.org/wiki/Starbucks"
+        },
+        {
+          "@type": "Place",
+          "name": "Berlin",
+          "sameAs": "https://de.wikipedia.org/wiki/Berlin"
+        }
+      ],
+      "mentions": [
+        {
+          "@type": "Thing",
+          "name": "Brandenburger Tor",
+          "sameAs": "https://de.wikipedia.org/wiki/Brandenburger_Tor"
+        },
+        {
+          "@type": "Thing",
+          "name": "Keramik",
+          "sameAs": "https://de.wikipedia.org/wiki/Keramik"
+        },
+        {
+          "@type": "Thing",
+          "name": "You Are Here Series"
+        },
+        {
+          "@type": "Thing",
+          "name": "Icon Series"
+        }
+      ],
+      "speakable": {
+        "@type": "SpeakableSpecification",
+        "cssSelector": ["h1", ".direct-answer"]
+      }
+    },
+    {
+      "@type": "BreadcrumbList",
+      "@id": "https://starbuckspreise.com/starbucks-tasse-berlin/#breadcrumb",
+      "itemListElement": [
+        { "@type": "ListItem", "position": 1, "name": "Home", "item": "https://starbuckspreise.com" },
+        { "@type": "ListItem", "position": 2, "name": "Tassen & Merch", "item": "https://starbuckspreise.com/tassen/" },
+        { "@type": "ListItem", "position": 3, "name": "Starbucks Tasse Berlin", "item": "https://starbuckspreise.com/starbucks-tasse-berlin/" }
+      ]
+    },
+    {
+      "@type": "FAQPage",
+      "@id": "https://starbuckspreise.com/starbucks-tasse-berlin/#faq",
+      "mainEntity": [
+        { "@type": "Question", "name": "Was kostet die Starbucks Tasse Berlin aktuell in der Filiale?", "acceptedAnswer": { "@type": "Answer", "text": "Die aktuelle Been There Berlin-Tasse kostet in deutschen Filialen zwischen 14,95 Euro und 19,95 Euro, abhängig vom Standort." } },
+        { "@type": "Question", "name": "Welches Motiv zeigt die aktuelle Starbucks Tasse Berlin?", "acceptedAnswer": { "@type": "Answer", "text": "Die aktuelle Ausgabe zeigt einen handgezeichneten Skizzenstil mit Brandenburger Tor, Berliner Fernsehturm, Berliner Bär und Currywurst-Motiven." } },
+        { "@type": "Question", "name": "Ist die You Are Here Berlin-Tasse noch neu erhältlich?", "acceptedAnswer": { "@type": "Answer", "text": "Ja, der unabhängige Händler thecoffeemugshop.de führt die 2016er You-Are-Here-Berlin-Tasse noch im Katalog, aktuell für 19,99 Euro statt ursprünglich 34,99 Euro." } },
+        { "@type": "Question", "name": "Kann man die Berlin-Tasse auch in München oder Hamburg kaufen?", "acceptedAnswer": { "@type": "Answer", "text": "Nein, Städtetassen der Been There Series werden nach Regionsprinzip ausschließlich in den Filialen der jeweiligen Stadt verkauft. Nur die übergeordnete Deutschland-Edition ist bundesweit erhältlich." } },
+        { "@type": "Question", "name": "Wie viel ml fasst die Starbucks Tasse Berlin?", "acceptedAnswer": { "@type": "Answer", "text": "Die aktuelle Been There- und die 2016er You-Are-Here-Ausgabe fassen jeweils 414 ml (14 oz). Ältere Icon- und Relief-Generationen fassen mit 473 ml (16 oz) etwas mehr." } },
+        { "@type": "Question", "name": "Woran erkenne ich eine echte statt einer gefälschten Berlin-Tasse?", "acceptedAnswer": { "@type": "Answer", "text": "Achten Sie auf einen scharfen Bodenstempel mit Copyright- und Füllmengenangabe, einen originalen SKU-Aufkleber sowie eine sauber symmetrische Motivprägung ohne verlaufende Linien." } },
+        { "@type": "Question", "name": "Ist die Starbucks Tasse Berlin spülmaschinen- und mikrowellengeeignet?", "acceptedAnswer": { "@type": "Answer", "text": "Ja, alle Standard-Keramikausgaben ohne Gold- oder Metallic-Applikationen sind spülmaschinenfest im oberen Korb und mikrowellengeeignet." } },
+        { "@type": "Question", "name": "Welche Berlin-Tasse ist am meisten wert?", "acceptedAnswer": { "@type": "Answer", "text": "Am wertvollsten sind gut erhaltene Icon-Series-Exemplare aus 2012 mit Originalverpackung und intaktem SKU-Aufkleber, die auf Sammlerplattformen 35 bis über 120 Euro erzielen." } },
+        { "@type": "Question", "name": "Gibt es die Berlin-Tasse als Mini-Ausgabe?", "acceptedAnswer": { "@type": "Answer", "text": "Ja, zur You Are Here Series erschien eine Ornament-Miniaturversion mit Aufhängekordel im Espressotassen-Format, gedacht als Weihnachtsbaumanhänger." } },
+        { "@type": "Question", "name": "Wo finde ich eine Starbucks Filiale in Berlin, die die aktuelle Tasse führt?", "acceptedAnswer": { "@type": "Answer", "text": "Nutzen Sie unsere Übersicht der Starbucks Filialen in der Nähe, um Berliner Standorte samt Adresse zu finden; der Vorrat der aktuellen Been-There-Tasse ist jedoch standortabhängig und nicht garantiert." } }
+      ]
+    }
+  ]
+}
