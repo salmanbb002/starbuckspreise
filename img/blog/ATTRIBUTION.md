@@ -26,3 +26,13 @@ Hero photos sourced from Wikimedia Commons for the 2026-09-17 location/product p
 - Source: https://commons.wikimedia.org/wiki/File:2016-02-29_Brandenburger_Tor_by_DCB%E2%80%933.jpg
 - Author: DCB, Wikimedia Commons
 - License: CC BY-SA 3.0 — attribution required if reused/redistributed further
+
+## starbucks-tasse-hamburg-hero.webp
+- Source: https://commons.wikimedia.org/wiki/File:Hamburg_Rathausmarkt_und_Rathaus.jpg
+- Author: Arnoldius
+- License: CC BY-SA 4.0 — attribution required if reused/redistributed further
+
+## starbucks-oldenburg-hero.webp
+- Source: https://commons.wikimedia.org/wiki/File:Oldenburger_Schloss_20141230.jpg
+- Author: JoachimKohler-HB
+- License: CC BY-SA 4.0 — attribution required if reused/redistributed further

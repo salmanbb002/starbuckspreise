@@ -183,6 +183,22 @@
     {
       "source": "/blog/starbucks-tasse-berlin",
       "destination": "/blog/starbucks-tasse-berlin.html"
+    },
+    {
+      "source": "/starbucks-tasse-hamburg",
+      "destination": "/blog/starbucks-tasse-hamburg.html"
+    },
+    {
+      "source": "/blog/starbucks-tasse-hamburg",
+      "destination": "/blog/starbucks-tasse-hamburg.html"
+    },
+    {
+      "source": "/starbucks-oldenburg",
+      "destination": "/blog/starbucks-oldenburg.html"
+    },
+    {
+      "source": "/blog/starbucks-oldenburg",
+      "destination": "/blog/starbucks-oldenburg.html"
     }
   ]
 }

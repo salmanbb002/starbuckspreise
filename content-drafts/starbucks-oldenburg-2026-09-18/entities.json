@@ -1,0 +1,90 @@
+[
+  {
+    "canonical": "Starbucks",
+    "type": "Organization",
+    "tier": 1,
+    "aliases": [],
+    "kind": "entity",
+    "sameAs": ["https://de.wikipedia.org/wiki/Starbucks"],
+    "competitor_count": 5,
+    "in_title_or_h2": true,
+    "relationship": "Betreibt aktuell kein eigenständiges Coffee House in Oldenburg."
+  },
+  {
+    "canonical": "Oldenburg (Oldb)",
+    "type": "Place",
+    "tier": 1,
+    "aliases": ["Oldenburg in Oldenburg", "Oldenburg Niedersachsen"],
+    "kind": "entity",
+    "sameAs": ["https://de.wikipedia.org/wiki/Oldenburg_(Oldb)"],
+    "competitor_count": 5,
+    "in_title_or_h2": true,
+    "relationship": "Stadt in Niedersachsen mit 176.530 Einwohnern (Stand 31.12.2025)."
+  },
+  {
+    "canonical": "Bremen (Marktstraße 3 / Bahnhofsplatz 15)",
+    "type": "Place",
+    "tier": 1,
+    "aliases": ["Starbucks Bremen"],
+    "kind": "entity",
+    "sameAs": "",
+    "competitor_count": 2,
+    "in_title_or_h2": true,
+    "relationship": "Nächstgelegene Filialen, rund 50 km bzw. 40-45 Fahrminuten von Oldenburg entfernt."
+  },
+  {
+    "canonical": "Carl von Ossietzky Universität Oldenburg",
+    "type": "Organization",
+    "tier": 2,
+    "aliases": ["Universität Oldenburg"],
+    "kind": "entity",
+    "sameAs": ["https://de.wikipedia.org/wiki/Carl_von_Ossietzky_Universit%C3%A4t_Oldenburg"],
+    "competitor_count": 1,
+    "in_title_or_h2": false,
+    "relationship": "14.770 Studierende im Wintersemester 2025/26; rund 18.000 Studierende stadtweit an fünf Hochschulen."
+  },
+  {
+    "canonical": "Käthe Kaffee",
+    "type": "Organization",
+    "tier": 2,
+    "aliases": ["Käthe Kaffee Oldb."],
+    "kind": "entity",
+    "sameAs": "",
+    "competitor_count": 1,
+    "in_title_or_h2": false,
+    "relationship": "Unabhängige Rösterei/Café, Kaiserstraße 28, 4,7 Sterne (26 Bewertungen) - meistgenannte lokale Alternative."
+  },
+  {
+    "canonical": "Oldenburg, Indiana (USA)",
+    "type": "Place",
+    "tier": 2,
+    "aliases": ["Oldenburg, IN"],
+    "kind": "entity",
+    "sameAs": "",
+    "competitor_count": 2,
+    "in_title_or_h2": false,
+    "relationship": "Kleinstadt bei Batesville, Indiana, USA - US-Lieferdienste liefern unter 'Oldenburg' Treffer für die Starbucks-Filiale in Batesville."
+  },
+  {
+    "canonical": "Schlosshöfe Oldenburg",
+    "type": "Place",
+    "tier": 3,
+    "aliases": [],
+    "kind": "entity",
+    "sameAs": ["https://de.wikipedia.org/wiki/Schlossh%C3%B6fe"],
+    "competitor_count": 1,
+    "in_title_or_h2": false,
+    "relationship": "Einkaufszentrum in der Innenstadt (12.500 m², eröffnet 2011) - kein Starbucks unter den Mietern gelistet."
+  },
+  {
+    "canonical": "Weserpark / Waterfront (Bremen)",
+    "type": "Place",
+    "tier": 3,
+    "aliases": [],
+    "kind": "entity",
+    "sameAs": "",
+    "competitor_count": 2,
+    "in_title_or_h2": false,
+    "relationship": "Zwei weitere Bremer Filialen, rund 10 km von der Bremer Innenstadt, weiter von Oldenburg entfernt als Marktstraße/Bahnhofsplatz."
+  }
+]

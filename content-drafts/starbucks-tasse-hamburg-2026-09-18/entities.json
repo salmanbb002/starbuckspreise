@@ -1,0 +1,14 @@
+[
+  {"canonical": "Starbucks Corporation", "type": "Organization", "aliases": ["Starbucks"], "sameAs": "https://de.wikipedia.org/wiki/Starbucks", "kind": "entity", "competitor_count": 3, "in_title_or_h2": true, "tier": 1},
+  {"canonical": "Hamburg", "type": "Place", "aliases": [], "sameAs": "https://de.wikipedia.org/wiki/Hamburg", "kind": "entity", "competitor_count": 3, "in_title_or_h2": true, "tier": 1},
+  {"canonical": "You Are Here Series", "type": "Product line", "aliases": ["YAH"], "sameAs": "", "kind": "term", "competitor_count": 3, "in_title_or_h2": false, "tier": 1},
+  {"canonical": "Hamburger Rathaus", "type": "Landmark", "aliases": ["Rathaus"], "sameAs": "https://de.wikipedia.org/wiki/Hamburger_Rathaus", "kind": "entity", "competitor_count": 0, "in_title_or_h2": false, "tier": 1},
+  {"canonical": "HafenCity", "type": "Place", "aliases": ["Hafencity Skyline"], "sameAs": "https://de.wikipedia.org/wiki/HafenCity", "kind": "entity", "competitor_count": 0, "in_title_or_h2": false, "tier": 2},
+  {"canonical": "Been There Series", "type": "Product line", "aliases": [], "sameAs": "", "kind": "term", "competitor_count": 1, "in_title_or_h2": false, "tier": 2},
+  {"canonical": "Global Icon Series", "type": "Product line", "aliases": [], "sameAs": "", "kind": "term", "competitor_count": 1, "in_title_or_h2": false, "tier": 2},
+  {"canonical": "thecoffeemugshop.de", "type": "Organization", "aliases": [], "sameAs": "", "kind": "entity", "competitor_count": 1, "in_title_or_h2": false, "tier": 2},
+  {"canonical": "Keramik", "type": "Material", "aliases": ["Porzellan", "ceramic"], "sameAs": "https://de.wikipedia.org/wiki/Keramik", "kind": "term", "competitor_count": 2, "in_title_or_h2": false, "tier": 2},
+  {"canonical": "SKU-Aufkleber", "type": "Concept", "aliases": ["Bodenstempel"], "sameAs": "", "kind": "term", "competitor_count": 1, "in_title_or_h2": false, "tier": 2},
+  {"canonical": "Zweitmarkt (eBay / Kleinanzeigen)", "type": "Marketplace", "aliases": ["eBay.de", "Kleinanzeigen.de"], "sameAs": "", "kind": "term", "competitor_count": 2, "in_title_or_h2": false, "tier": 2},
+  {"canonical": "queenshop.ch", "type": "Organization", "aliases": [], "sameAs": "", "kind": "entity", "competitor_count": 1, "in_title_or_h2": false, "tier": 3}
+]
