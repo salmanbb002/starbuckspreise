@@ -1,0 +1,172 @@
+[
+  {
+    "canonical": "Deutschland",
+    "type": "Place",
+    "aliases": ["Germany"],
+    "sameAs": "https://de.wikipedia.org/wiki/Deutschland",
+    "kind": "entity",
+    "competitor_count": 4,
+    "in_title_or_h2": true,
+    "tier": 1
+  },
+  {
+    "canonical": "Starbucks-Filialen (Anzahl)",
+    "type": "Concept",
+    "aliases": ["Starbucks-Kaffeebars", "Restaurants (Statista-Label)", "Cafés"],
+    "sameAs": "",
+    "kind": "term",
+    "competitor_count": 4,
+    "in_title_or_h2": true,
+    "tier": 1
+  },
+  {
+    "canonical": "Starbucks Corporation",
+    "type": "Organization",
+    "aliases": ["Starbucks", "Starbucks Corp."],
+    "sameAs": "https://de.wikipedia.org/wiki/Starbucks",
+    "kind": "entity",
+    "competitor_count": 2,
+    "in_title_or_h2": false,
+    "tier": 1
+  },
+  {
+    "canonical": "AmRest Coffee Deutschland Sp. z o.o. & Co. KG",
+    "type": "Organization",
+    "aliases": ["AmRest", "Starbucks Coffee Deutschland GmbH (former name)"],
+    "sameAs": "",
+    "kind": "entity",
+    "competitor_count": 1,
+    "in_title_or_h2": false,
+    "tier": 1
+  },
+  {
+    "canonical": "Nordrhein-Westfalen",
+    "type": "Place",
+    "aliases": ["NRW"],
+    "sameAs": "https://de.wikipedia.org/wiki/Nordrhein-Westfalen",
+    "kind": "entity",
+    "competitor_count": 0,
+    "in_title_or_h2": false,
+    "tier": 2
+  },
+  {
+    "canonical": "Berlin",
+    "type": "Place",
+    "aliases": [],
+    "sameAs": "https://de.wikipedia.org/wiki/Berlin",
+    "kind": "entity",
+    "competitor_count": 2,
+    "in_title_or_h2": false,
+    "tier": 2
+  },
+  {
+    "canonical": "Bayern",
+    "type": "Place",
+    "aliases": ["München"],
+    "sameAs": "https://de.wikipedia.org/wiki/Bayern",
+    "kind": "entity",
+    "competitor_count": 2,
+    "in_title_or_h2": false,
+    "tier": 2
+  },
+  {
+    "canonical": "KarstadtQuelle AG",
+    "type": "Organization",
+    "aliases": [],
+    "sameAs": "",
+    "kind": "entity",
+    "competitor_count": 0,
+    "in_title_or_h2": false,
+    "tier": 2
+  },
+  {
+    "canonical": "Frankfurt am Main",
+    "type": "Place",
+    "aliases": ["Frankfurt"],
+    "sameAs": "https://de.wikipedia.org/wiki/Frankfurt_am_Main",
+    "kind": "entity",
+    "competitor_count": 2,
+    "in_title_or_h2": false,
+    "tier": 2
+  },
+  {
+    "canonical": "Öffnungszeiten",
+    "type": "Concept",
+    "aliases": [],
+    "sameAs": "",
+    "kind": "term",
+    "competitor_count": 2,
+    "in_title_or_h2": false,
+    "tier": 2
+  },
+  {
+    "canonical": "Hamburg",
+    "type": "Place",
+    "aliases": [],
+    "sameAs": "https://de.wikipedia.org/wiki/Hamburg",
+    "kind": "entity",
+    "competitor_count": 3,
+    "in_title_or_h2": false,
+    "tier": 3
+  },
+  {
+    "canonical": "Köln",
+    "type": "Place",
+    "aliases": ["Cologne"],
+    "sameAs": "https://de.wikipedia.org/wiki/K%C3%B6ln",
+    "kind": "entity",
+    "competitor_count": 2,
+    "in_title_or_h2": false,
+    "tier": 3
+  },
+  {
+    "canonical": "Store Locator / App",
+    "type": "Product",
+    "aliases": ["Starbucks App", "Store-Locator"],
+    "sameAs": "",
+    "kind": "term",
+    "competitor_count": 1,
+    "in_title_or_h2": false,
+    "tier": 3
+  },
+  {
+    "canonical": "Drive-Thru",
+    "type": "Product",
+    "aliases": [],
+    "sameAs": "",
+    "kind": "term",
+    "competitor_count": 1,
+    "in_title_or_h2": false,
+    "tier": 3
+  },
+  {
+    "canonical": "Mobile Order & Pay",
+    "type": "Product",
+    "aliases": ["Mobile Order"],
+    "sameAs": "",
+    "kind": "term",
+    "competitor_count": 1,
+    "in_title_or_h2": false,
+    "tier": 3
+  },
+  {
+    "canonical": "Howard Schultz",
+    "type": "Person",
+    "aliases": [],
+    "sameAs": "https://de.wikipedia.org/wiki/Howard_Schultz",
+    "kind": "entity",
+    "competitor_count": 0,
+    "in_title_or_h2": false,
+    "tier": 3
+  },
+  {
+    "canonical": "EHI Retail Institute",
+    "type": "Organization",
+    "aliases": [],
+    "sameAs": "",
+    "kind": "entity",
+    "competitor_count": 1,
+    "in_title_or_h2": false,
+    "tier": 3
+  }
+]

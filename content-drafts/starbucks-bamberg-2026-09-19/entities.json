@@ -1,0 +1,102 @@
+[
+  {
+    "canonical": "Bamberg",
+    "type": "Place",
+    "aliases": ["Stadt Bamberg"],
+    "sameAs": "https://www.wikidata.org/wiki/Q2749",
+    "kind": "entity",
+    "competitor_count": 0,
+    "in_title_or_h2": true,
+    "tier": 1
+  },
+  {
+    "canonical": "Starbucks Corporation",
+    "type": "Organization",
+    "aliases": ["Starbucks", "Starbucks Deutschland"],
+    "sameAs": "https://www.wikidata.org/wiki/Q37158",
+    "kind": "entity",
+    "competitor_count": 0,
+    "in_title_or_h2": true,
+    "tier": 1
+  },
+  {
+    "canonical": "no Starbucks in Bamberg (fact)",
+    "type": "Concept",
+    "aliases": ["kein Starbucks in Bamberg", "gibt es einen Starbucks in Bamberg"],
+    "sameAs": "",
+    "kind": "term",
+    "competitor_count": 0,
+    "in_title_or_h2": true,
+    "tier": 1
+  },
+  {
+    "canonical": "Nürnberg Starbucks locations",
+    "type": "Place",
+    "aliases": ["Starbucks Nürnberg Hauptmarkt 1", "Starbucks Nürnberg Hefnersplatz 10"],
+    "sameAs": "",
+    "kind": "entity",
+    "competitor_count": 0,
+    "in_title_or_h2": false,
+    "tier": 2
+  },
+  {
+    "canonical": "Starbucks A3 Häusling/Aurach-Süd",
+    "type": "Place",
+    "aliases": ["Starbucks Autobahn A3", "Starbucks Herzogenaurach A3"],
+    "sameAs": "",
+    "kind": "entity",
+    "competitor_count": 0,
+    "in_title_or_h2": false,
+    "tier": 2
+  },
+  {
+    "canonical": "Bamberg, South Carolina naming confusion",
+    "type": "Concept",
+    "aliases": ["Bamberg SC", "Bamberg USA"],
+    "sameAs": "https://www.wikidata.org/wiki/Q985115",
+    "kind": "entity",
+    "competitor_count": 1,
+    "in_title_or_h2": false,
+    "tier": 2
+  },
+  {
+    "canonical": "Coffee Fellows Hallstadt",
+    "type": "Organization",
+    "aliases": ["Coffee Fellows market Einkaufszentrum Hallstadt"],
+    "sameAs": "",
+    "kind": "entity",
+    "competitor_count": 1,
+    "in_title_or_h2": false,
+    "tier": 2
+  },
+  {
+    "canonical": "UNESCO-Welterbe Altstadt von Bamberg",
+    "type": "Concept",
+    "aliases": ["UNESCO Weltkulturerbe Bamberg", "Bamberg Altstadt"],
+    "sameAs": "https://www.wikidata.org/wiki/Q317557",
+    "kind": "entity",
+    "competitor_count": 0,
+    "in_title_or_h2": false,
+    "tier": 2
+  },
+  {
+    "canonical": "A70",
+    "type": "Concept",
+    "aliases": ["Bundesautobahn 70"],
+    "sameAs": "",
+    "kind": "term",
+    "competitor_count": 1,
+    "in_title_or_h2": false,
+    "tier": 3
+  },
+  {
+    "canonical": "Store Locator",
+    "type": "Product",
+    "aliases": ["offizieller Starbucks Store Locator"],
+    "sameAs": "",
+    "kind": "term",
+    "competitor_count": 0,
+    "in_title_or_h2": false,
+    "tier": 3
+  }
+]

@@ -1,0 +1,144 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "BlogPosting",
+      "@id": "https://starbuckspreise.com/blog/starbucks-tasse-muenchen#article",
+      "headline": "Starbucks Tasse München: Preis, Kaufen & Echtheit prüfen (2026)",
+      "description": "Die Starbucks Tasse München aus der You Are Here Collection: Maße, Preis, wo Sie sie neu oder gebraucht kaufen – und wie Sie Fälschungen erkennen.",
+      "author": {
+        "@type": "Person",
+        "name": "TODO: Autorenname eintragen",
+        "sameAs": "TODO: Link zur Autoren-/Über-uns-Seite, falls vorhanden"
+      },
+      "publisher": {
+        "@type": "Organization",
+        "name": "StarbucksPreise",
+        "url": "https://starbuckspreise.com"
+      },
+      "datePublished": "TODO: Veröffentlichungsdatum eintragen",
+      "dateModified": "TODO: Veröffentlichungsdatum eintragen",
+      "mainEntityOfPage": "https://starbuckspreise.com/blog/starbucks-tasse-muenchen",
+      "about": [
+        {
+          "@type": "Product",
+          "name": "Starbucks Tasse München (You Are Here Collection)"
+        },
+        {
+          "@type": "Place",
+          "name": "München",
+          "sameAs": "https://www.wikidata.org/wiki/Q1726"
+        }
+      ],
+      "mentions": [
+        {
+          "@type": "Organization",
+          "name": "Starbucks",
+          "sameAs": "https://www.wikidata.org/wiki/Q37158"
+        },
+        {
+          "@type": "Thing",
+          "name": "You Are Here Collection"
+        }
+      ],
+      "speakable": {
+        "@type": "SpeakableSpecification",
+        "cssSelector": [".direct-answer"]
+      }
+    },
+    {
+      "@type": "FAQPage",
+      "@id": "https://starbuckspreise.com/blog/starbucks-tasse-muenchen#faq",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "Was ist die \"You Are Here Collection\" von Starbucks?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Das ist eine weltweite Serie von Keramiktassen, bei der jede Ausgabe die charakteristischen Motive einer bestimmten Stadt oder eines Landes zeigt – die München-Tasse ist eine von mehreren deutschen Stadtmotiven in dieser Reihe."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Wie groß ist die Starbucks Tasse München?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Sie fasst 414 ml (14 fl.oz.), ist rund 8,5 cm hoch, hat einen Durchmesser von etwa 9,5 cm und wiegt circa 0,5 kg."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Wann kam die Starbucks Tasse München raus?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Die Erstausgabe stammt aus dem Sommer 2016, als Starbucks seine deutschen Stadtmotive innerhalb der You-Are-Here-Reihe erweiterte."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Was kostet eine originale Starbucks Tasse München?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Bei spezialisierten Resellern liegt der Neupreis aktuell bei rund 26 bis 38 Euro; auf internationalen Zweitmarktplattformen wurden je nach Seltenheit auch deutlich höhere Preise beobachtet."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Wo bekomme ich die Tasse gebraucht?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Gebrauchte und teils neuwertige Exemplare finden sich vor allem auf eBay.de und Kleinanzeigen.de – ein Preis- und Zustandsvergleich mehrerer Angebote lohnt sich."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Ist die Tasse noch neu erhältlich?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Im Starbucks-Store selbst in der Regel nicht mehr, aber einzelne spezialisierte Reseller führen sie teils noch originalverpackt mit Geschenkbox."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Woran erkenne ich eine gefälschte Starbucks Tasse?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Achten Sie auf ein sauber gedrucktes Sirenen-Logo und eine Bodenprägung mit Material- und Herstellungsangaben; fehlt beides oder liegt der Preis auffällig niedrig, ist Vorsicht geboten."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Kann ich mit der Sammeltasse den Rabatt fürs eigene Getränk bekommen?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Ja, der 30-Cent-Rabatt für den eigenen Becher gilt unabhängig vom Design, solange die Tasse den üblichen Anforderungen entspricht."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Ist die Starbucks Tasse München spülmaschinen- und mikrowellenfest?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Als reguläre Keramiktasse ist sie dafür grundsätzlich ausgelegt; eine offizielle Pflegeangabe speziell für diese Serie liegt jedoch nicht vor, daher empfiehlt sich im Zweifel ein Blick auf die Bodenprägung oder Rücksprache mit dem Verkäufer."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Lohnt sich die Tasse als Wertanlage?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Sie zählt zu den gefragteren deutschen Stadtmotiven der Sammlerreihe, doch wie bei jedem Sammlerstück hängt der tatsächliche Wert von Zustand, Seltenheit und Nachfrage ab – eine garantierte Wertsteigerung gibt es nicht."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Welche Motive zeigt die Starbucks Tasse München?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Die Tasse greift typische Münchner Wahrzeichen und Symbole auf, darunter das Neue Rathaus sowie Anspielungen auf Weißwurst und Oktoberfest."
+          }
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,122 @@
+[
+  {
+    "canonical": "Starbucks",
+    "type": "Organization",
+    "aliases": ["Starbucks Corporation"],
+    "sameAs": "https://www.wikidata.org/wiki/Q37158",
+    "kind": "entity",
+    "competitor_count": 3,
+    "in_title_or_h2": true,
+    "tier": 1
+  },
+  {
+    "canonical": "München",
+    "type": "Place",
+    "aliases": ["Munich"],
+    "sameAs": "https://www.wikidata.org/wiki/Q1726",
+    "kind": "entity",
+    "competitor_count": 3,
+    "in_title_or_h2": true,
+    "tier": 1
+  },
+  {
+    "canonical": "You Are Here Collection",
+    "type": "Product",
+    "aliases": ["You Are Here Series"],
+    "sameAs": "",
+    "kind": "entity",
+    "competitor_count": 2,
+    "in_title_or_h2": true,
+    "tier": 1
+  },
+  {
+    "canonical": "Fassungsvermögen 414ml",
+    "type": "Metric",
+    "aliases": ["14 fl.oz."],
+    "sameAs": "",
+    "kind": "term",
+    "competitor_count": 2,
+    "in_title_or_h2": false,
+    "tier": 1
+  },
+  {
+    "canonical": "Erstausgabe Juni 2016",
+    "type": "Date",
+    "aliases": ["Posted August 2016 (Katalogdatum)"],
+    "sameAs": "",
+    "kind": "term",
+    "competitor_count": 2,
+    "in_title_or_h2": false,
+    "tier": 1
+  },
+  {
+    "canonical": "Preis / Kaufort",
+    "type": "Money",
+    "aliases": ["€25,99-€37,99 (neu)", "$20-$109 (Zweitmarkt)"],
+    "sameAs": "",
+    "kind": "term",
+    "competitor_count": 3,
+    "in_title_or_h2": true,
+    "tier": 1
+  },
+  {
+    "canonical": "Keramik / Maße",
+    "type": "Metric",
+    "aliases": ["dickwandiger Keramikbecher", "8,5cm x 9,5cm", "0,5kg"],
+    "sameAs": "",
+    "kind": "term",
+    "competitor_count": 1,
+    "in_title_or_h2": false,
+    "tier": 2
+  },
+  {
+    "canonical": "Starbucks Store München (Rosental 7)",
+    "type": "Place",
+    "aliases": [],
+    "sameAs": "",
+    "kind": "entity",
+    "competitor_count": 1,
+    "in_title_or_h2": false,
+    "tier": 2
+  },
+  {
+    "canonical": "Echtheit / Fälschung erkennen",
+    "type": "Concept",
+    "aliases": ["Sirenen-Logo", "Bodenprägung"],
+    "sameAs": "",
+    "kind": "term",
+    "competitor_count": 1,
+    "in_title_or_h2": true,
+    "tier": 2
+  },
+  {
+    "canonical": "Sammlermarkt / Zweitmarktwert",
+    "type": "Concept",
+    "aliases": ["Zweitmarkt", "Sammlertasse"],
+    "sameAs": "",
+    "kind": "term",
+    "competitor_count": 2,
+    "in_title_or_h2": true,
+    "tier": 2
+  },
+  {
+    "canonical": "Bring-Your-Own-Mug-Rabatt",
+    "type": "Money",
+    "aliases": ["0,30€ Rabatt eigener Becher"],
+    "sameAs": "",
+    "kind": "term",
+    "competitor_count": 1,
+    "in_title_or_h2": true,
+    "tier": 2
+  },
+  {
+    "canonical": "Geschenkbox / Versandbedingungen",
+    "type": "Process",
+    "aliases": [],
+    "sameAs": "",
+    "kind": "term",
+    "competitor_count": 1,
+    "in_title_or_h2": false,
+    "tier": 3
+  }
+]

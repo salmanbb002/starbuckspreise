@@ -1,0 +1,158 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "BlogPosting",
+      "@id": "https://starbuckspreise.com/blog/starbucks-deutschland-filialen#article",
+      "headline": "Starbucks-Filialen in Deutschland: Wie viele gibt es und wo?",
+      "description": "Deutschland zählt 179 Starbucks-Filialen (Stand 1. Juli 2026) — mit NRW als Spitzenreiter. Alle Zahlen nach Bundesland, Stadt und Geschichte im Überblick.",
+      "author": {
+        "@type": "Person",
+        "name": "TODO: author name",
+        "sameAs": "TODO: author profile URL if one exists"
+      },
+      "publisher": {
+        "@type": "Organization",
+        "name": "Starbucks Preise",
+        "url": "https://starbuckspreise.com",
+        "logo": {
+          "@type": "ImageObject",
+          "url": "https://starbuckspreise.com/logo.png"
+        }
+      },
+      "datePublished": "TODO: set on publish",
+      "dateModified": "TODO: set on publish",
+      "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": "https://starbuckspreise.com/blog/starbucks-deutschland-filialen"
+      },
+      "about": [
+        {
+          "@type": "Country",
+          "name": "Deutschland",
+          "sameAs": "https://de.wikipedia.org/wiki/Deutschland"
+        },
+        {
+          "@type": "Organization",
+          "name": "Starbucks Corporation",
+          "sameAs": "https://de.wikipedia.org/wiki/Starbucks"
+        }
+      ],
+      "mentions": [
+        {
+          "@type": "Organization",
+          "name": "AmRest Coffee Deutschland Sp. z o.o. & Co. KG"
+        },
+        {
+          "@type": "AdministrativeArea",
+          "name": "Nordrhein-Westfalen",
+          "sameAs": "https://de.wikipedia.org/wiki/Nordrhein-Westfalen"
+        },
+        {
+          "@type": "City",
+          "name": "Berlin",
+          "sameAs": "https://de.wikipedia.org/wiki/Berlin"
+        },
+        {
+          "@type": "City",
+          "name": "Frankfurt am Main",
+          "sameAs": "https://de.wikipedia.org/wiki/Frankfurt_am_Main"
+        },
+        {
+          "@type": "Organization",
+          "name": "KarstadtQuelle AG"
+        }
+      ],
+      "speakable": {
+        "@type": "SpeakableSpecification",
+        "cssSelector": [".direct-answer"]
+      }
+    },
+    {
+      "@type": "FAQPage",
+      "@id": "https://starbuckspreise.com/blog/starbucks-deutschland-filialen#faq",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "Wie viele Starbucks-Filialen gibt es aktuell in Deutschland?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Zum 1. Juli 2026 sind es 179 Filialen in 77 Städten, verteilt auf alle 16 Bundesländer."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Welches Bundesland hat die meisten Starbucks-Filialen?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Nordrhein-Westfalen mit 36 Filialen, was rund 20 % aller deutschen Standorte entspricht."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Welche Stadt hat die meisten Starbucks-Filialen?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Berlin mit 19 Filialen, vor Frankfurt am Main (14) und Hamburg (12)."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Gibt es in jedem Bundesland mindestens eine Starbucks-Filiale?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Ja — laut aktueller Standortauswertung gibt es in keinem der 16 Bundesländer einen Standort-Leerraum ganz ohne Filiale, auch wenn kleinere Länder wie Bremen nur wenige haben."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Wer betreibt Starbucks in Deutschland?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Seit April 2016 die AmRest Coffee Deutschland Sp. z o.o. & Co. KG, eine Tochtergesellschaft des polnischen Konzerns AmRest — nicht mehr Starbucks Corporation direkt."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Wann wurde die erste Starbucks-Filiale in Deutschland eröffnet?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Im Mai 2002, mit zwei gleichzeitig eröffneten Standorten in Berlin."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Warum hat Deutschland weniger Starbucks-Filialen als andere große Länder?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Deutschlands ausgeprägte, sehr dichte unabhängige Café- und Bäckereikultur sowie etablierte Konkurrenz gelten allgemein als Hauptgründe, warum Starbucks hier langsamer expandiert ist als etwa in den USA oder Großbritannien."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Wie kann ich die aktuellen Öffnungszeiten einer Filiale prüfen?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Am zuverlässigsten über die Starbucks-App oder den offiziellen Store Locator, da Öffnungszeiten je nach Lage stark variieren und sich an Feiertagen kurzfristig ändern können."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Kann ich eine eigene Starbucks-Filiale in Deutschland eröffnen?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Das läuft nicht über eine klassische Einzel-Franchise-Bewerbung, sondern über den Lizenznehmer AmRest, der die deutsche Expansion zentral steuert."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Wie hat sich die Filialzahl in den letzten Jahren entwickelt?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Von 158 Filialen 2016 über 164 im Geschäftsjahr 2023/2024 bis zu 179 im Juli 2026 zeigt sich ein stetiges, aber moderates Wachstum von rund 1–3 neuen Filialen pro Jahr im Durchschnitt."
+          }
+        }
+      ]
+    }
+  ]
+}

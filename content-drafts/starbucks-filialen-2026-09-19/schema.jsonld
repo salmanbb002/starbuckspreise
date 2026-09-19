@@ -1,0 +1,168 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "BlogPosting",
+      "@id": "https://starbuckspreise.com/blog/starbucks-filialen#article",
+      "headline": "Starbucks Filialen in Deutschland: Wie viele es gibt und wo sie liegen",
+      "description": "Rund 150 bis 160 Starbucks-Filialen gibt es aktuell in Deutschland. Wer sie betreibt, wo die meisten liegen und wie Sie Ihre nächste Filiale finden.",
+      "author": {
+        "@type": "Person",
+        "name": "TODO: Autorenname eintragen",
+        "sameAs": "TODO: Link zur Autorenseite, falls vorhanden"
+      },
+      "publisher": {
+        "@type": "Organization",
+        "name": "StarbucksPreise",
+        "url": "https://starbuckspreise.com",
+        "logo": {
+          "@type": "ImageObject",
+          "url": "TODO: Logo-URL eintragen"
+        }
+      },
+      "datePublished": "TODO: Veröffentlichungsdatum eintragen",
+      "dateModified": "TODO: Veröffentlichungsdatum eintragen",
+      "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": "https://starbuckspreise.com/blog/starbucks-filialen"
+      },
+      "about": [
+        {
+          "@type": "Organization",
+          "name": "Starbucks",
+          "sameAs": "https://de.wikipedia.org/wiki/Starbucks"
+        }
+      ],
+      "mentions": [
+        {
+          "@type": "Organization",
+          "name": "AmRest",
+          "sameAs": "https://en.wikipedia.org/wiki/AmRest"
+        },
+        {
+          "@type": "Place",
+          "name": "Berlin",
+          "sameAs": "https://de.wikipedia.org/wiki/Berlin"
+        },
+        {
+          "@type": "Place",
+          "name": "München",
+          "sameAs": "https://de.wikipedia.org/wiki/München"
+        }
+      ],
+      "speakable": {
+        "@type": "SpeakableSpecification",
+        "cssSelector": [".direkt-antwort"]
+      }
+    },
+    {
+      "@type": "FAQPage",
+      "@id": "https://starbuckspreise.com/blog/starbucks-filialen#faq",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "Wie viele Starbucks-Filialen gibt es in Deutschland?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Rund 150 bis 160, Stand 2025/2026. Ältere Erhebungen aus dem Geschäftsjahr 2023/2024 nannten noch 164 Standorte; die Zahl ist seither leicht zurückgegangen."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Wo wurde die erste Starbucks-Filiale in Deutschland eröffnet?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "In Berlin im Jahr 2002. Berlin ist bis heute die Stadt mit der höchsten Filialdichte in Deutschland."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Ist Starbucks in Deutschland ein Franchise?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Nein. Starbucks vergibt keine klassischen Einzel-Franchises, sondern arbeitet mit einem Masterlizenznehmer - in Deutschland ist das seit 2016 die AmRest-Gruppe."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Wer betreibt die Starbucks-Filialen in Deutschland?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Die polnische AmRest-Gruppe betreibt und erweitert das deutsche Filialnetz als offizieller Lizenznehmer von Starbucks."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Kann ich selbst eine Starbucks-Filiale eröffnen?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Nein, Starbucks vergibt in Deutschland keine Einzellizenzen an Privatpersonen. Wer ein eigenes Coffee-to-go-Geschäft eröffnen möchte, findet bei Marken wie Coffee Fellows oder Balzac Coffee eher passende Franchise-Modelle."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "In welcher Stadt gibt es die meisten Starbucks-Filialen?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Berlin mit schätzungsweise 20 bis 30 Filialen, vor München mit mehr als 15 Standorten."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Wo finde ich die Starbucks-Filiale in meiner Nähe?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Am schnellsten über die offizielle Filialsuche auf starbucks.de oder die Starbucks-App; für eine Kurzübersicht eignet sich auch unser Ratgeber Starbucks in der Nähe."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Gibt es in jeder deutschen Stadt eine Starbucks-Filiale?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Nein. Viele mittelgroße Städte haben keine eigene Filiale - Trier etwa ist ein Beispiel für eine Stadt ohne aktuellen Standort."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Sind alle Starbucks-Filialen in Deutschland gleich ausgestattet?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Nein. Drive-Thru, separater Außenbereich oder WLAN sind nicht an jedem Standort verfügbar - die Ausstattung hängt von Lage und Filialtyp ab und lässt sich pro Standort in der Filialsuche einsehen."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Nimmt die Zahl der Starbucks-Filialen in Deutschland noch zu?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Das Wachstum hat sich zuletzt deutlich verlangsamt. Die Gesamtzahl gilt aktuell als weitgehend stabil, mit vereinzelten Schließungen und Neueröffnungen, statt eines klaren Aufwärtstrends wie in den 2010er-Jahren."
+          }
+        }
+      ]
+    },
+    {
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Startseite",
+          "item": "https://starbuckspreise.com/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Blog",
+          "item": "https://starbuckspreise.com/blog/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "Starbucks Filialen",
+          "item": "https://starbuckspreise.com/blog/starbucks-filialen"
+        }
+      ]
+    }
+  ]
+}

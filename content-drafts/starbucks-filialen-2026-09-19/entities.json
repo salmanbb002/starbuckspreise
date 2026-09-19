@@ -1,0 +1,162 @@
+[
+  {
+    "canonical": "Starbucks Corporation",
+    "type": "Organization",
+    "aliases": ["Starbucks"],
+    "sameAs": "https://de.wikipedia.org/wiki/Starbucks",
+    "kind": "entity",
+    "competitor_count": 4,
+    "in_title_or_h2": true,
+    "tier": 1
+  },
+  {
+    "canonical": "Starbucks Filialen Deutschland (Anzahl, ~150-160)",
+    "type": "Metric",
+    "aliases": ["Anzahl Filialen", "Filialenzahl"],
+    "sameAs": null,
+    "kind": "term",
+    "competitor_count": 3,
+    "in_title_or_h2": true,
+    "tier": 1
+  },
+  {
+    "canonical": "AmRest",
+    "type": "Organization",
+    "aliases": ["AmRest Holdings"],
+    "sameAs": "https://en.wikipedia.org/wiki/AmRest",
+    "kind": "entity",
+    "competitor_count": 1,
+    "in_title_or_h2": false,
+    "tier": 1
+  },
+  {
+    "canonical": "Lizenz-/Franchise-Modell",
+    "type": "Concept",
+    "aliases": ["Lizenzmodell", "Franchise"],
+    "sameAs": null,
+    "kind": "term",
+    "competitor_count": 2,
+    "in_title_or_h2": true,
+    "tier": 1
+  },
+  {
+    "canonical": "Berlin",
+    "type": "Place",
+    "aliases": [],
+    "sameAs": "https://de.wikipedia.org/wiki/Berlin",
+    "kind": "entity",
+    "competitor_count": 2,
+    "in_title_or_h2": false,
+    "tier": 2
+  },
+  {
+    "canonical": "München",
+    "type": "Place",
+    "aliases": ["Munich"],
+    "sameAs": "https://de.wikipedia.org/wiki/München",
+    "kind": "entity",
+    "competitor_count": 2,
+    "in_title_or_h2": false,
+    "tier": 2
+  },
+  {
+    "canonical": "Store Locator (starbucks.de)",
+    "type": "Product",
+    "aliases": ["Filialsuche", "Filialsuche starbucks.de"],
+    "sameAs": "https://www.starbucks.de/de/store-locator",
+    "kind": "entity",
+    "competitor_count": 2,
+    "in_title_or_h2": false,
+    "tier": 2
+  },
+  {
+    "canonical": "Öffnungszeiten (typisch 7-20 Uhr werktags)",
+    "type": "Concept",
+    "aliases": [],
+    "sameAs": null,
+    "kind": "term",
+    "competitor_count": 1,
+    "in_title_or_h2": false,
+    "tier": 2
+  },
+  {
+    "canonical": "Drive-Thru",
+    "type": "Concept",
+    "aliases": [],
+    "sameAs": null,
+    "kind": "term",
+    "competitor_count": 1,
+    "in_title_or_h2": false,
+    "tier": 2
+  },
+  {
+    "canonical": "Mobile Order & Pay",
+    "type": "Product",
+    "aliases": [],
+    "sameAs": null,
+    "kind": "term",
+    "competitor_count": 1,
+    "in_title_or_h2": false,
+    "tier": 2
+  },
+  {
+    "canonical": "Starbucks Rewards",
+    "type": "Product",
+    "aliases": [],
+    "sameAs": null,
+    "kind": "term",
+    "competitor_count": 1,
+    "in_title_or_h2": false,
+    "tier": 2
+  },
+  {
+    "canonical": "Postleitzahlen-Suche",
+    "type": "Concept",
+    "aliases": ["PLZ-Suche"],
+    "sameAs": null,
+    "kind": "term",
+    "competitor_count": 1,
+    "in_title_or_h2": false,
+    "tier": 3
+  },
+  {
+    "canonical": "Coffee Fellows",
+    "type": "Organization",
+    "aliases": [],
+    "sameAs": null,
+    "kind": "entity",
+    "competitor_count": 1,
+    "in_title_or_h2": false,
+    "tier": 3
+  },
+  {
+    "canonical": "Balzac Coffee",
+    "type": "Organization",
+    "aliases": [],
+    "sameAs": null,
+    "kind": "entity",
+    "competitor_count": 1,
+    "in_title_or_h2": false,
+    "tier": 3
+  },
+  {
+    "canonical": "Segafredo Zanetti Espresso Bar",
+    "type": "Organization",
+    "aliases": [],
+    "sameAs": null,
+    "kind": "entity",
+    "competitor_count": 1,
+    "in_title_or_h2": false,
+    "tier": 3
+  },
+  {
+    "canonical": "Coffee & Friends",
+    "type": "Organization",
+    "aliases": [],
+    "sameAs": null,
+    "kind": "entity",
+    "competitor_count": 1,
+    "in_title_or_h2": false,
+    "tier": 3
+  }
+]

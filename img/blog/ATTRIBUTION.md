@@ -36,3 +36,18 @@ Hero photos sourced from Wikimedia Commons for the 2026-09-17 location/product p
 - Source: https://commons.wikimedia.org/wiki/File:Oldenburger_Schloss_20141230.jpg
 - Author: JoachimKohler-HB
 - License: CC BY-SA 4.0 — attribution required if reused/redistributed further
+
+## starbucks-tasse-muenchen-hero.webp
+- Source: https://commons.wikimedia.org/wiki/File:Neues_Rathaus_und_Marienplatz_M%C3%BCnchen.jpg
+- Author: Chris 73
+- License: CC BY-SA 3.0 — attribution required if reused/redistributed further
+
+## starbucks-bamberg-hero.webp
+- Source: https://commons.wikimedia.org/wiki/File:Bamberg_Altes_Rathaus_17RM1565-PSD.jpg
+- Author: Ermell
+- License: CC BY-SA 4.0 — attribution required if reused/redistributed further
+
+## starbucks-deutschland-filialen-hero.webp
+- Source: https://commons.wikimedia.org/wiki/File:Starbucks_Stuttgart,_Germany.JPG
+- Author: Christoph Hoffmann
+- License: CC BY-SA 2.0 DE — attribution required if reused/redistributed further

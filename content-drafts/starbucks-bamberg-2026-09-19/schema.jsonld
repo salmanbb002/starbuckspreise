@@ -1,0 +1,150 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "BlogPosting",
+      "@id": "https://starbuckspreise.com/blog/starbucks-bamberg#article",
+      "headline": "Starbucks Bamberg: Gibt es eine Filiale in der Stadt?",
+      "description": "Nein, in Bamberg gibt es aktuell kein eigenständiges Starbucks Coffee House. Die nächsten Standorte liegen an der A3 bei Häusling und in Nürnberg - Entfernungen, Alternativen und Hintergründe.",
+      "author": {
+        "@type": "Person",
+        "name": "TODO: author name",
+        "sameAs": "TODO: author page URL if one exists"
+      },
+      "publisher": {
+        "@type": "Organization",
+        "name": "StarbucksPreise",
+        "logo": {
+          "@type": "ImageObject",
+          "url": "TODO: logo URL"
+        }
+      },
+      "datePublished": "TODO: set on publish",
+      "dateModified": "TODO: set on publish",
+      "mainEntityOfPage": "https://starbuckspreise.com/blog/starbucks-bamberg",
+      "about": [
+        {
+          "@type": "City",
+          "name": "Bamberg",
+          "sameAs": "https://www.wikidata.org/wiki/Q2749"
+        },
+        {
+          "@type": "Organization",
+          "name": "Starbucks",
+          "sameAs": "https://www.wikidata.org/wiki/Q37158"
+        }
+      ],
+      "mentions": [
+        {
+          "@type": "City",
+          "name": "Nürnberg",
+          "sameAs": "https://www.wikidata.org/wiki/Q2090"
+        },
+        {
+          "@type": "Place",
+          "name": "Hallstadt"
+        },
+        {
+          "@type": "Organization",
+          "name": "Coffee Fellows",
+          "sameAs": "https://www.wikidata.org/wiki/Q1094990"
+        },
+        {
+          "@type": "Place",
+          "name": "Bamberg, South Carolina",
+          "sameAs": "https://www.wikidata.org/wiki/Q985115"
+        }
+      ],
+      "speakable": {
+        "@type": "SpeakableSpecification",
+        "cssSelector": [".direct-answer"]
+      }
+    },
+    {
+      "@type": "FAQPage",
+      "@id": "https://starbuckspreise.com/blog/starbucks-bamberg#faq",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "Gibt es einen Starbucks in Bamberg?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Nein, aktuell betreibt Starbucks keine eigenständige Filiale innerhalb der Stadt Bamberg."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Wo ist der nächstgelegene Starbucks zu Bamberg?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Am nächsten liegt ein 24/7-Standort an der Autobahn A3 bei Häusling/Aurach-Süd, rund 40-45 km entfernt; die nächste Innenstadt-Filiale ist in Nürnberg, rund 55-60 km entfernt."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Warum wird bei einer Suche nach \"Starbucks Bamberg\" manchmal ein Ergebnis aus den USA angezeigt?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Weil es in South Carolina, USA, ebenfalls eine Ortschaft namens Bamberg mit eigenen Starbucks-Standorten in der Umgebung gibt - Suchmaschinen vermischen gelegentlich beide Treffer."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Ist der Starbucks an der A3 bei Häusling öffentlich zugänglich?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Ja, er liegt an einer Autobahn-Raststätte und ist rund um die Uhr für alle Reisenden geöffnet, jedoch nur mit dem Auto erreichbar."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Wie komme ich ohne Auto zum nächsten Starbucks?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Am einfachsten mit dem Zug über den Nürnberger Hauptbahnhof zu einer der beiden Nürnberger Filialen am Hauptmarkt oder am Hefnersplatz."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Warum hat Bamberg trotz UNESCO-Weltkulturerbe-Status keinen Starbucks?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Eine offizielle Begründung gibt es nicht; die denkmalgeschützte Altstadt mit über 1.000 geschützten Gebäuden schränkt jedoch die Verfügbarkeit großer Ladenflächen in bester Lage ein."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Welche Alternative zu Starbucks gibt es direkt in Bamberg oder Umgebung?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Im benachbarten Hallstadt betreibt Coffee Fellows eine Filiale im Einkaufszentrum \"market\"; in der Bamberger Altstadt selbst gibt es zudem mehrere unabhängige Cafés."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Hat Starbucks eine Eröffnung in Bamberg angekündigt?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Nein, es liegt derzeit keine offizielle Ankündigung für eine Bamberger Filiale vor."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Kann ich in Bamberg trotzdem Starbucks-Produkte kaufen?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Ja, verpackte Starbucks-Kaffeeprodukte sind in Supermärkten und Drogerien in Bamberg erhältlich, auch ohne eigene Filiale vor Ort."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Wie erfahre ich, falls Starbucks doch eine Filiale in Bamberg eröffnet?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Neue Standorte werden in der Regel zeitnah im offiziellen Starbucks Store Locator gelistet - ein gelegentlicher Blick dorthin zeigt eine Neueröffnung zuverlässig an."
+          }
+        }
+      ]
+    }
+  ]
+}
