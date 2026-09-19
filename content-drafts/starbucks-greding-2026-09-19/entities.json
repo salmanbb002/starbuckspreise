@@ -1,0 +1,18 @@
+[
+  {"canonical": "Greding", "type": "Place", "aliases": [], "sameAs": "https://de.wikipedia.org/wiki/Greding", "kind": "entity", "competitor_count": 4, "in_title_or_h2": true, "tier": 1},
+  {"canonical": "Starbucks", "type": "Organization", "aliases": ["Starbucks Coffee Deutschland GmbH"], "sameAs": "https://de.wikipedia.org/wiki/Starbucks", "kind": "entity", "competitor_count": 4, "in_title_or_h2": true, "tier": 1},
+  {"canonical": "Autobahn A9", "type": "Thing", "aliases": ["A9", "A 9"], "sameAs": "https://de.wikipedia.org/wiki/Bundesautobahn_9", "kind": "entity", "competitor_count": 4, "in_title_or_h2": true, "tier": 1},
+  {"canonical": "Raststätte Greding-Ost", "type": "Place", "aliases": ["Greding Ost", "Greding-Ost A9"], "sameAs": null, "kind": "entity", "competitor_count": 3, "in_title_or_h2": false, "tier": 1},
+  {"canonical": "Raststätte Greding-West", "type": "Place", "aliases": ["Greding West", "Greding-West A9"], "sameAs": null, "kind": "entity", "competitor_count": 3, "in_title_or_h2": false, "tier": 1},
+  {"canonical": "Tank & Rast", "type": "Organization", "aliases": ["Tank und Rast"], "sameAs": "https://de.wikipedia.org/wiki/Autobahn_Tank_%26_Rast", "kind": "entity", "competitor_count": 2, "in_title_or_h2": false, "tier": 1},
+  {"canonical": "Landkreis Roth", "type": "Place", "aliases": [], "sameAs": "https://de.wikipedia.org/wiki/Landkreis_Roth", "kind": "entity", "competitor_count": 1, "in_title_or_h2": false, "tier": 2},
+  {"canonical": "Nürnberg", "type": "Place", "aliases": ["Nuremberg"], "sameAs": "https://de.wikipedia.org/wiki/N%C3%BCrnberg", "kind": "entity", "competitor_count": 2, "in_title_or_h2": false, "tier": 2},
+  {"canonical": "Ingolstadt", "type": "Place", "aliases": [], "sameAs": "https://de.wikipedia.org/wiki/Ingolstadt", "kind": "entity", "competitor_count": 1, "in_title_or_h2": false, "tier": 2},
+  {"canonical": "Shell", "type": "Organization", "aliases": [], "sameAs": "https://de.wikipedia.org/wiki/Shell", "kind": "entity", "competitor_count": 2, "in_title_or_h2": false, "tier": 2},
+  {"canonical": "McDonald's", "type": "Organization", "aliases": [], "sameAs": "https://de.wikipedia.org/wiki/McDonald%27s", "kind": "entity", "competitor_count": 1, "in_title_or_h2": false, "tier": 2},
+  {"canonical": "Dallmayr", "type": "Organization", "aliases": [], "sameAs": "https://de.wikipedia.org/wiki/Dallmayr", "kind": "entity", "competitor_count": 1, "in_title_or_h2": false, "tier": 2},
+  {"canonical": "EnBW", "type": "Organization", "aliases": [], "sameAs": "https://de.wikipedia.org/wiki/EnBW", "kind": "term", "competitor_count": 1, "in_title_or_h2": false, "tier": 3},
+  {"canonical": "E.ON", "type": "Organization", "aliases": [], "sameAs": "https://de.wikipedia.org/wiki/E.ON", "kind": "term", "competitor_count": 1, "in_title_or_h2": false, "tier": 3},
+  {"canonical": "SANIFAIR", "type": "Thing", "aliases": [], "sameAs": null, "kind": "term", "competitor_count": 1, "in_title_or_h2": false, "tier": 3},
+  {"canonical": "eigener Becher Rabatt", "type": "Thing", "aliases": ["0,50 € Rabatt", "Mehrwegbecher-Rabatt"], "sameAs": null, "kind": "term", "competitor_count": 1, "in_title_or_h2": false, "tier": 2}
+]

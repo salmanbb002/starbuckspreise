@@ -1,0 +1,63 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "Article",
+      "@id": "https://starbuckspreise.com/blog/starbucks-tasse-koeln/#article",
+      "headline": "Starbucks Tasse Köln: Preis, Kaufen und Echtheit prüfen (2026)",
+      "description": "Die Starbucks Tasse Köln aus der You Are Here Collection: Kölner Dom & Hohenzollernbrücke-Motiv, Preis, wo Sie sie kaufen – und wie Sie Fälschungen erkennen.",
+      "image": "https://starbuckspreise.com/img/blog/starbucks-tasse-koeln-hero.webp",
+      "datePublished": "TODO: set on publish",
+      "dateModified": "TODO: set on publish",
+      "inLanguage": "de-DE",
+      "author": {
+        "@type": "Organization",
+        "name": "StarbucksPreise Redaktion",
+        "url": "https://starbuckspreise.com"
+      },
+      "publisher": {
+        "@type": "Organization",
+        "name": "StarbucksPreise Deutschland",
+        "url": "https://starbuckspreise.com"
+      },
+      "mainEntityOfPage": "https://starbuckspreise.com/blog/starbucks-tasse-koeln",
+      "about": [
+        {"@type": "Organization", "name": "Starbucks", "sameAs": "https://de.wikipedia.org/wiki/Starbucks"},
+        {"@type": "Place", "name": "Köln", "sameAs": "https://de.wikipedia.org/wiki/K%C3%B6ln"}
+      ],
+      "mentions": [
+        {"@type": "Thing", "name": "Kölner Dom", "sameAs": "https://de.wikipedia.org/wiki/K%C3%B6lner_Dom"},
+        {"@type": "Thing", "name": "Hohenzollernbrücke", "sameAs": "https://de.wikipedia.org/wiki/Hohenzollernbr%C3%BCcke"},
+        {"@type": "Thing", "name": "You Are Here Collection"},
+        {"@type": "Thing", "name": "Been There Series"}
+      ],
+      "speakable": {"@type": "SpeakableSpecification", "cssSelector": ["#direct-answer"]}
+    },
+    {
+      "@type": "BreadcrumbList",
+      "@id": "https://starbuckspreise.com/blog/starbucks-tasse-koeln/#breadcrumb",
+      "itemListElement": [
+        {"@type": "ListItem", "position": 1, "name": "Startseite", "item": "https://starbuckspreise.com"},
+        {"@type": "ListItem", "position": 2, "name": "Blog", "item": "https://starbuckspreise.com/blog"},
+        {"@type": "ListItem", "position": 3, "name": "Starbucks Tasse Köln", "item": "https://starbuckspreise.com/blog/starbucks-tasse-koeln"}
+      ]
+    },
+    {
+      "@type": "FAQPage",
+      "@id": "https://starbuckspreise.com/blog/starbucks-tasse-koeln/#faq",
+      "mainEntity": [
+        {"@type": "Question", "name": "Was ist die \"You Are Here Collection\" von Starbucks?", "acceptedAnswer": {"@type": "Answer", "text": "Das ist eine weltweite Serie von Keramiktassen, bei der jede Ausgabe die charakteristischen Motive einer bestimmten Stadt oder eines Landes zeigt – die Köln-Tasse ist eine von mehreren deutschen Stadtmotiven in dieser Reihe."}},
+        {"@type": "Question", "name": "Welche Motive zeigt die Starbucks Tasse Köln?", "acceptedAnswer": {"@type": "Answer", "text": "Die Tasse zeigt den Kölner Dom und die Hohenzollernbrücke, zwei der bekanntesten Wahrzeichen der Stadt."}},
+        {"@type": "Question", "name": "Wie groß ist die Starbucks Tasse Köln?", "acceptedAnswer": {"@type": "Answer", "text": "Sie fasst 414 ml (14 fl.oz.), ist rund 8,5 cm hoch, hat einen Durchmesser von etwa 9,5 cm und wiegt circa 0,5 kg."}},
+        {"@type": "Question", "name": "Wann kam die Starbucks Tasse Köln raus?", "acceptedAnswer": {"@type": "Answer", "text": "Die Erstausgabe stammt aus dem April 2017; laut Sammlerberichten tauchte sie zunächst an US-Militärstützpunkten auf, bevor sie regulär in deutschen Filialen verkauft wurde."}},
+        {"@type": "Question", "name": "Was kostet eine originale Starbucks Tasse Köln?", "acceptedAnswer": {"@type": "Answer", "text": "Beim spezialisierten Reseller lag der Neupreis zuletzt bei 32,99 Euro, das Modell gilt dort aktuell als ausverkauft; auf internationalen Zweitmarktplattformen wurden Preise zwischen rund 26,50 und über 100 US-Dollar beobachtet."}},
+        {"@type": "Question", "name": "Wo bekomme ich die Tasse gebraucht?", "acceptedAnswer": {"@type": "Answer", "text": "Gebrauchte und teils neuwertige Exemplare finden sich vor allem auf eBay.de und Kleinanzeigen.de – ein Preis- und Zustandsvergleich mehrerer Angebote lohnt sich."}},
+        {"@type": "Question", "name": "Ist die Tasse noch neu erhältlich?", "acceptedAnswer": {"@type": "Answer", "text": "Beim spezialisierten Reseller gilt sie aktuell als ausverkauft; im Starbucks-Store selbst ist sie in der Regel ebenfalls nicht mehr zu finden."}},
+        {"@type": "Question", "name": "Woran erkenne ich eine gefälschte Starbucks Tasse?", "acceptedAnswer": {"@type": "Answer", "text": "Achten Sie auf ein sauber gedrucktes Sirenen-Logo und eine Bodenprägung mit Material- und Herstellungsangaben; fehlt beides oder liegt der Preis auffällig niedrig, ist Vorsicht geboten."}},
+        {"@type": "Question", "name": "Kann ich mit der Sammeltasse den Rabatt fürs eigene Getränk bekommen?", "acceptedAnswer": {"@type": "Answer", "text": "Ja, der 30-Cent-Rabatt für den eigenen Becher gilt unabhängig vom Design, solange die Tasse den üblichen Anforderungen entspricht."}},
+        {"@type": "Question", "name": "Gibt es auch eine neuere Köln-Tasse aus der Been-There-Serie?", "acceptedAnswer": {"@type": "Answer", "text": "Ja, Starbucks führt zusätzlich eine neuere Ausgabe mit Kölner Dom, Rhein, Karnevalsmasken und Kölsch-Glas-Motiv – eine eigenständige Serie, die nicht mit der hier beschriebenen You-Are-Here-Tasse von 2017 zu verwechseln ist."}},
+        {"@type": "Question", "name": "Lohnt sich die Tasse als Wertanlage?", "acceptedAnswer": {"@type": "Answer", "text": "Sie zählt zu den gefragteren deutschen Stadtmotiven der Sammlerreihe, doch wie bei jedem Sammlerstück hängt der tatsächliche Wert von Zustand, Seltenheit und Nachfrage ab – eine garantierte Wertsteigerung gibt es nicht."}}
+      ]
+    }
+  ]
+}

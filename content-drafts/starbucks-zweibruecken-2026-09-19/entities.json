@@ -1,0 +1,10 @@
+[
+  {"canonical": "Starbucks", "type": "Organization", "aliases": ["Starbucks Corporation"], "sameAs": "https://de.wikipedia.org/wiki/Starbucks", "kind": "entity", "competitor_count": 4, "in_title_or_h2": true, "tier": 1},
+  {"canonical": "Zweibrücken", "type": "Place", "aliases": [], "sameAs": "https://de.wikipedia.org/wiki/Zweibr%C3%BCcken", "kind": "entity", "competitor_count": 4, "in_title_or_h2": true, "tier": 1},
+  {"canonical": "Zweibrücken Fashion Outlet", "type": "Place", "aliases": ["Fashion Outlet Zweibrücken"], "sameAs": "", "kind": "entity", "competitor_count": 3, "in_title_or_h2": true, "tier": 1},
+  {"canonical": "Londoner Bogen 10-90, 66482 Zweibrücken", "type": "Place", "aliases": [], "sameAs": "", "kind": "entity", "competitor_count": 3, "in_title_or_h2": false, "tier": 1},
+  {"canonical": "31. Oktober 2019", "type": "Date", "aliases": ["Eröffnungsdatum"], "sameAs": "", "kind": "term", "competitor_count": 1, "in_title_or_h2": false, "tier": 2},
+  {"canonical": "Center-Information (ehemalige Räume)", "type": "Concept", "aliases": [], "sameAs": "", "kind": "term", "competitor_count": 1, "in_title_or_h2": false, "tier": 2},
+  {"canonical": "+49 6332 9935320", "type": "Contact", "aliases": ["Telefonnummer"], "sameAs": "", "kind": "term", "competitor_count": 2, "in_title_or_h2": false, "tier": 2},
+  {"canonical": "Rheinland-Pfalz", "type": "Place", "aliases": [], "sameAs": "https://de.wikipedia.org/wiki/Rheinland-Pfalz", "kind": "entity", "competitor_count": 1, "in_title_or_h2": false, "tier": 3}
+]

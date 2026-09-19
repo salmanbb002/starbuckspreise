@@ -1,0 +1,53 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "Article",
+      "@id": "https://starbuckspreise.com/blog/starbucks-goettingen/#article",
+      "headline": "Starbucks Göttingen: Gibt es eine Filiale in der Stadt?",
+      "description": "Starbucks Göttingen: Aktuell gibt es in der Universitätsstadt kein eigenes Coffee House. Wo die nächste Filiale liegt, warum das auffällt und gute Alternativen.",
+      "image": "https://starbuckspreise.com/img/blog/starbucks-goettingen-hero.webp",
+      "datePublished": "TODO: set on publish",
+      "dateModified": "TODO: set on publish",
+      "inLanguage": "de-DE",
+      "author": {"@type": "Organization", "name": "StarbucksPreise Redaktion", "url": "https://starbuckspreise.com"},
+      "publisher": {"@type": "Organization", "name": "StarbucksPreise Deutschland", "url": "https://starbuckspreise.com"},
+      "mainEntityOfPage": "https://starbuckspreise.com/blog/starbucks-goettingen",
+      "about": [
+        {"@type": "Organization", "name": "Starbucks", "sameAs": "https://de.wikipedia.org/wiki/Starbucks"},
+        {"@type": "Place", "name": "Göttingen", "sameAs": "https://de.wikipedia.org/wiki/G%C3%B6ttingen"}
+      ],
+      "mentions": [
+        {"@type": "Organization", "name": "Georg-August-Universität Göttingen", "sameAs": "https://de.wikipedia.org/wiki/Georg-August-Universit%C3%A4t_G%C3%B6ttingen"},
+        {"@type": "Place", "name": "Kassel", "sameAs": "https://de.wikipedia.org/wiki/Kassel"},
+        {"@type": "Organization", "name": "Espresso House"}
+      ],
+      "speakable": {"@type": "SpeakableSpecification", "cssSelector": ["#direct-answer"]}
+    },
+    {
+      "@type": "BreadcrumbList",
+      "@id": "https://starbuckspreise.com/blog/starbucks-goettingen/#breadcrumb",
+      "itemListElement": [
+        {"@type": "ListItem", "position": 1, "name": "Startseite", "item": "https://starbuckspreise.com"},
+        {"@type": "ListItem", "position": 2, "name": "Blog", "item": "https://starbuckspreise.com/blog"},
+        {"@type": "ListItem", "position": 3, "name": "Starbucks Göttingen", "item": "https://starbuckspreise.com/blog/starbucks-goettingen"}
+      ]
+    },
+    {
+      "@type": "FAQPage",
+      "@id": "https://starbuckspreise.com/blog/starbucks-goettingen/#faq",
+      "mainEntity": [
+        {"@type": "Question", "name": "Gibt es einen Starbucks in Göttingen?", "acceptedAnswer": {"@type": "Answer", "text": "Nein, aktuell betreibt Starbucks keine eigenständige Filiale innerhalb der Stadt Göttingen."}},
+        {"@type": "Question", "name": "Wo ist der nächstgelegene Starbucks zu Göttingen?", "acceptedAnswer": {"@type": "Answer", "text": "Am nächsten liegt die Filiale in Kassel am Königsplatz 59, rund 40 km entfernt und mit dem Zug über Kassel-Wilhelmshöhe in der Regel unter 30 Minuten erreichbar."}},
+        {"@type": "Question", "name": "Warum hat Göttingen trotz Universitätsstadt-Status keinen Starbucks?", "acceptedAnswer": {"@type": "Answer", "text": "Eine offizielle Begründung gibt es nicht. Auffällig ist, dass das nur 40 km entfernte, etwas größere Kassel längst eine Filiale hat, während Göttingen mit über 127.000 Einwohnern und einem Studierendenanteil von über 20 % bislang keine eigene Filiale bekommen hat."}},
+        {"@type": "Question", "name": "Welche Alternative zu Starbucks gibt es direkt in Göttingen?", "acceptedAnswer": {"@type": "Answer", "text": "Direkt am Hauptbahnhof, Bahnhofsplatz 1, betreibt die Kette Espresso House ein Café mit ähnlichem Konzept; in der Innenstadt gibt es zudem mehrere unabhängige Cafés."}},
+        {"@type": "Question", "name": "Wie sind die Öffnungszeiten des Espresso House am Göttinger Hauptbahnhof?", "acceptedAnswer": {"@type": "Answer", "text": "Montag bis Donnerstag 5:30-19:00 Uhr, freitags bis 19:30 Uhr, samstags ab 6:00 und sonntags ab 6:30 Uhr, jeweils bis 19:30 Uhr."}},
+        {"@type": "Question", "name": "Kann ich ohne Auto zum nächsten Starbucks nach Kassel kommen?", "acceptedAnswer": {"@type": "Answer", "text": "Ja, mit der Bahn ist Kassel-Wilhelmshöhe von Göttingen aus in der Regel in unter 30 Minuten erreichbar, von dort ist die Filiale am Königsplatz fußläufig oder mit der Straßenbahn zu erreichen."}},
+        {"@type": "Question", "name": "Gibt es außer Kassel weitere Starbucks-Filialen in der Nähe von Göttingen?", "acceptedAnswer": {"@type": "Answer", "text": "Ja, alternativ liegen Hannover (rund 95 km, mehrere Filialen) und Braunschweig (rund 90 km) in erreichbarer Entfernung, beide etwas weiter als Kassel."}},
+        {"@type": "Question", "name": "Hat Starbucks eine Eröffnung in Göttingen angekündigt?", "acceptedAnswer": {"@type": "Answer", "text": "Nein, es liegt derzeit keine offizielle Ankündigung für eine Göttinger Filiale vor."}},
+        {"@type": "Question", "name": "Kann ich in Göttingen trotzdem Starbucks-Produkte kaufen?", "acceptedAnswer": {"@type": "Answer", "text": "Ja, verpackte Starbucks-Kaffeeprodukte sind in Supermärkten und Drogerien in Göttingen erhältlich, auch ohne eigene Filiale vor Ort."}},
+        {"@type": "Question", "name": "Wie erfahre ich, falls Starbucks doch eine Filiale in Göttingen eröffnet?", "acceptedAnswer": {"@type": "Answer", "text": "Neue Standorte werden in der Regel zeitnah im offiziellen Starbucks Store Locator gelistet - ein gelegentlicher Blick dorthin zeigt eine Neueröffnung zuverlässig an."}}
+      ]
+    }
+  ]
+}

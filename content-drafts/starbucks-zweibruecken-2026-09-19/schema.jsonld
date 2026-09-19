@@ -1,0 +1,51 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "Article",
+      "@id": "https://starbuckspreise.com/blog/starbucks-zweibruecken/#article",
+      "headline": "Starbucks Zweibrücken: Filiale im Fashion Outlet, Adresse und Öffnungszeiten",
+      "description": "Die Starbucks-Filiale in Zweibrücken liegt im Fashion Outlet, Londoner Bogen 10-90. Adresse, Öffnungszeiten, Eröffnungsdatum und Kontakt im Überblick.",
+      "image": "https://starbuckspreise.com/img/blog/starbucks-zweibruecken-hero.webp",
+      "datePublished": "TODO: set on publish",
+      "dateModified": "TODO: set on publish",
+      "inLanguage": "de-DE",
+      "author": {"@type": "Organization", "name": "StarbucksPreise Redaktion", "url": "https://starbuckspreise.com"},
+      "publisher": {"@type": "Organization", "name": "StarbucksPreise Deutschland", "url": "https://starbuckspreise.com"},
+      "mainEntityOfPage": "https://starbuckspreise.com/blog/starbucks-zweibruecken",
+      "about": [
+        {"@type": "Organization", "name": "Starbucks", "sameAs": "https://de.wikipedia.org/wiki/Starbucks"},
+        {"@type": "Place", "name": "Zweibrücken", "sameAs": "https://de.wikipedia.org/wiki/Zweibr%C3%BCcken"}
+      ],
+      "mentions": [
+        {"@type": "Place", "name": "Zweibrücken Fashion Outlet"}
+      ],
+      "speakable": {"@type": "SpeakableSpecification", "cssSelector": ["#direct-answer"]}
+    },
+    {
+      "@type": "BreadcrumbList",
+      "@id": "https://starbuckspreise.com/blog/starbucks-zweibruecken/#breadcrumb",
+      "itemListElement": [
+        {"@type": "ListItem", "position": 1, "name": "Startseite", "item": "https://starbuckspreise.com"},
+        {"@type": "ListItem", "position": 2, "name": "Blog", "item": "https://starbuckspreise.com/blog"},
+        {"@type": "ListItem", "position": 3, "name": "Starbucks Zweibrücken", "item": "https://starbuckspreise.com/blog/starbucks-zweibruecken"}
+      ]
+    },
+    {
+      "@type": "FAQPage",
+      "@id": "https://starbuckspreise.com/blog/starbucks-zweibruecken/#faq",
+      "mainEntity": [
+        {"@type": "Question", "name": "Wo genau liegt der Starbucks in Zweibrücken?", "acceptedAnswer": {"@type": "Answer", "text": "Im Zweibrücken Fashion Outlet, Londoner Bogen 10-90, 66482 Zweibrücken, in den ehemaligen Räumen der Center-Information."}},
+        {"@type": "Question", "name": "Welche Öffnungszeiten hat der Starbucks im Fashion Outlet?", "acceptedAnswer": {"@type": "Answer", "text": "Montag bis Samstag von 10:00 bis 19:00 Uhr; ein Vergleichsverzeichnis nennt abweichend 09:30 bis 19:30 Uhr. Sonntags bleibt die Filiale geschlossen."}},
+        {"@type": "Question", "name": "Hat Starbucks in Zweibrücken auch sonntags geöffnet?", "acceptedAnswer": {"@type": "Answer", "text": "Nein, sonntags bleibt die Filiale wie das gesamte Outlet-Center geschlossen."}},
+        {"@type": "Question", "name": "Seit wann gibt es die Filiale im Zweibrücken Fashion Outlet?", "acceptedAnswer": {"@type": "Answer", "text": "Seit dem 31. Oktober 2019; laut Lokalpresse war der Andrang am Eröffnungstag groß."}},
+        {"@type": "Question", "name": "Gibt es in der Zweibrücker Innenstadt eine eigene Starbucks-Filiale?", "acceptedAnswer": {"@type": "Answer", "text": "Nein, aktuell ist nur der Standort im Fashion Outlet gelistet, nicht in der Innenstadt selbst."}},
+        {"@type": "Question", "name": "Wie erreiche ich die Filiale telefonisch?", "acceptedAnswer": {"@type": "Answer", "text": "Unter der Nummer +49 6332 9935320."}},
+        {"@type": "Question", "name": "Was kann ich im Starbucks Zweibrücken kaufen?", "acceptedAnswer": {"@type": "Answer", "text": "Neben Kaffeespezialitäten auch Tees, heiße Schokolade, kleine Speisen wie Cheesecake und Muffins sowie verpackten Röstkaffee und Becher zum Mitnehmen."}},
+        {"@type": "Question", "name": "Gibt es Sitzplätze im Außenbereich?", "acceptedAnswer": {"@type": "Answer", "text": "Bei der Eröffnung 2019 war ein Außenbereich mit Sitzplätzen im Bau; aktuelle Details zur Verfügbarkeit prüfen Sie am besten direkt vor Ort oder über die Starbucks-App."}},
+        {"@type": "Question", "name": "Warum liegt die Filiale im Outlet und nicht in der Innenstadt?", "acceptedAnswer": {"@type": "Answer", "text": "Das Fashion Outlet zieht als großes Einkaufszentrum in der Grenzregion zu Frankreich und dem Saarland mehr Laufkundschaft an als die kleinere Innenstadt von Zweibrücken."}},
+        {"@type": "Question", "name": "Folgen die Preise in Zweibrücken der bundesweiten Starbucks-Preisliste?", "acceptedAnswer": {"@type": "Answer", "text": "Ja, es gibt keine gesonderten Preise für diesen Standort."}}
+      ]
+    }
+  ]
+}

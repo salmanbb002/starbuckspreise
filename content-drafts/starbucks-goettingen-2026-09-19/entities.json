@@ -1,0 +1,9 @@
+[
+  {"canonical": "Göttingen", "type": "Place", "aliases": [], "sameAs": "https://de.wikipedia.org/wiki/G%C3%B6ttingen", "kind": "entity", "competitor_count": 0, "in_title_or_h2": true, "tier": 1},
+  {"canonical": "Starbucks", "type": "Organization", "aliases": ["Starbucks Corporation"], "sameAs": "https://de.wikipedia.org/wiki/Starbucks", "kind": "entity", "competitor_count": 0, "in_title_or_h2": true, "tier": 1},
+  {"canonical": "Georg-August-Universität Göttingen", "type": "Organization", "aliases": ["Universität Göttingen"], "sameAs": "https://de.wikipedia.org/wiki/Georg-August-Universit%C3%A4t_G%C3%B6ttingen", "kind": "entity", "competitor_count": 0, "in_title_or_h2": false, "tier": 2},
+  {"canonical": "Espresso House (Göttingen Hauptbahnhof)", "type": "Organization", "aliases": [], "sameAs": "", "kind": "entity", "competitor_count": 0, "in_title_or_h2": false, "tier": 2},
+  {"canonical": "Kassel (Königsplatz 59 Filiale)", "type": "Place", "aliases": [], "sameAs": "https://de.wikipedia.org/wiki/Kassel", "kind": "entity", "competitor_count": 0, "in_title_or_h2": false, "tier": 2},
+  {"canonical": "Starbucks Store Locator", "type": "Thing", "aliases": [], "sameAs": "", "kind": "term", "competitor_count": 0, "in_title_or_h2": false, "tier": 3},
+  {"canonical": "Gänseliesel-Brunnen", "type": "Thing", "aliases": [], "sameAs": "", "kind": "entity", "competitor_count": 0, "in_title_or_h2": false, "tier": 3}
+]

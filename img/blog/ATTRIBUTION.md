@@ -51,3 +51,23 @@ Hero photos sourced from Wikimedia Commons for the 2026-09-17 location/product p
 - Source: https://commons.wikimedia.org/wiki/File:Starbucks_Stuttgart,_Germany.JPG
 - Author: Christoph Hoffmann
 - License: CC BY-SA 2.0 DE — attribution required if reused/redistributed further
+
+## starbucks-zweibruecken-hero.webp
+- Source: https://commons.wikimedia.org/wiki/File:Zweibr%C3%BCcken_Schloss.JPG
+- Author: E.peiffer@gmx.net, German Wikipedia
+- License: CC BY-SA 3.0 — attribution required if reused/redistributed further
+
+## starbucks-goettingen-hero.webp
+- Source: https://commons.wikimedia.org/wiki/File:Goettingen_Marktplatz_Oct06.jpg
+- Author: Daniel Schwen
+- License: CC BY-SA 2.5 — attribution required if reused/redistributed further
+
+## starbucks-greding-hero.webp
+- Source: https://commons.wikimedia.org/wiki/File:Blick_auf_Greding.jpg
+- Author: Chrisi1964
+- License: CC BY-SA 4.0 — attribution required if reused/redistributed further
+
+## starbucks-tasse-koeln-hero.webp
+- Source: https://commons.wikimedia.org/wiki/File:K%C3%B6lner_Dom_und_Hohenzollernbr%C3%BCcke_Abendd%C3%A4mmerung_(9706_7_8).jpg
+- Author: Raimond Spekking
+- License: CC BY-SA 4.0 — attribution required if reused/redistributed further
