@@ -71,3 +71,18 @@ Hero photos sourced from Wikimedia Commons for the 2026-09-17 location/product p
 - Source: https://commons.wikimedia.org/wiki/File:K%C3%B6lner_Dom_und_Hohenzollernbr%C3%BCcke_Abendd%C3%A4mmerung_(9706_7_8).jpg
 - Author: Raimond Spekking
 - License: CC BY-SA 4.0 — attribution required if reused/redistributed further
+
+## starbucks-gelsenkirchen-hero.webp
+- Source: https://commons.wikimedia.org/wiki/File:Gelsenkirchen_-_Nordsternpark_-_Pyramide%2BHerkules_01_ies.jpg
+- Author: Frank Vincentz
+- License: CC BY-SA 3.0 — attribution required if reused/redistributed further
+
+## starbucks-fuerth-hero.webp
+- Source: https://commons.wikimedia.org/wiki/File:Fuerth_Rathaus.jpg
+- Author: Magnus Gertkemper
+- License: CC BY-SA 3.0 — attribution required if reused/redistributed further
+
+## starbucks-becher-hero.webp
+- Source: https://commons.wikimedia.org/wiki/File:Gold_tumblers_at_Safeway_Starbucks.jpg
+- Author: Ser Amantio di Nicolao
+- License: CC BY-SA 4.0 — attribution required if reused/redistributed further
