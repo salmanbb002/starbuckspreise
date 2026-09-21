@@ -1,0 +1,207 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "Article",
+      "@id": "https://starbuckspreise.com/blog/starbucks-menu/#article",
+      "headline": "Starbucks Menu Deutschland: Die komplette Karte mit Getränken, Food & Preisspannen",
+      "description": "Das komplette Starbucks Menu für Deutschland: alle Kategorien, Getränke, Essen, Bohnen und Preisspannen 2026 – mit Entscheidungshilfe und Bestellwegen.",
+      "image": "https://starbuckspreise.com/img/blog/starbucks-getraenke-hero.webp",
+      "datePublished": "2026-09-21T10:00:00+02:00",
+      "dateModified": "2026-09-21T10:00:00+02:00",
+      "inLanguage": "de-DE",
+      "author": {
+        "@type": "Organization",
+        "name": "StarbucksPreise Redaktion",
+        "url": "https://starbuckspreise.com"
+      },
+      "publisher": {
+        "@type": "Organization",
+        "name": "StarbucksPreise Deutschland",
+        "url": "https://starbuckspreise.com"
+      },
+      "mainEntityOfPage": "https://starbuckspreise.com/blog/starbucks-menu",
+      "about": [
+        {
+          "@type": "Organization",
+          "name": "Starbucks",
+          "sameAs": "https://de.wikipedia.org/wiki/Starbucks"
+        },
+        {
+          "@type": "Thing",
+          "name": "Starbucks Menü (Speisekarte Deutschland)"
+        }
+      ],
+      "mentions": [
+        {
+          "@type": "Thing",
+          "name": "Frappuccino",
+          "sameAs": "https://de.wikipedia.org/wiki/Frappuccino"
+        },
+        {
+          "@type": "Thing",
+          "name": "Cold Brew",
+          "sameAs": "https://de.wikipedia.org/wiki/Cold_Brew"
+        },
+        {
+          "@type": "Organization",
+          "name": "AmRest",
+          "sameAs": "https://de.wikipedia.org/wiki/AmRest"
+        },
+        {
+          "@type": "Organization",
+          "name": "Uber Eats",
+          "sameAs": "https://de.wikipedia.org/wiki/Uber_Eats"
+        },
+        {
+          "@type": "Thing",
+          "name": "Refresha"
+        },
+        {
+          "@type": "Thing",
+          "name": "Teavana"
+        }
+      ],
+      "speakable": {
+        "@type": "SpeakableSpecification",
+        "cssSelector": [
+          "#direct-answer"
+        ]
+      }
+    },
+    {
+      "@type": "BreadcrumbList",
+      "@id": "https://starbuckspreise.com/blog/starbucks-menu/#breadcrumb",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Startseite",
+          "item": "https://starbuckspreise.com"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Blog",
+          "item": "https://starbuckspreise.com/blog"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "Starbucks Menu",
+          "item": "https://starbuckspreise.com/blog/starbucks-menu"
+        }
+      ]
+    },
+    {
+      "@type": "FAQPage",
+      "@id": "https://starbuckspreise.com/blog/starbucks-menu/#faq",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "Wie viele Filialen hat Starbucks in Deutschland?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Starbucks hat in Deutschland rund 179 Filialen (Stand 1. Juli 2026), verteilt auf 77 Städte. Die meisten stehen in Nordrhein-Westfalen (36), gefolgt von Bayern und Hessen. Die Zahl schwankt je nach Quelle, weil andere Listen von 154 bis 181 Filialen sprechen."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Wer betreibt Starbucks in Deutschland?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Starbucks in Deutschland wird seit April 2016 von AmRest betrieben, und zwar auf Lizenzbasis. Zuvor führte die Starbucks Coffee Deutschland GmbH die Filialen selbst. Die ersten deutschen Coffee Houses eröffneten im Mai 2002 in Berlin."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Gibt es eine offizielle Starbucks Preisliste?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Nein, auf den Menüseiten von starbucks.de stehen keine Preise. Dort findest du nur Kategorien, Produktnamen und Beschreibungen. Verbindlich ist der Preis an der Kasse oder in der App deiner Filiale."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Sind die Preise bei Starbucks überall gleich?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Nein, die Preise unterscheiden sich nach Standort. Filialen an Bahnhöfen und Flughäfen liegen laut unserer Preisliste etwa 10–15 % über Innenstadtpreisen. Auch Lieferdienste können abweichende Preise haben."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Was ist der Unterschied zwischen Frappuccino und Iced Coffee?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Ein Frappuccino® ist ein gemixtes Eisgetränk, ein Iced Coffee wird dagegen auf Eis serviert. Frappuccinos enthalten Eis, Milch und Sirup und werden meist mit Sahne serviert. Iced Coffees wie Cold Brew sind deutlich weniger süß und kosten weniger."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Gibt es bei Starbucks vegane Getränke und Snacks?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Ja, du kannst fast jedes Milchgetränk mit Hafer-, Soja- oder Mandelmilch bestellen. Pflanzliche Milch kostet 0,50 € bis 0,80 € extra. Beim Gebäck gibt es zum Beispiel ein veganes Croissant und ein veganes Pain au Chocolat."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Gibt es bei Starbucks Frühstück?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Ja, unter „Frühstück & Gebäck“ führt Starbucks Croissants, Pain au Chocolat, Zimtschnecken und Muffins. Dazu kommen warme Sandwiches wie das Melted Cheese Croissant. Das Angebot variiert je nach Filiale."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Kann ich Starbucks über Uber Eats bestellen?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Ja, in ausgewählten Städten und Filialen. Uber Eats liefert seit Dezember 2021 Starbucks-Getränke und Speisen, gestartet ist der Dienst in Frankfurt, Hamburg und München. Ob deine Filiale mitmacht, zeigt die Uber-Eats-App."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Gibt es bei Starbucks einen Drive-Thru?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Ja, aber nicht in jeder Filiale. Drive-Thru-Schalter gibt es nur an einzelnen Standorten. Die Ausstattung einer Filiale siehst du im Store-Locator auf starbucks.de."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Wie funktioniert Starbucks Rewards in Deutschland?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Du sammelst mit der App 3 Stars pro ausgegebenem Euro. Für je 150 Stars gibt es ein Getränk gratis, ab 450 Stars erreichst du den Gold-Status. Gold-Mitglieder bekommen laut starbucks.de zusätzliche Shots oder Sirup und einen Nachfüllkaffee gratis."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Wann gibt es den Pumpkin Spice Latte?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Der Pumpkin Spice Latte ist ein Herbst-Saisongetränk und läuft typischerweise von September bis in den November oder Dezember. Der genaue Start und das Ende hängen von der Saisonplanung ab. Die aktuellen Highlights zeigt die App."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Kann ich einen eigenen Becher mitbringen?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Ja, du kannst dein Getränk in einem eigenen Becher oder einem weißen Starbucks Reusable Cup bestellen. Alternativ gibt es den grünen Mehrwegbecher mit 2,50 € Pfand, den du bei Rückgabe zurückbekommst. Details zu Rabatten stehen im Artikel Starbucks Becher."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Kann ich bei Starbucks Kaffeebohnen kaufen?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Ja, Starbucks verkauft ganze Kaffeebohnen in 250-Gramm-Packungen. Die Pike Place® Roast kostet etwa 6,99 €, Single-Origin-Sorten liegen um 9,90 €. Auf Wunsch werden die Bohnen in der Filiale gemahlen."
+          }
+        }
+      ]
+    }
+  ]
+}

@@ -199,6 +199,14 @@
     {
       "source": "/blog/starbucks-oldenburg",
       "destination": "/blog/starbucks-oldenburg.html"
+    },
+    {
+      "source": "/starbucks-menu",
+      "destination": "/blog/starbucks-menu.html"
+    },
+    {
+      "source": "/blog/starbucks-menu",
+      "destination": "/blog/starbucks-menu.html"
     }
   ]
 }

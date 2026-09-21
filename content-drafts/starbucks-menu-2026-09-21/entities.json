@@ -1,0 +1,436 @@
+[
+  {
+    "canonical": "Starbucks",
+    "type": "Organization",
+    "kind": "entity",
+    "aliases": [
+      "Starbucks Coffee Company",
+      "Starbucks Deutschland"
+    ],
+    "sameAs": "https://de.wikipedia.org/wiki/Starbucks",
+    "competitor_count": 4,
+    "in_title_or_h2": true,
+    "tier": 1,
+    "covered_in_draft": true
+  },
+  {
+    "canonical": "Starbucks Menü",
+    "type": "Concept",
+    "kind": "term",
+    "aliases": [
+      "Starbucks Menu",
+      "Speisekarte",
+      "Getränkekarte",
+      "Karte"
+    ],
+    "sameAs": "",
+    "competitor_count": 4,
+    "in_title_or_h2": true,
+    "tier": 1,
+    "covered_in_draft": true
+  },
+  {
+    "canonical": "Heiße Kaffeegetränke (Espresso Beverages)",
+    "type": "Product",
+    "kind": "term",
+    "aliases": [
+      "Hot Coffees",
+      "Espresso-Getränke"
+    ],
+    "sameAs": "",
+    "competitor_count": 4,
+    "in_title_or_h2": true,
+    "tier": 1,
+    "covered_in_draft": true
+  },
+  {
+    "canonical": "Frappuccino®",
+    "type": "Product",
+    "kind": "entity",
+    "aliases": [
+      "Frappuccino Blended Beverages"
+    ],
+    "sameAs": "https://de.wikipedia.org/wiki/Frappuccino",
+    "competitor_count": 4,
+    "in_title_or_h2": true,
+    "tier": 1,
+    "covered_in_draft": true
+  },
+  {
+    "canonical": "Teavana Tee, Chai & Matcha",
+    "type": "Product",
+    "kind": "term",
+    "aliases": [
+      "Hot Teas",
+      "Iced Teas"
+    ],
+    "sameAs": "",
+    "competitor_count": 4,
+    "in_title_or_h2": true,
+    "tier": 1,
+    "covered_in_draft": true
+  },
+  {
+    "canonical": "Heiße Schokolade",
+    "type": "Product",
+    "kind": "term",
+    "aliases": [
+      "Hot Chocolates",
+      "Signature Hot Chocolate"
+    ],
+    "sameAs": "",
+    "competitor_count": 4,
+    "in_title_or_h2": false,
+    "tier": 1,
+    "covered_in_draft": true
+  },
+  {
+    "canonical": "Sandwiches",
+    "type": "Product",
+    "kind": "term",
+    "aliases": [
+      "Melted Cheese Croissant",
+      "Ham & Cheese Pocket"
+    ],
+    "sameAs": "",
+    "competitor_count": 4,
+    "in_title_or_h2": true,
+    "tier": 1,
+    "covered_in_draft": true
+  },
+  {
+    "canonical": "Gebäck, Kuchen & Bakery",
+    "type": "Product",
+    "kind": "term",
+    "aliases": [
+      "Bakery",
+      "Desserts",
+      "Croissant",
+      "Muffin"
+    ],
+    "sameAs": "",
+    "competitor_count": 4,
+    "in_title_or_h2": true,
+    "tier": 1,
+    "covered_in_draft": true
+  },
+  {
+    "canonical": "Snacks & Leckereien",
+    "type": "Product",
+    "kind": "term",
+    "aliases": [
+      "Snacks & Süßes"
+    ],
+    "sameAs": "",
+    "competitor_count": 3,
+    "in_title_or_h2": false,
+    "tier": 1,
+    "covered_in_draft": true
+  },
+  {
+    "canonical": "Frühstück",
+    "type": "Concept",
+    "kind": "term",
+    "aliases": [
+      "Breakfast"
+    ],
+    "sameAs": "",
+    "competitor_count": 3,
+    "in_title_or_h2": false,
+    "tier": 1,
+    "covered_in_draft": true
+  },
+  {
+    "canonical": "Kaffeebohnen (Whole Bean)",
+    "type": "Product",
+    "kind": "term",
+    "aliases": [
+      "Whole Bean",
+      "Bohnen 250 g"
+    ],
+    "sameAs": "",
+    "competitor_count": 3,
+    "in_title_or_h2": false,
+    "tier": 1,
+    "covered_in_draft": true
+  },
+  {
+    "canonical": "Preise / Preisspannen",
+    "type": "Concept",
+    "kind": "term",
+    "aliases": [
+      "Preisliste",
+      "Preisrahmen"
+    ],
+    "sameAs": "",
+    "competitor_count": 4,
+    "in_title_or_h2": true,
+    "tier": 1,
+    "covered_in_draft": true
+  },
+  {
+    "canonical": "Nährwerte",
+    "type": "Concept",
+    "kind": "term",
+    "aliases": [
+      "Kalorien"
+    ],
+    "sameAs": "",
+    "competitor_count": 3,
+    "in_title_or_h2": false,
+    "tier": 1,
+    "covered_in_draft": true
+  },
+  {
+    "canonical": "Öffnungszeiten",
+    "type": "Concept",
+    "kind": "term",
+    "aliases": [],
+    "sameAs": "",
+    "competitor_count": 3,
+    "in_title_or_h2": false,
+    "tier": 1,
+    "covered_in_draft": true
+  },
+  {
+    "canonical": "Starbucks-Filialen in Deutschland",
+    "type": "Place",
+    "kind": "term",
+    "aliases": [
+      "Standorte",
+      "Coffee Houses"
+    ],
+    "sameAs": "",
+    "competitor_count": 3,
+    "in_title_or_h2": false,
+    "tier": 1,
+    "covered_in_draft": true
+  },
+  {
+    "canonical": "AmRest",
+    "type": "Organization",
+    "kind": "entity",
+    "aliases": [
+      "AmRest Coffee Deutschland"
+    ],
+    "sameAs": "https://de.wikipedia.org/wiki/AmRest",
+    "competitor_count": 0,
+    "in_title_or_h2": false,
+    "tier": 1,
+    "covered_in_draft": true
+  },
+  {
+    "canonical": "Refresha®",
+    "type": "Product",
+    "kind": "entity",
+    "aliases": [
+      "Refreshers"
+    ],
+    "sameAs": "",
+    "competitor_count": 2,
+    "in_title_or_h2": true,
+    "tier": 2,
+    "covered_in_draft": true
+  },
+  {
+    "canonical": "Iced Coffee & Cold Brew",
+    "type": "Product",
+    "kind": "term",
+    "aliases": [
+      "Iced Coffees"
+    ],
+    "sameAs": "https://de.wikipedia.org/wiki/Cold_Brew",
+    "competitor_count": 2,
+    "in_title_or_h2": true,
+    "tier": 2,
+    "covered_in_draft": true
+  },
+  {
+    "canonical": "Flaschengetränke (Bottled Drinks)",
+    "type": "Product",
+    "kind": "term",
+    "aliases": [],
+    "sameAs": "",
+    "competitor_count": 2,
+    "in_title_or_h2": false,
+    "tier": 2,
+    "covered_in_draft": true
+  },
+  {
+    "canonical": "Merchandise, Becher & Tassen",
+    "type": "Product",
+    "kind": "term",
+    "aliases": [
+      "Tumbler",
+      "Mehrwegbecher"
+    ],
+    "sameAs": "",
+    "competitor_count": 2,
+    "in_title_or_h2": false,
+    "tier": 2,
+    "covered_in_draft": true
+  },
+  {
+    "canonical": "Größen (Tall, Grande, Venti)",
+    "type": "Concept",
+    "kind": "term",
+    "aliases": [
+      "Short",
+      "Tall",
+      "Grande",
+      "Venti"
+    ],
+    "sameAs": "",
+    "competitor_count": 2,
+    "in_title_or_h2": false,
+    "tier": 2,
+    "covered_in_draft": true
+  },
+  {
+    "canonical": "Saisonale Highlights",
+    "type": "Concept",
+    "kind": "term",
+    "aliases": [
+      "Pumpkin Spice Latte",
+      "Lebkuchen Latte"
+    ],
+    "sameAs": "",
+    "competitor_count": 2,
+    "in_title_or_h2": true,
+    "tier": 2,
+    "covered_in_draft": true
+  },
+  {
+    "canonical": "Pflanzliche Milch / vegan",
+    "type": "Concept",
+    "kind": "term",
+    "aliases": [
+      "Hafermilch",
+      "vegane Optionen"
+    ],
+    "sameAs": "",
+    "competitor_count": 2,
+    "in_title_or_h2": false,
+    "tier": 2,
+    "covered_in_draft": true
+  },
+  {
+    "canonical": "Starbucks Rewards & App",
+    "type": "Product",
+    "kind": "term",
+    "aliases": [
+      "Starbucks Card",
+      "Stars"
+    ],
+    "sameAs": "",
+    "competitor_count": 2,
+    "in_title_or_h2": false,
+    "tier": 2,
+    "covered_in_draft": true
+  },
+  {
+    "canonical": "Lieferdienst (Uber Eats)",
+    "type": "Organization",
+    "kind": "entity",
+    "aliases": [
+      "Uber Eats"
+    ],
+    "sameAs": "https://de.wikipedia.org/wiki/Uber_Eats",
+    "competitor_count": 1,
+    "in_title_or_h2": false,
+    "tier": 2,
+    "covered_in_draft": true
+  },
+  {
+    "canonical": "Standortpreise (Bahnhof/Flughafen)",
+    "type": "Concept",
+    "kind": "term",
+    "aliases": [],
+    "sameAs": "",
+    "competitor_count": 1,
+    "in_title_or_h2": false,
+    "tier": 2,
+    "covered_in_draft": true
+  },
+  {
+    "canonical": "Eggnog Latte",
+    "type": "Product",
+    "kind": "term",
+    "aliases": [],
+    "sameAs": "",
+    "competitor_count": 1,
+    "in_title_or_h2": false,
+    "tier": 3,
+    "covered_in_draft": false
+  },
+  {
+    "canonical": "Snack Mints / Gold Coin",
+    "type": "Product",
+    "kind": "term",
+    "aliases": [],
+    "sameAs": "",
+    "competitor_count": 1,
+    "in_title_or_h2": false,
+    "tier": 3,
+    "covered_in_draft": false
+  },
+  {
+    "canonical": "Starbucks Kapseln",
+    "type": "Product",
+    "kind": "term",
+    "aliases": [],
+    "sameAs": "",
+    "competitor_count": 1,
+    "in_title_or_h2": false,
+    "tier": 3,
+    "covered_in_draft": false
+  },
+  {
+    "canonical": "Sirup-Preise",
+    "type": "Concept",
+    "kind": "term",
+    "aliases": [],
+    "sameAs": "",
+    "competitor_count": 1,
+    "in_title_or_h2": false,
+    "tier": 3,
+    "covered_in_draft": true
+  },
+  {
+    "canonical": "Allergene",
+    "type": "Concept",
+    "kind": "term",
+    "aliases": [],
+    "sameAs": "",
+    "competitor_count": 1,
+    "in_title_or_h2": false,
+    "tier": 3,
+    "covered_in_draft": false
+  },
+  {
+    "canonical": "Drive-Thru",
+    "type": "Concept",
+    "kind": "term",
+    "aliases": [],
+    "sameAs": "",
+    "competitor_count": 1,
+    "in_title_or_h2": false,
+    "tier": 3,
+    "covered_in_draft": true
+  },
+  {
+    "canonical": "Gründer / Unternehmensgeschichte",
+    "type": "Concept",
+    "kind": "term",
+    "aliases": [
+      "Gerald Baldwin",
+      "Gordon Bowker",
+      "Zev Siegl"
+    ],
+    "sameAs": "",
+    "competitor_count": 1,
+    "in_title_or_h2": false,
+    "tier": 3,
+    "covered_in_draft": false
+  }
+]
