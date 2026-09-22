@@ -88,31 +88,25 @@ Hero photos sourced from Wikimedia Commons for the 2026-09-17 location/product p
 - License: CC BY-SA 4.0 — attribution required if reused/redistributed further
 
 ## starbucks-kapseln-angebot-hero.webp
-- Source: https://www.pexels.com/photo/coffee-capsules-in-metal-rack-11882642/
-- Author: Carlos Zael (Pexels)
-- License: Pexels License — free to use, no attribution required
-- Note: Wikimedia Commons (the site's usual source) returned connection errors for every file/category page tried during this run (host-level issue, not a single blocked file), so this is a generic, on-topic capsule photo rather than a Starbucks-branded product shot. Swap for an actual Starbucks capsule box photo when Commons access is available again.
+- Source: https://commons.wikimedia.org/wiki/File:New_Starbucks_VIA_instant_coffee_(4042072057).jpg
+- Author: Matt @ PEK (Flickr), via Wikimedia Commons
+- License: CC BY-SA 2.0 — attribution required if reused/redistributed further
+- Note: 2026-09-22 update — direct commons.wikimedia.org access still resets at the host level from this environment, but en.wikipedia.org's API transparently proxies Commons file metadata (`imagerepository:"shared"`) and upload.wikimedia.org serves the actual image bytes fine, so this was fetched via that route instead of the blocked host. This is Starbucks VIA Ready Brew (instant coffee sachets), the closest real Starbucks-branded "single-serve coffee to prepare at home" product photo found on Commons — no photo of an actual Starbucks-branded Nespresso/Dolce Gusto capsule box exists in Commons' free catalog after an extensive search (checked Category:Nespresso coffee capsules, Category:Coffee capsules, Category:Starbucks Coffee products). Flagged for the user: this shows VIA sachets, not capsule pods, which is what the article is actually about.
 
 ## starbucks-iced-coffee-hero.webp
-- Source: https://www.pexels.com/photo/close-up-of-a-glass-of-iced-coffee-16496287/
-- Author: Valeriya Kobzar (Pexels)
-- License: Pexels License — free to use, no attribution required
-- Note: Wikimedia Commons still returned connection resets (curl: Recv failure, connection reset by peer) when re-tried this run, same host-level issue as the previous post. Generic on-topic iced-coffee photo used instead of a Starbucks-branded shot; swap when Commons is reachable again.
+- Source: https://commons.wikimedia.org/wiki/File:Starbucks_Grande_Iced_Pumpkin_Spice_Latte.jpg
+- Author: JimmyStardust, via Wikimedia Commons
+- License: CC BY-SA 4.0 — attribution required if reused/redistributed further
+- Note: 2026-09-22 update — fetched via the en.wikipedia.org API proxy (see kapseln-angebot note above) since commons.wikimedia.org itself still resets. A Wikimedia "valued image." Technically a Pumpkin Spice Latte rather than a plain iced coffee, but visually a generic iced Starbucks cup with the logo clearly in frame — a better hero fit than the two other Starbucks-branded iced-coffee candidates found (a messy bottled-Stok-drinks photo on a recycling bin, rejected for composition).
 
 ## starbucks-heisse-schokolade-hero.webp
 - Source: https://www.pexels.com/photo/marshmallows-on-hot-chocolate-in-mug-5419237/
 - Author: Polina Tankilevitch (Pexels)
 - License: Pexels License — free to use, no attribution required
-- Note: Wikimedia Commons again returned a host-level connection reset on the first retry (curl: Recv failure, connection reset by peer) — same issue as the two prior posts this session. Generic on-topic hot-chocolate photo used instead of a Starbucks-branded shot; swap when Commons is reachable again.
+- Note: 2026-09-22 — re-searched Commons via the en.wikipedia.org API proxy route (now working around the direct-host connection-reset issue). No genuine Starbucks-branded hot chocolate photo exists in Commons' free catalog: checked Category:Hot chocolate, Category:Starbucks Coffee products, Category:Starbucks coffee cups/mugs, and several targeted title searches (Peppermint Hot Chocolate, Signature Chocolate, holiday red cup). The one Starbucks red cup candidate found (Starbucks_Red_Cup.jpg) is a close-up with a handwritten "Merry Christmas" note obscuring the sleeve and no visible logo — doesn't read as Starbucks at a glance, so it was rejected too. Kept the generic Pexels photo rather than use a misleading substitute; genuinely needs either a real in-store photo or Commons getting a proper upload.
 
 ## starbucks-flat-white-hero.webp
-- Source: https://www.pexels.com/photo/flat-white-coffee-with-heart-latte-art-36851643/
-- Author: Anne-Marie (Pexels)
-- License: Pexels License — free to use, no attribution required
-- Note: Wikimedia Commons still returned a host-level connection reset on this run's check
-  (curl: Recv failure, connection reset by peer), same issue as the three prior posts this session.
-  A pre-existing repo asset (img/Flat-White.webp, official-looking Starbucks studio product photo,
-  256x256px) was also considered but rejected: too low-resolution for a 1600x1000 hero and its
-  license/origin can't be verified (looks like Starbucks' own marketing photography, not a licensed
-  asset). Used a generic, on-topic latte-art Flat White photo instead; swap for a verified Starbucks
-  shot when Commons is reachable or the original asset's license is confirmed.
+- Source: https://commons.wikimedia.org/wiki/File:Drew's_Latte_and_Cinnamon_Bun_-_Starbucks_(52390749504).jpg
+- Author: Haydn Blackey (Flickr), via Wikimedia Commons
+- License: CC BY-SA 2.0 — attribution required if reused/redistributed further
+- Note: 2026-09-22 update — fetched via the en.wikipedia.org API proxy (see kapseln-angebot note above). No Flat-White-specific Starbucks photo exists on Commons; this is a plain Starbucks hot cup with the logo clearly visible (technically captioned as a latte) — the closest genuine on-brand substitute for a hot espresso-milk drink. The pre-existing repo asset (img/Flat-White.webp, 256x256px, unverifiable license/origin) was checked again and still rejected for the same reasons as the prior run.
