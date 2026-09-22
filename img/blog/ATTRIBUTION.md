@@ -86,3 +86,9 @@ Hero photos sourced from Wikimedia Commons for the 2026-09-17 location/product p
 - Source: https://commons.wikimedia.org/wiki/File:Gold_tumblers_at_Safeway_Starbucks.jpg
 - Author: Ser Amantio di Nicolao
 - License: CC BY-SA 4.0 — attribution required if reused/redistributed further
+
+## starbucks-kapseln-angebot-hero.webp
+- Source: https://www.pexels.com/photo/coffee-capsules-in-metal-rack-11882642/
+- Author: Carlos Zael (Pexels)
+- License: Pexels License — free to use, no attribution required
+- Note: Wikimedia Commons (the site's usual source) returned connection errors for every file/category page tried during this run (host-level issue, not a single blocked file), so this is a generic, on-topic capsule photo rather than a Starbucks-branded product shot. Swap for an actual Starbucks capsule box photo when Commons access is available again.

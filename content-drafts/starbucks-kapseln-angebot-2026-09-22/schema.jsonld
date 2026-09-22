@@ -1,0 +1,63 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "Article",
+      "@id": "https://starbuckspreise.com/blog/starbucks-kapseln-angebot/#article",
+      "headline": "Starbucks Kapseln Angebot: Preise, Sorten und die besten Deals 2026",
+      "description": "Starbucks-Kapseln für Nespresso und Dolce Gusto im Preisvergleich: wer sie herstellt, welches System zu welcher Maschine passt, Preis pro Kapsel und wann die besten Angebote laufen.",
+      "image": "https://starbuckspreise.com/img/blog/starbucks-kapseln-angebot-hero.webp",
+      "datePublished": "2026-09-22T09:00:00+02:00",
+      "dateModified": "2026-09-22T09:00:00+02:00",
+      "inLanguage": "de-DE",
+      "author": {
+        "@type": "Organization",
+        "name": "StarbucksPreise Redaktion",
+        "url": "https://starbuckspreise.com"
+      },
+      "publisher": {
+        "@type": "Organization",
+        "name": "StarbucksPreise Deutschland",
+        "url": "https://starbuckspreise.com"
+      },
+      "mainEntityOfPage": "https://starbuckspreise.com/blog/starbucks-kapseln-angebot",
+      "about": [
+        {"@type": "Organization", "name": "Starbucks", "sameAs": "https://de.wikipedia.org/wiki/Starbucks"},
+        {"@type": "Product", "name": "Starbucks Kapseln"}
+      ],
+      "mentions": [
+        {"@type": "Organization", "name": "Nestlé", "sameAs": "https://de.wikipedia.org/wiki/Nestlé"},
+        {"@type": "Organization", "name": "Nespresso", "sameAs": "https://de.wikipedia.org/wiki/Nespresso"},
+        {"@type": "Product", "name": "NESCAFÉ Dolce Gusto", "sameAs": "https://en.wikipedia.org/wiki/Dolce_Gusto"}
+      ],
+      "speakable": {"@type": "SpeakableSpecification", "cssSelector": ["#direct-answer"]}
+    },
+    {
+      "@type": "BreadcrumbList",
+      "@id": "https://starbuckspreise.com/blog/starbucks-kapseln-angebot/#breadcrumb",
+      "itemListElement": [
+        {"@type": "ListItem", "position": 1, "name": "Startseite", "item": "https://starbuckspreise.com"},
+        {"@type": "ListItem", "position": 2, "name": "Blog", "item": "https://starbuckspreise.com/blog"},
+        {"@type": "ListItem", "position": 3, "name": "Starbucks Kapseln Angebot", "item": "https://starbuckspreise.com/blog/starbucks-kapseln-angebot"}
+      ]
+    },
+    {
+      "@type": "FAQPage",
+      "@id": "https://starbuckspreise.com/blog/starbucks-kapseln-angebot/#faq",
+      "mainEntity": [
+        {"@type": "Question", "name": "Für welche Kapselmaschinen gibt es Starbucks Kapseln?", "acceptedAnswer": {"@type": "Answer", "text": "Starbucks-Kapseln gibt es für zwei Systeme: die Nespresso Original Line und NESCAFÉ Dolce Gusto. Beide Formate sind untereinander nicht kompatibel, weshalb vor dem Kauf die eigene Maschine geprüft werden sollte."}},
+        {"@type": "Question", "name": "Wer produziert die Starbucks Kapseln?", "acceptedAnswer": {"@type": "Answer", "text": "Nestlé stellt die Starbucks-Kapseln her und vertreibt sie. Grundlage ist die 2018 geschlossene Global Coffee Alliance, in der Nestlé für 7,15 Milliarden US-Dollar die weltweite Lizenz für Starbucks-Verpackungsprodukte erhielt."}},
+        {"@type": "Question", "name": "Sind Starbucks Nespresso Kapseln auch für Nespresso Vertuo geeignet?", "acceptedAnswer": {"@type": "Answer", "text": "Nein. Starbucks-Kapseln sind ausschließlich für die klassische Nespresso Original Line gefertigt und passen nicht in Vertuo-Maschinen, die eine andere Kapselform und Erkennung verwenden."}},
+        {"@type": "Question", "name": "Wie viel kostet eine Starbucks Kapsel im Schnitt?", "acceptedAnswer": {"@type": "Answer", "text": "Je nach Packungsgröße und Angebot liegt der Preis pro Kapsel zwischen etwa 0,27 € und 0,42 €. Großpackungen mit 80 oder 120 Kapseln bieten in der Regel den günstigsten Stückpreis."}},
+        {"@type": "Question", "name": "Wann gibt es die besten Angebote für Starbucks Kapseln?", "acceptedAnswer": {"@type": "Answer", "text": "Die verlässlichsten Rabattphasen sind Black Friday, Prime Day, die Weihnachtszeit und Ostern, ergänzt durch unregelmäßige Supermarkt-Aktionen bei Händlern wie Selgros oder Tegut."}},
+        {"@type": "Question", "name": "Wo finde ich aktuell die günstigsten Starbucks Kapseln?", "acceptedAnswer": {"@type": "Answer", "text": "Online lohnt sich ein Vergleich zwischen Amazon.de, REWE Online, EDEKA24, MediaMarkt und dem Nespresso Shop, stationär tauchen die besten Preise meist in Aktionsprospekten von Lidl, Aldi, REWE, EDEKA oder dm auf."}},
+        {"@type": "Question", "name": "Lohnt sich eine Großpackung mit 80 oder 120 Kapseln?", "acceptedAnswer": {"@type": "Answer", "text": "Ja, in der Regel schon: Der Stückpreis fällt bei 80er- und 120er-Packungen häufig auf rund 0,27–0,29 € pro Kapsel, während 10er-Packungen ohne Aktion eher bei 0,35 € liegen."}},
+        {"@type": "Question", "name": "Welche Sorten und Röstungen gibt es bei Starbucks Kapseln?", "acceptedAnswer": {"@type": "Answer", "text": "Für Nespresso zählen unter anderem Blonde Espresso Roast, House Blend, Caffè Verona und Ristretto Shot dazu, für Dolce Gusto vor allem milchbasierte Sorten wie Caramel Macchiato und White Mocha."}},
+        {"@type": "Question", "name": "Gibt es entkoffeinierte Starbucks Kapseln?", "acceptedAnswer": {"@type": "Answer", "text": "Ja, in größeren Nespresso-Sortimentsboxen ist meist ein kleinerer Anteil entkoffeinierter Kapseln enthalten, sodass sich koffeinhaltiger und koffeinfreier Kaffee im selben Set kombinieren lassen."}},
+        {"@type": "Question", "name": "Wie stark sind Starbucks Kapseln im Vergleich zu anderen Marken?", "acceptedAnswer": {"@type": "Answer", "text": "Auf der für Nespresso-kompatible Kapseln üblichen Intensitätsskala reichen die Starbucks-Sorten von 5 (Chocolate Hazelnut, mild) bis 11 (Ristretto Shot, sehr kräftig) – damit deckt das Sortiment eine vergleichsweise breite Spanne ab."}},
+        {"@type": "Question", "name": "Wie hat sich der Preis für Starbucks Kapseln zuletzt entwickelt?", "acceptedAnswer": {"@type": "Answer", "text": "Laut Preistracker-Daten stieg der Durchschnittspreis einer 12er-Packung von 3,65 € im dritten Quartal 2024 auf 3,95 € im zweiten Quartal 2026 – ein Plus von rund 8 % innerhalb von zwei Jahren."}},
+        {"@type": "Question", "name": "Sind Starbucks-Kapseln aus Aluminium recycelbar?", "acceptedAnswer": {"@type": "Answer", "text": "Ja, die Nespresso-kompatiblen Aluminiumkapseln lassen sich über das etablierte Nespresso-Kapsel-Recyclingprogramm zurückgeben und wiederverwerten, anders als viele Kunststoffkapseln anderer Systeme."}}
+      ]
+    }
+  ]
+}

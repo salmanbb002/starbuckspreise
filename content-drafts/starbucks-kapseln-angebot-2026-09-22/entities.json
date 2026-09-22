@@ -1,0 +1,38 @@
+{
+  "keyword": "starbucks kapseln angebot",
+  "entities": [
+    {"canonical": "Starbucks", "type": "Organization", "kind": "entity", "aliases": ["Starbucks Corporation"], "sameAs": "https://de.wikipedia.org/wiki/Starbucks", "competitor_count": 3, "in_title_or_h2": true, "tier": 1},
+    {"canonical": "Starbucks Kapseln", "type": "Product", "kind": "term", "aliases": ["Starbucks Kaffeekapseln"], "sameAs": "", "competitor_count": 3, "in_title_or_h2": true, "tier": 1},
+    {"canonical": "Angebot / Rabatt / Preis", "type": "Concept", "kind": "term", "aliases": ["Aktionspreis", "Deal"], "sameAs": "", "competitor_count": 3, "in_title_or_h2": true, "tier": 1},
+    {"canonical": "Nespresso (Original Line)", "type": "Organization", "kind": "entity", "aliases": ["Nespresso"], "sameAs": "https://de.wikipedia.org/wiki/Nespresso", "competitor_count": 3, "in_title_or_h2": true, "tier": 1},
+    {"canonical": "NESCAFÉ Dolce Gusto", "type": "Product", "kind": "entity", "aliases": ["Dolce Gusto"], "sameAs": "https://en.wikipedia.org/wiki/Dolce_Gusto", "competitor_count": 2, "in_title_or_h2": true, "tier": 1},
+    {"canonical": "Nestlé", "type": "Organization", "kind": "entity", "aliases": ["Nestlé S.A."], "sameAs": "https://de.wikipedia.org/wiki/Nestlé", "competitor_count": 2, "in_title_or_h2": false, "tier": 2},
+    {"canonical": "Sorten/Röstungen", "type": "Product", "kind": "term", "aliases": ["Blonde Espresso Roast", "House Blend", "Pike Place Roast", "Caffè Verona", "Ristretto Shot", "Chocolate Hazelnut"], "sameAs": "", "competitor_count": 3, "in_title_or_h2": false, "tier": 1},
+    {"canonical": "Intensität (Skala)", "type": "Metric", "kind": "term", "aliases": [], "sameAs": "", "competitor_count": 1, "in_title_or_h2": false, "tier": 2},
+    {"canonical": "Preis pro Kapsel", "type": "Money", "kind": "term", "aliases": [], "sameAs": "", "competitor_count": 3, "in_title_or_h2": true, "tier": 1},
+    {"canonical": "Multipack / Großpackung", "type": "Product", "kind": "term", "aliases": ["80er Packung", "120er Packung"], "sameAs": "", "competitor_count": 2, "in_title_or_h2": false, "tier": 2},
+    {"canonical": "Händler", "type": "Organization", "kind": "entity", "aliases": ["Amazon", "REWE", "EDEKA", "Lidl", "Aldi", "dm", "Rossmann", "Kaufland", "Selgros", "Tegut", "Marktkauf"], "sameAs": "", "competitor_count": 3, "in_title_or_h2": false, "tier": 2},
+    {"canonical": "Preisverlauf / Preishistorie", "type": "Metric", "kind": "term", "aliases": [], "sameAs": "", "competitor_count": 1, "in_title_or_h2": false, "tier": 2},
+    {"canonical": "Nespresso Vertuo", "type": "Product", "kind": "entity", "aliases": [], "sameAs": "", "competitor_count": 0, "in_title_or_h2": false, "tier": 2},
+    {"canonical": "Rabattzeiträume", "type": "Event", "kind": "term", "aliases": ["Black Friday", "Prime Day", "Weihnachten", "Ostern"], "sameAs": "", "competitor_count": 1, "in_title_or_h2": false, "tier": 2},
+    {"canonical": "Decaf / Entkoffeiniert", "type": "Product", "kind": "term", "aliases": [], "sameAs": "", "competitor_count": 2, "in_title_or_h2": false, "tier": 3},
+    {"canonical": "Global Coffee Alliance (Starbucks–Nestlé, 2018)", "type": "Event", "kind": "entity", "aliases": ["Global Coffee Alliance"], "sameAs": "", "competitor_count": 0, "in_title_or_h2": false, "tier": 1},
+    {"canonical": "Aluminiumkapsel / Recycling", "type": "Concept", "kind": "term", "aliases": [], "sameAs": "", "competitor_count": 1, "in_title_or_h2": false, "tier": 3},
+    {"canonical": "Kompatible Maschinen", "type": "Product", "kind": "term", "aliases": ["Lattissima", "Essenza Mini", "Pixie", "Citiz", "Inissia", "Krups", "De'Longhi"], "sameAs": "", "competitor_count": 1, "in_title_or_h2": false, "tier": 3}
+  ],
+  "relationships": [
+    "Starbucks — lizenziert Verpackungsprodukte an → Nestlé (Global Coffee Alliance, 7,15 Mrd. USD, geschlossen 28.8.2018)",
+    "Nestlé — produziert → Starbucks-Kapseln für Nespresso Original Line und NESCAFÉ Dolce Gusto",
+    "Nespresso Original Line — kompatibel mit → Lattissima/Essenza/Pixie/Citiz/Inissia-Maschinen, NICHT mit Vertuo",
+    "NESCAFÉ Dolce Gusto — kompatibel mit → eigene Krups/De'Longhi-Dolce-Gusto-Maschinen, NICHT mit Nespresso",
+    "Starbucks-Kapsel (Nespresso) — kostet pro Stück → ca. 0,30–0,50 € je nach Packungsgröße/Angebot",
+    "Aktionspreis.de-Tracker — zeigt Durchschnittspreis (12er-Packung) → 3,95 € (Q2 2026), gestiegen von 3,65 € (Q3 2024)",
+    "Starbucks-Kapseln — im Angebot am günstigsten bei → Supermarkt-Aktionen und Black-Friday/Prime-Day-Rabatten"
+  ],
+  "dedupe_log": [
+    "Kaffeekapseln/Kapseln folded into canonical 'Starbucks Kapseln'",
+    "Aktionspreis/Rabatt/Angebot/Deal folded into one tier-1 concept row",
+    "roastmarket.de general capsule-market stats (waste/ownership) parked — no Starbucks product mentioned on that page",
+    "Non-Starbucks capsule brands from roastmarket.de dropped — off-topic for a Starbucks-branded page"
+  ]
+}
