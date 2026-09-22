@@ -92,3 +92,9 @@ Hero photos sourced from Wikimedia Commons for the 2026-09-17 location/product p
 - Author: Carlos Zael (Pexels)
 - License: Pexels License — free to use, no attribution required
 - Note: Wikimedia Commons (the site's usual source) returned connection errors for every file/category page tried during this run (host-level issue, not a single blocked file), so this is a generic, on-topic capsule photo rather than a Starbucks-branded product shot. Swap for an actual Starbucks capsule box photo when Commons access is available again.
+
+## starbucks-iced-coffee-hero.webp
+- Source: https://www.pexels.com/photo/close-up-of-a-glass-of-iced-coffee-16496287/
+- Author: Valeriya Kobzar (Pexels)
+- License: Pexels License — free to use, no attribution required
+- Note: Wikimedia Commons still returned connection resets (curl: Recv failure, connection reset by peer) when re-tried this run, same host-level issue as the previous post. Generic on-topic iced-coffee photo used instead of a Starbucks-branded shot; swap when Commons is reachable again.

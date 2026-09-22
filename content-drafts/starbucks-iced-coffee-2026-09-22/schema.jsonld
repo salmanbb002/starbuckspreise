@@ -1,0 +1,57 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "Article",
+      "@id": "https://starbuckspreise.com/blog/starbucks-iced-coffee/#article",
+      "headline": "Starbucks Iced Coffee in Deutschland: Was es wirklich ist und was es kostet",
+      "description": "Starbucks Iced Coffee: In den USA ein eigenes Getränk, in Deutschland nicht auf der Karte. Die echten Alternativen, Preise und Kalorien im Überblick.",
+      "image": "https://starbuckspreise.com/img/blog/starbucks-iced-coffee-hero.webp",
+      "datePublished": "2026-09-22T09:00:00+02:00",
+      "dateModified": "2026-09-22T09:00:00+02:00",
+      "inLanguage": "de-DE",
+      "author": {"@type": "Organization", "name": "StarbucksPreise Redaktion", "url": "https://starbuckspreise.com"},
+      "publisher": {"@type": "Organization", "name": "StarbucksPreise Deutschland", "url": "https://starbuckspreise.com"},
+      "mainEntityOfPage": "https://starbuckspreise.com/blog/starbucks-iced-coffee",
+      "about": [
+        {"@type": "Product", "name": "Starbucks Iced Coffee", "sameAs": "https://en.wikipedia.org/wiki/Iced_coffee"},
+        {"@type": "Organization", "name": "Starbucks", "sameAs": "https://de.wikipedia.org/wiki/Starbucks"}
+      ],
+      "mentions": [
+        {"@type": "Product", "name": "Cold Brew"},
+        {"@type": "Product", "name": "Iced Americano"},
+        {"@type": "Product", "name": "Starbucks Doubleshot Iced Coffee"},
+        {"@type": "Organization", "name": "PepsiCo", "sameAs": "https://de.wikipedia.org/wiki/PepsiCo"},
+        {"@type": "Organization", "name": "Nestlé", "sameAs": "https://de.wikipedia.org/wiki/Nestlé"}
+      ],
+      "speakable": {"@type": "SpeakableSpecification", "cssSelector": ["#direct-answer"]}
+    },
+    {
+      "@type": "BreadcrumbList",
+      "@id": "https://starbuckspreise.com/blog/starbucks-iced-coffee/#breadcrumb",
+      "itemListElement": [
+        {"@type": "ListItem", "position": 1, "name": "Startseite", "item": "https://starbuckspreise.com"},
+        {"@type": "ListItem", "position": 2, "name": "Blog", "item": "https://starbuckspreise.com/blog"},
+        {"@type": "ListItem", "position": 3, "name": "Starbucks Iced Coffee", "item": "https://starbuckspreise.com/blog/starbucks-iced-coffee"}
+      ]
+    },
+    {
+      "@type": "FAQPage",
+      "@id": "https://starbuckspreise.com/blog/starbucks-iced-coffee/#faq",
+      "mainEntity": [
+        {"@type": "Question", "name": "Gibt es Starbucks Iced Coffee in Deutschland?", "acceptedAnswer": {"@type": "Answer", "text": "Als eigenständiges Café-Getränk nicht – die deutsche Starbucks-Karte führt stattdessen Iced Americano und Cold Brew als nächstliegende Alternativen. Als Dose gibt es es unter dem Namen \"Doubleshot Iced Coffee\" im Einzelhandel."}},
+        {"@type": "Question", "name": "Was ist der Unterschied zwischen Iced Coffee und Cold Brew?", "acceptedAnswer": {"@type": "Answer", "text": "Iced Coffee wird heiß gebrüht und über Eis gekühlt, was Minuten dauert. Cold Brew wird bis zu 20 Stunden lang kalt extrahiert, was weniger Säure und einen volleren, süßeren Geschmack ergibt."}},
+        {"@type": "Question", "name": "Wie viele Kalorien hat ein Starbucks Iced Coffee?", "acceptedAnswer": {"@type": "Answer", "text": "Ohne Zusätze liegt ein Iced Coffee bei etwa 0–10 Kalorien je nach Größe (Tall bis Venti), da weder Zucker noch Fett enthalten sind."}},
+        {"@type": "Question", "name": "Enthält Starbucks Iced Coffee Koffein?", "acceptedAnswer": {"@type": "Answer", "text": "Ja. Je nach Größe liegt der Koffeingehalt bei rund 120 mg (Tall) bis 235 mg (Trenta) – Cold Brew liegt mit bis zu 205–285 mg noch darüber."}},
+        {"@type": "Question", "name": "Was ist die nächstliegende Alternative zu Iced Coffee bei Starbucks in Deutschland?", "acceptedAnswer": {"@type": "Answer", "text": "Ein Iced Americano kommt dem US-Geschmack am nächsten, da beide Getränke klar, leicht und ohne Milch serviert werden. Wer mehr Körper mag, greift zu Cold Brew."}},
+        {"@type": "Question", "name": "Wer stellt die Starbucks Doubleshot Iced Coffee Dose her?", "acceptedAnswer": {"@type": "Answer", "text": "PepsiCo, im Rahmen der seit 1994 bestehenden North American Coffee Partnership mit Starbucks – nicht Nestlé, das für die Starbucks-Kaffeekapseln zuständig ist."}},
+        {"@type": "Question", "name": "Ist Starbucks Iced Coffee süß?", "acceptedAnswer": {"@type": "Answer", "text": "Im Original nicht – er wird unversüßt serviert. Süße lässt sich individuell über Sirup oder Zucker hinzufügen."}},
+        {"@type": "Question", "name": "Was kostet ein Iced Americano bei Starbucks in Deutschland?", "acceptedAnswer": {"@type": "Answer", "text": "Je nach Größe zwischen 3,39 € und 4,39 €, womit er zu den günstigeren Eisgetränken der Karte zählt."}},
+        {"@type": "Question", "name": "Kann man Starbucks Iced Coffee selbst zu Hause machen?", "acceptedAnswer": {"@type": "Answer", "text": "Ja. Starbucks empfiehlt ein Verhältnis von 3 Esslöffeln Kaffee auf 177 ml Wasser, den Kaffee heiß aufzubrühen und langsam über Eiswürfel zu gießen."}},
+        {"@type": "Question", "name": "Ist Starbucks Iced Coffee gut für eine kalorienarme Ernährung?", "acceptedAnswer": {"@type": "Answer", "text": "Ohne Milch und Sirup ja – mit nahezu 0 Gramm Zucker, Fett und Kohlenhydraten gehört er zu den kalorienärmsten Optionen der gesamten Karte."}},
+        {"@type": "Question", "name": "Was ist der Unterschied zwischen Iced Coffee und Iced Americano?", "acceptedAnswer": {"@type": "Answer", "text": "Iced Coffee ist heiß gebrühter, dann gekühlter Filterkaffee; Iced Americano ist Espresso, der mit kaltem Wasser gestreckt wird. Iced Americano schmeckt dadurch konzentrierter, Iced Coffee heller und leichter."}},
+        {"@type": "Question", "name": "Gibt es Starbucks Iced Coffee entkoffeiniert?", "acceptedAnswer": {"@type": "Answer", "text": "Als fertiges Café-Getränk in Deutschland nicht gelistet; bei den Alternativen Iced Americano und Iced Latte Macchiato lässt sich aber auf Anfrage entkoffeinierter Espresso verwenden."}}
+      ]
+    }
+  ]
+}

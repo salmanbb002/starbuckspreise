@@ -1,0 +1,17 @@
+[
+  {"canonical": "Starbucks Iced Coffee", "type": "Product", "aliases": ["Iced Coffee", "Starbucks Ice Coffee"], "sameAs": "https://en.wikipedia.org/wiki/Iced_coffee", "kind": "entity", "competitor_count": 4, "in_title_or_h2": true, "tier": 1},
+  {"canonical": "Cold Brew", "type": "Product", "aliases": ["Starbucks Cold Brew"], "sameAs": "", "kind": "entity", "competitor_count": 3, "in_title_or_h2": true, "tier": 1},
+  {"canonical": "Iced Americano", "type": "Product", "aliases": [], "sameAs": "", "kind": "entity", "competitor_count": 3, "in_title_or_h2": true, "tier": 1},
+  {"canonical": "Preis / Kosten", "type": "Money", "aliases": ["Price"], "sameAs": "", "kind": "term", "competitor_count": 4, "in_title_or_h2": true, "tier": 1},
+  {"canonical": "Starbucks", "type": "Organization", "aliases": ["Starbucks Corporation"], "sameAs": "https://de.wikipedia.org/wiki/Starbucks", "kind": "entity", "competitor_count": 4, "in_title_or_h2": true, "tier": 1},
+  {"canonical": "Nicht auf der deutschen Karte", "type": "Concept", "aliases": ["unavailable in Germany"], "sameAs": "", "kind": "term", "competitor_count": 0, "in_title_or_h2": false, "tier": 1},
+  {"canonical": "Kalorien / Koffein", "type": "Metric", "aliases": ["calories", "caffeine"], "sameAs": "", "kind": "term", "competitor_count": 3, "in_title_or_h2": false, "tier": 2},
+  {"canonical": "Iced Caffè Latte", "type": "Product", "aliases": [], "sameAs": "", "kind": "entity", "competitor_count": 2, "in_title_or_h2": false, "tier": 2},
+  {"canonical": "Starbucks Doubleshot Iced Coffee", "type": "Product", "aliases": ["Doubleshot"], "sameAs": "", "kind": "entity", "competitor_count": 0, "in_title_or_h2": true, "tier": 2},
+  {"canonical": "PepsiCo", "type": "Organization", "aliases": ["North American Coffee Partnership", "NACP"], "sameAs": "https://de.wikipedia.org/wiki/PepsiCo", "kind": "entity", "competitor_count": 0, "in_title_or_h2": false, "tier": 2},
+  {"canonical": "Nestlé", "type": "Organization", "aliases": [], "sameAs": "https://de.wikipedia.org/wiki/Nestlé", "kind": "entity", "competitor_count": 0, "in_title_or_h2": false, "tier": 2},
+  {"canonical": "Brühmethode", "type": "Process", "aliases": ["brewing method"], "sameAs": "", "kind": "term", "competitor_count": 2, "in_title_or_h2": false, "tier": 2},
+  {"canonical": "Iced Caramel Macchiato", "type": "Product", "aliases": [], "sameAs": "", "kind": "entity", "competitor_count": 2, "in_title_or_h2": false, "tier": 3},
+  {"canonical": "Tall/Grande/Venti/Trenta", "type": "Metric", "aliases": ["cup sizes"], "sameAs": "", "kind": "term", "competitor_count": 3, "in_title_or_h2": false, "tier": 3},
+  {"canonical": "Nitro Cold Brew", "type": "Product", "aliases": [], "sameAs": "", "kind": "entity", "competitor_count": 1, "in_title_or_h2": false, "tier": 3}
+]
