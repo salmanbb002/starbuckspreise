@@ -1,0 +1,124 @@
+{
+  "keyword": "flat white starbucks coffee",
+  "merged_keywords": ["flat white starbucks drink", "starbucks flat white"],
+  "entities": [
+    {
+      "canonical": "Flat White",
+      "type": "Product",
+      "aliases": [],
+      "sameAs": "https://en.wikipedia.org/wiki/Flat_white",
+      "kind": "entity",
+      "competitor_count": 4,
+      "in_title_or_h2": true,
+      "tier": 1
+    },
+    {
+      "canonical": "Starbucks",
+      "type": "Organization",
+      "aliases": [],
+      "sameAs": "https://de.wikipedia.org/wiki/Starbucks",
+      "kind": "entity",
+      "competitor_count": 3,
+      "in_title_or_h2": true,
+      "tier": 1
+    },
+    {
+      "canonical": "Café Latte",
+      "type": "Product",
+      "aliases": ["Latte", "Caffe Latte"],
+      "sameAs": "",
+      "kind": "entity",
+      "competitor_count": 2,
+      "in_title_or_h2": true,
+      "tier": 2
+    },
+    {
+      "canonical": "Cappuccino",
+      "type": "Product",
+      "aliases": [],
+      "sameAs": "",
+      "kind": "entity",
+      "competitor_count": 2,
+      "in_title_or_h2": true,
+      "tier": 2
+    },
+    {
+      "canonical": "Origin dispute (Australia/New Zealand)",
+      "type": "Concept",
+      "aliases": ["Herkunftsstreit"],
+      "sameAs": "",
+      "kind": "term",
+      "competitor_count": 1,
+      "in_title_or_h2": true,
+      "tier": 2
+    },
+    {
+      "canonical": "Iced Flat White",
+      "type": "Product",
+      "aliases": [],
+      "sameAs": "",
+      "kind": "entity",
+      "competitor_count": 1,
+      "in_title_or_h2": false,
+      "tier": 2
+    },
+    {
+      "canonical": "Starbucks Flat White Eiskaffee",
+      "type": "Product",
+      "aliases": ["Flat White Dose", "Flat White RTD"],
+      "sameAs": "",
+      "kind": "entity",
+      "competitor_count": 1,
+      "in_title_or_h2": false,
+      "tier": 2
+    },
+    {
+      "canonical": "Arla Foods",
+      "type": "Organization",
+      "aliases": [],
+      "sameAs": "",
+      "kind": "entity",
+      "competitor_count": 0,
+      "in_title_or_h2": false,
+      "tier": 2
+    },
+    {
+      "canonical": "Nutri-Score B",
+      "type": "Metric",
+      "aliases": [],
+      "sameAs": "",
+      "kind": "term",
+      "competitor_count": 1,
+      "in_title_or_h2": false,
+      "tier": 3
+    },
+    {
+      "canonical": "Hafermilch-Variante",
+      "type": "Concept",
+      "aliases": ["Oat milk variant"],
+      "sameAs": "",
+      "kind": "term",
+      "competitor_count": 1,
+      "in_title_or_h2": false,
+      "tier": 3
+    }
+  ],
+  "relationships": [
+    "Flat White --besteht aus--> doppelter Espresso (50 ml) + ~130 ml gedämpfte Milch, ~5 mm Mikroschaum",
+    "Flat White --hat weniger Milch/Schaum als--> Café Latte",
+    "Flat White --hat keinen dicken Schaum wie--> Cappuccino",
+    "Starbucks --führte Flat White ein in US-Filialen am--> 6. Januar 2015",
+    "Flat White (Starbucks DE Café) --kostet--> 4,71 EUR",
+    "Flat White (Vollmilch, Short) --enthält--> 76 kcal",
+    "Flat White (Hafermilch, Short) --enthält--> 70 kcal",
+    "Flat White-Herkunft --beansprucht von--> Australien (1985) und Neuseeland (1989)",
+    "Starbucks Flat White Eiskaffee (220ml) --kostet--> ca. 2,29 EUR (Rewe)",
+    "Starbucks Flat White Eiskaffee --hergestellt von--> Arla Foods",
+    "Arla Foods --hält--> 21-Jahres-EMEA-Lizenz, Produktion in Esbjerg (Daenemark)",
+    "speisekartemenus.de Preisliste --laesst aus--> Flat White vollstaendig"
+  ],
+  "dedupe_log": [
+    "fddb.mobi 'Vanilla Flavor' variant calories parked, not used: page self-flags 'Angaben noch nicht bestaetigt' and conflicts with two cross-checked sources for the plain drink",
+    "'Ristretto' folded into the Flat White composition sentence rather than given its own tier-2 row: single-competitor term, not distinct enough from 'doppelter Espresso'"
+  ]
+}

@@ -104,3 +104,15 @@ Hero photos sourced from Wikimedia Commons for the 2026-09-17 location/product p
 - Author: Polina Tankilevitch (Pexels)
 - License: Pexels License — free to use, no attribution required
 - Note: Wikimedia Commons again returned a host-level connection reset on the first retry (curl: Recv failure, connection reset by peer) — same issue as the two prior posts this session. Generic on-topic hot-chocolate photo used instead of a Starbucks-branded shot; swap when Commons is reachable again.
+
+## starbucks-flat-white-hero.webp
+- Source: https://www.pexels.com/photo/flat-white-coffee-with-heart-latte-art-36851643/
+- Author: Anne-Marie (Pexels)
+- License: Pexels License — free to use, no attribution required
+- Note: Wikimedia Commons still returned a host-level connection reset on this run's check
+  (curl: Recv failure, connection reset by peer), same issue as the three prior posts this session.
+  A pre-existing repo asset (img/Flat-White.webp, official-looking Starbucks studio product photo,
+  256x256px) was also considered but rejected: too low-resolution for a 1600x1000 hero and its
+  license/origin can't be verified (looks like Starbucks' own marketing photography, not a licensed
+  asset). Used a generic, on-topic latte-art Flat White photo instead; swap for a verified Starbucks
+  shot when Commons is reachable or the original asset's license is confirmed.
