@@ -98,3 +98,9 @@ Hero photos sourced from Wikimedia Commons for the 2026-09-17 location/product p
 - Author: Valeriya Kobzar (Pexels)
 - License: Pexels License — free to use, no attribution required
 - Note: Wikimedia Commons still returned connection resets (curl: Recv failure, connection reset by peer) when re-tried this run, same host-level issue as the previous post. Generic on-topic iced-coffee photo used instead of a Starbucks-branded shot; swap when Commons is reachable again.
+
+## starbucks-heisse-schokolade-hero.webp
+- Source: https://www.pexels.com/photo/marshmallows-on-hot-chocolate-in-mug-5419237/
+- Author: Polina Tankilevitch (Pexels)
+- License: Pexels License — free to use, no attribution required
+- Note: Wikimedia Commons again returned a host-level connection reset on the first retry (curl: Recv failure, connection reset by peer) — same issue as the two prior posts this session. Generic on-topic hot-chocolate photo used instead of a Starbucks-branded shot; swap when Commons is reachable again.

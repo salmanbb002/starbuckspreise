@@ -1,0 +1,58 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "Article",
+      "@id": "https://starbuckspreise.com/blog/starbucks-heisse-schokolade/#article",
+      "headline": "Starbucks Heiße Schokolade: Sorten, Preise und Kalorien 2026",
+      "description": "Starbucks Heiße Schokolade: die 3 Sorten (Classic, White, Signature), Preise, Kalorien und der Unterschied zu Starbucks Signature Chocolate für zu Hause.",
+      "image": "https://starbuckspreise.com/img/blog/starbucks-heisse-schokolade-hero.webp",
+      "datePublished": "2026-09-22T09:00:00+02:00",
+      "dateModified": "2026-09-22T09:00:00+02:00",
+      "inLanguage": "de-DE",
+      "author": {"@type": "Organization", "name": "StarbucksPreise Redaktion", "url": "https://starbuckspreise.com"},
+      "publisher": {"@type": "Organization", "name": "StarbucksPreise Deutschland", "url": "https://starbuckspreise.com"},
+      "mainEntityOfPage": "https://starbuckspreise.com/blog/starbucks-heisse-schokolade",
+      "about": [
+        {"@type": "Product", "name": "Starbucks Signature Hot Chocolate"},
+        {"@type": "Organization", "name": "Starbucks", "sameAs": "https://de.wikipedia.org/wiki/Starbucks"}
+      ],
+      "mentions": [
+        {"@type": "Product", "name": "Classic Hot Chocolate"},
+        {"@type": "Product", "name": "White Hot Chocolate"},
+        {"@type": "Product", "name": "Starbucks Signature Chocolate 42%"},
+        {"@type": "Product", "name": "Starbucks Signature Chocolate 70%"},
+        {"@type": "Product", "name": "Starbucks Java Chip Chocolate Frappuccino"},
+        {"@type": "Organization", "name": "Nestlé", "sameAs": "https://de.wikipedia.org/wiki/Nestlé"}
+      ],
+      "speakable": {"@type": "SpeakableSpecification", "cssSelector": ["#direct-answer"]}
+    },
+    {
+      "@type": "BreadcrumbList",
+      "@id": "https://starbuckspreise.com/blog/starbucks-heisse-schokolade/#breadcrumb",
+      "itemListElement": [
+        {"@type": "ListItem", "position": 1, "name": "Startseite", "item": "https://starbuckspreise.com"},
+        {"@type": "ListItem", "position": 2, "name": "Blog", "item": "https://starbuckspreise.com/blog"},
+        {"@type": "ListItem", "position": 3, "name": "Starbucks Heiße Schokolade", "item": "https://starbuckspreise.com/blog/starbucks-heisse-schokolade"}
+      ]
+    },
+    {
+      "@type": "FAQPage",
+      "@id": "https://starbuckspreise.com/blog/starbucks-heisse-schokolade/#faq",
+      "mainEntity": [
+        {"@type": "Question", "name": "Was kostet eine heiße Schokolade bei Starbucks?", "acceptedAnswer": {"@type": "Answer", "text": "Je nach Sorte, Filiale und Quelle zwischen etwa 4,80 € und 6,40 €. Starbucks veröffentlicht keine offizielle Preisliste für Hot Chocolates."}},
+        {"@type": "Question", "name": "Welche Sorten heißer Schokolade gibt es bei Starbucks?", "acceptedAnswer": {"@type": "Answer", "text": "Drei: Classic Hot Chocolate, White Hot Chocolate und Signature Hot Chocolate. „Hazelnut“ oder „Salted Caramel Hot Chocolate“ gehören nicht zur deutschen Karte."}},
+        {"@type": "Question", "name": "Wie viele Kalorien hat eine Starbucks Heiße Schokolade?", "acceptedAnswer": {"@type": "Answer", "text": "Je nach Quelle und Größe zwischen rund 112 und 357 kcal – ein Tall (250 g) liegt laut fddb.info bei etwa 140 kcal."}},
+        {"@type": "Question", "name": "Ist Starbucks Java Chip Chocolate eine heiße Schokolade?", "acceptedAnswer": {"@type": "Answer", "text": "Nein, das ist eine Frappuccino-Sorte mit Kaffee, Milch und Schokoladenstückchen – ein Kaltgetränk, keine heiße Schokolade."}},
+        {"@type": "Question", "name": "Kann man Starbucks Heiße Schokolade vegan bestellen?", "acceptedAnswer": {"@type": "Answer", "text": "Ja, mit pflanzlicher Milch und ohne Schlagsahne lassen sich alle drei Sorten vegan zubereiten."}},
+        {"@type": "Question", "name": "Was ist der Unterschied zwischen Classic und Signature Hot Chocolate?", "acceptedAnswer": {"@type": "Answer", "text": "Classic kommt ohne Sahnehaube, Signature wird mit gesüßter Schlagsahne und Schokodrizzle serviert und fällt dadurch süßer aus."}},
+        {"@type": "Question", "name": "Was ist Starbucks Signature Chocolate 42 %?", "acceptedAnswer": {"@type": "Answer", "text": "Ein Kakaopulver für zu Hause aus der Starbucks® at Home-Reihe mit rund 185 kcal pro zubereiteter Tasse, angelehnt an die Café-Hot-Chocolate."}},
+        {"@type": "Question", "name": "Was ist der Unterschied zwischen Signature Chocolate 42 % und 70 %?", "acceptedAnswer": {"@type": "Answer", "text": "Die Zahl gibt den Kakaoanteil an: 42 % schmeckt milder und süßer, 70 % intensiver und dunkler mit weniger Süße."}},
+        {"@type": "Question", "name": "Wie bereitet man Starbucks Signature Chocolate zu Hause zu?", "acceptedAnswer": {"@type": "Answer", "text": "5 Teelöffel Pulver auf 200 ml warme, fettarme Milch einrühren."}},
+        {"@type": "Question", "name": "Ist die White Hot Chocolate koffeinfrei?", "acceptedAnswer": {"@type": "Answer", "text": "Hot-Chocolate-Sorten enthalten keinen Espresso, der Koffeingehalt liegt also nahe null – für eine exakte Zahl fehlt eine offizielle Starbucks-Angabe."}},
+        {"@type": "Question", "name": "Gibt es heiße Schokolade auch als Kaltgetränk?", "acceptedAnswer": {"@type": "Answer", "text": "Ja, unter der Kategorie „Iced Chocolates“ führt starbucks.de eigene Kaltgetränk-Varianten, getrennt von den Hot Chocolates."}},
+        {"@type": "Question", "name": "Wo kann man Starbucks Signature Chocolate Kakaopulver kaufen?", "acceptedAnswer": {"@type": "Answer", "text": "Im Handel und online bei verschiedenen Anbietern, etwa ab rund 7,79 € für eine 330-g-Packung der 70-%-Variante."}}
+      ]
+    }
+  ]
+}
