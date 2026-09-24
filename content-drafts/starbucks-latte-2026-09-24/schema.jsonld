@@ -1,0 +1,219 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "Article",
+      "@id": "https://starbuckspreise.com/blog/starbucks-latte/#article",
+      "headline": "Starbucks Latte: Caffè Latte und alle Latte-Sorten mit Preis und Kalorien",
+      "description": "Starbucks Latte im Überblick: Caffè Latte ab 4,59 €, alle Latte-Sorten von Iced bis Matcha mit Preis und Kalorien – plus der Unterschied zu Cappuccino & Co.",
+      "image": "https://starbuckspreise.com/img/blog/starbucks-latte-hero.webp",
+      "datePublished": "2026-09-24T09:00:00+02:00",
+      "dateModified": "2026-09-24T09:00:00+02:00",
+      "inLanguage": "de-DE",
+      "author": {
+        "@type": "Organization",
+        "name": "StarbucksPreise Redaktion",
+        "url": "https://starbuckspreise.com"
+      },
+      "publisher": {
+        "@type": "Organization",
+        "name": "StarbucksPreise Deutschland",
+        "url": "https://starbuckspreise.com"
+      },
+      "mainEntityOfPage": "https://starbuckspreise.com/blog/starbucks-latte",
+      "about": [
+        {
+          "@type": "Thing",
+          "name": "Caffè Latte",
+          "sameAs": "https://de.wikipedia.org/wiki/Caff%C3%A8_Latte"
+        },
+        {
+          "@type": "Organization",
+          "name": "Starbucks",
+          "sameAs": "https://de.wikipedia.org/wiki/Starbucks"
+        }
+      ],
+      "mentions": [
+        {
+          "@type": "Thing",
+          "name": "Caffè Latte",
+          "sameAs": "https://de.wikipedia.org/wiki/Caff%C3%A8_Latte"
+        },
+        {
+          "@type": "Thing",
+          "name": "Espresso",
+          "sameAs": "https://de.wikipedia.org/wiki/Espresso"
+        },
+        {
+          "@type": "Thing",
+          "name": "Iced Caffè Latte"
+        },
+        {
+          "@type": "Thing",
+          "name": "Cold Brew Latte"
+        },
+        {
+          "@type": "Thing",
+          "name": "Pumpkin Spice Latte"
+        },
+        {
+          "@type": "Thing",
+          "name": "Toffee Nut Latte"
+        },
+        {
+          "@type": "Thing",
+          "name": "Chai Tea Latte",
+          "sameAs": "https://de.wikipedia.org/wiki/Chai"
+        },
+        {
+          "@type": "Thing",
+          "name": "Matcha Green Tea Latte",
+          "sameAs": "https://de.wikipedia.org/wiki/Matcha"
+        },
+        {
+          "@type": "Thing",
+          "name": "Latte Macchiato",
+          "sameAs": "https://de.wikipedia.org/wiki/Latte_macchiato"
+        },
+        {
+          "@type": "Thing",
+          "name": "Flat White",
+          "sameAs": "https://de.wikipedia.org/wiki/Flat_White"
+        },
+        {
+          "@type": "Thing",
+          "name": "Cappuccino",
+          "sameAs": "https://de.wikipedia.org/wiki/Cappuccino"
+        },
+        {
+          "@type": "Thing",
+          "name": "Dolce Gusto"
+        }
+      ],
+      "speakable": {
+        "@type": "SpeakableSpecification",
+        "cssSelector": [
+          "#direct-answer"
+        ]
+      }
+    },
+    {
+      "@type": "BreadcrumbList",
+      "@id": "https://starbuckspreise.com/blog/starbucks-latte/#breadcrumb",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Startseite",
+          "item": "https://starbuckspreise.com"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Blog",
+          "item": "https://starbuckspreise.com/blog"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "Starbucks Latte",
+          "item": "https://starbuckspreise.com/blog/starbucks-latte"
+        }
+      ]
+    },
+    {
+      "@type": "FAQPage",
+      "@id": "https://starbuckspreise.com/blog/starbucks-latte/#faq",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "Was kostet ein Caffè Latte bei Starbucks?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Laut unserer Preisliste ab 4,59 €. Der Iced Caffè Latte kostet ab 5,40 €, größere Größen und Extras wie Sirup oder Pflanzendrink kosten mehr."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Wie viele Kalorien hat ein Starbucks Latte?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Ein Caffè Latte hat rund 151 kcal, ein Iced Caffè Latte 128 kcal. Mit Sirup und Topping steigen Latte-Varianten auf 240 bis 310 kcal."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Wie viel Koffein hat ein Starbucks Latte?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Laut Starbucks USA rund 75 mg im Tall und 150 mg im Grande. Tee-Lattes wie Chai oder Matcha enthalten Koffein aus dem Tee, keinen Espresso."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Was ist der Unterschied zwischen Latte und Latte Macchiato?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Beim Caffè Latte kommt der Espresso zuerst in die Tasse und wird mit Milch aufgegossen. Beim Latte Macchiato kommt die Milch zuerst und der Espresso obenauf, sodass sichtbare Schichten entstehen. Preislich liegen beide mit 4,59 € und 4,70 € nah beieinander."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Was ist der Unterschied zwischen Latte und Cappuccino?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Ein Cappuccino hat mehr Milchschaum und weniger flüssige Milch als ein Caffè Latte. Er schmeckt dadurch kräftiger und kostet bei Starbucks mit 3,90 € weniger."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Welcher Starbucks Latte hat die wenigsten Kalorien?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Der Iced Matcha Green Tea Latte mit 122 kcal laut unserer Liste. Bei den Kaffee-Lattes liegt der Cold Brew Latte mit 123 kcal vorn, knapp vor dem Iced Caffè Latte mit 128 kcal. Alle drei kommen ohne Sirup aus."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Welcher Starbucks Latte ist der teuerste?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Der Iced Pumpkin Spice Matcha Latte mit 8,90 € laut unserer Preisliste. Er kombiniert Matcha, Saisonaroma und Eis."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Kann ich einen Latte mit Hafermilch bestellen?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Ja. Starbucks bietet Pflanzendrinks als Alternative zur Kuhmilch an, meist gegen einen kleinen Aufpreis. Welche Sorten deine Filiale führt, siehst du in der App."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Wann gibt es den Pumpkin Spice Latte?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Der Pumpkin Spice Latte ist ein Herbstgetränk und läuft typischerweise ab September. Laut unserer Liste kostet er 6,20 €, als Iced-Variante ebenfalls 6,20 €."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Was ist ein Chai Tea Latte?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Ein Chai Tea Latte ist ein Tee-Latte aus gewürztem Schwarztee-Konzentrat und gedämpfter Milch, ohne Espresso. Er kostet laut unserer Liste 6,90 € und hat 181 kcal."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Gibt es den Starbucks Latte im Supermarkt?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Ja, als gekühlten Caffè Latte im Becher und als Dolce-Gusto-Kapsel. Beides ist ein anderes Produkt als der frisch zubereitete Latte im Coffee House."
+          }
+        }
+      ]
+    }
+  ]
+}

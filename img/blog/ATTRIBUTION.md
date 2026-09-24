@@ -110,3 +110,21 @@ Hero photos sourced from Wikimedia Commons for the 2026-09-17 location/product p
 - Author: Haydn Blackey (Flickr), via Wikimedia Commons
 - License: CC BY-SA 2.0 — attribution required if reused/redistributed further
 - Note: 2026-09-22 update — fetched via the en.wikipedia.org API proxy (see kapseln-angebot note above). No Flat-White-specific Starbucks photo exists on Commons; this is a plain Starbucks hot cup with the logo clearly visible (technically captioned as a latte) — the closest genuine on-brand substitute for a hot espresso-milk drink. The pre-existing repo asset (img/Flat-White.webp, 256x256px, unverifiable license/origin) was checked again and still rejected for the same reasons as the prior run.
+
+## starbucks-refresha-hero.webp
+- Source: https://commons.wikimedia.org/wiki/File%3AStarbucks_refreshers_pink_drink.jpg
+- Author: Fumikas Sagisavas, via Wikimedia Commons
+- License: CC0 — no attribution required
+- Note: 2026-09-24 — fetched via the en.wikipedia.org API proxy (commons host still resets). Shows the Pink Drink (= Pink Coconut Refresha®), top-down, cropped to 16:10.
+
+## starbucks-latte-hero.webp
+- Source: https://commons.wikimedia.org/wiki/File%3ALatte_art_in_a_Starbucks_Coffe_Shop.jpg
+- Author: Hans Olav Lien, via Wikimedia Commons
+- License: CC BY-SA 4.0 — attribution required if reused/redistributed further
+- Note: 2026-09-24 — fetched via the en.wikipedia.org API proxy (commons host still resets). Caffè Latte with latte art, photographed in a Starbucks store (Manila); no logo visible in the crop.
+
+## starbucks-angebote-hero.webp
+- Source: https://commons.wikimedia.org/wiki/File%3AA_bottle_of_Starbucks_Frappuccino_%28Mocha_flavored%29.jpg
+- Author: AzureSaturn, via Wikimedia Commons
+- License: CC0 — no attribution required
+- Note: 2026-09-24 — fetched via the en.wikipedia.org API proxy (commons host still resets). Bottled Starbucks Frappuccino (US retail bottle), represents the supermarket/RTD side of the article; cropped to show logo + wordmark.

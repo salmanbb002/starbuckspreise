@@ -1,0 +1,203 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "Article",
+      "@id": "https://starbuckspreise.com/blog/starbucks-angebote/#article",
+      "headline": "Starbucks Angebote: So sparst du im Supermarkt und im Coffee House",
+      "description": "Starbucks Angebote im Überblick: Eiskaffee ab 1,49 € im Supermarkt, 0,50 € Rabatt mit eigenem Becher und Gratisgetränke über Rewards – so sparst du 2026.",
+      "image": "https://starbuckspreise.com/img/blog/starbucks-angebote-hero.webp",
+      "datePublished": "2026-09-24T09:00:00+02:00",
+      "dateModified": "2026-09-24T09:00:00+02:00",
+      "inLanguage": "de-DE",
+      "author": {
+        "@type": "Organization",
+        "name": "StarbucksPreise Redaktion",
+        "url": "https://starbuckspreise.com"
+      },
+      "publisher": {
+        "@type": "Organization",
+        "name": "StarbucksPreise Deutschland",
+        "url": "https://starbuckspreise.com"
+      },
+      "mainEntityOfPage": "https://starbuckspreise.com/blog/starbucks-angebote",
+      "about": [
+        {
+          "@type": "Thing",
+          "name": "Starbucks Angebote"
+        },
+        {
+          "@type": "Organization",
+          "name": "Starbucks",
+          "sameAs": "https://de.wikipedia.org/wiki/Starbucks"
+        }
+      ],
+      "mentions": [
+        {
+          "@type": "Thing",
+          "name": "Starbucks Rewards"
+        },
+        {
+          "@type": "Thing",
+          "name": "Chilled Coffee"
+        },
+        {
+          "@type": "Thing",
+          "name": "Kapseln"
+        },
+        {
+          "@type": "Organization",
+          "name": "Lidl",
+          "sameAs": "https://de.wikipedia.org/wiki/Lidl"
+        },
+        {
+          "@type": "Organization",
+          "name": "REWE",
+          "sameAs": "https://de.wikipedia.org/wiki/REWE"
+        },
+        {
+          "@type": "Organization",
+          "name": "Kaufland",
+          "sameAs": "https://de.wikipedia.org/wiki/Kaufland"
+        },
+        {
+          "@type": "Organization",
+          "name": "Nestlé",
+          "sameAs": "https://de.wikipedia.org/wiki/Nestl%C3%A9"
+        },
+        {
+          "@type": "Thing",
+          "name": "Pfandbecher"
+        },
+        {
+          "@type": "Thing",
+          "name": "GLAMOUR25"
+        }
+      ],
+      "speakable": {
+        "@type": "SpeakableSpecification",
+        "cssSelector": [
+          "#direct-answer"
+        ]
+      }
+    },
+    {
+      "@type": "BreadcrumbList",
+      "@id": "https://starbuckspreise.com/blog/starbucks-angebote/#breadcrumb",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Startseite",
+          "item": "https://starbuckspreise.com"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Blog",
+          "item": "https://starbuckspreise.com/blog"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "Starbucks Angebote",
+          "item": "https://starbuckspreise.com/blog/starbucks-angebote"
+        }
+      ]
+    },
+    {
+      "@type": "FAQPage",
+      "@id": "https://starbuckspreise.com/blog/starbucks-angebote/#faq",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "Wo gibt es diese Woche Starbucks im Angebot?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Das wechselt wöchentlich. In KW 39 (bis 26. September 2026) gab es den Grande Cup Chilled Coffee bei Lidl für 1,99 € und Smooth-Caramel-Kapseln bei REWE für 3,69 €. Aktuelle Angebote zeigen Prospekt-Portale wie marktguru, kaufDA oder discounto."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Was kostet Starbucks Eiskaffee im Supermarkt im Angebot?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Im Angebot meist zwischen 1,49 € und 2,99 € pro Becher, je nach Sorte und Händler. Der Grande Cup mit 330 ml hat eine UVP von 2,89 €."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Gibt es in der Starbucks Filiale Rabatte?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Ja. Mit eigenem Becher sparst du 0,50 € pro handgemachtem Getränk, und über Starbucks Rewards gibt es für 150 Stars ein Gratisgetränk. Dazu kommen gelegentlich zeitlich begrenzte Aktionscodes."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Gibt es eine Starbucks Happy Hour in Deutschland?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Eine feste Happy Hour wie zeitweise in den USA haben wir für Deutschland nicht gefunden. Zeitlich begrenzte Angebote für Mitglieder laufen über die Starbucks-Deutschland-App."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Gibt es Starbucks Gutscheine?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Gelegentlich über Partner, zum Beispiel den Code GLAMOUR25 mit 25 % Rabatt, gültig bis 12. Juni 2026. Viele Codes auf Gutscheinportalen beziehen sich auf einen Online-Shop, den es in Deutschland nicht gibt. Prüfe die Quelle vor dem Einlösen."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Bekomme ich ein Gratisgetränk zum Geburtstag?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Ja, als Gold-Mitglied bei Starbucks Rewards. Gold erreichst du mit 450 Stars innerhalb eines Statusjahres."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Lohnt sich Starbucks Rewards?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Für Stammkunden ja. Bei 3 Stars pro Euro gibt es nach rund 50 € Umsatz ein Gratisgetränk, das entspricht rund 10 % Gegenwert, bei einem teureren Getränk etwas mehr."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Sammle ich Stars auch beim Supermarkt-Kauf?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Nein. Stars gibt es nur für Käufe im Coffee House, bezahlt per App oder registrierter Starbucks Card. Supermarkt-Produkte sind Handelsware und laufen nicht über das Rewards-Programm der Filialen."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Gibt es Starbucks Kapseln im Angebot?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Ja, regelmäßig, etwa bei REWE oder Rossmann für 3,69 € bis 4,69 € je Packung. Alle Details stehen im Ratgeber zum Starbucks Kapseln Angebot."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Wie bekomme ich eine Starbucks Tasse gratis?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Über die Starbucks-at-Home-Aktion „Deine Tasse“: drei teilnehmende Produkte kaufen, Kassenbon hochladen, Tasse samt Stift erhalten, höchstens dreimal pro Person. Die Laufzeit steht auf starbucksathome.com."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Ist der Supermarkt-Kaffee von Starbucks derselbe wie im Café?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Nein. Im Kühlregal steht ein fertig abgefüllter Kaffee-Milch-Mix, im Coffee House wird jedes Getränk frisch mit Espresso zubereitet. Geschmacklich ähneln sich manche Sorten, das Produkt ist aber ein anderes."
+          }
+        }
+      ]
+    }
+  ]
+}

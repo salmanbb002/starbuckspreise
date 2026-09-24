@@ -1,0 +1,199 @@
+[
+ {
+  "canonical": "Starbucks Angebote",
+  "type": "Concept",
+  "aliases": [
+   "Angebot",
+   "Angebote"
+  ],
+  "sameAs": "",
+  "kind": "term",
+  "competitor_count": 4,
+  "in_title_or_h2": true,
+  "tier": 1
+ },
+ {
+  "canonical": "Starbucks",
+  "type": "Organization",
+  "aliases": [],
+  "sameAs": "https://de.wikipedia.org/wiki/Starbucks",
+  "kind": "entity",
+  "competitor_count": 4,
+  "in_title_or_h2": true,
+  "tier": 1
+ },
+ {
+  "canonical": "Supermarkt",
+  "type": "Concept",
+  "aliases": [
+   "Prospekt",
+   "Kühlregal"
+  ],
+  "sameAs": "",
+  "kind": "term",
+  "competitor_count": 4,
+  "in_title_or_h2": true,
+  "tier": 1
+ },
+ {
+  "canonical": "Coffee House",
+  "type": "Concept",
+  "aliases": [
+   "Filiale",
+   "Café"
+  ],
+  "sameAs": "",
+  "kind": "term",
+  "competitor_count": 2,
+  "in_title_or_h2": true,
+  "tier": 1
+ },
+ {
+  "canonical": "Starbucks Rewards",
+  "type": "Thing",
+  "aliases": [
+   "Rewards",
+   "Stars"
+  ],
+  "sameAs": "",
+  "kind": "entity",
+  "competitor_count": 2,
+  "in_title_or_h2": true,
+  "tier": 1
+ },
+ {
+  "canonical": "eigener Becher",
+  "type": "Concept",
+  "aliases": [
+   "eigenen Becher",
+   "0,50 € Rabatt"
+  ],
+  "sameAs": "",
+  "kind": "term",
+  "competitor_count": 1,
+  "in_title_or_h2": true,
+  "tier": 1
+ },
+ {
+  "canonical": "Chilled Coffee",
+  "type": "Thing",
+  "aliases": [
+   "Grande Cup",
+   "Chilled Classics",
+   "Eiskaffee"
+  ],
+  "sameAs": "",
+  "kind": "entity",
+  "competitor_count": 3,
+  "in_title_or_h2": false,
+  "tier": 1
+ },
+ {
+  "canonical": "Kapseln",
+  "type": "Thing",
+  "aliases": [],
+  "sameAs": "",
+  "kind": "entity",
+  "competitor_count": 3,
+  "in_title_or_h2": true,
+  "tier": 1
+ },
+ {
+  "canonical": "Lidl",
+  "type": "Organization",
+  "aliases": [],
+  "sameAs": "https://de.wikipedia.org/wiki/Lidl",
+  "kind": "entity",
+  "competitor_count": 3,
+  "in_title_or_h2": false,
+  "tier": 2
+ },
+ {
+  "canonical": "REWE",
+  "type": "Organization",
+  "aliases": [],
+  "sameAs": "https://de.wikipedia.org/wiki/REWE",
+  "kind": "entity",
+  "competitor_count": 3,
+  "in_title_or_h2": false,
+  "tier": 2
+ },
+ {
+  "canonical": "Kaufland",
+  "type": "Organization",
+  "aliases": [],
+  "sameAs": "https://de.wikipedia.org/wiki/Kaufland",
+  "kind": "entity",
+  "competitor_count": 2,
+  "in_title_or_h2": false,
+  "tier": 2
+ },
+ {
+  "canonical": "Nestlé",
+  "type": "Organization",
+  "aliases": [
+   "Starbucks at Home"
+  ],
+  "sameAs": "https://de.wikipedia.org/wiki/Nestl%C3%A9",
+  "kind": "entity",
+  "competitor_count": 1,
+  "in_title_or_h2": false,
+  "tier": 2
+ },
+ {
+  "canonical": "Pfandbecher",
+  "type": "Thing",
+  "aliases": [],
+  "sameAs": "",
+  "kind": "entity",
+  "competitor_count": 1,
+  "in_title_or_h2": false,
+  "tier": 2
+ },
+ {
+  "canonical": "GLAMOUR25",
+  "type": "Thing",
+  "aliases": [
+   "Aktionscodes",
+   "Gutscheine"
+  ],
+  "sameAs": "",
+  "kind": "entity",
+  "competitor_count": 2,
+  "in_title_or_h2": false,
+  "tier": 2
+ },
+ {
+  "canonical": "Gold-Mitglied",
+  "type": "Metric",
+  "aliases": [
+   "Gold",
+   "Geburtstagsgetränk"
+  ],
+  "sameAs": "",
+  "kind": "term",
+  "competitor_count": 1,
+  "in_title_or_h2": false,
+  "tier": 2
+ },
+ {
+  "canonical": "UVP",
+  "type": "Money",
+  "aliases": [],
+  "sameAs": "",
+  "kind": "term",
+  "competitor_count": 1,
+  "in_title_or_h2": false,
+  "tier": 3
+ },
+ {
+  "canonical": "Happy Hour",
+  "type": "Concept",
+  "aliases": [],
+  "sameAs": "",
+  "kind": "term",
+  "competitor_count": 1,
+  "in_title_or_h2": false,
+  "tier": 3
+ }
+]
