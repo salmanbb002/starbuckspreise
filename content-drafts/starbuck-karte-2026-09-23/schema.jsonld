@@ -1,0 +1,24 @@
+{
+  "_note": "MERGE SNIPPETS for blog/starbucks-menu.html. Don't publish this as a standalone graph. (1) Append the Question objects to the page's existing FAQPage.mainEntity. (2) Add the 'mentions' items to the existing BlogPosting node. (3) Bump dateModified.",
+  "BlogPosting_additions": {
+    "dateModified": "2026-09-23",
+    "mentions": [
+      {"@type": "Thing", "name": "Starbucks Card"},
+      {"@type": "Thing", "name": "Starbucks Rewards"},
+      {"@type": "SoftwareApplication", "name": "Starbucks® Deutschland", "operatingSystem": "iOS, Android", "applicationCategory": "LifestyleApplication", "sameAs": "https://apps.apple.com/de/app/starbucks-deutschland/id948562829"}
+    ]
+  },
+  "FAQPage_mainEntity_additions": [
+    {"@type":"Question","name":"Was ist die Starbucks Card?","acceptedAnswer":{"@type":"Answer","text":"Die Starbucks Card ist eine wiederaufladbare Guthabenkarte für teilnehmende Starbucks-Filialen in Deutschland. Registriert sammelst du damit Stars bei Starbucks Rewards. Es gibt sie als Plastikkarte und digital in der App."}},
+    {"@type":"Question","name":"Wo kann ich eine Starbucks Card kaufen?","acceptedAnswer":{"@type":"Answer","text":"In allen teilnehmenden Starbucks-Filialen. Eine digitale Karte bekommst du ohne Kauf, wenn du dich in der Starbucks-Deutschland-App registrierst."}},
+    {"@type":"Question","name":"Kann ich die Starbucks Card online aufladen?","acceptedAnswer":{"@type":"Answer","text":"Ja, in der Starbucks-App. Alternativ lädst du sie an der Kasse jeder teilnehmenden Filiale auf. Jede Karte lässt sich beliebig oft aufladen."}},
+    {"@type":"Question","name":"Wie registriere ich meine Starbucks Card?","acceptedAnswer":{"@type":"Answer","text":"Gib in deinem Starbucks-Konto online oder in der App die 16-stellige Kartennummer und die 8-stellige PIN ein. Die Registrierung schützt dein Guthaben und schaltet das Stars-Sammeln frei."}},
+    {"@type":"Question","name":"Kostet ungenutztes Guthaben auf der Starbucks Card Gebühren?","acceptedAnswer":{"@type":"Answer","text":"Nein. Laut Starbucks-FAQ fallen für ungenutztes Guthaben keine Gebühren an."}},
+    {"@type":"Question","name":"Wie lange sind Starbucks Stars gültig?","acceptedAnswer":{"@type":"Answer","text":"Rewards-Stars sind laut Starbucks 2 Jahre ab Gutschrift gültig. Die Stars für den Gold-Status zählen nur innerhalb des jeweiligen Statusjahres."}},
+    {"@type":"Question","name":"Wie viel muss ich für ein Gratisgetränk bei Starbucks ausgeben?","acceptedAnswer":{"@type":"Answer","text":"Rund 50 €. Bei 3 Stars pro Euro erreichst du die nötigen 150 Stars nach etwa 50 € Umsatz mit Card oder App."}},
+    {"@type":"Question","name":"Was bekomme ich als Gold-Mitglied bei Starbucks?","acceptedAnswer":{"@type":"Answer","text":"Gold erreichst du mit 450 Stars in einem Statusjahr. Dafür gibt es laut Starbucks gratis Sirups und Toppings, ein Geburtstagsgetränk und einen kostenlosen Refill bei Filterkaffee oder aufgebrühtem Tee."}},
+    {"@type":"Question","name":"Kann ich mit der Starbucks Card in jeder Filiale bezahlen?","acceptedAnswer":{"@type":"Answer","text":"Nicht überall. Laut Starbucks-FAQ können manche lizenzierten Standorte aus bankrechtlichen Gründen keine Kartenzahlungen annehmen. Frag im Zweifel vor dem Bestellen an der Kasse nach."}},
+    {"@type":"Question","name":"Was passiert, wenn ich meine Starbucks Card verliere?","acceptedAnswer":{"@type":"Answer","text":"Ist die Karte registriert, überträgt Starbucks das Restguthaben auf eine neue Karte und schickt sie dir per Post. Ohne Registrierung ist das Guthaben verloren."}},
+    {"@type":"Question","name":"Kann ich eine Starbucks Card verschenken?","acceptedAnswer":{"@type":"Answer","text":"Ja. Starbucks bietet die Card ausdrücklich als Geschenk an. Der oder die Beschenkte kann sie anschließend selbst registrieren und aufladen."}}
+  ]
+}

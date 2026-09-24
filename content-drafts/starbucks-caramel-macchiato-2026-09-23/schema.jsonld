@@ -1,0 +1,190 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "Article",
+      "@id": "https://starbuckspreise.com/iced-caramel-macchiato#article",
+      "headline": "Iced Caramel Macchiato bei Starbucks: Preis, Kalorien & Zubereitung 2026",
+      "description": "Starbucks Caramel Macchiato heiß ab 4,99 €, Iced ab 5,79 €: Preise, Kalorien, Koffein und der Unterschied zum Latte im Überblick – aktuell für 2026.",
+      "inLanguage": "de-DE",
+      "mainEntityOfPage": "https://starbuckspreise.com/iced-caramel-macchiato",
+      "datePublished": "TODO: original publish date of iced-caramel-macchiato.html (check git log)",
+      "dateModified": "2026-09-23",
+      "author": {
+        "@type": "Organization",
+        "name": "Starbucks Preise",
+        "url": "https://starbuckspreise.com/"
+      },
+      "publisher": {
+        "@type": "Organization",
+        "name": "Starbucks Preise",
+        "url": "https://starbuckspreise.com/"
+      },
+      "about": [
+        {
+          "@type": "Thing",
+          "name": "Caramel Macchiato"
+        },
+        {
+          "@type": "Thing",
+          "name": "Iced Caramel Macchiato"
+        }
+      ],
+      "mentions": [
+        {
+          "@type": "Organization",
+          "name": "Starbucks",
+          "sameAs": "https://de.wikipedia.org/wiki/Starbucks"
+        },
+        {
+          "@type": "Thing",
+          "name": "Espresso",
+          "sameAs": "https://de.wikipedia.org/wiki/Espresso"
+        },
+        {
+          "@type": "Thing",
+          "name": "Latte macchiato",
+          "sameAs": "https://de.wikipedia.org/wiki/Latte_macchiato"
+        },
+        {
+          "@type": "Thing",
+          "name": "Caffè Latte",
+          "sameAs": "https://de.wikipedia.org/wiki/Caff%C3%A8_Latte"
+        }
+      ],
+      "speakable": {
+        "@type": "SpeakableSpecification",
+        "cssSelector": [
+          "h1 + p"
+        ]
+      }
+    },
+    {
+      "@type": "FAQPage",
+      "@id": "https://starbuckspreise.com/iced-caramel-macchiato#faq",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "Ist er sehr süß?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Ja, durch Vanillesirup und Karamellsauce ist er eines der süßeren Getränke im Sortiment, lässt sich aber individuell anpassen."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Gibt es eine vegane Variante?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Ja, mit Hafer-, Soja- oder Mandelmilch statt Kuhmilch."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Wie viel Koffein enthält er?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Ein Tall Iced Caramel Macchiato enthält laut Starbucks-USA-Angaben etwa 75 mg Koffein, ein Grande etwa 150 mg, weil er zwei Espresso-Shots bekommt. Das ist ein moderater Wert für ein Espressogetränk."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Was ist ein Caramel Macchiato bei Starbucks?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Ein Caramel Macchiato ist ein Espressogetränk aus Vanillesirup, gedämpfter Milch und Espresso, der zuletzt obenauf gegossen wird, mit Karamellsauce als Topping. Starbucks bietet ihn heiß und als Iced Caramel Macchiato an."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Was kostet ein Caramel Macchiato bei Starbucks?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Der heiße Caramel Macchiato kostet laut unserer Preisliste ab 4,99 €, der Iced Caramel Macchiato ab 5,79 €. An Bahnhöfen und Flughäfen liegen die Preise meist höher."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Wie viele Kalorien hat ein Caramel Macchiato?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Ein heißer Tall (355 ml) hat rund 214 kcal, ein Venti (591 ml) etwa 312 kcal. Die Iced-Variante liegt in der kleinsten Größe bei etwa 201 kcal."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Wie viel Zucker ist in einem Caramel Macchiato?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Rund 7 g pro 100 ml. Ein Tall enthält damit knapp 25 g Zucker, ein Venti laut Yazio 41,2 g. Der Zucker kommt aus Vanillesirup, Karamellsauce und dem Milchzucker."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Was bedeutet „Macchiato“?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "„Macchiato“ ist italienisch und bedeutet „gefleckt“ oder „markiert“. Beim Caramel Macchiato markiert der zuletzt eingegossene Espresso die Milch, er bildet einen dunklen Fleck im Schaum."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Was ist der Unterschied zwischen Caramel Macchiato und Caffè Latte?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Beim Caffè Latte kommt der Espresso zuerst in die Tasse und wird mit Milch aufgegossen, Sirup gibt es nur auf Wunsch. Der Caramel Macchiato enthält immer Vanillesirup, der Espresso kommt zuletzt, und obenauf gibt es Karamellsauce. Laut unserer Liste kostet ein Caffè Latte ab 4,59 € und hat rund 151 kcal."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Was ist der Unterschied zwischen Caramel Macchiato und Latte Macchiato?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Beide sind geschichtet, aber der Latte Macchiato kommt ohne Sirup und ohne Karamell aus. Er hat deshalb nur rund 147 kcal statt 214 kcal und kostet laut unserer Liste ab 4,70 €."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Ist ein Caramel Macchiato stark?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Nein, er ist ein milchbetontes Getränk. Ein Tall enthält mit 75 mg Koffein etwa so viel wie ein einzelner Espresso-Shot, der Geschmack wird von Milch, Vanille und Karamell bestimmt."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Welche Größen gibt es beim Caramel Macchiato?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "In Deutschland gibt es ihn in Tall (355 ml), Grande (473 ml) und Venti (591 ml heiß bzw. 709 ml iced). Die Preise steigen mit der Größe, beim Iced Caramel Macchiato von 5,79 € (Tall) bis 6,90 € (Venti)."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Gibt es Caramel Macchiato von Starbucks für zu Hause?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Ja, als Kapsel für Nescafé Dolce Gusto. Starbucks führt dort den Caramel Macchiato (Medium Roast) mit Milchpulver. Aktuelle Angebote stehen in unserem Ratgeber zum Starbucks Kapseln Angebot."
+          }
+        }
+      ]
+    },
+    {
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Startseite",
+          "item": "https://starbuckspreise.com/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Iced Caramel Macchiato",
+          "item": "https://starbuckspreise.com/iced-caramel-macchiato"
+        }
+      ]
+    }
+  ]
+}

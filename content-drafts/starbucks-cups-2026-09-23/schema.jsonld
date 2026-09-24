@@ -1,0 +1,103 @@
+{
+  "_note": "MERGE SNIPPETS for blog/starbucks-becher.html. Append the questions to the existing FAQPage.mainEntity, add the mentions to the existing BlogPosting and bump dateModified. Mentions are typed Thing on purpose: Product nodes without offers would show up as invalid items in GSC.",
+  "BlogPosting_additions": {
+    "dateModified": "2026-09-23",
+    "mentions": [
+      {
+        "@type": "Thing",
+        "name": "Starbucks Cold Cup"
+      },
+      {
+        "@type": "Thing",
+        "name": "Starbucks Tumbler"
+      },
+      {
+        "@type": "Organization",
+        "name": "Otto",
+        "sameAs": "https://de.wikipedia.org/wiki/Otto_(Versandhandel)"
+      }
+    ]
+  },
+  "FAQPage_mainEntity_additions": [
+    {
+      "@type": "Question",
+      "name": "Was bedeutet „Cups“ bei Starbucks?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "„Cups“ ist der englische Sammelname für das Becher-Sortiment von Starbucks. Dazu zählen Cold Cups für Kaltgetränke, Tumbler für heiße und kalte Getränke und Mugs, also Tassen. Starbucks verwendet die englischen Namen auch in Deutschland."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Welche Cold Cups gibt es bei Starbucks Deutschland?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Das Kernsortiment auf starbucks.de listet unter anderem den Reusable Cold Cup, Cold Cup Grid Green, Cold Cup Bling Soft Touch Black und Cold Cup SS Beans. Dazu kommen Kunststoff-Designs wie Terrazzo, Marbled und Timi (Stand 23. September 2026)."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Was heißt „SS“ und „Plas“ bei Starbucks Cups?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "„SS“ steht für Stainless Steel, also Edelstahl, „Plas“ für Plastic, also Kunststoff. Ein „Cold Cup SS“ ist damit ein Edelstahlbecher, ein „Cold Cup Plas“ ein Kunststoffbecher."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Gibt es wiederverwendbare Strohhalme für Starbucks Cold Cups?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Ja. Im Kernsortiment steht ein „Reusable Straw Set with Pouch“, also ein Strohhalm-Set mit Etui. Einen separaten Kuppeldeckel (Dome Lid) für den Reusable Cold Cup gibt es ebenfalls."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "In welchen Farben gibt es Starbucks Cups?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Das aktuelle Kernsortiment setzt vor allem auf Schwarz und Starbucks-Grün. Muster sind Raster (Grid), Terrazzo, marmoriert (Marbled), Farbverlauf (Ombre) und ein Kaffeebohnen-Motiv (Beans)."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Was kostet ein Starbucks Cold Cup online?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Bei Otto lagen Starbucks Cold Cups am 23. September 2026 zwischen 13,49 € und 79,00 €. Die obere Grenze betrifft limitierte Kooperationen. Isolierte Tumbler begannen dort bei etwa 45 €."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Gibt es limitierte Starbucks Cups?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Ja. Bei Otto waren im September 2026 Kooperationsmodelle mit Snoopy und Owala gelistet, für 37,99 € bis 79,00 €. Solche Editionen sind oft schnell vergriffen."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Gibt es Starbucks Cups mit Deutschland-Motiv?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Stadt- und Ländermotive gibt es bei Starbucks vor allem als Keramiktassen, zum Beispiel in der „You Are Here“-Serie mit München, Berlin, Frankfurt, Hamburg und Köln. Diese zählen nicht zu den Cups. Mehr dazu im Beitrag zu den Starbucks Tassen."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Gibt es 2026 neue Starbucks Sammlertassen aus Deutschland?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Ja. Laut der Sammler-Datenbank starbucks-mugs.com erschien im August 2026 die Relief-Tasse München mit Bierglas-Motiv. Es handelt sich um eine Keramiktasse, nicht um einen Cup."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Wo sehe ich alle aktuellen Starbucks Cups?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Auf starbucks.de unter Menü › Merchandise › Core. Dort steht das aktuelle Kernsortiment mit Produktnamen und Bildern, aber ohne Preise. Den Preis erfährst du in der Filiale."
+      }
+    }
+  ]
+}

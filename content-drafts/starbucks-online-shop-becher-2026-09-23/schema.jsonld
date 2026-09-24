@@ -1,0 +1,109 @@
+{
+  "_note": "MERGE SNIPPETS for blog/starbucks-becher.html. (1) REPLACE the acceptedAnswer.text of the existing Question 'Wo kann man originale Starbucks Becher kaufen?' with 'replace_existing_answer'. (2) Append the new questions. (3) Add the mentions and bump dateModified. Mentions are typed Thing/Organization on purpose, not Product/Event (the promo has no verified dates).",
+  "replace_existing_answer": {
+    "question": "Wo kann man originale Starbucks Becher kaufen?",
+    "text": "Neue Originalbecher kaufst du am sichersten direkt in einer Starbucks-Filiale. Einen offiziellen Online-Shop für Becher betreibt Starbucks in Deutschland nicht. Online führen Otto und eBay.de eine größere Auswahl inklusive älterer Editionen, Kleinanzeigen.de eignet sich vor allem für gebrauchte Exemplare."
+  },
+  "BlogPosting_additions": {
+    "dateModified": "2026-09-23",
+    "mentions": [
+      {
+        "@type": "Organization",
+        "name": "Otto",
+        "sameAs": "https://de.wikipedia.org/wiki/Otto_(Versandhandel)"
+      },
+      {
+        "@type": "Organization",
+        "name": "eBay",
+        "sameAs": "https://de.wikipedia.org/wiki/EBay"
+      },
+      {
+        "@type": "Thing",
+        "name": "Starbucks at Home",
+        "url": "https://www.starbucksathome.com/de/"
+      }
+    ]
+  },
+  "FAQPage_mainEntity_additions": [
+    {
+      "@type": "Question",
+      "name": "Hat Starbucks einen offiziellen Online-Shop für Becher?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Nein, nicht in Deutschland (Stand 23. September 2026). starbucks.de zeigt das Becher-Sortiment unter Menü › Merchandise nur als Katalog ohne Preise und ohne Bestellfunktion. Gekauft wird in der Filiale oder bei Drittanbietern."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Kann ich Starbucks Becher bei Otto bestellen?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Ja. Otto.de führt eine Starbucks-Markenseite mit Cold Cups, Tumblern und Tassen. Im September 2026 kosteten Cold Cups dort 13,49 € bis 79,00 €, die Lieferzeit lag meist bei 3–4 Werktagen."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Ist Starbucks at Home ein Online-Shop für Becher?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Nein. Starbucks at Home ist die Marke für Starbucks-Kaffee für zu Hause, etwa Kapseln und Bohnen. Becher gibt es dort nur im Rahmen von Aktionen wie „Deine Tasse“, bei der du nach dem Kauf von drei Produkten eine Tasse gratis bekommst."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Wie bekomme ich eine Starbucks Tasse gratis?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Über die Starbucks-at-Home-Aktion „Deine Tasse“: drei teilnehmende Produkte kaufen, Kassenbon online hochladen, Tasse und Stift erhalten. Pro Person geht das höchstens dreimal. Ob die Aktion gerade läuft, steht auf starbucksathome.com."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Welche Produkte zählen für die Aktion „Deine Tasse“?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Starbucks by Nespresso, Starbucks by Nescafé Dolce Gusto und Starbucks Signature Chocolate. Gekühlte Kaffee-Mischgetränke und Einkäufe im Starbucks Coffee House sind ausgeschlossen."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Sind Starbucks Becher auf Etsy original?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Meist nicht im engeren Sinn. Etsy listet vor allem personalisierte oder individuell gestaltete Becher. Auch wenn ein Originalbecher als Basis dient, ist das veredelte Stück kein offizielles Starbucks-Produkt."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Ist The Coffee Mug Shop ein offizieller Starbucks-Händler?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Nein. The Coffee Mug Shop bezeichnet sich selbst als private Website ohne Verbindung zur Starbucks Corporation. Der Shop ist auf Sammlertassen spezialisiert, etwa die Serien „You Are Here“, „Been There“ und „Global Icons“, und liefert in Deutschland ab 99 € versandkostenfrei."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Worauf sollte ich beim Online-Kauf von Starbucks Bechern achten?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Lass dir vor dem Kauf ein Foto vom Bodenstempel mit Füllmengenangabe schicken und vergleiche die Sirene mit Originalbildern. Kaufe bei Privatverkäufern nur mit Käuferschutz oder bei Abholung. Die vollständigen Echtheitsmerkmale stehen im Starbucks-Tasse-Ratgeber."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Sind Starbucks Becher online teurer als in der Filiale?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Oft ja, vor allem bei Tumblern und limitierten Editionen. Bei Otto begannen isolierte Tumbler im September 2026 bei etwa 45 €, Kooperationsmodelle kosteten bis 79 €. Aktuelle Standardbecher sind in der Filiale meist günstiger."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Kann ich gebrauchte Starbucks Becher online kaufen?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Ja, vor allem auf Kleinanzeigen.de und eBay.de. Gebrauchte Cold Cups gibt es dort ab etwa 4 €. Lass dir Deckel und Dichtung zeigen, bevor du bezahlst, denn dort sieht man Gebrauchsspuren zuerst."
+      }
+    }
+  ]
+}

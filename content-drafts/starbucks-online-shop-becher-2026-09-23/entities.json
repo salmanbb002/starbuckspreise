@@ -1,0 +1,15 @@
+[
+ {"canonical":"Starbucks","type":"Organization","aliases":[],"sameAs":"https://de.wikipedia.org/wiki/Starbucks","kind":"entity","competitor_count":4,"in_title_or_h2":true,"tier":1},
+ {"canonical":"Online-Shop","type":"Concept","aliases":["offizieller Online-Shop","online kaufen","Online-Kanal"],"sameAs":"","kind":"term","competitor_count":4,"in_title_or_h2":true,"tier":1},
+ {"canonical":"starbucks.de","type":"Thing","aliases":["Menü › Merchandise","Katalog"],"sameAs":"https://www.starbucks.de/de/menu-merchandise-core","kind":"entity","competitor_count":2,"in_title_or_h2":false,"tier":1},
+ {"canonical":"Otto","type":"Organization","aliases":["Otto.de"],"sameAs":"https://de.wikipedia.org/wiki/Otto_(Versandhandel)","kind":"entity","competitor_count":2,"in_title_or_h2":false,"tier":1},
+ {"canonical":"eBay","type":"Organization","aliases":["eBay.de"],"sameAs":"https://de.wikipedia.org/wiki/EBay","kind":"entity","competitor_count":3,"in_title_or_h2":false,"tier":1},
+ {"canonical":"Starbucks at Home","type":"Brand","aliases":["starbucksathome.com"],"sameAs":"https://www.starbucksathome.com/de/","kind":"entity","competitor_count":2,"in_title_or_h2":false,"tier":1},
+ {"canonical":"Deine Tasse","type":"Event","aliases":["„Deine Tasse für dein Zuhause“","Aktion"],"sameAs":"","kind":"entity","competitor_count":1,"in_title_or_h2":true,"tier":2},
+ {"canonical":"Teilnehmende Produkte","type":"Product","aliases":["Starbucks by Nespresso","Starbucks by Nescafé Dolce Gusto","Starbucks Signature Chocolate"],"sameAs":"","kind":"entity","competitor_count":1,"in_title_or_h2":false,"tier":2},
+ {"canonical":"Etsy","type":"Organization","aliases":["personalisiert"],"sameAs":"https://de.wikipedia.org/wiki/Etsy","kind":"entity","competitor_count":2,"in_title_or_h2":false,"tier":2},
+ {"canonical":"The Coffee Mug Shop","type":"Organization","aliases":[],"sameAs":"","kind":"entity","competitor_count":1,"in_title_or_h2":false,"tier":2},
+ {"canonical":"Kleinanzeigen","type":"Organization","aliases":["Kleinanzeigen.de","gebraucht"],"sameAs":"","kind":"entity","competitor_count":2,"in_title_or_h2":false,"tier":2},
+ {"canonical":"Bodenstempel","type":"Concept","aliases":["Echtheitsmerkmale","Original"],"sameAs":"","kind":"term","competitor_count":1,"in_title_or_h2":true,"tier":2},
+ {"canonical":"Lieferzeit","type":"Metric","aliases":["versandkostenfrei","3–4 Werktage"],"sameAs":"","kind":"term","competitor_count":2,"in_title_or_h2":false,"tier":3}
+]

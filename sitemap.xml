@@ -4,7 +4,7 @@
   <url><loc>https://starbuckspreise.com/starbucks-in-meiner-naehe</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
   <url><loc>https://starbuckspreise.com/starbucks-aktie</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
   <url><loc>https://starbuckspreise.com/starbucks-tasse</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
-  <url><loc>https://starbuckspreise.com/iced-caramel-macchiato</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://starbuckspreise.com/iced-caramel-macchiato</loc><lastmod>2026-09-24</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url>
   <url><loc>https://starbuckspreise.com/ueber-uns</loc><changefreq>monthly</changefreq><priority>0.4</priority></url>
   <url><loc>https://starbuckspreise.com/kontakt-uns</loc><changefreq>monthly</changefreq><priority>0.4</priority></url>
   <url><loc>https://starbuckspreise.com/datenschutzerklaerung</loc><changefreq>yearly</changefreq><priority>0.2</priority></url>
@@ -179,13 +179,13 @@
   </url>
   <url>
     <loc>https://starbuckspreise.com/blog/starbucks-becher</loc>
-    <lastmod>2026-09-21</lastmod>
+    <lastmod>2026-09-24</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://starbuckspreise.com/blog/starbucks-menu</loc>
-    <lastmod>2026-09-21</lastmod>
+    <lastmod>2026-09-24</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.9</priority>
   </url>

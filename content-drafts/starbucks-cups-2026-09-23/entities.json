@@ -1,0 +1,16 @@
+[
+ {"canonical":"Starbucks","type":"Organization","aliases":[],"sameAs":"https://de.wikipedia.org/wiki/Starbucks","kind":"entity","competitor_count":4,"in_title_or_h2":true,"tier":1},
+ {"canonical":"Starbucks Cups","type":"Concept","aliases":["Cups","Becher-Sortiment"],"sameAs":"","kind":"term","competitor_count":4,"in_title_or_h2":true,"tier":1},
+ {"canonical":"Cold Cup","type":"Thing","aliases":["Cold Cups","Reusable Cold Cup","Kaltgetränkebecher"],"sameAs":"","kind":"entity","competitor_count":3,"in_title_or_h2":false,"tier":1},
+ {"canonical":"Tumbler","type":"Thing","aliases":["Tumbler SS","isolierte Tumbler"],"sameAs":"","kind":"entity","competitor_count":3,"in_title_or_h2":false,"tier":1},
+ {"canonical":"Mug","type":"Thing","aliases":["Mugs","Keramiktassen","Tassen"],"sameAs":"","kind":"entity","competitor_count":4,"in_title_or_h2":false,"tier":1},
+ {"canonical":"Edelstahl","type":"Material","aliases":["Stainless Steel","SS"],"sameAs":"","kind":"term","competitor_count":2,"in_title_or_h2":false,"tier":2},
+ {"canonical":"Kunststoff","type":"Material","aliases":["Plas","Plastic"],"sameAs":"","kind":"term","competitor_count":2,"in_title_or_h2":false,"tier":2},
+ {"canonical":"Kernsortiment","type":"Concept","aliases":["Menü › Merchandise › Core"],"sameAs":"https://www.starbucks.de/de/menu-merchandise-core","kind":"term","competitor_count":1,"in_title_or_h2":false,"tier":2},
+ {"canonical":"Otto","type":"Organization","aliases":["otto.de"],"sameAs":"https://de.wikipedia.org/wiki/Otto_(Versandhandel)","kind":"entity","competitor_count":1,"in_title_or_h2":false,"tier":2},
+ {"canonical":"Kooperationen","type":"Thing","aliases":["Snoopy","Owala","limitierte Kooperationen"],"sameAs":"","kind":"entity","competitor_count":1,"in_title_or_h2":false,"tier":2},
+ {"canonical":"Strohhalm-Set","type":"Thing","aliases":["Reusable Straw Set with Pouch","Dome Lid","Kuppeldeckel"],"sameAs":"","kind":"entity","competitor_count":1,"in_title_or_h2":false,"tier":2},
+ {"canonical":"You Are Here","type":"Thing","aliases":["„You Are Here“-Serie","Been There","Global Icon"],"sameAs":"","kind":"entity","competitor_count":3,"in_title_or_h2":false,"tier":2},
+ {"canonical":"Relief München","type":"Thing","aliases":[],"sameAs":"","kind":"entity","competitor_count":1,"in_title_or_h2":false,"tier":3},
+ {"canonical":"Designs","type":"Concept","aliases":["Grid","Terrazzo","Marbled","Ombre","Beans"],"sameAs":"","kind":"term","competitor_count":1,"in_title_or_h2":false,"tier":3}
+]

@@ -1,0 +1,17 @@
+[
+ {"canonical":"Starbucks","type":"Organization","aliases":["Starbucks Coffee"],"sameAs":"https://de.wikipedia.org/wiki/Starbucks","kind":"entity","competitor_count":4,"in_title_or_h2":true,"tier":1},
+ {"canonical":"Starbucks Card","type":"Thing","aliases":["Starbucks Karte","Starbucks Guthabenkarte","digitale Karte"],"sameAs":"","kind":"entity","competitor_count":3,"in_title_or_h2":true,"tier":1},
+ {"canonical":"Starbucks Rewards","type":"Thing","aliases":["Treueprogramm","Rewards"],"sameAs":"","kind":"entity","competitor_count":3,"in_title_or_h2":true,"tier":1},
+ {"canonical":"Speisekarte","type":"Concept","aliases":["Menü","Starbucks Menu","Karte"],"sameAs":"","kind":"term","competitor_count":3,"in_title_or_h2":true,"tier":1},
+ {"canonical":"Stars","type":"Metric","aliases":["Sterne","3 Stars pro Euro"],"sameAs":"","kind":"term","competitor_count":3,"in_title_or_h2":false,"tier":1},
+ {"canonical":"Aufladen","type":"Process","aliases":["aufladen","wieder aufladen"],"sameAs":"","kind":"term","competitor_count":3,"in_title_or_h2":true,"tier":1},
+ {"canonical":"Gratisgetränk","type":"Metric","aliases":["150 Stars","Getränk gratis"],"sameAs":"","kind":"term","competitor_count":3,"in_title_or_h2":false,"tier":1},
+ {"canonical":"Starbucks-Deutschland-App","type":"Product","aliases":["App","Starbucks App"],"sameAs":"https://apps.apple.com/de/app/starbucks-deutschland/id948562829","kind":"entity","competitor_count":3,"in_title_or_h2":false,"tier":1},
+ {"canonical":"Registrieren","type":"Process","aliases":["Registrierung","16-stellige Kartennummer","8-stellige PIN"],"sameAs":"","kind":"term","competitor_count":2,"in_title_or_h2":true,"tier":2},
+ {"canonical":"Gold-Status","type":"Metric","aliases":["Gold","450 Stars"],"sameAs":"","kind":"term","competitor_count":2,"in_title_or_h2":false,"tier":2},
+ {"canonical":"Guthaben","type":"Concept","aliases":["Restguthaben","Ersatzkarte","verlieren"],"sameAs":"","kind":"term","competitor_count":2,"in_title_or_h2":true,"tier":2},
+ {"canonical":"Gebühren","type":"Concept","aliases":["keine Gebühren"],"sameAs":"","kind":"term","competitor_count":2,"in_title_or_h2":false,"tier":2},
+ {"canonical":"Geschenk","type":"Concept","aliases":["verschenken"],"sameAs":"","kind":"term","competitor_count":2,"in_title_or_h2":false,"tier":2},
+ {"canonical":"Filialkarte","type":"Concept","aliases":["Landkarte","Standorte"],"sameAs":"","kind":"term","competitor_count":1,"in_title_or_h2":false,"tier":3},
+ {"canonical":"Lizenzierte Standorte","type":"Concept","aliases":[],"sameAs":"","kind":"term","competitor_count":1,"in_title_or_h2":false,"tier":3}
+]
