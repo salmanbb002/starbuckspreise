@@ -1,0 +1,13 @@
+[
+ {"canonical":"Starbucks Menu","type":"Concept","aliases":["Speisekarte","Menü","Menue","Karte","Germany menu"],"sameAs":"","kind":"entity","competitor_count":4,"in_title_or_h2":true,"tier":1},
+ {"canonical":"Starbucks Drinks","type":"Concept","aliases":["Getränke"],"sameAs":"","kind":"term","competitor_count":4,"in_title_or_h2":false,"tier":1},
+ {"canonical":"Starbucks Produkte","type":"Concept","aliases":["Starbucks at Home"],"sameAs":"","kind":"term","competitor_count":2,"in_title_or_h2":true,"tier":1},
+ {"canonical":"Preise","type":"Money","aliases":["prices"],"sameAs":"","kind":"term","competitor_count":4,"in_title_or_h2":true,"tier":1},
+ {"canonical":"Nestlé","type":"Organization","aliases":[],"sameAs":"https://de.wikipedia.org/wiki/Nestl%C3%A9","kind":"entity","competitor_count":1,"in_title_or_h2":false,"tier":2},
+ {"canonical":"Global Coffee Alliance","type":"Event","aliases":[],"sameAs":"","kind":"entity","competitor_count":0,"in_title_or_h2":false,"tier":2},
+ {"canonical":"Nespresso","type":"Product","aliases":["Nespresso Original"],"sameAs":"https://de.wikipedia.org/wiki/Nespresso","kind":"entity","competitor_count":1,"in_title_or_h2":false,"tier":2},
+ {"canonical":"NESCAFÉ Dolce Gusto","type":"Product","aliases":["Dolce Gusto"],"sameAs":"https://en.wikipedia.org/wiki/Nescaf%C3%A9_Dolce_Gusto","kind":"entity","competitor_count":1,"in_title_or_h2":false,"tier":2},
+ {"canonical":"Starbucks Chilled Classics","type":"Product","aliases":["Grande Cup Chilled Coffee"],"sameAs":"","kind":"entity","competitor_count":0,"in_title_or_h2":false,"tier":2},
+ {"canonical":"Starbucks Deutschland App","type":"Product","aliases":["Starbucks Deutschland app"],"sameAs":"","kind":"entity","competitor_count":1,"in_title_or_h2":false,"tier":2},
+ {"canonical":"Milchsorten","type":"Product","aliases":["Halbfettmilch","Hafer","Soja","Mandel","Kokos"],"sameAs":"","kind":"term","competitor_count":1,"in_title_or_h2":false,"tier":2}
+]

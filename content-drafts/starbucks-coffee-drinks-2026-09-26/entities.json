@@ -1,0 +1,17 @@
+[
+ {"canonical":"Starbucks Kaffeegetränke","type":"Concept","aliases":["coffee drinks","coffee choices","Kaffeesorten"],"sameAs":"","kind":"entity","competitor_count":4,"in_title_or_h2":true,"tier":1},
+ {"canonical":"Espresso","type":"Product","aliases":["Shot","Espresso Roast"],"sameAs":"https://de.wikipedia.org/wiki/Espresso","kind":"entity","competitor_count":4,"in_title_or_h2":true,"tier":1},
+ {"canonical":"Brühkaffee","type":"Product","aliases":["Filterkaffee","brewed coffee","Pike Place Roast"],"sameAs":"https://de.wikipedia.org/wiki/Filterkaffee","kind":"entity","competitor_count":4,"in_title_or_h2":false,"tier":1},
+ {"canonical":"Koffein","type":"Metric","aliases":["caffeine"],"sameAs":"https://de.wikipedia.org/wiki/Coffein","kind":"term","competitor_count":3,"in_title_or_h2":true,"tier":1},
+ {"canonical":"Caffè Americano","type":"Product","aliases":[],"sameAs":"https://de.wikipedia.org/wiki/Caff%C3%A8_Americano","kind":"entity","competitor_count":4,"in_title_or_h2":false,"tier":2},
+ {"canonical":"Cappuccino","type":"Product","aliases":[],"sameAs":"https://de.wikipedia.org/wiki/Cappuccino","kind":"entity","competitor_count":4,"in_title_or_h2":false,"tier":2},
+ {"canonical":"Flat White","type":"Product","aliases":[],"sameAs":"https://de.wikipedia.org/wiki/Flat_White","kind":"entity","competitor_count":3,"in_title_or_h2":false,"tier":2},
+ {"canonical":"Caffè Latte","type":"Product","aliases":["Latte"],"sameAs":"https://de.wikipedia.org/wiki/Caff%C3%A8_Latte","kind":"entity","competitor_count":4,"in_title_or_h2":false,"tier":2},
+ {"canonical":"Caramel Macchiato","type":"Product","aliases":[],"sameAs":"","kind":"entity","competitor_count":3,"in_title_or_h2":false,"tier":2},
+ {"canonical":"Caffè Mocha","type":"Product","aliases":["Mocha"],"sameAs":"https://de.wikipedia.org/wiki/Caff%C3%A8_Mocha","kind":"entity","competitor_count":3,"in_title_or_h2":false,"tier":2},
+ {"canonical":"Cold Brew","type":"Product","aliases":[],"sameAs":"https://de.wikipedia.org/wiki/Cold_Brew","kind":"entity","competitor_count":4,"in_title_or_h2":false,"tier":2},
+ {"canonical":"Frappuccino","type":"Product","aliases":["Coffee Frappuccino"],"sameAs":"https://de.wikipedia.org/wiki/Frappuccino","kind":"entity","competitor_count":3,"in_title_or_h2":false,"tier":2},
+ {"canonical":"Blonde Espresso Roast","type":"Product","aliases":["Blonde"],"sameAs":"","kind":"entity","competitor_count":3,"in_title_or_h2":false,"tier":2},
+ {"canonical":"Decaf","type":"Product","aliases":["entkoffeiniert"],"sameAs":"","kind":"term","competitor_count":2,"in_title_or_h2":false,"tier":2},
+ {"canonical":"Nitro Cold Brew","type":"Product","aliases":["nur ausgewählte Filialen"],"sameAs":"","kind":"entity","competitor_count":3,"in_title_or_h2":false,"tier":3}
+]

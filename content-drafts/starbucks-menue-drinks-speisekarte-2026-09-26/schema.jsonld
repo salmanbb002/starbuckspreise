@@ -1,0 +1,63 @@
+{
+  "_einbau": "Nicht als eigenes JSON-LD einfügen. Die Question-Knoten an FAQPage.mainEntity und die mentions an Article.mentions der bestehenden Seite anhängen, dateModified am Article setzen.",
+  "Article.dateModified": "2026-09-26T09:00:00+02:00",
+  "Article.mentions (append)": [
+    {
+      "@type": "Organization",
+      "name": "Nestlé",
+      "sameAs": "https://de.wikipedia.org/wiki/Nestl%C3%A9"
+    },
+    {
+      "@type": "Thing",
+      "name": "Nespresso",
+      "sameAs": "https://de.wikipedia.org/wiki/Nespresso"
+    },
+    {
+      "@type": "Thing",
+      "name": "NESCAFÉ Dolce Gusto",
+      "sameAs": "https://en.wikipedia.org/wiki/Nescaf%C3%A9_Dolce_Gusto"
+    },
+    {
+      "@type": "Thing",
+      "name": "Starbucks at Home"
+    },
+    {
+      "@type": "Thing",
+      "name": "Starbucks Chilled Classics"
+    }
+  ],
+  "FAQPage.mainEntity (append)": [
+    {
+      "@type": "Question",
+      "name": "Is there an English Starbucks menu in Germany?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes. The drink names on German Starbucks menus are the same English names used worldwide, such as Caffè Latte and Frappuccino®. Food names and the words for milk and toppings are often German. Starbucks also publishes an official English version of the German menu at starbucks.de/en/menu."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Was bedeutet „Starbucks Drinks“ auf der deutschen Karte?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "„Drinks“ ist der englische Oberbegriff für alle Getränke auf der Karte, von Espresso und Latte über Frappuccino® und Refresha® bis zu Tee und heißer Schokolade. Auf der englischen Menüseite von starbucks.de heißen die Rubriken „Hot Drinks“, „Iced Drinks“, „Frappuccino® Blended Beverages“ und „Matcha“."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Wer stellt Starbucks Produkte im Supermarkt her?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Nestlé. Seit der Global Coffee Alliance von 2018 hält Nestlé die weltweite Lizenz für verpackte Starbucks-Produkte wie Kapseln, Bohnen und gemahlenen Kaffee. Die Coffee Houses in Deutschland betreibt dagegen AmRest."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Schmecken Starbucks Kapseln wie das Getränk in der Filiale?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Nicht ganz. Kapseln werden industriell für Nespresso- oder Dolce-Gusto-Maschinen hergestellt, das Getränk in der Filiale macht ein Barista mit Espresso und frisch aufgeschäumter Milch. Rezept, Milch und Nährwerte unterscheiden sich deshalb."
+      }
+    }
+  ]
+}

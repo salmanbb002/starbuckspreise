@@ -7,17 +7,17 @@ const DATA = [
    {g:'Hot Espresso Drinks &#8211; Starbucks Preis Deutschland', items:[
      ["Toffee Nut Latte","Toffee-Nut-Latte","6,20 €","993kJ/237kcal"],
      ["Lebkuchen Latte","Lebkuchen-Latte","6,70 €","1148kJ/274kcal"],
-     ["Pumpkin Spice Latte","Pumpkin-Spice-Latte","6,20 €","1116kJ/266kcal"],
+     ["Pumpkin Spice Latte","Pumpkin-Spice-Latte","6,20 €","1087kJ/259kcal"],
      ["Flat White","Flat-White","4,71 €","318kJ/76kcal"],
      ["Caffè Latte","Caffe-Latte","4,59 €","636kJ/151kcal"],
      ["Tiramisu Velvet Latte","Tiramisu-Velvet-Latte","6,20 €","1033kJ/245kcal"],
      ["Cappuccino","Cappuccino","3,90 €","546kJ/130kcal"],
-     ["Iced Cappuccino","Iced-Cappuccino","4,65 €","302kJ/72kcal"],
+     ["Iced Cappuccino","Iced-Cappuccino","4,65 €","446kJ/106kcal"],
      ["Latte Macchiato","Latte-Macchiato","4,70 €","616kJ/147kcal"],
      ["Caramel Macchiato","Caramel-Macchiato","4,99 €","901kJ/214kcal"],
      ["Caffè Americano","Caffe-Americano","3,10 €","44kJ/11kcal"],
      ["White Chocolate Mocha","White-Chocolate-Mocha","5,99 €","1448kJ/345kcal"],
-     ["Caffè Mocha","Caffe-Mocha","5,90 €","1187kJ/283kcal"],
+     ["Caffè Mocha","Caffe-Mocha","5,90 €","1177kJ/281kcal"],
      ["Espresso Macchiato","Espresso-Macchiato","3,20 €","25kJ/6kcal"],
      ["Espresso","Espresso","2,75 €","15kJ/4kcal"]
    ]}
@@ -28,12 +28,12 @@ const DATA = [
      ["Iced Mocha Mousse Latte","Iced-Mocha-Mousse-Latte","6,20 €","1180kJ/281kcal"],
      ["Iced Lebkuchen Latte","Iced-Lebkuchen-Latte","6,70 €","749kJ/178kcal"],
      ["Iced Caffè Latte","Iced-Caffe-Latte","5,40 €","536kJ/128kcal"],
-     ["Iced Pumpkin Spice Latte","Iced-Pumpkin-Spice-Latte","6,20 €","837kJ/199kcal"],
+     ["Iced Pumpkin Spice Latte","Iced-Pumpkin-Spice-Latte","6,20 €","808kJ/192kcal"],
      ["Iced Caramel Macchiato","Iced-Caramel-Macchiato","5,79 €","847kJ/201kcal"],
      ["Iced Latte Macchiato","Iced-Latte-Macchiato","7,40 €","552kJ/132kcal"],
      ["Iced Caffè Americano","Iced-Caffe-Americano","4,39 €","44kJ/11kcal"],
      ["Iced White Chocolate Mocha","Iced-White-Chocolate-Mocha","5,99 €","1680kJ/401kcal"],
-     ["Iced Caffè Mocha","Iced-Caffe-Mocha","5,79 €","1431kJ/342kcal"]
+     ["Iced Caffè Mocha","Iced-Caffe-Mocha","5,79 €","1421kJ/340kcal"]
    ]}
  ]},
  {id:'filterkaffee', h:'Filterkaffee &amp; Cold Brew: die einfachen Klassiker', groups:[
@@ -46,11 +46,11 @@ const DATA = [
  {id:'teavana-hot', h:'Warme Tees und Matcha-Spezialitäten', groups:[
    {items:[
      ["Lebkuchen Matcha Latte","Lebkuchen-Matcha-Latte","7,40 €","1299kJ/310kcal"],
-     ["Pumpkin Spice Matcha Latte","Pumpkin-Spice-Matcha-Latte","7,90 €","1271kJ/303kcal"],
+     ["Pumpkin Spice Matcha Latte","Pumpkin-Spice-Matcha-Latte","7,90 €","1242kJ/296kcal"],
      ["Toffee Nut Matcha Latte","Toffee-Nut-Matcha-Latte","7,40 €","1144kJ/272kcal"],
      ["Winter Spiced Apple Tea","Winter-Spiced-Apple-Tea","4,20 €","38kJ/9kcal"],
      ["Chai Tea Latte","Chai-Tea-Latte","6,90 €","764kJ/181kcal"],
-     ["Matcha Green Tea Latte","Matcha-Green-Tea-Latte","7,90 €","699kJ/166kcal"],
+     ["Matcha Green Tea Latte","Matcha-Green-Tea-Latte","7,90 €","679kJ/161kcal"],
      ["English Breakfast Tea","English-Breakfast-Tea","4,90 €","23kJ/5kcal"],
      ["Mint Herbal Blend Tea","Mint-Herbal-Blend-Tea","3,69 €","18kJ/4kcal"],
      ["Hibiscus Herbal Blend Tea","Hibiscus-Herbal-Blend-Tea","4,90 €","24kJ/6kcal"],
@@ -64,55 +64,55 @@ const DATA = [
      ["Iced Pumpkin Spice Matcha Latte","Iced-Pumpkin-Spice-Matcha-Latte","8,90 €","1003kJ/240kcal"],
      ["Lebkuchen Cream Iced Matcha Latte","Lebkuchen-Cream-Iced-Matcha-Latte","7,40 €","1140kJ/273kcal"],
      ["Iced Chai Tea Latte","Iced-Chai-Tea-Latte","6,40 €","760kJ/180kcal"],
-     ["Iced Matcha Green Tea Latte","Iced-Matcha-Green-Tea-Latte","6,90 €","513kJ/122kcal"],
+     ["Iced Matcha Green Tea Latte","Iced-Matcha-Green-Tea-Latte","6,90 €","492kJ/117kcal"],
      ["Iced Green Tea","Iced-Green-Tea","3,99 €","306kJ/72kcal"],
      ["Iced Peach Tea","Iced-Peach-Tea","6,90 €","182kJ/43kcal"]
    ]}
  ]},
  {id:'refresha', h:'Fruchtige Refresha-Erfrischungsgetränke', groups:[
    {items:[
-     ["Dragon Coconut Starbucks Refresha®","Dragon-Coconut-Starbucks-Refresha®","7,40 €","664kJ/158kcal"],
-     ["Strawberry Acai Starbucks Refresha®","Strawberry-Acai-Starbucks-Refresha®","6,40 €","369kJ/87kcal"],
+     ["Dragon Coconut Starbucks Refresha®","Dragon-Coconut-Starbucks-Refresha®","7,40 €","559kJ/132kcal"],
+     ["Strawberry Acai Starbucks Refresha®","Strawberry-Acai-Starbucks-Refresha®","6,40 €","337kJ/80kcal"],
      ["Pink Coconut Starbucks Refresha®","Pink-Coconut-Starbucks-Refresha®","7,90 €","606kJ/144kcal"],
-     ["Mango Dragonfruit Starbucks Refresha®","Mango-Dragonfruit-Starbucks-Refresha®","6,90 €","427kJ/101kcal"]
+     ["Mango Dragonfruit Starbucks Refresha®","Mango-Dragonfruit-Starbucks-Refresha®","6,90 €","381kJ/90kcal"]
    ]}
  ]},
  {id:'frappuccino', h:'Frappuccino: die cremigen Eiskaffee-Mixgetränke', groups:[
    {g:'Coffee Frappuccino®', items:[
      ["Toffee Nut Coffee Frappuccino®","Toffee-Nut-Coffee-Frappuccino®","7,40 €","1339kJ/319kcal"],
-     ["Pumpkin Spice Frappuccino®","Pumpkin-Spice-Frappuccino®","7,40 €","1563kJ/372kcal"],
+     ["Pumpkin Spice Frappuccino®","Pumpkin-Spice-Frappuccino®","7,40 €","1471kJ/351kcal"],
      ["Tiramisu Frappuccino®","Tiramisu-Frappuccino®","8,50 €","1693kJ/404kcal"],
      ["Lebkuchen Coffee Frappuccino®","Lebkuchen-Coffee-Frappuccino®","7,40 €","1382kJ/330kcal"],
-     ["Caramel Frappuccino®","Caramel-Frappuccino®","6,90 €","1517kJ/362kcal"],
+     ["Caramel Frappuccino®","Caramel-Frappuccino®","6,90 €","1452kJ/346kcal"],
      ["White Chocolate Mocha Frappuccino®","White-Chocolate-Mocha-Frappuccino®","5,79 €","1556kJ/371kcal"],
-     ["Coffee Frappuccino®","Coffee-Frappuccino®","5,29 €","1255kJ/299kcal"],
-     ["Mocha Frappuccino®","Mocha-Frappuccino®","6,90 €","1383kJ/330kcal"],
+     ["Coffee Frappuccino®","Coffee-Frappuccino®","5,29 €","1187kJ/283kcal"],
+     ["Mocha Frappuccino®","Mocha-Frappuccino®","6,90 €","1315kJ/314kcal"],
      ["Espresso Frappuccino®","Espresso-Frappuccino®","5,69 €","608kJ/144kcal"]
    ]},
    {g:'Cream Frappuccino®', items:[
-     ["Pumpkin Spice Cream Frappuccino®","Pumpkin-Spice-Cream-Frappuccino®","7,40 €","1524kJ/364kcal"],
+     ["Pumpkin Spice Cream Frappuccino®","Pumpkin-Spice-Cream-Frappuccino®","7,40 €","1407kJ/336kcal"],
      ["Lebkuchen Cream Frappuccino®","Lebkuchen-Cream-Frappuccino®","7,90 €","1364kJ/326kcal"],
      ["Toffee Nut Cream Frappuccino®","Toffee-Nut-Cream-Frappuccino®","7,40 €","1321kJ/316kcal"],
-     ["Strawberries and Cream Frappuccino®","Strawberries-and-Cream-Frappuccino®","4,79 €","1389kJ/331kcal"],
-     ["Vanilla Cream Frappuccino®","Vanilla-Cream-Frappuccino®","5,35 €","1307kJ/312kcal"],
-     ["Chocolate Cream Frappuccino®","Chocolate-Cream-Frappuccino®","4,85 €","1447kJ/346kcal"],
+     ["Strawberries and Cream Frappuccino®","Strawberries-and-Cream-Frappuccino®","4,79 €","1300kJ/310kcal"],
+     ["Vanilla Cream Frappuccino®","Vanilla-Cream-Frappuccino®","5,35 €","1214kJ/290kcal"],
+     ["Chocolate Cream Frappuccino®","Chocolate-Cream-Frappuccino®","4,85 €","1348kJ/322kcal"],
      ["Java Chip Chocolate Cream Frappuccino®","Java-Chip-Chocolate-Cream-Frappuccino®","5,35 €","1684kJ/403kcal"],
-     ["Caramel Cream Frappuccino®","Caramel-Cream-Frappuccino®","6,90 €","1500kJ/358kcal"],
-     ["Matcha Cream Frappuccino®","Matcha-Cream-Frappuccino®","6,90 €","1359kJ/325kcal"],
+     ["Caramel Cream Frappuccino®","Caramel-Cream-Frappuccino®","6,90 €","1409kJ/336kcal"],
+     ["Matcha Cream Frappuccino®","Matcha-Cream-Frappuccino®","6,90 €","1247kJ/298kcal"],
      ["Chai Tea Cream Frappuccino®","Chai-Tea-Cream-Frappuccino®","6,40 €","1336kJ/319kcal"],
      ["White Chocolate Mocha Cream Frappuccino®","White-Chocolate-Mocha-Cream-Frappuccino®","5,29 €","1539kJ/367kcal"],
-     ["Cookies and Cream Frappuccino®","Cookies-and-Cream-Frappuccino®","6,90 €","1621kJ/387kcal"]
+     ["Cookies and Cream Frappuccino®","Cookies-and-Cream-Frappuccino®","6,90 €","1528kJ/365kcal"]
    ]}
  ]},
  {id:'schokolade', h:'Heiße Schokolade und Milchgetränke', groups:[
    {g:'Hot Chocolate', items:[
-     ["Signature Hot Chocolate","Signature-Hot-Chocolate","6,40 €","1471kJ/351kcal"],
+     ["Signature Hot Chocolate","Signature-Hot-Chocolate","6,40 €","1470kJ/350kcal"],
      ["Hot White Chocolate","Hot-White-Chocolate","6,40 €","1498kJ/357kcal"],
-     ["Classic Hot Chocolate","Classic-Hot-Chocolate","4,99 €","1308kJ/311kcal"]
+     ["Classic Hot Chocolate","Classic-Hot-Chocolate","4,99 €","1297kJ/309kcal"]
    ]},
    {g:'Iced Chocolate', items:[
      ["Iced White Chocolate","Iced-White-Chocolate","6,40 €","1736kJ/414kcal"],
-     ["Classic Iced Chocolate","Classic-Iced-Chocolate","5,90 €","1532kJ/366kcal"]
+     ["Classic Iced Chocolate","Classic-Iced-Chocolate","5,90 €","1522kJ/364kcal"]
    ]},
    {g:'Milch', items:[
      ["Hot Milk","Hot-Milk","8,50 €","849kJ/203kcal"]

@@ -1,0 +1,226 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "Article",
+      "@id": "https://starbuckspreise.com/blog/starbucks-kalorien-guide/#article",
+      "headline": "Starbucks Nährwerte & Kalorien: die Tabelle für 2026",
+      "description": "Starbucks Nährwerte 2026: Kalorien, Fett, Zucker, Eiweiß und Koffein der beliebtesten Getränke und Snacks, nach den offiziellen Daten vom 10.09.2026.",
+      "image": "https://starbuckspreise.com/img/blog/kalorien-lowcal.webp",
+      "datePublished": "2026-09-08T09:00:00+02:00",
+      "dateModified": "2026-09-26T09:00:00+02:00",
+      "inLanguage": "de-DE",
+      "author": {
+        "@type": "Organization",
+        "name": "StarbucksPreise Redaktion",
+        "url": "https://starbuckspreise.com"
+      },
+      "publisher": {
+        "@type": "Organization",
+        "name": "StarbucksPreise Deutschland",
+        "url": "https://starbuckspreise.com"
+      },
+      "mainEntityOfPage": "https://starbuckspreise.com/blog/starbucks-kalorien-guide",
+      "about": [
+        {
+          "@type": "Thing",
+          "name": "Nährwertangabe",
+          "sameAs": "https://de.wikipedia.org/wiki/N%C3%A4hrwertangabe"
+        },
+        {
+          "@type": "Organization",
+          "name": "Starbucks",
+          "sameAs": "https://de.wikipedia.org/wiki/Starbucks"
+        }
+      ],
+      "mentions": [
+        {
+          "@type": "Thing",
+          "name": "Kilokalorie",
+          "sameAs": "https://de.wikipedia.org/wiki/Kalorie"
+        },
+        {
+          "@type": "Thing",
+          "name": "Koffein",
+          "sameAs": "https://de.wikipedia.org/wiki/Coffein"
+        },
+        {
+          "@type": "Thing",
+          "name": "Zucker",
+          "sameAs": "https://de.wikipedia.org/wiki/Zucker"
+        },
+        {
+          "@type": "Thing",
+          "name": "Laktose",
+          "sameAs": "https://de.wikipedia.org/wiki/Lactose"
+        },
+        {
+          "@type": "Thing",
+          "name": "Espresso",
+          "sameAs": "https://de.wikipedia.org/wiki/Espresso"
+        },
+        {
+          "@type": "Thing",
+          "name": "Caffè Latte",
+          "sameAs": "https://de.wikipedia.org/wiki/Caff%C3%A8_Latte"
+        },
+        {
+          "@type": "Thing",
+          "name": "Frappuccino",
+          "sameAs": "https://de.wikipedia.org/wiki/Frappuccino"
+        },
+        {
+          "@type": "Thing",
+          "name": "Cold Brew",
+          "sameAs": "https://de.wikipedia.org/wiki/Cold_Brew"
+        },
+        {
+          "@type": "Thing",
+          "name": "Pflanzenmilch",
+          "sameAs": "https://de.wikipedia.org/wiki/Pflanzenmilch"
+        },
+        {
+          "@type": "Organization",
+          "name": "Europäische Behörde für Lebensmittelsicherheit",
+          "sameAs": "https://de.wikipedia.org/wiki/Europ%C3%A4ische_Beh%C3%B6rde_f%C3%BCr_Lebensmittelsicherheit"
+        },
+        {
+          "@type": "Organization",
+          "name": "Weltgesundheitsorganisation",
+          "sameAs": "https://de.wikipedia.org/wiki/Weltgesundheitsorganisation"
+        }
+      ],
+      "speakable": {
+        "@type": "SpeakableSpecification",
+        "cssSelector": [
+          "#direct-answer"
+        ]
+      }
+    },
+    {
+      "@type": "FAQPage",
+      "@id": "https://starbuckspreise.com/blog/starbucks-kalorien-guide/#faq",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "Wo finde ich die offiziellen Nährwerte von Starbucks?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Auf starbucks.de unter „Nutrition“. Dort stehen drei PDFs mit Getränke-Nährwerten, Getränke-Allergenen sowie Food-Nährwerten und -Allergenen. Die aktuelle Ausgabe gilt seit dem 10. September 2026."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Sind die Kalorienangaben bei Starbucks verbindlich?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Es sind berechnete Richtwerte für die Standardrezeptur. Starbucks weist selbst darauf hin, dass handgemachte Getränke abweichen können. Jede Änderung an Milch, Sirup oder Topping verändert den Wert."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Welche Milch verwendet Starbucks standardmäßig?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "In Deutschland wird in der Regel Halbfettmilch verwendet, sie steht in der offiziellen Nährwertliste bei jedem Milchgetränk an erster Stelle. Auf sie beziehen sich die meisten Werte in diesem Artikel. Vollmilch, Magermilch und vier Pflanzendrinks gibt es auf Wunsch."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Wie viele Kalorien hat ein Starbucks Caffè Latte?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Ein Grande Caffè Latte mit Halbfettmilch hat 151 kcal. Als Tall sind es 124 kcal, als Venti 204 kcal. Mit Mandeldrink sinkt der Grande auf 82 kcal."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Welches Starbucks-Getränk hat die meisten Kalorien?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "In der aktuellen Liste die Signature Hot Chocolate als Venti mit Vollmilch: 499 kcal. In der Standardgröße Grande führt der Iced White Chocolate Mocha mit 401 kcal."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Welches Starbucks-Getränk hat das meiste Koffein?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Filterkaffee und Cold Brew. Ein Venti-Filterkaffee hat 324,2 mg Koffein, ein Venti Cold Brew 322,9 mg. Das ist mehr als dreimal so viel wie ein Grande Caffè Latte."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Hat ein Frappuccino viel Koffein?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Nein. Ein Grande Coffee Frappuccino® hat 31,4 mg Koffein, weniger als ein einzelner Espresso-Shot. Cream-Frappuccinos wie Vanilla oder Strawberries & Cream enthalten gar kein Koffein."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Ist der Zucker in einem Latte zugesetzt?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Nein, bei einem Caffè Latte ohne Sirup stammt der Zucker fast vollständig aus dem Milchzucker. Deshalb hat auch ein ungesüßter Grande Latte 14,2 g Zucker. Mit Mandel- oder Sojadrink halbiert sich der Wert."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Welches Starbucks-Getränk hat am meisten Eiweiß?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Unter den Kaffeegetränken der Soy Protein Latte mit 16,6 g (Grande). Die Signature Hot Chocolate kommt auf 15,2 g, ein normaler Caffè Latte auf 10,9 g."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Wie viele Kalorien hat ein Starbucks Muffin?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Der Blaubeer Muffin hat 435 kcal, der Chocolate Cheesecake Muffin 439 kcal pro Stück. Damit hat ein Muffin mehr Kalorien als fast jedes Grande-Getränk."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Welche Getränke eignen sich für eine kalorienbewusste Bestellung?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Espresso, Americano, Cold Brew, Filterkaffee und ungesüßter Tee liegen alle unter 35 kcal. Mit Milch sind Cappuccino in Tall (103 kcal) oder ein Latte mit Mandeldrink die leichtesten Optionen."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Gibt es bei Starbucks Allergeninformationen?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Ja, als eigenes PDF für Getränke und kombiniert für Food auf starbucks.de. Starbucks weist darauf hin, dass eine Kreuzkontamination bei Gebäck nicht ausgeschlossen werden kann."
+          }
+        }
+      ]
+    },
+    {
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Start",
+          "item": "https://starbuckspreise.com/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Blog",
+          "item": "https://starbuckspreise.com/blog"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "Starbucks Nährwerte & Kalorien",
+          "item": "https://starbuckspreise.com/blog/starbucks-kalorien-guide"
+        }
+      ]
+    }
+  ]
+}

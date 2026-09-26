@@ -1,0 +1,21 @@
+[
+  {"canonical": "Starbucks Nährwerte", "type": "Concept", "aliases": ["Nährwertinformationen", "Nährwerttabelle", "Nutrition"], "sameAs": "https://de.wikipedia.org/wiki/N%C3%A4hrwertangabe", "kind": "entity", "competitor_count": 4, "in_title_or_h2": true, "tier": 1},
+  {"canonical": "Starbucks", "type": "Organization", "aliases": ["Starbucks Deutschland"], "sameAs": "https://de.wikipedia.org/wiki/Starbucks", "kind": "entity", "competitor_count": 4, "in_title_or_h2": true, "tier": 1},
+  {"canonical": "Kalorien", "type": "Metric", "aliases": ["kcal", "Kalorie"], "sameAs": "https://de.wikipedia.org/wiki/Kalorie", "kind": "term", "competitor_count": 4, "in_title_or_h2": true, "tier": 1},
+  {"canonical": "Zucker", "type": "Metric", "aliases": ["davon Zucker"], "sameAs": "https://de.wikipedia.org/wiki/Zucker", "kind": "term", "competitor_count": 2, "in_title_or_h2": true, "tier": 1},
+  {"canonical": "Koffein", "type": "Metric", "aliases": ["Coffein"], "sameAs": "https://de.wikipedia.org/wiki/Coffein", "kind": "term", "competitor_count": 1, "in_title_or_h2": true, "tier": 1},
+  {"canonical": "Fett", "type": "Metric", "aliases": ["Fett Total", "gesättigte Fettsäuren"], "sameAs": "", "kind": "term", "competitor_count": 2, "in_title_or_h2": false, "tier": 2},
+  {"canonical": "Eiweiß", "type": "Metric", "aliases": ["Protein"], "sameAs": "", "kind": "term", "competitor_count": 2, "in_title_or_h2": false, "tier": 2},
+  {"canonical": "Getränkegrößen", "type": "Concept", "aliases": ["Short", "Tall", "Grande", "Venti"], "sameAs": "", "kind": "term", "competitor_count": 2, "in_title_or_h2": true, "tier": 2},
+  {"canonical": "Milchsorte", "type": "Product", "aliases": ["Halbfettmilch", "Vollmilch", "Magermilch", "Mandeldrink", "Sojadrink", "Haferdrink", "Kokosdrink"], "sameAs": "https://de.wikipedia.org/wiki/Pflanzenmilch", "kind": "term", "competitor_count": 1, "in_title_or_h2": true, "tier": 2},
+  {"canonical": "Laktose", "type": "Concept", "aliases": ["Milchzucker"], "sameAs": "https://de.wikipedia.org/wiki/Lactose", "kind": "entity", "competitor_count": 0, "in_title_or_h2": false, "tier": 2},
+  {"canonical": "Espresso-Shot", "type": "Product", "aliases": ["Shot", "Single", "Doppio"], "sameAs": "https://de.wikipedia.org/wiki/Espresso", "kind": "entity", "competitor_count": 1, "in_title_or_h2": false, "tier": 2},
+  {"canonical": "Frappuccino", "type": "Product", "aliases": ["Frappuccino®"], "sameAs": "https://de.wikipedia.org/wiki/Frappuccino", "kind": "entity", "competitor_count": 3, "in_title_or_h2": false, "tier": 2},
+  {"canonical": "Caffè Latte", "type": "Product", "aliases": ["Caffe Latte", "Latte"], "sameAs": "https://de.wikipedia.org/wiki/Caff%C3%A8_Latte", "kind": "entity", "competitor_count": 3, "in_title_or_h2": false, "tier": 2},
+  {"canonical": "Europäische Behörde für Lebensmittelsicherheit", "type": "Organization", "aliases": ["EFSA"], "sameAs": "https://de.wikipedia.org/wiki/Europ%C3%A4ische_Beh%C3%B6rde_f%C3%BCr_Lebensmittelsicherheit", "kind": "entity", "competitor_count": 0, "in_title_or_h2": false, "tier": 2},
+  {"canonical": "Weltgesundheitsorganisation", "type": "Organization", "aliases": ["WHO"], "sameAs": "https://de.wikipedia.org/wiki/Weltgesundheitsorganisation", "kind": "entity", "competitor_count": 0, "in_title_or_h2": false, "tier": 2},
+  {"canonical": "Muffin / Gebäck", "type": "Product", "aliases": ["Zimtschnecke", "Carrot Cake", "Cheesecake"], "sameAs": "", "kind": "term", "competitor_count": 2, "in_title_or_h2": true, "tier": 2},
+  {"canonical": "ESHA R&D SQL", "type": "Product", "aliases": [], "sameAs": "", "kind": "entity", "competitor_count": 0, "in_title_or_h2": false, "tier": 3},
+  {"canonical": "Allergene", "type": "Concept", "aliases": ["Allergeninformationen"], "sameAs": "", "kind": "term", "competitor_count": 1, "in_title_or_h2": false, "tier": 3},
+  {"canonical": "Ballaststoffe / Salz / Kilojoule", "type": "Metric", "aliases": [], "sameAs": "", "kind": "term", "competitor_count": 1, "in_title_or_h2": false, "tier": 3}
+]

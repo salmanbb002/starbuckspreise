@@ -1,0 +1,10 @@
+[
+ {"canonical":"Starbucks","type":"Organization","aliases":["Starbucks Deutschland","Starbucks Allemagne"],"sameAs":"https://de.wikipedia.org/wiki/Starbucks","kind":"entity","competitor_count":4,"in_title_or_h2":true,"tier":1},
+ {"canonical":"Deutschland","type":"Place","aliases":["Allemagne","Germany"],"sameAs":"https://de.wikipedia.org/wiki/Deutschland","kind":"entity","competitor_count":4,"in_title_or_h2":true,"tier":1},
+ {"canonical":"Filialzahl","type":"Metric","aliases":["nombre de cafés","179"],"sameAs":"","kind":"term","competitor_count":2,"in_title_or_h2":false,"tier":1},
+ {"canonical":"Preise","type":"Money","aliases":["prix"],"sameAs":"","kind":"term","competitor_count":3,"in_title_or_h2":false,"tier":1},
+ {"canonical":"AmRest","type":"Organization","aliases":["AmRest Coffee Deutschland"],"sameAs":"https://de.wikipedia.org/wiki/AmRest","kind":"entity","competitor_count":1,"in_title_or_h2":false,"tier":2},
+ {"canonical":"Berlin","type":"Place","aliases":[],"sameAs":"https://de.wikipedia.org/wiki/Berlin","kind":"entity","competitor_count":2,"in_title_or_h2":false,"tier":2},
+ {"canonical":"Öffnungszeiten","type":"Concept","aliases":["horaires"],"sameAs":"","kind":"term","competitor_count":2,"in_title_or_h2":false,"tier":2},
+ {"canonical":"You Are Here Collection","type":"Product","aliases":["Vous êtes ici"],"sameAs":"","kind":"entity","competitor_count":1,"in_title_or_h2":false,"tier":3}
+]

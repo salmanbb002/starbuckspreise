@@ -1,0 +1,70 @@
+{
+  "_einbau": "Nicht als eigenes JSON-LD einfügen. Die Question-Knoten an FAQPage.mainEntity und die mentions an Article.mentions der bestehenden Seite anhängen, dateModified am Article setzen.",
+  "Article.dateModified": "2026-09-26T09:00:00+02:00",
+  "Article.mentions (append)": [
+    {
+      "@type": "Thing",
+      "name": "Caffè Americano",
+      "sameAs": "https://de.wikipedia.org/wiki/Caff%C3%A8_Americano"
+    },
+    {
+      "@type": "Thing",
+      "name": "Cappuccino",
+      "sameAs": "https://de.wikipedia.org/wiki/Cappuccino"
+    },
+    {
+      "@type": "Thing",
+      "name": "Flat White",
+      "sameAs": "https://de.wikipedia.org/wiki/Flat_White"
+    },
+    {
+      "@type": "Thing",
+      "name": "Caffè Mocha",
+      "sameAs": "https://de.wikipedia.org/wiki/Caff%C3%A8_Mocha"
+    },
+    {
+      "@type": "Thing",
+      "name": "Frappuccino",
+      "sameAs": "https://de.wikipedia.org/wiki/Frappuccino"
+    },
+    {
+      "@type": "Thing",
+      "name": "Koffein",
+      "sameAs": "https://de.wikipedia.org/wiki/Coffein"
+    }
+  ],
+  "FAQPage.mainEntity (append)": [
+    {
+      "@type": "Question",
+      "name": "Welche Kaffeegetränke gibt es bei Starbucks?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Die deutsche Karte hat Espresso-Getränke (Espresso, Americano, Cappuccino, Caffè Latte, Latte Macchiato, Flat White, Caramel Macchiato, Mocha), gebrühten Kaffee (Filterkaffee, Cold Brew) und Coffee Frappuccinos®. Fast alle gibt es auch als Eisgetränk sowie mit Blonde oder Decaf Espresso."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Wie viele Espresso-Shots sind in einem Starbucks Latte?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Ein Caffè Latte hat in Tall und Grande zwei Shots (89,1 mg Koffein) und als Venti drei (133,6 mg). Das geht aus der Starbucks-Nährwertliste vom 10.09.2026 hervor. Ein Short hat einen Shot."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Ist der Americano stärker als der Latte?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Ja. Ein Grande Caffè Americano hat drei Espresso-Shots und 133,6 mg Koffein, ein Grande Caffè Latte zwei Shots und 89,1 mg. Der Americano hat dabei nur 11 statt 151 kcal."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Warum hat ein Coffee Frappuccino so wenig Koffein?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Frappuccinos werden mit einer Kaffeebasis gemixt, nicht mit Espresso-Shots. Ein Grande Coffee Frappuccino® hat deshalb nur 31,4 mg Koffein, weniger als ein einzelner Espresso. Wer mehr möchte, bestellt einen zusätzlichen Espresso-Shot dazu (laut unserer Preisliste etwa 0,80 €)."
+      }
+    }
+  ]
+}

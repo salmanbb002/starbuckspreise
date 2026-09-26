@@ -1,0 +1,42 @@
+{
+  "_einbau": "Nicht als eigenes JSON-LD einfügen. Die Question-Knoten an FAQPage.mainEntity und die mentions an Article.mentions der bestehenden Seite anhängen, dateModified am Article setzen.",
+  "Article.dateModified": "2026-09-26T09:00:00+02:00",
+  "Article.mentions (append)": [
+    {
+      "@type": "Organization",
+      "name": "AmRest",
+      "sameAs": "https://de.wikipedia.org/wiki/AmRest"
+    },
+    {
+      "@type": "Country",
+      "name": "Deutschland",
+      "sameAs": "https://de.wikipedia.org/wiki/Deutschland"
+    }
+  ],
+  "FAQPage.mainEntity (append)": [
+    {
+      "@type": "Question",
+      "name": "Combien y a-t-il de Starbucks en Allemagne ?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Au 1er juillet 2026, l'Allemagne compte 179 cafés Starbucks dans 77 villes. La Rhénanie-du-Nord-Westphalie en a le plus (36), et Berlin est la ville la mieux équipée avec 19 cafés."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Starbucks est-il plus cher en Allemagne ?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Un cappuccino coûte environ 3,90 € et un Caffè Latte 4,59 € selon notre liste de prix 2026. Les prix varient selon l'emplacement, et les cafés des gares et des aéroports sont souvent plus chers."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Qui possède les Starbucks en Allemagne ?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Depuis avril 2016, les cafés allemands sont exploités par AmRest Coffee Deutschland, filiale du groupe polonais AmRest. La marque, la carte et les standards restent ceux de Starbucks."
+      }
+    }
+  ]
+}
