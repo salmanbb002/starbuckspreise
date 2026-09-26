@@ -1,0 +1,11 @@
+[
+ {"canonical":"Iced Caramel Macchiato","type":"Product","aliases":["ice caramel macchiato","caramel macchiato iced"],"sameAs":"","kind":"entity","competitor_count":4,"in_title_or_h2":true,"tier":1},
+ {"canonical":"Iced Latte Macchiato","type":"Product","aliases":["Iced Macchiato","iced coffee macchiato"],"sameAs":"","kind":"entity","competitor_count":4,"in_title_or_h2":true,"tier":1},
+ {"canonical":"Caramel Frappuccino","type":"Product","aliases":["frozen caramel macchiato"],"sameAs":"https://de.wikipedia.org/wiki/Frappuccino","kind":"entity","competitor_count":1,"in_title_or_h2":true,"tier":1},
+ {"canonical":"Starbucks Caramel Macchiato Iced Coffee (Chilled Classics)","type":"Product","aliases":["caramel macchiato iced coffee"],"sameAs":"","kind":"entity","competitor_count":2,"in_title_or_h2":true,"tier":1},
+ {"canonical":"Iced Caffè Latte","type":"Product","aliases":["Iced Latte","iced caramel latte"],"sameAs":"https://de.wikipedia.org/wiki/Caff%C3%A8_Latte","kind":"entity","competitor_count":4,"in_title_or_h2":true,"tier":2},
+ {"canonical":"Caramel Cream Frappuccino","type":"Product","aliases":[],"sameAs":"","kind":"entity","competitor_count":0,"in_title_or_h2":false,"tier":2},
+ {"canonical":"Vanillesirup","type":"Product","aliases":["vanilla syrup"],"sameAs":"","kind":"term","competitor_count":4,"in_title_or_h2":false,"tier":2},
+ {"canonical":"Karamellsauce","type":"Product","aliases":["caramel drizzle"],"sameAs":"","kind":"term","competitor_count":4,"in_title_or_h2":false,"tier":2},
+ {"canonical":"Koffein","type":"Metric","aliases":[],"sameAs":"https://de.wikipedia.org/wiki/Coffein","kind":"term","competitor_count":2,"in_title_or_h2":false,"tier":2}
+]

@@ -1,0 +1,15 @@
+[
+ {"canonical":"Starbucks Tasse","type":"Product","aliases":["Starbucks Tassen","Starbuckstasse","Kaffeetasse","City Mug"],"sameAs":"","kind":"entity","competitor_count":4,"in_title_or_h2":true,"tier":1},
+ {"canonical":"You Are Here Collection","type":"Product","aliases":["You Are Here Series","YAH"],"sameAs":"","kind":"entity","competitor_count":3,"in_title_or_h2":true,"tier":1},
+ {"canonical":"Städtetasse","type":"Concept","aliases":["City Mug","Städtetassen"],"sameAs":"","kind":"term","competitor_count":3,"in_title_or_h2":true,"tier":1},
+ {"canonical":"Kaufwege","type":"Concept","aliases":["Filiale","Online-Shop","Zweitmarkt"],"sameAs":"","kind":"term","competitor_count":4,"in_title_or_h2":true,"tier":1},
+ {"canonical":"Been There Series","type":"Product","aliases":["Been There"],"sameAs":"","kind":"entity","competitor_count":3,"in_title_or_h2":false,"tier":2},
+ {"canonical":"Global Icon Series","type":"Product","aliases":["Icon Series","Icon Mini"],"sameAs":"","kind":"entity","competitor_count":2,"in_title_or_h2":false,"tier":2},
+ {"canonical":"Deutschland-Tasse","type":"Product","aliases":["Starbucks Tasse Deutschland","Germany mug"],"sameAs":"","kind":"entity","competitor_count":2,"in_title_or_h2":true,"tier":2},
+ {"canonical":"Ornament / Demitasse","type":"Product","aliases":["Espressotasse","Mini-Tasse"],"sameAs":"https://de.wikipedia.org/wiki/Mokkatasse","kind":"entity","competitor_count":2,"in_title_or_h2":true,"tier":2},
+ {"canonical":"The Coffee Mug Shop","type":"Organization","aliases":[],"sameAs":"","kind":"entity","competitor_count":1,"in_title_or_h2":false,"tier":2},
+ {"canonical":"eBay","type":"Organization","aliases":["Kleinanzeigen","Vinted"],"sameAs":"https://de.wikipedia.org/wiki/EBay","kind":"entity","competitor_count":2,"in_title_or_h2":false,"tier":2},
+ {"canonical":"SKU-Aufkleber","type":"Concept","aliases":[],"sameAs":"","kind":"term","competitor_count":1,"in_title_or_h2":false,"tier":2},
+ {"canonical":"Relief-Tasse München","type":"Product","aliases":["Relief – München"],"sameAs":"","kind":"entity","competitor_count":1,"in_title_or_h2":false,"tier":2},
+ {"canonical":"Discovery Series","type":"Product","aliases":[],"sameAs":"","kind":"entity","competitor_count":1,"in_title_or_h2":false,"tier":3}
+]

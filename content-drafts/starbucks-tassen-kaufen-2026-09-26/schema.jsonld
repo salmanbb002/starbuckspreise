@@ -1,0 +1,73 @@
+{
+  "_einbau": "Nicht als eigenes JSON-LD einfügen. Die Question-Knoten an FAQPage.mainEntity und die mentions an Article.mentions der bestehenden Seite anhängen, dateModified am Article setzen.",
+  "Article.dateModified": "2026-09-26T09:00:00+02:00",
+  "Article.mentions (append)": [
+    {
+      "@type": "Thing",
+      "name": "You Are Here Collection"
+    },
+    {
+      "@type": "Thing",
+      "name": "Global Icon Series"
+    },
+    {
+      "@type": "Thing",
+      "name": "Relief-Tasse München"
+    },
+    {
+      "@type": "Thing",
+      "name": "Demitasse",
+      "sameAs": "https://de.wikipedia.org/wiki/Mokkatasse"
+    }
+  ],
+  "FAQPage.mainEntity (append)": [
+    {
+      "@type": "Question",
+      "name": "Gibt es einen offiziellen Starbucks Online-Shop für Tassen?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Nein. Starbucks Deutschland verkauft Tassen nur in den Filialen, nicht online und nicht über die App. Online-Angebote stammen immer von Händlern oder Privatverkäufern."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Kann ich Starbucks Tassen in der App bestellen?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Nein. Über die Starbucks-App bestellen Sie in Deutschland nur Getränke und Speisen zur Abholung vor. Tassen und Becher kaufen Sie direkt an der Kasse in der Filiale."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Gibt es Been There Tassen in deutschen Filialen?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Nein. Die Been There Series wird in Nord- und Südamerika, Asien und Ozeanien verkauft. In Deutschland und im übrigen Europa heißen die Städtetassen weiterhin You Are Here. Been-There-Tassen bekommen Sie hierzulande nur über Händler oder den Zweitmarkt."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Welche Städte haben eine eigene Starbucks Tasse?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Unter anderem Berlin, Hamburg, München, Köln, Frankfurt, Düsseldorf, Stuttgart, Dresden, Leipzig, Nürnberg, Heidelberg, Bremen, Augsburg, Wolfsburg, Metzingen und Ramstein. Dazu kommen eine Deutschland- und eine Oktoberfest-Tasse."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Warum finde ich die Tasse meiner Stadt nicht?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Nicht jede Stadt mit Starbucks-Filiale hat eine eigene You-Are-Here-Tasse, und nicht jede Tasse ist dauerhaft vorrätig. In diesem Fall bleiben die Deutschland-Tasse oder eine ältere Global-Icon-Ausgabe vom Zweitmarkt."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Sind Starbucks Tassen bei eBay echt?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Viele ja, aber nicht alle. Lassen Sie sich die Unterseite mit Starbucks-Aufdruck und, bei neuen Tassen, den SKU-Aufkleber zeigen und meiden Sie Angebote deutlich unter dem Filialpreis mit Versand aus Übersee."
+      }
+    }
+  ]
+}

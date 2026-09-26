@@ -1,0 +1,65 @@
+{
+  "_einbau": "Nicht als eigenes JSON-LD einfügen. Die Question-Knoten an FAQPage.mainEntity und die mentions an Article.mentions der bestehenden Seite anhängen, dateModified am Article setzen.",
+  "Article.dateModified": "2026-09-26T09:00:00+02:00",
+  "Article.mentions (append)": [
+    {
+      "@type": "Thing",
+      "name": "Iced Latte Macchiato"
+    },
+    {
+      "@type": "Thing",
+      "name": "Caramel Frappuccino",
+      "sameAs": "https://de.wikipedia.org/wiki/Frappuccino"
+    },
+    {
+      "@type": "Thing",
+      "name": "Starbucks Chilled Classics"
+    },
+    {
+      "@type": "Thing",
+      "name": "Iced Caffè Latte"
+    }
+  ],
+  "FAQPage.mainEntity (append)": [
+    {
+      "@type": "Question",
+      "name": "Gibt es einen Frozen Caramel Macchiato bei Starbucks?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Nicht unter diesem Namen. Die gemixte Eis-Variante heißt bei Starbucks Caramel Frappuccino® und hat als Grande 346 kcal und 30,8 mg Koffein. Den Iced Caramel Macchiato gibt es nur auf Eis, nicht gemixt."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Was ist der Unterschied zwischen Iced Macchiato und Iced Caramel Macchiato?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Der Iced (Latte) Macchiato besteht nur aus Milch, Eis und Espresso. Der Iced Caramel Macchiato hat zusätzlich Vanillesirup und Karamellsauce und deshalb als Grande 201 statt 132 kcal."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Hat ein Iced Macchiato mehr Koffein als ein Iced Latte?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Nein. Beide haben als Grande zwei Espresso-Shots und 89,1 mg Koffein. Der Macchiato schmeckt beim ersten Schluck nur stärker, weil der Espresso obenauf liegt."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Gibt es den Caramel Macchiato im Supermarkt?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Ja, als „Starbucks Caramel Macchiato Iced Coffee“ aus der Kühlregal-Reihe Chilled Classics. Er ist fertig gemischt und hat 61 kcal pro 100 ml, schmeckt aber anders als das frisch gemachte Getränk aus der Filiale."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How do I order an iced caramel macchiato at Starbucks in Germany?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Just ask for an \"Iced Caramel Macchiato\", the name is the same as in the US or UK. It is usually made with semi-skimmed milk (Halbfettmilch) and costs from 5,79 € on our 2026 price list. A Grande has 201 kcal and 89 mg of caffeine."
+      }
+    }
+  ]
+}
