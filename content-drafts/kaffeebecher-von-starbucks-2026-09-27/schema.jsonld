@@ -1,0 +1,177 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "BlogPosting",
+      "@id": "https://starbuckspreise.com/blog/kaffeebecher-von-starbucks#article",
+      "headline": "Kaffeebecher von Starbucks: Welcher To-go-Becher passt zu dir?",
+      "description": "Kaffeebecher von Starbucks im Vergleich: Pappbecher, Pfandbecher, Cold Cup und Edelstahl-Tumbler. Mit Größen-Tabelle (oz/ml), Dichtigkeit, Pflege und Preisen 2026.",
+      "inLanguage": "de-DE",
+      "image": "https://starbuckspreise.com/img/blog/kaffeebecher-von-starbucks-hero.webp  TODO: create image",
+      "author": {
+        "@type": "Organization",
+        "name": "StarbucksPreise Redaktion",
+        "url": "https://starbuckspreise.com/"
+      },
+      "publisher": {
+        "@type": "Organization",
+        "name": "StarbucksPreise",
+        "url": "https://starbuckspreise.com/"
+      },
+      "datePublished": "TODO: publish date (ISO)",
+      "dateModified": "TODO: publish date (ISO)",
+      "mainEntityOfPage": "https://starbuckspreise.com/blog/kaffeebecher-von-starbucks",
+      "about": [
+        {
+          "@type": "Organization",
+          "name": "Starbucks",
+          "sameAs": "https://www.wikidata.org/wiki/Q37158"
+        },
+        {
+          "@type": "Thing",
+          "name": "Starbucks Tumbler / Thermobecher"
+        }
+      ],
+      "mentions": [
+        {
+          "@type": "Thing",
+          "name": "Starbucks Cold Cup"
+        },
+        {
+          "@type": "Thing",
+          "name": "Starbucks Pfandbecher"
+        },
+        {
+          "@type": "Thing",
+          "name": "Starbucks Pappbecher"
+        },
+        {
+          "@type": "Organization",
+          "name": "Stiftung Warentest",
+          "sameAs": "https://www.wikidata.org/wiki/Q326003"
+        }
+      ],
+      "speakable": {
+        "@type": "SpeakableSpecification",
+        "cssSelector": [
+          "#direct-answer"
+        ]
+      }
+    },
+    {
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "Was kostet ein Kaffeebecher von Starbucks?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Bei Otto kosteten Starbucks Cold Cups am 23. September 2026 zwischen 13,49 € und 79,00 €, isolierte Tumbler ab etwa 45 €. In der Filiale hängt der Preis vom aktuellen Saisonsortiment ab."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Kann ich einen Starbucks Pappbecher kaufen?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Starbucks führt Pappbecher nicht im Merchandise-Sortiment, du bekommst sie mit einem Getränk. Online bieten Drittanbieter auf eBay und Amazon vereinzelt Starbucks-Pappbecher an."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Ist der grüne Starbucks Becher gratis?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Nein. Du zahlst 2,50 € Pfand und bekommst das Geld zurück, wenn du den Becher in einem Coffee House abgibst."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Darf ich einen Becher von einer anderen Marke mitbringen?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Ja. Starbucks nennt ausdrücklich „eigenen Tumbler, Tasse, Becher“ neben dem eigenen Reusable Cup. Er sollte sauber sein."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Welcher Starbucks Becher hält am längsten warm?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Ein doppelwandiger Edelstahl-Tumbler mit geschlossenem Deckel. Cold Cups und Pfandbecher aus Kunststoff sind nicht isoliert."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Kann ich heiße Getränke in einen Cold Cup füllen?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Davon ist abzuraten. Cold Cups sind für Kaltgetränke gebaut, heiße Flüssigkeit kann den Kunststoff verformen und der Strohhalm-Deckel ist nicht dicht."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Wie viel ml hat ein Starbucks Becher mit 16 oz?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "16 oz entsprechen 473 ml, also genau einem Grande. 12 oz sind 354 ml (Tall), 24 oz sind 709 ml (Venti kalt)."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Hat Starbucks Deutschland einen Online-Shop für Becher?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Nein. starbucks.de zeigt das Merchandise-Sortiment ohne Preise und ohne Warenkorb. Neue Becher bekommst du in der Filiale oder bei Händlern wie Otto."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Gibt es Starbucks Becher mit Deutschland-Motiv?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Deutsche Städte-Motive gibt es vor allem als Keramiktassen der „You Are Here“-Serie, nicht als To-go-Becher. Mehr dazu steht in unserem Tassen-Ratgeber."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Hat Starbucks Thermobecher im Test gut abgeschnitten?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Ein Starbucks-Edelstahlbecher war 2020 unter den 15 Thermobechern bei Stiftung Warentest. Die Einzelnote steht nur im kostenpflichtigen Testbericht, deshalb nennen wir sie hier nicht."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Warum hat mein Starbucks Becher oz statt ml auf dem Boden?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Viele Starbucks-Becher werden für den US-Markt produziert, wo Füllmengen in Unzen angegeben werden. Das ist bei Originalen normal."
+          }
+        }
+      ]
+    },
+    {
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Start",
+          "item": "https://starbuckspreise.com/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Blog",
+          "item": "https://starbuckspreise.com/blog"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "Kaffeebecher von Starbucks: Welcher To-go-Becher passt zu dir?"
+        }
+      ]
+    }
+  ]
+}

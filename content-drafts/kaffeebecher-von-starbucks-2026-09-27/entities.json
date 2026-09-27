@@ -1,0 +1,216 @@
+[
+  {
+    "canonical": "Starbucks",
+    "type": "Organization",
+    "aliases": [],
+    "sameAs": "https://www.wikidata.org/wiki/Q37158",
+    "kind": "entity",
+    "competitor_count": 4,
+    "in_title_or_h2": true,
+    "tier": 1
+  },
+  {
+    "canonical": "Tumbler (Edelstahl-Thermobecher)",
+    "type": "Thing",
+    "aliases": [
+      "Thermobecher",
+      "Isolierbecher"
+    ],
+    "sameAs": "",
+    "kind": "entity",
+    "competitor_count": 3,
+    "in_title_or_h2": true,
+    "tier": 1
+  },
+  {
+    "canonical": "Cold Cup / Reusable Cup",
+    "type": "Thing",
+    "aliases": [
+      "Mehrwegbecher"
+    ],
+    "sameAs": "",
+    "kind": "entity",
+    "competitor_count": 1,
+    "in_title_or_h2": true,
+    "tier": 1
+  },
+  {
+    "canonical": "Pappbecher",
+    "type": "Thing",
+    "aliases": [
+      "Einwegbecher"
+    ],
+    "sameAs": "",
+    "kind": "term",
+    "competitor_count": 3,
+    "in_title_or_h2": true,
+    "tier": 1
+  },
+  {
+    "canonical": "Grüner Pfandbecher",
+    "type": "Thing",
+    "aliases": [
+      "Returnable Cup"
+    ],
+    "sameAs": "https://www.starbucks.de/de/article/491/starbucks-reusables",
+    "kind": "entity",
+    "competitor_count": 1,
+    "in_title_or_h2": true,
+    "tier": 1
+  },
+  {
+    "canonical": "Preis",
+    "type": "Money",
+    "aliases": [],
+    "sameAs": "",
+    "kind": "term",
+    "competitor_count": 2,
+    "in_title_or_h2": true,
+    "tier": 1
+  },
+  {
+    "canonical": "Dichtigkeit",
+    "type": "Concept",
+    "aliases": [
+      "auslaufsicher",
+      "dicht"
+    ],
+    "sameAs": "",
+    "kind": "term",
+    "competitor_count": 2,
+    "in_title_or_h2": true,
+    "tier": 2
+  },
+  {
+    "canonical": "Warmhalten",
+    "type": "Concept",
+    "aliases": [
+      "Isolierung"
+    ],
+    "sameAs": "",
+    "kind": "term",
+    "competitor_count": 2,
+    "in_title_or_h2": true,
+    "tier": 2
+  },
+  {
+    "canonical": "Stiftung Warentest",
+    "type": "Organization",
+    "aliases": [],
+    "sameAs": "https://www.wikidata.org/wiki/Q326003",
+    "kind": "entity",
+    "competitor_count": 1,
+    "in_title_or_h2": false,
+    "tier": 2
+  },
+  {
+    "canonical": "Spülmaschine",
+    "type": "Concept",
+    "aliases": [],
+    "sameAs": "",
+    "kind": "term",
+    "competitor_count": 3,
+    "in_title_or_h2": true,
+    "tier": 2
+  },
+  {
+    "canonical": "Füllmenge oz/ml",
+    "type": "Metric",
+    "aliases": [],
+    "sameAs": "",
+    "kind": "term",
+    "competitor_count": 1,
+    "in_title_or_h2": true,
+    "tier": 2
+  },
+  {
+    "canonical": "Tall/Grande/Venti",
+    "type": "Concept",
+    "aliases": [],
+    "sameAs": "",
+    "kind": "term",
+    "competitor_count": 0,
+    "in_title_or_h2": true,
+    "tier": 2
+  },
+  {
+    "canonical": "Otto / eBay / Amazon",
+    "type": "Organization",
+    "aliases": [],
+    "sameAs": "",
+    "kind": "entity",
+    "competitor_count": 2,
+    "in_title_or_h2": false,
+    "tier": 2
+  },
+  {
+    "canonical": "Eigener-Becher-Rabatt",
+    "type": "Concept",
+    "aliases": [],
+    "sameAs": "",
+    "kind": "term",
+    "competitor_count": 3,
+    "in_title_or_h2": true,
+    "tier": 2
+  },
+  {
+    "canonical": "Original vs. Fälschung",
+    "type": "Concept",
+    "aliases": [],
+    "sameAs": "",
+    "kind": "term",
+    "competitor_count": 0,
+    "in_title_or_h2": true,
+    "tier": 2
+  },
+  {
+    "canonical": "Sirene (Logo)",
+    "type": "Concept",
+    "aliases": [],
+    "sameAs": "",
+    "kind": "entity",
+    "competitor_count": 1,
+    "in_title_or_h2": false,
+    "tier": 2
+  },
+  {
+    "canonical": "Holiday-/Saisonkollektion",
+    "type": "Event",
+    "aliases": [],
+    "sameAs": "",
+    "kind": "term",
+    "competitor_count": 1,
+    "in_title_or_h2": false,
+    "tier": 3
+  },
+  {
+    "canonical": "You Are Here",
+    "type": "Thing",
+    "aliases": [],
+    "sameAs": "",
+    "kind": "entity",
+    "competitor_count": 1,
+    "in_title_or_h2": false,
+    "tier": 3
+  },
+  {
+    "canonical": "Contigo / Emsa",
+    "type": "Organization",
+    "aliases": [],
+    "sameAs": "",
+    "kind": "entity",
+    "competitor_count": 1,
+    "in_title_or_h2": false,
+    "tier": 3
+  },
+  {
+    "canonical": "Polyethylen",
+    "type": "Concept",
+    "aliases": [],
+    "sameAs": "",
+    "kind": "term",
+    "competitor_count": 1,
+    "in_title_or_h2": false,
+    "tier": 3
+  }
+]

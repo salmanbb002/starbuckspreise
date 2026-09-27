@@ -1,0 +1,244 @@
+[
+  {
+    "canonical": "Starbucks",
+    "type": "Organization",
+    "aliases": [
+      "Starbucks Coffee Deutschland GmbH"
+    ],
+    "sameAs": "https://www.wikidata.org/wiki/Q37158",
+    "kind": "entity",
+    "competitor_count": 4,
+    "in_title_or_h2": true,
+    "tier": 1
+  },
+  {
+    "canonical": "Düsseldorf-Stadtmitte",
+    "type": "Place",
+    "aliases": [
+      "Stadtmitte Düsseldorf"
+    ],
+    "sameAs": "https://en.wikipedia.org/wiki/D%C3%BCsseldorf-Stadtmitte",
+    "kind": "entity",
+    "competitor_count": 2,
+    "in_title_or_h2": true,
+    "tier": 1
+  },
+  {
+    "canonical": "U-Bahnhof Stadtmitte (Berlin)",
+    "type": "Place",
+    "aliases": [
+      "U Stadtmitte"
+    ],
+    "sameAs": "https://en.wikipedia.org/wiki/Stadtmitte_(Berlin_U-Bahn)",
+    "kind": "entity",
+    "competitor_count": 1,
+    "in_title_or_h2": true,
+    "tier": 1
+  },
+  {
+    "canonical": "Starbucks Friedrichstraße 61",
+    "type": "Place",
+    "aliases": [
+      "Starbucks Gendarmenmarkt"
+    ],
+    "sameAs": "",
+    "kind": "entity",
+    "competitor_count": 1,
+    "in_title_or_h2": true,
+    "tier": 1
+  },
+  {
+    "canonical": "Starbucks Schadowstraße 11",
+    "type": "Place",
+    "aliases": [],
+    "sameAs": "",
+    "kind": "entity",
+    "competitor_count": 1,
+    "in_title_or_h2": true,
+    "tier": 1
+  },
+  {
+    "canonical": "Starbucks Königstraße 44 Stuttgart",
+    "type": "Place",
+    "aliases": [],
+    "sameAs": "",
+    "kind": "entity",
+    "competitor_count": 2,
+    "in_title_or_h2": true,
+    "tier": 1
+  },
+  {
+    "canonical": "Öffnungszeiten",
+    "type": "Concept",
+    "aliases": [
+      "Geschäftszeiten"
+    ],
+    "sameAs": "",
+    "kind": "term",
+    "competitor_count": 4,
+    "in_title_or_h2": true,
+    "tier": 1
+  },
+  {
+    "canonical": "Store-Locator",
+    "type": "Concept",
+    "aliases": [
+      "Coffee House Suche"
+    ],
+    "sameAs": "",
+    "kind": "term",
+    "competitor_count": 0,
+    "in_title_or_h2": true,
+    "tier": 1
+  },
+  {
+    "canonical": "Starbucks Steinstraße 1-3 / Königsallee",
+    "type": "Place",
+    "aliases": [
+      "Starbucks Kö"
+    ],
+    "sameAs": "https://en.wikipedia.org/wiki/K%C3%B6nigsallee_(D%C3%BCsseldorf)",
+    "kind": "entity",
+    "competitor_count": 0,
+    "in_title_or_h2": true,
+    "tier": 2
+  },
+  {
+    "canonical": "Düsseldorf Hauptbahnhof",
+    "type": "Place",
+    "aliases": [
+      "Konrad-Adenauer-Platz 14"
+    ],
+    "sameAs": "",
+    "kind": "entity",
+    "competitor_count": 1,
+    "in_title_or_h2": true,
+    "tier": 2
+  },
+  {
+    "canonical": "Königsbau Passagen",
+    "type": "Place",
+    "aliases": [],
+    "sameAs": "",
+    "kind": "entity",
+    "competitor_count": 2,
+    "in_title_or_h2": true,
+    "tier": 2
+  },
+  {
+    "canonical": "Bahnhof Stuttgart Stadtmitte",
+    "type": "Place",
+    "aliases": [
+      "S-Bahn Stadtmitte"
+    ],
+    "sameAs": "https://en.wikipedia.org/wiki/Stuttgart_Stadtmitte_station",
+    "kind": "entity",
+    "competitor_count": 1,
+    "in_title_or_h2": true,
+    "tier": 2
+  },
+  {
+    "canonical": "Starbucks Reserve",
+    "type": "Brand",
+    "aliases": [],
+    "sameAs": "https://en.wikipedia.org/wiki/Starbucks_Reserve",
+    "kind": "entity",
+    "competitor_count": 0,
+    "in_title_or_h2": false,
+    "tier": 2
+  },
+  {
+    "canonical": "Starbucks Esslingen (geschlossen)",
+    "type": "Place",
+    "aliases": [
+      "Pliensaustraße 8"
+    ],
+    "sameAs": "",
+    "kind": "entity",
+    "competitor_count": 1,
+    "in_title_or_h2": true,
+    "tier": 2
+  },
+  {
+    "canonical": "WLAN",
+    "type": "Concept",
+    "aliases": [
+      "WiFi"
+    ],
+    "sameAs": "",
+    "kind": "term",
+    "competitor_count": 2,
+    "in_title_or_h2": false,
+    "tier": 2
+  },
+  {
+    "canonical": "Sonntag",
+    "type": "Concept",
+    "aliases": [],
+    "sameAs": "",
+    "kind": "term",
+    "competitor_count": 3,
+    "in_title_or_h2": false,
+    "tier": 2
+  },
+  {
+    "canonical": "Friedrichstraße",
+    "type": "Place",
+    "aliases": [],
+    "sameAs": "https://en.wikipedia.org/wiki/Friedrichstra%C3%9Fe",
+    "kind": "entity",
+    "competitor_count": 1,
+    "in_title_or_h2": true,
+    "tier": 3
+  },
+  {
+    "canonical": "Checkpoint Charlie",
+    "type": "Place",
+    "aliases": [],
+    "sameAs": "",
+    "kind": "entity",
+    "competitor_count": 0,
+    "in_title_or_h2": false,
+    "tier": 3
+  },
+  {
+    "canonical": "Quartier 206",
+    "type": "Place",
+    "aliases": [],
+    "sameAs": "",
+    "kind": "entity",
+    "competitor_count": 0,
+    "in_title_or_h2": false,
+    "tier": 3
+  },
+  {
+    "canonical": "Uber Eats",
+    "type": "Organization",
+    "aliases": [],
+    "sameAs": "",
+    "kind": "entity",
+    "competitor_count": 1,
+    "in_title_or_h2": false,
+    "tier": 3
+  },
+  {
+    "canonical": "Mobile Order",
+    "type": "Concept",
+    "aliases": [],
+    "sameAs": "",
+    "kind": "term",
+    "competitor_count": 0,
+    "in_title_or_h2": false,
+    "tier": 3
+  },
+  {
+    "canonical": "Stuttgart Hbf Kiosk",
+    "type": "Place",
+    "aliases": [],
+    "sameAs": "",
+    "kind": "entity",
+    "competitor_count": 0,
+    "in_title_or_h2": false,
+    "tier": 3
+  }
+]
