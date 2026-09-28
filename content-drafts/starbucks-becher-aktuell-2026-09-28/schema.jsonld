@@ -1,0 +1,202 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "Article",
+      "@id": "https://starbuckspreise.com/blog/starbucks-becher-aktuell/#article",
+      "headline": "Starbucks Becher aktuell: Neue Kollektionen & limitierte Drops 2026",
+      "description": "Starbucks Becher aktuell: Herbstkollektion, Peanuts-Snoopy-Becher, Bearista-Drops und Kernsortiment 2026, mit Datum, Limit und Tipps. Jetzt prüfen.",
+      "inLanguage": "de-DE",
+      "image": "https://starbuckspreise.com/img/blog/starbucks-becher-hero.webp",
+      "author": {
+        "@type": "Organization",
+        "name": "StarbucksPreise Redaktion",
+        "url": "https://starbuckspreise.com"
+      },
+      "publisher": {
+        "@type": "Organization",
+        "name": "StarbucksPreise Deutschland",
+        "url": "https://starbuckspreise.com"
+      },
+      "datePublished": "2026-09-28T10:00:00+02:00",
+      "dateModified": "2026-09-28T10:00:00+02:00",
+      "mainEntityOfPage": "https://starbuckspreise.com/blog/starbucks-becher-aktuell",
+      "about": [
+        {
+          "@type": "Organization",
+          "name": "Starbucks",
+          "sameAs": "https://www.wikidata.org/wiki/Q37158"
+        },
+        {
+          "@type": "Thing",
+          "name": "Starbucks Becher (Saison- und Sondereditionen)"
+        }
+      ],
+      "mentions": [
+        {
+          "@type": "CreativeWork",
+          "name": "Peanuts",
+          "sameAs": "https://www.wikidata.org/wiki/Q7115636"
+        },
+        {
+          "@type": "Thing",
+          "name": "Snoopy",
+          "sameAs": "https://www.wikidata.org/wiki/Q207369"
+        },
+        {
+          "@type": "Thing",
+          "name": "Starbucks Bearista Cold Cup"
+        },
+        {
+          "@type": "Thing",
+          "name": "Starbucks Rewards"
+        },
+        {
+          "@type": "CreativeWork",
+          "name": "It's the Great Pumpkin, Charlie Brown",
+          "sameAs": "https://www.wikidata.org/wiki/Q596994"
+        },
+        {
+          "@type": "Thing",
+          "name": "Starbucks Cold Cup"
+        },
+        {
+          "@type": "Thing",
+          "name": "Starbucks Tumbler"
+        }
+      ],
+      "speakable": {
+        "@type": "SpeakableSpecification",
+        "cssSelector": [
+          "#direct-answer"
+        ]
+      }
+    },
+    {
+      "@type": "FAQPage",
+      "@id": "https://starbuckspreise.com/blog/starbucks-becher-aktuell/#faq",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "Welche Starbucks Becher sind gerade neu?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Neu sind die Herbstkollektion 2026 mit Orange-, Bronze- und Katzen-Designs sowie die Peanuts-Kollektion mit Snoopy-Glasbecher, die am 15. September 2026 startete. Die Auswahl hängt von der Filiale ab."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Seit wann gibt es die Peanuts-Becher bei Starbucks?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Seit dem 15. September 2026. Die Kollektion wird weltweit in teilnehmenden Coffee Houses verkauft, solange der Vorrat reicht."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Gibt es den Snoopy-Becher in Deutschland?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Starbucks nennt für die Peanuts-Kollektion auch Märkte in Europa. Eine eigene Mitteilung für Deutschland haben wir nicht gefunden, frag deshalb in deiner Filiale nach, ob sie teilnimmt."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Kann ich limitierte Starbucks Becher online bestellen?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Nicht direkt bei Starbucks Deutschland. Limitierte Becher wie der Bearista wurden nur in teilnehmenden Coffee Houses verkauft. Online gibt es sie nur bei Wiederverkäufern, meist deutlich teurer."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Wann kam der Bearista Becher nach Deutschland?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Der Bearista Cold Cup mit grüner Mütze kam am 23. Januar 2026 nach Deutschland. Die pinke Sommer-Edition folgte am 13. Juli 2026 für Rewards-Mitglieder und am 14. Juli für alle."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Wie viele limitierte Becher darf ich kaufen?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Meist höchstens zwei Stück pro Einkauf. Das galt beim Bearista im Januar und beim Pink Bearista im Juli 2026."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Was kostet ein aktueller Starbucks Becher?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Für Deutschland veröffentlicht Starbucks keine Preise, du siehst sie erst in der Filiale. In den USA kostete der Pink Bearista 29,95 US-Dollar und der Snoopy-Glasbecher rund 40 US-Dollar."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Lohnt sich Starbucks Rewards für limitierte Becher?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Ja, wenn du Drops nicht verpassen willst. Beim Pink Bearista durften Rewards-Mitglieder einen Tag früher kaufen, und den Snoopy-Glasbecher gab es in Österreich nur für Mitglieder."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Wann kommen die Starbucks Weihnachtsbecher 2026?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Einen Termin hat Starbucks Deutschland noch nicht genannt (Stand 28. September 2026). Die Holiday-Kollektion erscheint zum Jahresende, einzelne Stücke kamen zuletzt aber erst Wochen später nach Deutschland."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Ist der Starbucks Pappbecher jetzt plastikfrei?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Ja, seit Mai 2025. Der Heißgetränkebecher hat eine mineralische Innenbeschichtung statt Kunststoff, der Deckel ist aus Zellulose. Beide sind für die Heimkompostierung zertifiziert."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Gibt es gerade einen Starbucks Becher gratis?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Nein, derzeit nicht. Die letzte Aktion „Deine Tasse für dein Zuhause“ von Starbucks at Home endete am 19. Oktober 2025."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Wo sehe ich, welche Becher meine Filiale hat?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Das Kernsortiment steht auf starbucks.de unter Menü › Merchandise. Saisonware und limitierte Drops sind dort nicht gelistet, die siehst du nur vor Ort oder in Ankündigungen in der Starbucks-App."
+          }
+        }
+      ]
+    },
+    {
+      "@type": "BreadcrumbList",
+      "@id": "https://starbuckspreise.com/blog/starbucks-becher-aktuell/#breadcrumb",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Startseite",
+          "item": "https://starbuckspreise.com"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Blog",
+          "item": "https://starbuckspreise.com/blog"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "Starbucks Becher aktuell",
+          "item": "https://starbuckspreise.com/blog/starbucks-becher-aktuell"
+        }
+      ]
+    }
+  ]
+}

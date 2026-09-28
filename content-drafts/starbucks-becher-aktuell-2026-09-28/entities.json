@@ -1,0 +1,93 @@
+[
+ {
+  "canonical": "Starbucks",
+  "type": "Organization",
+  "tier": 1,
+  "sameAs": "https://www.wikidata.org/wiki/Q37158",
+  "kind": "entity"
+ },
+ {
+  "canonical": "Peanuts",
+  "type": "CreativeWork",
+  "tier": 1,
+  "sameAs": "https://www.wikidata.org/wiki/Q7115636",
+  "kind": "entity"
+ },
+ {
+  "canonical": "Snoopy",
+  "type": "Thing",
+  "tier": 1,
+  "sameAs": "https://www.wikidata.org/wiki/Q207369",
+  "kind": "entity"
+ },
+ {
+  "canonical": "It's the Great Pumpkin, Charlie Brown",
+  "type": "CreativeWork",
+  "tier": 2,
+  "sameAs": "https://www.wikidata.org/wiki/Q596994",
+  "kind": "entity"
+ },
+ {
+  "canonical": "Bearista Cold Cup",
+  "type": "Thing",
+  "tier": 1,
+  "sameAs": "",
+  "kind": "entity"
+ },
+ {
+  "canonical": "Herbstkollektion 2026",
+  "type": "Thing",
+  "tier": 1,
+  "sameAs": "",
+  "kind": "entity"
+ },
+ {
+  "canonical": "Kernsortiment",
+  "type": "Thing",
+  "tier": 1,
+  "sameAs": "",
+  "kind": "entity"
+ },
+ {
+  "canonical": "Starbucks Rewards",
+  "type": "Thing",
+  "tier": 2,
+  "sameAs": "",
+  "kind": "entity"
+ },
+ {
+  "canonical": "Kompostierbarer Pappbecher",
+  "type": "Thing",
+  "tier": 2,
+  "sameAs": "",
+  "kind": "entity"
+ },
+ {
+  "canonical": "Pfandbecher",
+  "type": "Thing",
+  "tier": 2,
+  "sameAs": "",
+  "kind": "entity"
+ },
+ {
+  "canonical": "Deine Tasse (Starbucks at Home)",
+  "type": "Thing",
+  "tier": 2,
+  "sameAs": "",
+  "kind": "entity"
+ },
+ {
+  "canonical": "Holiday-Kollektion",
+  "type": "Thing",
+  "tier": 2,
+  "sameAs": "",
+  "kind": "entity"
+ },
+ {
+  "canonical": "Zweitmarkt",
+  "type": "Concept",
+  "tier": 2,
+  "sameAs": "",
+  "kind": "entity"
+ }
+]
