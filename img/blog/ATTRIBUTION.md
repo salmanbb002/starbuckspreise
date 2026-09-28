@@ -1,6 +1,6 @@
 # Image attribution
 
-Hero photos sourced from Wikimedia Commons for the 2026-09-17 location/product posts. All are real, on-topic photography, cropped/resized (Python Pillow) and re-encoded as WebP. Logged here for license compliance (not rendered on-site).
+Hero photos sourced from Wikimedia Commons for the 2026-09-17 location/product posts. All are real, on-topic photography, cropped/resized (Python Pillow) and re-encoded as WebP. Logged here for license compliance. Since 2026-09-28 every CC BY / BY-SA hero is also credited on its article page (overlay `.img-credit`, generated from this file by scripts/add-image-credits.py); inline images carry the credit in their figcaption.
 
 ## starbucks-giessen-hero.webp
 - Source: https://commons.wikimedia.org/wiki/File:Giessen_innenstadt_28082005.jpg
@@ -128,3 +128,18 @@ Hero photos sourced from Wikimedia Commons for the 2026-09-17 location/product p
 - Author: AzureSaturn, via Wikimedia Commons
 - License: CC0 — no attribution required
 - Note: 2026-09-24 — fetched via the en.wikipedia.org API proxy (commons host still resets). Bottled Starbucks Frappuccino (US retail bottle), represents the supermarket/RTD side of the article; cropped to show logo + wordmark.
+
+## starbucks-merchandise-regal.webp (inline, starbucks-becher-aktuell)
+- Source: https://commons.wikimedia.org/wiki/File:HK_MK_%E6%97%BA%E8%A7%92_Mongkok_%E6%9C%97%E8%B1%AA%E5%9D%8A_Langham_Place_mall_shop_Starbucks_Restaurant_mugs_March_2020_SS2_07.jpg
+- Author: Daivewoi Huongs
+- License: CC BY-SA 4.0 — credited in on-page figcaption
+
+## starbucks-pappbecher-deckel.webp (inline, starbucks-becher-aktuell + starbucks-becher)
+- Source: https://commons.wikimedia.org/wiki/File:Hot_Stopper_in_the_lid_of_a_paper_coffee_cup_with_a_cardboard_sleeve.jpeg
+- Author: Supuhstar
+- License: CC BY-SA 4.0 — credited in on-page figcaption
+
+## starbucks-red-cup-holiday.webp (inline, starbucks-becher-aktuell)
+- Source: https://commons.wikimedia.org/wiki/File:Starbucks_Red_Cup.jpg
+- Author: Hiro - Kokoro☆Photo from Kyoto, Japan
+- License: CC BY-SA 2.0 — credited in on-page figcaption
