@@ -1,0 +1,201 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "Article",
+      "@id": "https://starbuckspreise.com/blog/starbucks-tee/#article",
+      "headline": "Starbucks Tee: Alle Teesorten mit Preis, Koffein und Geschmack",
+      "description": "Starbucks Tee 2026: alle Teesorten von English Breakfast bis Hibiscus, Preise ab 3,90 €, Koffein, Kalorien und koffeinfreie Optionen. Jetzt vergleichen.",
+      "inLanguage": "de-DE",
+      "image": "https://starbuckspreise.com/img/blog/starbucks-tee-hero.webp",
+      "author": {
+        "@type": "Organization",
+        "name": "StarbucksPreise Redaktion",
+        "url": "https://starbuckspreise.com"
+      },
+      "publisher": {
+        "@type": "Organization",
+        "name": "StarbucksPreise Deutschland",
+        "url": "https://starbuckspreise.com"
+      },
+      "datePublished": "2026-09-28T12:00:00+02:00",
+      "dateModified": "2026-09-28T12:00:00+02:00",
+      "mainEntityOfPage": "https://starbuckspreise.com/blog/starbucks-tee",
+      "about": [
+        {
+          "@type": "Organization",
+          "name": "Starbucks",
+          "sameAs": "https://www.wikidata.org/wiki/Q37158"
+        },
+        {
+          "@type": "Brand",
+          "name": "Teavana",
+          "sameAs": "https://www.wikidata.org/wiki/Q795386"
+        }
+      ],
+      "mentions": [
+        {
+          "@type": "Thing",
+          "name": "English Breakfast Tea",
+          "sameAs": "https://www.wikidata.org/wiki/Q1193772"
+        },
+        {
+          "@type": "Thing",
+          "name": "Earl Grey",
+          "sameAs": "https://www.wikidata.org/wiki/Q207788"
+        },
+        {
+          "@type": "Thing",
+          "name": "Hibiskustee",
+          "sameAs": "https://www.wikidata.org/wiki/Q940047"
+        },
+        {
+          "@type": "Thing",
+          "name": "Masala Chai",
+          "sameAs": "https://www.wikidata.org/wiki/Q877661"
+        },
+        {
+          "@type": "Thing",
+          "name": "Matcha",
+          "sameAs": "https://www.wikidata.org/wiki/Q822331"
+        },
+        {
+          "@type": "Thing",
+          "name": "Chai Tea Latte"
+        }
+      ],
+      "speakable": {
+        "@type": "SpeakableSpecification",
+        "cssSelector": [
+          "#direct-answer"
+        ]
+      }
+    },
+    {
+      "@type": "FAQPage",
+      "@id": "https://starbuckspreise.com/blog/starbucks-tee/#faq",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "Welche Teesorten gibt es bei Starbucks?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Pur gibt es English Breakfast, Earl Grey, Emperor's Clouds & Mist, Mint Blend, Hibiscus und Youthberry. Dazu kommen Chai Tea Latte, Matcha Tea Latte und vier Eistees mit Limonade."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Was kostet ein Tee bei Starbucks?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Ein heißer Tee kostet rund 3,90 € (Stand September 2026). Chai Tea Latte und Matcha Latte kosten 6,00 bis 6,40 €, weil Milch dazukommt."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Welche Teemarke verwendet Starbucks?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Starbucks verwendet Tee der Marke Teavana. Starbucks hat Teavana 2012 übernommen und die eigenen Teavana-Läden bis 2018 geschlossen, die Marke lebt auf der Teekarte weiter."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Welcher Starbucks Tee hat am meisten Koffein?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "English Breakfast mit 102 mg in Short, Tall und Grande sowie 204 mg im Venti. Das ist mehr als ein Grande Caffè Latte mit 89 mg."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Gibt es bei Starbucks koffeinfreien Tee?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Ja. Mint Blend und Hibiscus sind Kräutertees ohne Teeblätter und damit koffeinfrei. Für Mint Herbal Blend weist das Nährwert-PDF 0 mg Koffein aus."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Hat Starbucks grünen Tee?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Ja, Emperor's Clouds & Mist ist ein sortenreiner Grüntee. Grüntee steckt auch im Iced Green Tea und im Iced Peach Tea. Der Matcha Latte basiert ebenfalls auf Grüntee, allerdings als Pulver."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Ist der Chai Tea Latte bei Starbucks gesüßt?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Ja. Ein Grande mit Halbfettmilch hat 29,3 g Zucker. Der Matcha Latte ist dagegen ungesüßt und hat im Grande 15,2 g Zucker, vor allem aus der Milch."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Wie viele Kalorien hat ein Starbucks Tee?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Pure Tees haben 4 bis 5 kcal pro Becher. Mit Milch steigt der Wert deutlich: Ein Grande Chai Tea Latte mit Halbfettmilch hat 181 kcal, ein Matcha Latte 161 kcal."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Kann ich Starbucks Tee mit Milch bestellen?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Ja, jeden Tee kannst du mit einem Schuss Milch oder einem pflanzlichen Drink bestellen. Für einen Tee-Latte mit aufgeschäumter Milch sind Chai und Matcha die Standardwahl."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Gibt es bei Starbucks Eistee?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Ja. Die Karte führt Iced Chai, Iced Matcha und vier Eistees mit Limonade, darunter Green Tea und Peach Green Tea. Ein Grande Peach Iced Tea hat 72 kcal."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Wie viel Tee ist in einem Starbucks Becher?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "In Short, Tall und Grande steckt ein Teebeutel, im Venti zwei. Deshalb hat ein Venti English Breakfast doppelt so viel Koffein wie ein Grande."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Gibt es den Starbucks Youthberry Tee noch?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Youthberry steht auf der offiziellen Karte von starbucks.de (Stand 28. September 2026). Auf der Bestellseite der Filiale Freiburg Hauptbahnhof fehlte er, das Angebot kann also je nach Filiale variieren."
+          }
+        }
+      ]
+    },
+    {
+      "@type": "BreadcrumbList",
+      "@id": "https://starbuckspreise.com/blog/starbucks-tee/#breadcrumb",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Startseite",
+          "item": "https://starbuckspreise.com"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Blog",
+          "item": "https://starbuckspreise.com/blog"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "Starbucks Tee",
+          "item": "https://starbuckspreise.com/blog/starbucks-tee"
+        }
+      ]
+    }
+  ]
+}

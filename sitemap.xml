@@ -249,4 +249,22 @@
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
+  <url>
+    <loc>https://starbuckspreise.com/blog/starbucks-tee</loc>
+    <lastmod>2026-09-28</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://starbuckspreise.com/blog/starbucks-matcha-latte</loc>
+    <lastmod>2026-09-28</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://starbuckspreise.com/blog/starbucks-fruehstueck</loc>
+    <lastmod>2026-09-28</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
 </urlset>

@@ -143,3 +143,21 @@ Hero photos sourced from Wikimedia Commons for the 2026-09-17 location/product p
 - Source: https://commons.wikimedia.org/wiki/File:Starbucks_Red_Cup.jpg
 - Author: Hiro - Kokoro☆Photo from Kyoto, Japan
 - License: CC BY-SA 2.0 — credited in on-page figcaption
+
+## starbucks-matcha-latte-hero.webp
+- Source: https://commons.wikimedia.org/wiki/File:Matcha_tea_art.jpg
+- Author: John Beans
+- License: CC BY 2.0 — attribution required if reused/redistributed further
+- Note: 2026-09-28 — generic matcha latte (not Starbucks); the only Starbucks-named matcha file on Commons (Te-matcha-latte-starbucks-1024x400.webp) looks like a re-uploaded web banner, rejected.
+
+## starbucks-fruehstueck-hero.webp
+- Source: https://commons.wikimedia.org/wiki/File:Pain_au_chocolat_Luc_Viatour.jpg
+- Author: Luc Viatour
+- License: CC BY-SA 3.0 — attribution required if reused/redistributed further
+- Note: 2026-09-28 — generic pain au chocolat (Belgian bakery), no Starbucks food photo on Commons.
+
+## starbucks-tee-hero.webp
+- Source: https://commons.wikimedia.org/wiki/File:Frisch_aufgebr%C3%BChter_EarlGrey_Tee.jpg
+- Author: soultea.de/André Helbig
+- License: CC BY-SA 3.0 — attribution required if reused/redistributed further
+- Note: 2026-09-28 — generic Earl Grey in glass cup and pot, no Starbucks/Teavana tea photo on Commons.

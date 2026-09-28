@@ -1,0 +1,189 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "Article",
+      "@id": "https://starbuckspreise.com/blog/starbucks-matcha-latte/#article",
+      "headline": "Starbucks Matcha Latte: Preis, Kalorien und alle Varianten 2026",
+      "description": "Starbucks Matcha Latte 2026: Preis ab 6,00 €, Kalorien je Größe und Milch, 83 mg Koffein im Grande, Iced Matcha und alle Varianten. Jetzt ansehen.",
+      "inLanguage": "de-DE",
+      "image": "https://starbuckspreise.com/img/blog/starbucks-matcha-latte-hero.webp",
+      "author": {
+        "@type": "Organization",
+        "name": "StarbucksPreise Redaktion",
+        "url": "https://starbuckspreise.com"
+      },
+      "publisher": {
+        "@type": "Organization",
+        "name": "StarbucksPreise Deutschland",
+        "url": "https://starbuckspreise.com"
+      },
+      "datePublished": "2026-09-28T12:00:00+02:00",
+      "dateModified": "2026-09-28T12:00:00+02:00",
+      "mainEntityOfPage": "https://starbuckspreise.com/blog/starbucks-matcha-latte",
+      "about": [
+        {
+          "@type": "Organization",
+          "name": "Starbucks",
+          "sameAs": "https://www.wikidata.org/wiki/Q37158"
+        },
+        {
+          "@type": "Thing",
+          "name": "Matcha Latte",
+          "sameAs": "https://www.wikidata.org/wiki/Q124434035"
+        }
+      ],
+      "mentions": [
+        {
+          "@type": "Thing",
+          "name": "Matcha",
+          "sameAs": "https://www.wikidata.org/wiki/Q822331"
+        },
+        {
+          "@type": "Thing",
+          "name": "Iced Matcha Latte"
+        },
+        {
+          "@type": "Thing",
+          "name": "Matcha Cream Frappuccino"
+        },
+        {
+          "@type": "Thing",
+          "name": "Pumpkin Spice Matcha Latte"
+        }
+      ],
+      "speakable": {
+        "@type": "SpeakableSpecification",
+        "cssSelector": [
+          "#direct-answer"
+        ]
+      }
+    },
+    {
+      "@type": "FAQPage",
+      "@id": "https://starbuckspreise.com/blog/starbucks-matcha-latte/#faq",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "Was kostet ein Matcha Latte bei Starbucks?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Rund 6,00 €, heiß und als Iced Matcha Latte gleich (Stand September 2026). Varianten wie der Pumpkin Spice Matcha Latte kosten 7,20 €, der Soy Protein Matcha Latte 7,90 €."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Ist der Starbucks Matcha Latte gesüßt?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Nein, in Deutschland wird er ungesüßt serviert. Der Zucker in einem Grande (15,2 g mit Halbfettmilch) stammt vor allem aus der Milch. Süß wird er nur mit einem Sirup."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Wie viele Kalorien hat ein Starbucks Matcha Latte?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Ein Grande mit Halbfettmilch hat 161 kcal, ein Tall 134 kcal. Mit Mandeldrink sind es im Grande nur 88 kcal, mit Vollmilch 213 kcal."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Wie viel Koffein hat ein Starbucks Matcha Latte?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Ein Grande hat 83 mg Koffein, ein Tall 57,2 mg und ein Venti 111,6 mg. Das ist fast so viel wie in einem Grande Caffè Latte mit 89 mg."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Ist Matcha bei Starbucks teurer als Kaffee?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Ja. Ein Matcha Latte kostet 6,00 €, ein Caffè Latte 4,90 €. Der Unterschied liegt bei 1,10 € pro Getränk."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Was kostet ein Iced Matcha Latte bei Starbucks?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Ebenfalls 6,00 € (Stand September 2026). Ein Grande Iced Matcha Latte mit Halbfettmilch hat 117 kcal und 84,6 mg Koffein."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Welche Milch ist am besten für den Starbucks Matcha Latte?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Das hängt vom Ziel ab. Mandeldrink hat die wenigsten Kalorien (88 kcal im Grande), Sojadrink das meiste pflanzliche Eiweiß (11,1 g), Haferdrink schmeckt am cremigsten, hat aber 190 kcal."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Kann man den Starbucks Matcha Latte vegan bestellen?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Ja, mit Soja-, Hafer-, Mandel- oder Kokosdrink statt Kuhmilch. Der Matcha selbst ist pflanzlich."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Was ist im Starbucks Matcha Latte drin?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Matcha-Grünteepulver und aufgeschäumte Milch, sonst nichts. Die Freiburger Bestellseite beschreibt ihn als „samtig geschäumte Milch mit reinem Matcha Green Tea, ungesüßt“."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Wie viele Kalorien hat der Matcha Frappuccino bei Starbucks?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Ein Grande Matcha Cream Frappuccino® mit Halbfettmilch hat 298 kcal und 34 g Zucker. Er kostet 6,90 €."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Gibt es bei Starbucks einen Pumpkin Spice Matcha Latte?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Ja, im Herbst 2026 steht er auf der Karte, heiß und auf Eis, für je 7,20 €. Er enthält Kürbis-Gewürzsauce und ist damit, anders als der klassische Matcha Latte, gesüßt."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Welche Größe hat der Starbucks Matcha Latte?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Es gibt ihn in Short, Tall, Grande und Venti. Der Grande mit 473 ml ist die übliche Größe, mit 161 kcal und 83 mg Koffein."
+          }
+        }
+      ]
+    },
+    {
+      "@type": "BreadcrumbList",
+      "@id": "https://starbuckspreise.com/blog/starbucks-matcha-latte/#breadcrumb",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Startseite",
+          "item": "https://starbuckspreise.com"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Blog",
+          "item": "https://starbuckspreise.com/blog"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "Starbucks Matcha Latte",
+          "item": "https://starbuckspreise.com/blog/starbucks-matcha-latte"
+        }
+      ]
+    }
+  ]
+}
