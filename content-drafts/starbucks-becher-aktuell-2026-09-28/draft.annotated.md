@@ -1,35 +1,42 @@
 # Starbucks Becher aktuell: Neue Kollektionen & limitierte Drops 2026
 
-**Direkt-Antwort:** Aktuell (Stand 28. September 2026) laufen bei Starbucks die **Herbstkollektion** und die limitierte **Peanuts**-Kollektion, die seit dem 15. September weltweit in teilnehmenden Coffee Houses verkauft wird. Dazu kommt das feste **Kernsortiment** aus Cold Cups und Tumblern. Limitierte Becher gibt es nur in der Filiale, meist höchstens zwei pro Person.
+**Direkt-Antwort:** Aktuell (Stand 28. September 2026) laufen bei Starbucks die Herbstkollektion und die limitierte Peanuts-Kollektion, die seit dem 15. September weltweit in teilnehmenden Coffee Houses verkauft wird. Dazu kommt das feste Kernsortiment aus Cold Cups und Tumblern. Limitierte Becher gibt es nur in der Filiale, meist höchstens zwei pro Person.
 
-Recherchestand: 28. September 2026. Wer „Starbucks Becher aktuell“ sucht, will wissen, was gerade neu im Regal steht und ob sich der Weg in die Filiale lohnt. Starbucks Deutschland veröffentlicht dazu keine Übersicht: Die Merchandise-Seite auf starbucks.de zeigt nur das **Kernsortiment**, ohne Saisonware und ohne Preise. Diese Seite sammelt deshalb, was 2026 in Deutschland tatsächlich erschienen ist, mit Datum und Quelle. Alles rund um Größen, Rabatt und Pflege steht in unserer [Starbucks Becher Übersicht](/blog/starbucks-becher).
+Recherchestand: 28. September 2026. Wer „Starbucks Becher aktuell“ sucht, will wissen, was gerade neu im Regal steht und ob sich der Weg in die Filiale lohnt. Starbucks Deutschland veröffentlicht dazu keine Übersicht: Die Merchandise-Seite auf starbucks.de zeigt nur das Kernsortiment, ohne Saisonware und ohne Preise. Diese Seite sammelt deshalb, was 2026 in Deutschland tatsächlich erschienen ist, mit Datum und Quelle. Alles rund um Größen, Rabatt und Pflege steht in unserer [Starbucks Becher Übersicht](/blog/starbucks-becher).
 
 ## 1. Welche Starbucks Becher gibt es aktuell?
 
-Aktuell gibt es bei Starbucks drei Gruppen von Bechern: das feste **Kernsortiment**, die wechselnde Saisonkollektion und limitierte Sondereditionen wie den **Bearista** oder die **Peanuts**-Becher. Nur das Kernsortiment steht dauerhaft in fast jeder Filiale.
+Aktuell gibt es bei Starbucks drei Gruppen von Bechern: das feste Kernsortiment, die wechselnde Saisonkollektion und limitierte Sondereditionen wie den Bearista oder die Peanuts-Becher. Nur das Kernsortiment steht dauerhaft in fast jeder Filiale.
 
-Die Saisonkollektionen wechseln viermal im Jahr: Frühjahr, Sommer, Herbst und die Holiday-Saison zum Jahresende. Sondereditionen erscheinen dazwischen als „Drops“ an einem festen Tag, in kleinen Stückzahlen und ohne Nachlieferung. Genau diese Drops sorgen für Schlangen vor den Coffee Houses und für hohe Preise auf dem **Zweitmarkt**.
+Die Saisonkollektionen wechseln viermal im Jahr: Frühjahr, Sommer, Herbst und die Holiday-Saison zum Jahresende. Sondereditionen erscheinen dazwischen als „Drops“ an einem festen Tag, in kleinen Stückzahlen und ohne Nachlieferung. Genau diese Drops sorgen für Schlangen vor den Coffee Houses und für hohe Preise auf dem Zweitmarkt.
 
 | Gruppe | Beispiele (2026) | Wie lange erhältlich | Wo |
 |---|---|---|---|
-| Kernsortiment | Reusable **Cold Cup**, **Cold Cup** Grid Green, **Tumbler** SS Ombre Green | dauerhaft | fast jede Filiale, Übersicht auf starbucks.de |
+| Kernsortiment | Reusable Cold Cup, Cold Cup Grid Green, Tumbler SS Ombre Green | dauerhaft | fast jede Filiale, Übersicht auf starbucks.de |
 | Saisonkollektion | Herbst 2026, Holiday 2026 | einige Wochen, solange der Vorrat reicht | teilnehmende Filialen, Auswahl je nach Standort |
-| Limitierte Drops | **Bearista** **Cold Cup**, Pink **Bearista**, **Peanuts** x Starbucks | oft nur Stunden bis Tage | nur Filiale, meist max. 2 Stück pro Person |
+| Limitierte Drops | Bearista Cold Cup, Pink Bearista, Peanuts x Starbucks | oft nur Stunden bis Tage | nur Filiale, meist max. 2 Stück pro Person |
 
-## 2. Was ist gerade neu? Die **Herbstkollektion** 2026
+Welcher Bechertyp zu deinem Alltag passt, egal ob neu oder aus dem Kernsortiment, zeigt die Entscheidungshilfe [Kaffeebecher von Starbucks](/blog/kaffeebecher-von-starbucks).
 
-Die **Herbstkollektion** 2026 setzt auf Orange-, Bronze- und Lilatöne, Kürbis-Motive und Halloween-Katzen. Starbucks Deutschland hat keine eigene Produktliste veröffentlicht, die offizielle Liste der britischen Starbucks-Seite zeigt aber, welche Stücke die europäische Herbstkollektion umfasst.
+<figure class="inline-img"><img src="/img/blog/starbucks-merchandise-regal.webp" alt="Starbucks-Merchandise-Regal mit Städtetassen, Tumblern und Thermobechern in einer Filiale" width="900" height="1200" loading="lazy" decoding="async"><figcaption>Merchandise-Regal in einem Starbucks Coffee House mit Tassen und Tumblern (Hongkong, 2020). Foto: Daivewoi Huongs, <a href="https://creativecommons.org/licenses/by-sa/4.0/deed.de" rel="noopener">CC BY-SA 4.0</a>, via <a href="https://commons.wikimedia.org/wiki/File:HK_MK_%E6%97%BA%E8%A7%92_Mongkok_%E6%9C%97%E8%B1%AA%E5%9D%8A_Langham_Place_mall_shop_Starbucks_Restaurant_mugs_March_2020_SS2_07.jpg" rel="noopener">Wikimedia Commons</a></figcaption></figure>
 
-### Becher und **Tumbler** der Herbstkollektion
+
+## 2. Was ist gerade neu? Die Herbstkollektion 2026
+
+Die Herbstkollektion 2026 setzt auf Orange-, Bronze- und Lilatöne, Kürbis-Motive und Halloween-Katzen. Starbucks Deutschland hat keine eigene Produktliste veröffentlicht, die offizielle Liste der britischen Starbucks-Seite zeigt aber, welche Stücke die europäische Herbstkollektion umfasst.
+
+### Becher und Tumbler der Herbstkollektion
 
 Laut starbucks.co.uk (abgerufen am 28. September 2026) gehören diese Trinkgefäße zur Kollektion „Autumn 2026“:
 
-- **Vintage Vine Orange Tumbler** (12 oz, ca. 354 ml): orangefarbener **Tumbler** mit Herbstlaub
+- **Vintage Vine Orange Tumbler** (12 oz, ca. 354 ml): orangefarbener Tumbler mit Herbstlaub
 - **Zigzag Ombre Orange Tumbler** (16 oz, ca. 473 ml): bronzefarbener Tumbler mit Zickzack-Relief
 - **Orange Waves Cold Cup** (20 oz, ca. 591 ml): hoher Kaltgetränkebecher mit Wellenmuster
 - **Purple Cat Ear Cold Cup** (16 oz): lila Glitzer-Cold-Cup mit Katzenohren
 - **Cat Whiskers Reusable Cold Cup** (16 oz): Mehrweg-Cold-Cup mit Katzenaugen und Schnurrhaaren
 - **Halloween Cat Purple Tumbler** (16 oz) und **Purple Cat Pine Straw Tumbler** (17 oz)
+
+Wie viel in einen 12-, 16- oder 20-oz-Becher passt, steht in unserer Umrechnung [Tall, Grande, Venti](/blog/starbucks-groessen-tall-grande-venti).
 
 Dazu kommen zwei Tassen (PSL Flame Mug, Pumpkin Peek Mug mit Mini-Kürbis am Henkel), eine Katzen-Tasse in Kürbisform sowie Anhänger und Blind Boxes mit fünf Bearista-Figuren im Halloween-Look.
 
@@ -37,11 +44,11 @@ Dazu kommen zwei Tassen (PSL Flame Mug, Pumpkin Peek Mug mit Mini-Kürbis am Hen
 
 Teilweise, und zwar je nach Filiale. Starbucks selbst schreibt zur Herbstware, dass sie nur für begrenzte Zeit und solange der Vorrat reicht verkauft wird und die Auswahl je nach Store variiert. Die britische Liste ist deshalb ein Anhaltspunkt, keine Garantie für dein Coffee House. Preise in Euro nennt Starbucks für Deutschland nicht, du erfährst sie erst an der Kasse.
 
-## 3. Die Peanuts-Kollektion: **Snoopy**-Becher seit 15. September
+## 3. Die Peanuts-Kollektion: Snoopy-Becher seit 15. September
 
 Die Kollektion „Peanuts x Starbucks“ ist die bekannteste Becher-Neuheit im Herbst 2026. Sie startete am 15. September 2026 weltweit in teilnehmenden Coffee Houses, darunter Märkte in Europa. Anlass ist der 60. Geburtstag des Halloween-Specials „It's the Great Pumpkin, Charlie Brown“ von 1966.
 
-Die Kollektion umfasst Becher, Tumbler, Tassen und Taschen mit **Snoopy**, Charlie Brown und Linus. Das gefragteste Stück ist ein **Snoopy**-Glasbecher im Stil des Bearista. In Österreich gibt es ihn laut Wiener Bezirksblatt (18. September 2026) exklusiv für Starbucks-Rewards-Mitglieder, solange der Vorrat reicht.
+Die Kollektion umfasst Becher, Tumbler, Tassen und Taschen mit Snoopy, Charlie Brown und Linus. Das gefragteste Stück ist ein Snoopy-Glasbecher im Stil des Bearista. In Österreich gibt es ihn laut Wiener Bezirksblatt (18. September 2026) exklusiv für Starbucks-Rewards-Mitglieder, solange der Vorrat reicht.
 
 ### Wie teuer ist der Snoopy-Becher?
 
@@ -60,19 +67,19 @@ Für Deutschland heißt das: Frag in deiner Filiale nach, ob sie Teil der Aktion
 | 14. Juli 2026 | Pink Bearista | alle Gäste, nur Filiale | max. 2 Stück | keine Nachlieferung geplant |
 | 15. September 2026 | Peanuts x Starbucks (Snoopy-Glasbecher u. a.) | teilnehmende Coffee Houses, solange der Vorrat reicht | je nach Markt | in den USA online nach wenigen Tagen fast ausverkauft |
 
-Der Bearista kam nach Deutschland, nachdem er zuvor in Österreich und der Schweiz verkauft worden war. In Wien war er laut Watson am ersten Tag nach weniger als einer Stunde weg. Das Muster wiederholt sich bei jedem Drop: kleiner Bestand pro Filiale, kein Online-Shop in Deutschland, Rewards-Mitglieder oft zuerst.
+Der Bearista kam nach Deutschland, nachdem er zuvor in Österreich und der Schweiz verkauft worden war. In Wien war er laut Watson am ersten Tag nach weniger als einer Stunde weg. Das Muster wiederholt sich bei jedem Drop: kleiner Bestand pro Filiale, kein Online-Shop in Deutschland, Rewards-Mitglieder oft zuerst. Wo die 179 Coffee Houses in Deutschland liegen, zeigt unsere Übersicht [Starbucks Filialen in Deutschland](/blog/starbucks-deutschland-filialen).
 
 ## 5. Wie bekommst du einen limitierten Starbucks Becher?
 
 Die besten Chancen hast du, wenn du am ersten Verkaufstag früh in einer großen Filiale bist und Starbucks-Rewards-Mitglied bist. Online kannst du limitierte Becher in Deutschland nicht direkt bei Starbucks bestellen.
 
-1. **Rewards-Konto anlegen:** Beim Pink Bearista durften Rewards-Mitglieder einen Tag früher kaufen, den Snoopy-Glasbecher gab es in Österreich nur für Mitglieder. Die App ist kostenlos.
+1. **Rewards-Konto anlegen:** Beim Pink Bearista durften Rewards-Mitglieder einen Tag früher kaufen, den Snoopy-Glasbecher gab es in Österreich nur für Mitglieder. Die App ist kostenlos. Welche weiteren Vorteile Rewards bringt, steht im Ratgeber [Starbucks Angebote](/blog/starbucks-angebote).
 2. **Starttermin kennen:** Drops werden oft erst kurz vorher bekannt. Beim Bearista erschienen die ersten deutschen Presseberichte am 22. Januar 2026, einen Tag vor dem Verkaufsstart.
-3. **Früh da sein:** In Berlin war der Bearista im Januar nach rund 20 Minuten ausverkauft. Wer zur Öffnung kommt, hat die besten Karten.
+3. **Früh da sein:** In Berlin war der Bearista im Januar nach rund 20 Minuten ausverkauft. Wer zur Öffnung kommt, hat die besten Karten. Wann deine Filiale aufmacht, prüfst du mit [Starbucks geöffnet](/blog/starbucks-geoeffnet).
 4. **Ausweichfiliale einplanen:** Nicht jede Filiale nimmt an jeder Aktion teil, und der Bestand pro Filiale ist klein. Welche Coffee Houses in deiner Nähe liegen, zeigt [Starbucks in meiner Nähe](/starbucks-in-meiner-naehe).
 5. **Limit einplanen:** Meist gilt höchstens zwei Stück pro Einkauf. Wer für Freunde mitkaufen will, braucht mehrere Einkäufe oder Begleitung.
 
-Wenn der Becher weg ist, bleibt der **Zweitmarkt**. Dort zahlst du oft ein Vielfaches: Der Snoopy-Glasbecher wurde auf Etsy laut Aktien.news für bis zu 120 US-Dollar gehandelt, dreimal so viel wie im Laden.
+Wenn der Becher weg ist, bleibt der Zweitmarkt. Dort zahlst du oft ein Vielfaches: Der Snoopy-Glasbecher wurde auf Etsy laut Aktien.news für bis zu 120 US-Dollar gehandelt, dreimal so viel wie im Laden. Lass dir beim Privatkauf Fotos vom Boden zeigen und prüfe die Echtheitsmerkmale aus dem [Starbucks Tasse Ratgeber](/blog/starbucks-tasse).
 
 ## 6. Was steht dauerhaft im Regal? Das Kernsortiment
 
@@ -90,17 +97,24 @@ Auch der Einwegbecher ist neu: Seit Mai 2025 bekommst du Heißgetränke in Deuts
 
 Deutschland gehörte laut Packaging Journal (14. Mai 2025) zu den ersten Märkten, zusammen mit Italien, Frankreich, Schweden, Österreich, der Schweiz, Spanien und Ungarn. Hergestellt wird der Becher von Transcend Packaging in Wales. Er ist für die Heimkompostierung zertifiziert und recycelbar. Optisch hat sich wenig geändert, deshalb fällt der Wechsel vielen Gästen gar nicht auf.
 
-Umweltfreundlicher bleibt der eigene Becher. Wer keinen dabeihat, kann den grünen **Pfandbecher** für 2,50 € Pfand nehmen. Welche Vorteile der eigene Becher bringt und was sich 2027 durch die EU-Verpackungsverordnung ändert, steht in der [Becher-Übersicht](/blog/starbucks-becher#rabatt-und-pfand).
+<figure class="inline-img"><img src="/img/blog/starbucks-pappbecher-deckel.webp" alt="Weißer Starbucks-Pappbecher mit Kunststoffdeckel, grünem Stopper und Papphülle" width="885" height="1200" loading="lazy" decoding="async"><figcaption>So sah der Starbucks-Pappbecher früher aus: Kunststoffdeckel mit grünem Stopper (2016). Seit Mai 2025 ist der Deckel in Deutschland aus Zellulose. Foto: Supuhstar, <a href="https://creativecommons.org/licenses/by-sa/4.0/deed.de" rel="noopener">CC BY-SA 4.0</a>, via <a href="https://commons.wikimedia.org/wiki/File:Hot_Stopper_in_the_lid_of_a_paper_coffee_cup_with_a_cardboard_sleeve.jpeg" rel="noopener">Wikimedia Commons</a></figcaption></figure>
+
+
+Umweltfreundlicher bleibt der eigene Becher. Wer keinen dabeihat, kann den grünen Pfandbecher für 2,50 € Pfand nehmen. Welche Vorteile der eigene Becher bringt und was sich 2027 durch die EU-Verpackungsverordnung ändert, steht in der [Becher-Übersicht](/blog/starbucks-becher#rabatt-und-pfand).
 
 ## 8. Gibt es aktuell eine Gratis-Becher-Aktion?
 
-Nein, eine Gratis-Becher-Aktion läuft derzeit nicht (Stand 28. September 2026). Die letzte Runde der Starbucks-at-Home-Aktion „**Deine Tasse** für dein Zuhause“ lief laut Teilnahmebedingungen vom 16. Juni bis 19. Oktober 2025. Die Aktionsseite auf starbucksathome.com ist inzwischen nicht mehr erreichbar.
+Nein, eine Gratis-Becher-Aktion läuft derzeit nicht (Stand 28. September 2026). Die letzte Runde der Starbucks-at-Home-Aktion „Deine Tasse für dein Zuhause“ lief laut Teilnahmebedingungen vom 16. Juni bis 19. Oktober 2025. Die Aktionsseite auf starbucksathome.com ist inzwischen nicht mehr erreichbar.
 
 Bei der Aktion gab es nach dem Kauf von drei Starbucks-Produkten aus dem Supermarkt, etwa Kapseln für Nespresso oder Dolce Gusto, eine Tasse samt Stift gratis. Ob es 2026 eine neue Runde gibt, ist offen. Die aktuellen Kapsel-Deals findest du im Ratgeber [Starbucks Kapseln Angebot](/blog/starbucks-kapseln-angebot).
 
 ## 9. Was kommt als Nächstes? Die Holiday-Saison
 
-Als Nächstes folgt die **Holiday-Kollektion** zum Jahresende. Einen Termin für 2026 hat Starbucks Deutschland noch nicht genannt (Stand 28. September 2026). Die erste Bearista-Edition mit grüner Mütze gehörte zur **Holiday-Kollektion** 2025 und kam erst im Januar 2026 nach Deutschland.
+Als Nächstes folgt die Holiday-Kollektion zum Jahresende. Einen Termin für 2026 hat Starbucks Deutschland noch nicht genannt (Stand 28. September 2026). Die erste Bearista-Edition mit grüner Mütze gehörte zur Holiday-Kollektion 2025 und kam erst im Januar 2026 nach Deutschland.
+
+Zur Holiday-Saison wechseln auch die Getränke. Welche Getränke dauerhaft auf der Karte stehen, zeigt unsere [Starbucks Getränke Liste](/blog/starbucks-getraenke#getraenke-liste).
+
+<figure class="inline-img"><img src="/img/blog/starbucks-red-cup-holiday.webp" alt="Roter Starbucks Holiday-Becher mit Papphülle und handgeschriebenem Merry Christmas" width="787" height="1200" loading="lazy" decoding="async"><figcaption>Der rote Holiday-Becher ist das bekannteste Saisonmotiv von Starbucks (Kyoto, 2015). Foto: Hiro – Kokoro☆Photo, <a href="https://creativecommons.org/licenses/by-sa/2.0/deed.de" rel="noopener">CC BY-SA 2.0</a>, via <a href="https://commons.wikimedia.org/wiki/File:Starbucks_Red_Cup.jpg" rel="noopener">Wikimedia Commons</a></figcaption></figure>
 
 Neue Holiday-Becher erscheinen in Deutschland also nicht immer zeitgleich mit den USA. Wir ergänzen diese Seite, sobald Termine bestätigt sind. Wer lieber eine Keramiktasse mit Deutschland-Motiv sammelt, findet die „You Are Here“- und „Been There“-Serien im Ratgeber [Starbucks Tassen](/blog/starbucks-tassen).
 
@@ -127,20 +141,17 @@ Meist höchstens zwei Stück pro Einkauf. Das galt beim Bearista im Januar und b
 ### Was kostet ein aktueller Starbucks Becher?
 Für Deutschland veröffentlicht Starbucks keine Preise, du siehst sie erst in der Filiale. In den USA kostete der Pink Bearista 29,95 US-Dollar und der Snoopy-Glasbecher rund 40 US-Dollar.
 
-### Lohnt sich **Starbucks Rewards** für limitierte Becher?
+### Lohnt sich Starbucks Rewards für limitierte Becher?
 Ja, wenn du Drops nicht verpassen willst. Beim Pink Bearista durften Rewards-Mitglieder einen Tag früher kaufen, und den Snoopy-Glasbecher gab es in Österreich nur für Mitglieder.
 
 ### Wann kommen die Starbucks Weihnachtsbecher 2026?
-Einen Termin hat Starbucks Deutschland noch nicht genannt (Stand 28. September 2026). Die **Holiday-Kollektion** erscheint zum Jahresende, einzelne Stücke kamen zuletzt aber erst Wochen später nach Deutschland.
+Einen Termin hat Starbucks Deutschland noch nicht genannt (Stand 28. September 2026). Die Holiday-Kollektion erscheint zum Jahresende, einzelne Stücke kamen zuletzt aber erst Wochen später nach Deutschland.
 
 ### Ist der Starbucks Pappbecher jetzt plastikfrei?
 Ja, seit Mai 2025. Der Heißgetränkebecher hat eine mineralische Innenbeschichtung statt Kunststoff, der Deckel ist aus Zellulose. Beide sind für die Heimkompostierung zertifiziert.
 
 ### Gibt es gerade einen Starbucks Becher gratis?
-Nein, derzeit nicht. Die letzte Aktion „**Deine Tasse** für dein Zuhause“ von Starbucks at Home endete am 19. Oktober 2025.
+Nein, derzeit nicht. Die letzte Aktion „Deine Tasse für dein Zuhause“ von Starbucks at Home endete am 19. Oktober 2025.
 
 ### Wo sehe ich, welche Becher meine Filiale hat?
 Das Kernsortiment steht auf starbucks.de unter Menü › Merchandise. Saisonware und limitierte Drops sind dort nicht gelistet, die siehst du nur vor Ort oder in Ankündigungen in der Starbucks-App.
-
-
-<!-- unused tier-3: Owala (not relevant to current DE drops); EU-PPWR details deferred to /blog/starbucks-becher -->

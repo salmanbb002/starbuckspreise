@@ -292,3 +292,6 @@
   .article-content .table-wrap { overflow: visible; }
   .article-content table { min-width: 0; }
 }
+.article-content figure.inline-img img { display: block; margin: 0 auto; width: auto; max-width: 100%; }
+.article-content figure.inline-img figcaption { margin-top: .6rem; font-size: .78rem; line-height: 1.5; color: var(--blog-muted); text-align: center; }
+.article-content figure.inline-img figcaption a { color: inherit; }
