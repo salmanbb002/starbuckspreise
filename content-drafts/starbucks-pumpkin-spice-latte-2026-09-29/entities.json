@@ -1,0 +1,201 @@
+[
+ {
+  "canonical": "Pumpkin Spice Latte",
+  "tier": 1,
+  "kind": "entity",
+  "sameAs": [
+   "https://en.wikipedia.org/wiki/Pumpkin_spice_latte",
+   "https://www.wikidata.org/wiki/Q18345746"
+  ]
+ },
+ {
+  "canonical": "Starbucks Deutschland",
+  "tier": 1,
+  "kind": "entity",
+  "sameAs": [
+   "https://www.wikidata.org/wiki/Q37158"
+  ]
+ },
+ {
+  "canonical": "Preis",
+  "tier": 1,
+  "kind": "term",
+  "sameAs": []
+ },
+ {
+  "canonical": "Kalorien",
+  "tier": 1,
+  "kind": "term",
+  "sameAs": []
+ },
+ {
+  "canonical": "Koffein",
+  "tier": 1,
+  "kind": "term",
+  "sameAs": []
+ },
+ {
+  "canonical": "Grande",
+  "tier": 1,
+  "kind": "entity",
+  "sameAs": []
+ },
+ {
+  "canonical": "Herbstkarte",
+  "tier": 1,
+  "kind": "entity",
+  "sameAs": []
+ },
+ {
+  "canonical": "Iced Pumpkin Spice Latte",
+  "tier": 1,
+  "kind": "entity",
+  "sameAs": []
+ },
+ {
+  "canonical": "Kürbis-Gewürzsauce",
+  "tier": 1,
+  "kind": "entity",
+  "sameAs": []
+ },
+ {
+  "canonical": "Tall",
+  "tier": 2,
+  "kind": "entity",
+  "sameAs": []
+ },
+ {
+  "canonical": "Venti",
+  "tier": 2,
+  "kind": "entity",
+  "sameAs": []
+ },
+ {
+  "canonical": "Halbfettmilch",
+  "tier": 2,
+  "kind": "entity",
+  "sameAs": []
+ },
+ {
+  "canonical": "Milchsorte",
+  "tier": 2,
+  "kind": "term",
+  "sameAs": []
+ },
+ {
+  "canonical": "Zucker",
+  "tier": 2,
+  "kind": "term",
+  "sameAs": []
+ },
+ {
+  "canonical": "Pumpkin Spice Caramel Macchiato",
+  "tier": 2,
+  "kind": "entity",
+  "sameAs": []
+ },
+ {
+  "canonical": "Pecan Maple Flavour Macchiato",
+  "tier": 2,
+  "kind": "entity",
+  "sameAs": []
+ },
+ {
+  "canonical": "Pumpkin Spice Matcha Latte",
+  "tier": 2,
+  "kind": "entity",
+  "sameAs": []
+ },
+ {
+  "canonical": "Pumpkin Spice Frappuccino",
+  "tier": 2,
+  "kind": "entity",
+  "sameAs": []
+ },
+ {
+  "canonical": "vegan",
+  "tier": 2,
+  "kind": "term",
+  "sameAs": []
+ },
+ {
+  "canonical": "Blonde Espresso",
+  "tier": 2,
+  "kind": "entity",
+  "sameAs": []
+ },
+ {
+  "canonical": "Decaf",
+  "tier": 2,
+  "kind": "entity",
+  "sameAs": []
+ },
+ {
+  "canonical": "Starbucks Rewards",
+  "tier": 2,
+  "kind": "entity",
+  "sameAs": []
+ },
+ {
+  "canonical": "Zimt/Muskatnuss/Nelke",
+  "tier": 2,
+  "kind": "entity",
+  "sameAs": []
+ },
+ {
+  "canonical": "Espresso",
+  "tier": 2,
+  "kind": "entity",
+  "sameAs": [
+   "https://en.wikipedia.org/wiki/Espresso"
+  ]
+ },
+ {
+  "canonical": "Pumpkin Spice Loaf Cake",
+  "tier": 3,
+  "kind": "entity",
+  "sameAs": []
+ },
+ {
+  "canonical": "Pumpkin Spice Cake Pop",
+  "tier": 3,
+  "kind": "entity",
+  "sameAs": []
+ },
+ {
+  "canonical": "Pecan Maple Cake",
+  "tier": 3,
+  "kind": "entity",
+  "sameAs": []
+ },
+ {
+  "canonical": "Apple Crumble Cinnamon Roll",
+  "tier": 3,
+  "kind": "entity",
+  "sameAs": []
+ },
+ {
+  "canonical": "Iced Apple Crumble Cream Matcha",
+  "tier": 3,
+  "kind": "entity",
+  "sameAs": []
+ },
+ {
+  "canonical": "Pumpkin Spice Cream Cold Foam",
+  "tier": 3,
+  "kind": "entity",
+  "sameAs": []
+ },
+ {
+  "canonical": "Peter Dukes",
+  "tier": 3,
+  "kind": "entity",
+  "sameAs": []
+ },
+ {
+  "canonical": "Nespresso/Dolce Gusto Pumpkin Spice",
+  "tier": 3,
+  "kind": "entity",
+  "sameAs": []
+ }
+]

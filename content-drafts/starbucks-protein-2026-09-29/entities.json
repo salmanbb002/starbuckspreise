@@ -1,0 +1,122 @@
+[
+ {
+  "canonical": "Starbucks Protein Latte",
+  "tier": 1
+ },
+ {
+  "canonical": "Soy Protein Vanilla Latte",
+  "tier": 1
+ },
+ {
+  "canonical": "Soy Protein Matcha Latte",
+  "tier": 1
+ },
+ {
+  "canonical": "Alpro Plant Protein Sojadrink",
+  "tier": 1
+ },
+ {
+  "canonical": "Protein (g)",
+  "tier": 1
+ },
+ {
+  "canonical": "Preis",
+  "tier": 1
+ },
+ {
+  "canonical": "Starbucks Deutschland",
+  "tier": 1
+ },
+ {
+  "canonical": "5 g/100 ml",
+  "tier": 2
+ },
+ {
+  "canonical": "Kalorien",
+  "tier": 2
+ },
+ {
+  "canonical": "Zucker",
+  "tier": 2
+ },
+ {
+  "canonical": "Koffein",
+  "tier": 2
+ },
+ {
+  "canonical": "Sugar-Free Vanilla Sirup",
+  "tier": 2
+ },
+ {
+  "canonical": "Grande/Tall/Venti",
+  "tier": 2
+ },
+ {
+  "canonical": "Iced",
+  "tier": 2
+ },
+ {
+  "canonical": "vegan",
+  "tier": 2
+ },
+ {
+  "canonical": "laktosefrei",
+  "tier": 2
+ },
+ {
+  "canonical": "Soja-Allergen",
+  "tier": 2
+ },
+ {
+  "canonical": "Starbucks Protein Drink With Coffee",
+  "tier": 2
+ },
+ {
+  "canonical": "330 ml / 20 g",
+  "tier": 2
+ },
+ {
+  "canonical": "Caffè Latte Vergleich",
+  "tier": 2
+ },
+ {
+  "canonical": "Protein Cold Foam (not DE)",
+  "tier": 2
+ },
+ {
+  "canonical": "AmRest",
+  "tier": 2
+ },
+ {
+  "canonical": "Danone",
+  "tier": 2
+ },
+ {
+  "canonical": "jedes Getränk mit Protein-Sojadrink",
+  "tier": 2
+ },
+ {
+  "canonical": "Caramel Protein Americano",
+  "tier": 3
+ },
+ {
+  "canonical": "Rewe",
+  "tier": 3
+ },
+ {
+  "canonical": "Acesulfam-K",
+  "tier": 3
+ },
+ {
+  "canonical": "Decaf",
+  "tier": 3
+ },
+ {
+  "canonical": "Christine Borghardt (unused)",
+  "tier": 3
+ },
+ {
+  "canonical": "Sojabohnen-Anteil",
+  "tier": 3
+ }
+]

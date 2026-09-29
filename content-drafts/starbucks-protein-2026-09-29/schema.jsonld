@@ -1,0 +1,198 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "BlogPosting",
+      "@id": "https://starbuckspreise.com/blog/starbucks-protein#article",
+      "headline": "Starbucks Protein Latte 2026: Preis, Protein & Kalorien",
+      "description": "Starbucks Protein Drinks in Deutschland: Soy Protein Vanilla Latte (5,90 €) und Matcha (7,90 €) mit bis zu 22,7 g Eiweiß – plus Protein-Kaffee aus dem Supermarkt.",
+      "inLanguage": "de-DE",
+      "datePublished": "2026-10-05",
+      "dateModified": "2026-10-05",
+      "mainEntityOfPage": "https://starbuckspreise.com/blog/starbucks-protein",
+      "image": "https://starbuckspreise.com/img/blog/starbucks-protein-hero.webp",
+      "author": {
+        "@type": "Organization",
+        "name": "StarbucksPreise Redaktion",
+        "url": "https://starbuckspreise.com/ueber-uns"
+      },
+      "publisher": {
+        "@type": "Organization",
+        "name": "StarbucksPreise",
+        "url": "https://starbuckspreise.com/",
+        "logo": {
+          "@type": "ImageObject",
+          "url": "TODO: https://starbuckspreise.com/<logo-file>"
+        }
+      },
+      "about": [
+        {
+          "@type": "Thing",
+          "name": "Soy Protein Vanilla Latte"
+        },
+        {
+          "@type": "Organization",
+          "name": "Starbucks",
+          "sameAs": [
+            "https://www.wikidata.org/wiki/Q37158",
+            "https://www.starbucks.de/"
+          ]
+        }
+      ],
+      "mentions": [
+        {
+          "@type": "Thing",
+          "name": "Soy Protein Matcha Latte"
+        },
+        {
+          "@type": "Brand",
+          "name": "Alpro",
+          "sameAs": "https://en.wikipedia.org/wiki/Alpro"
+        },
+        {
+          "@type": "Organization",
+          "name": "AmRest",
+          "sameAs": "https://www.wikidata.org/wiki/Q4738898"
+        },
+        {
+          "@type": "Thing",
+          "name": "Soy milk",
+          "sameAs": [
+            "https://en.wikipedia.org/wiki/Soy_milk",
+            "https://www.wikidata.org/wiki/Q192199"
+          ]
+        },
+        {
+          "@type": "Thing",
+          "name": "Protein",
+          "sameAs": "https://www.wikidata.org/wiki/Q8054"
+        },
+        {
+          "@type": "Thing",
+          "name": "Matcha",
+          "sameAs": "https://en.wikipedia.org/wiki/Matcha"
+        },
+        {
+          "@type": "Thing",
+          "name": "Starbucks Protein Drink With Coffee",
+          "sameAs": "https://www.starbuckschilledcoffee.com/de/products/protein-drink-with-coffee/caffe-latte/"
+        }
+      ],
+      "speakable": {
+        "@type": "SpeakableSpecification",
+        "cssSelector": [
+          "#direct-answer"
+        ]
+      }
+    },
+    {
+      "@type": "FAQPage",
+      "@id": "https://starbuckspreise.com/blog/starbucks-protein#faq",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "Was kostet der Protein Latte bei Starbucks?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Der Soy Protein Vanilla Latte kostet 5,90 €, der Soy Protein Matcha Latte 7,90 €, jeweils heiß oder iced. Das sind die Preise der Filiale Freiburg Hauptbahnhof (September 2026). In anderen Filialen kann der Preis abweichen."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Wie viel Protein hat der Starbucks Matcha Protein Latte?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Der Soy Protein Matcha Latte hat im Tall 13,7 g, im Grande 17 g und im Venti 22,7 g Protein. Iced sind es im Grande 12,1 g. Der Matcha ist ungesüßt, deshalb hat der Grande nur 8 g Zucker."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Welche Milch nutzt Starbucks für die Protein Lattes?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Starbucks nutzt den Alpro Plant Protein Sojadrink von Danone. Er hat 5 g pflanzliches Protein pro 100 ml. Den gleichen Drink kannst du auch in andere Getränke statt Milch nehmen lassen."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Gibt es bei Starbucks Deutschland Protein Cold Foam?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Nein. Den Protein Cold Foam mit Whey-Protein gibt es in den USA und in anderen Märkten, in der deutschen Nährwertliste vom 10. September 2026 taucht er aber nicht auf. In Deutschland kommt das zusätzliche Protein über den Soja-Proteindrink."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Ist der Starbucks Protein Latte zuckerfrei?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Nicht ganz. Der Vanilla-Sirup ist zuckerfrei, aber der Sojadrink bringt etwas eigenen Zucker mit. Im Grande sind es 8 g Zucker, gut die Hälfte eines normalen Caffè Latte mit Halbfettmilch (14,2 g)."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Hat der Protein Latte weniger Koffein?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Ja, der Soy Protein Vanilla Latte hat einen Shot weniger als ein normaler Caffè Latte. Tall hat 44,5 mg statt 89,1 mg, Venti 89,1 mg statt 133,6 mg. Nur im Grande sind es bei beiden 89,1 mg."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Gibt es einen Protein Americano bei Starbucks Deutschland?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Die Nährwertliste von Starbucks Deutschland führt einen Blonde Caramel Protein Americano mit 16,4 g Protein und 100 kcal im Grande, dazu eine Decaf-Version. Auf der Online-Getränkekarte von starbucks.de steht er im September 2026 aber nicht. Frag in deiner Filiale, ob er angeboten wird."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Wie viel Protein hat der Starbucks Protein Drink aus dem Supermarkt?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Eine 330-ml-Flasche hat 20 g Protein, das sind 6,1 g pro 100 ml. Dazu kommen 51 kcal und 3,8 g Zucker pro 100 ml. Das Protein stammt aus Milch."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Ist der Starbucks Protein Latte gut nach dem Training?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Mit 16 bis 23 g Protein im Grande oder Venti liefert er eine ordentliche Portion Eiweiß. Ein klassischer Proteinshake hat oft mehr. Als Kaffee nach dem Sport mit Extra-Eiweiß funktioniert er, als Ersatz für einen Shake eher nicht."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Kann ich einen Protein Latte laktosefrei bestellen?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Ja. Beide Protein-Lattes sind mit Sojadrink zubereitet und damit laktosefrei und vegan. Achte nur auf Soja als Allergen. Beim Supermarkt-Drink gilt das nicht, er basiert auf Kuhmilch."
+          }
+        }
+      ]
+    },
+    {
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Startseite",
+          "item": "https://starbuckspreise.com/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Blog",
+          "item": "https://starbuckspreise.com/blog/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "Starbucks Protein",
+          "item": "https://starbuckspreise.com/blog/starbucks-protein"
+        }
+      ]
+    }
+  ]
+}

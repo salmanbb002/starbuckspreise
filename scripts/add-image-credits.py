@@ -15,13 +15,16 @@ def ledger():
         name = block.split()[0]
         src = re.search(r'- Source: (\S+)', block)
         author = re.search(r'- Author: (.+)', block)
-        lic = re.search(r'- License: (CC BY[^—\n]*?)\s*(?:—|$)', block, re.M)
-        if src and author and lic and lic.group(1).strip() in LICENSES:
+        lic = re.search(r'- License: (CC BY[^—\n]*?|Unsplash License)\s*(?:—|\(|$)', block, re.M)
+        if src and author and lic and (lic.group(1).strip() in LICENSES or lic.group(1) == 'Unsplash License'):
             a = re.sub(r',? via Wikimedia Commons|,? Wikimedia Commons$', '', author.group(1).strip())
             out[name] = (src.group(1), a, lic.group(1).strip())
     return out
 
 def credit(src, author, lic):
+    if lic == 'Unsplash License':
+        return (f'<p class="img-credit">Foto: {html.escape(author)}, '
+                f'via <a href="{html.escape(src)}" rel="noopener">Unsplash</a></p>')
     return (f'<p class="img-credit">Foto: {html.escape(author)}, '
             f'<a href="https://creativecommons.org/licenses/{LICENSES[lic]}/deed.de" rel="noopener">{lic}</a>, '
             f'via <a href="{html.escape(src)}" rel="noopener">Wikimedia Commons</a></p>')

@@ -161,3 +161,21 @@ Hero photos sourced from Wikimedia Commons for the 2026-09-17 location/product p
 - Author: soultea.de/André Helbig
 - License: CC BY-SA 3.0 — attribution required if reused/redistributed further
 - Note: 2026-09-28 — generic Earl Grey in glass cup and pot, no Starbucks/Teavana tea photo on Commons.
+
+## starbucks-pumpkin-spice-latte-hero.webp
+- Source: https://unsplash.com/photos/YDlcL-_GxMw
+- Author: Madeline Liu
+- License: Unsplash License (free, no attribution required; credited on-page anyway)
+- Note: 2026-09-29 — generic spiced latte with cinnamon and pumpkin, cropped 16:10, no Starbucks branding.
+
+## starbucks-app-hero.webp
+- Source: https://unsplash.com/photos/J18Ycw0-EDE
+- Author: Vardan Papikyan
+- License: Unsplash License (free, no attribution required; credited on-page anyway)
+- Note: 2026-09-29 — hand with smartphone and generic to-go cup, no Starbucks branding.
+
+## starbucks-protein-hero.webp
+- Source: https://unsplash.com/photos/Fq2i-hGJwNc
+- Author: Kenny Kennethh
+- License: Unsplash License (free, no attribution required; credited on-page anyway)
+- Note: 2026-09-29 — generic layered latte in glass, no Starbucks branding.

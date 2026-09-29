@@ -1,0 +1,98 @@
+[
+ {
+  "canonical": "Starbucks App",
+  "tier": 1
+ },
+ {
+  "canonical": "Starbucks Rewards",
+  "tier": 1
+ },
+ {
+  "canonical": "Sterne",
+  "tier": 1
+ },
+ {
+  "canonical": "Freigetränk",
+  "tier": 1
+ },
+ {
+  "canonical": "Gold-Status",
+  "tier": 1
+ },
+ {
+  "canonical": "Geburtstagsgetränk",
+  "tier": 1
+ },
+ {
+  "canonical": "Starbucks Deutschland",
+  "tier": 1
+ },
+ {
+  "canonical": "Starbucks Card",
+  "tier": 2
+ },
+ {
+  "canonical": "Mobile Order",
+  "tier": 2
+ },
+ {
+  "canonical": "teilnehmende Filialen",
+  "tier": 2
+ },
+ {
+  "canonical": "Tier-Jahr",
+  "tier": 2
+ },
+ {
+  "canonical": "Tier-Sterne",
+  "tier": 2
+ },
+ {
+  "canonical": "Green-Status",
+  "tier": 2
+ },
+ {
+  "canonical": "Gratis-Refill",
+  "tier": 2
+ },
+ {
+  "canonical": "Gratis-Sirup/Extra-Shot",
+  "tier": 2
+ },
+ {
+  "canonical": "App Store",
+  "tier": 2
+ },
+ {
+  "canonical": "Google Play",
+  "tier": 2
+ },
+ {
+  "canonical": "Guthabenschutz",
+  "tier": 2
+ },
+ {
+  "canonical": "Empfehlungscode",
+  "tier": 2
+ },
+ {
+  "canonical": "Starbucks Coffee Company Seattle",
+  "tier": 3
+ },
+ {
+  "canonical": "Datenschutz/Marketing-Einstellungen",
+  "tier": 3
+ },
+ {
+  "canonical": "eigener Becher",
+  "tier": 3
+ },
+ {
+  "canonical": "Freunde werben (not confirmed)",
+  "tier": 3
+ },
+ {
+  "canonical": "US Rewards (off-intent)",
+  "tier": 3
+ }
+]

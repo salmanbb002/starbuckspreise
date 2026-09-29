@@ -1,0 +1,232 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "BlogPosting",
+      "@id": "https://starbuckspreise.com/blog/starbucks-app#article",
+      "headline": "Starbucks App Deutschland: Rewards, Sterne & Geburtstag 2026",
+      "description": "Starbucks App Deutschland erklärt: 3 Sterne pro Euro, Freigetränk ab 150 Sternen, Gold ab 450 – mit Geburtstagsgetränk, Mobile Order und Rechenbeispielen.",
+      "inLanguage": "de-DE",
+      "datePublished": "2026-10-02",
+      "dateModified": "2026-10-02",
+      "mainEntityOfPage": "https://starbuckspreise.com/blog/starbucks-app",
+      "image": "https://starbuckspreise.com/img/blog/starbucks-app-hero.webp",
+      "author": {
+        "@type": "Organization",
+        "name": "StarbucksPreise Redaktion",
+        "url": "https://starbuckspreise.com/ueber-uns"
+      },
+      "publisher": {
+        "@type": "Organization",
+        "name": "StarbucksPreise",
+        "url": "https://starbuckspreise.com/",
+        "logo": {
+          "@type": "ImageObject",
+          "url": "TODO: https://starbuckspreise.com/<logo-file>"
+        }
+      },
+      "about": [
+        {
+          "@type": "Thing",
+          "name": "Starbucks® Deutschland App",
+          "sameAs": [
+            "https://apps.apple.com/de/app/starbucks-deutschland/id948562829",
+            "https://play.google.com/store/apps/details?id=com.starbucks.de"
+          ]
+        },
+        {
+          "@type": "Organization",
+          "name": "Starbucks",
+          "sameAs": [
+            "https://www.wikidata.org/wiki/Q37158",
+            "https://www.starbucks.de/"
+          ]
+        }
+      ],
+      "mentions": [
+        {
+          "@type": "Thing",
+          "name": "Starbucks Rewards",
+          "sameAs": "https://www.starbucks.de/rewards"
+        },
+        {
+          "@type": "Thing",
+          "name": "Starbucks Card",
+          "sameAs": "https://www.starbucks.de/de/starbucks-card"
+        },
+        {
+          "@type": "Thing",
+          "name": "Loyalty program",
+          "sameAs": [
+            "https://en.wikipedia.org/wiki/Loyalty_program",
+            "https://www.wikidata.org/wiki/Q1426546"
+          ]
+        },
+        {
+          "@type": "Thing",
+          "name": "Mobile app",
+          "sameAs": "https://www.wikidata.org/wiki/Q620615"
+        }
+      ],
+      "speakable": {
+        "@type": "SpeakableSpecification",
+        "cssSelector": [
+          "#direct-answer"
+        ]
+      }
+    },
+    {
+      "@type": "FAQPage",
+      "@id": "https://starbuckspreise.com/blog/starbucks-app#faq",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "Ist die Starbucks App kostenlos?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Ja. Die App „Starbucks® Deutschland“ und die Mitgliedschaft bei Starbucks Rewards sind kostenlos. Es gibt keine Jahresgebühr und keine versteckten Kosten. Du zahlst nur deine Getränke."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Wie viele Sterne bekommt man pro Euro bei Starbucks?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Du bekommst 3 Sterne pro ausgegebenem Euro. Das gilt für jede Zahlart, also Starbucks Card, bar, Girokarte oder Kreditkarte. Voraussetzung ist, dass du beim Bezahlen dein Rewards-Konto scannen lässt."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Wie viel muss ich für ein Freigetränk ausgeben?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Für ein Freigetränk brauchst du 150 Sterne, das sind 50 € Umsatz. Am meisten holst du heraus, wenn du die Prämie für ein teures Getränk einlöst, zum Beispiel einen Frappuccino für 7,40 €."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Kann ich ohne App Sterne sammeln?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Ja, grundsätzlich schon. Starbucks nennt als Anmeldeweg App oder Website, und eine registrierte Starbucks Card sammelt ebenfalls Sterne. Am einfachsten geht es aber über den Code in der App, denn nur dort siehst du Sterne und Prämien direkt."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Gibt es einen Starbucks Empfehlungscode?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Ein offizielles Freunde-werben-Programm mit Empfehlungscode nennt Starbucks Deutschland auf seinen Rewards-Seiten nicht (Stand September 2026). Codes aus Foren oder Gutschein-Portalen solltest du mit Vorsicht behandeln. Prüfe in der App unter „Angebote“, ob gerade eine offizielle Aktion läuft."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Wann verfallen meine Starbucks Sterne?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Rewards-Sterne sind zwei Jahre ab dem Tag der Gutschrift gültig. Die Sterne für deinen Status (Tier-Sterne) zählen nur im jeweiligen Tier-Jahr."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Was passiert, wenn ich mein Handy verliere?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Dein Guthaben bleibt geschützt, wenn deine Starbucks Card im Rewards-Konto registriert ist. Melde dich auf dem neuen Handy mit deinen Zugangsdaten an, dann sind Guthaben, Sterne und Prämien wieder da."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Gilt die Starbucks App in jeder Filiale?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Sterne sammeln und einlösen kannst du in den teilnehmenden Starbucks Stores in Deutschland. Vorbestellen per Mobile Order geht nur in Filialen, die die Funktion anbieten. Ob dein Store mitmacht, siehst du bei der Filialauswahl in der App."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Kann ich die deutsche Starbucks App im Ausland nutzen?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Die App „Starbucks® Deutschland“ gilt für das deutsche Rewards-Programm. Im Ausland laufen eigene Apps und Programme, etwa in den USA oder in Großbritannien. Deine deutschen Sterne kannst du dort nicht einlösen."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Wie bekomme ich den Gold-Status bei Starbucks?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Sammle 450 Sterne innerhalb eines Tier-Jahres, das entspricht 150 € Umsatz. Danach bekommst du Gratis-Sirup, Gratis-Extra-Shots, Refills für Filterkaffee und Tee sowie ein Geburtstagsgetränk. Den Status musst du jedes Jahr neu erreichen."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Kann ich Rewards mit dem eigenen Becher kombinieren?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Ja, Sterne bekommst du für den gezahlten Betrag, egal ob im Pappbecher oder im eigenen Mehrwegbecher. Wie viel ein eigener Becher spart, hängt von der Filiale ab. Details stehen in unserem Artikel über Starbucks Becher."
+          }
+        }
+      ]
+    },
+    {
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Startseite",
+          "item": "https://starbuckspreise.com/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Blog",
+          "item": "https://starbuckspreise.com/blog/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "Starbucks App",
+          "item": "https://starbuckspreise.com/blog/starbucks-app"
+        }
+      ]
+    },
+    {
+      "@type": "HowTo",
+      "name": "Mit der Starbucks App vorbestellen",
+      "step": [
+        {
+          "@type": "HowToStep",
+          "position": 1,
+          "name": "App öffnen und anmelden",
+          "text": "Öffne die Starbucks App und melde dich mit deinem Rewards-Konto an."
+        },
+        {
+          "@type": "HowToStep",
+          "position": 2,
+          "name": "Filiale wählen",
+          "text": "Wähle einen Store in der Nähe, der Vorbestellung anbietet."
+        },
+        {
+          "@type": "HowToStep",
+          "position": 3,
+          "name": "Getränk auswählen und anpassen",
+          "text": "Stelle Größe, Milchsorte, Sirup und Extras ein."
+        },
+        {
+          "@type": "HowToStep",
+          "position": 4,
+          "name": "Bezahlen",
+          "text": "Bezahle mit dem Guthaben deiner digitalen Starbucks Card; die Sterne werden automatisch gutgeschrieben."
+        },
+        {
+          "@type": "HowToStep",
+          "position": 5,
+          "name": "Abholen",
+          "text": "Hole dein Getränk an der Abholstation der Filiale ab."
+        }
+      ]
+    }
+  ]
+}

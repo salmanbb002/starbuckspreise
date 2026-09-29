@@ -1,0 +1,20 @@
+{
+  "slug": "/blog/starbucks-protein",
+  "date": "2026-10-05",
+  "crumb": "Starbucks Protein",
+  "title": "Starbucks Protein Latte 2026: Preis, Protein & Kalorien",
+  "description": "Starbucks Protein Drinks in Deutschland: Soy Protein Vanilla Latte (5,90 €) und Matcha (7,90 €) mit bis zu 22,7 g Eiweiß – plus Protein-Kaffee aus dem Supermarkt.",
+  "about": [
+    {"@type": "Thing", "name": "Soy Protein Vanilla Latte"},
+    {"@type": "Organization", "name": "Starbucks", "sameAs": ["https://www.wikidata.org/wiki/Q37158", "https://www.starbucks.de/"]}
+  ],
+  "mentions": [
+    {"@type": "Thing", "name": "Soy Protein Matcha Latte"},
+    {"@type": "Brand", "name": "Alpro", "sameAs": "https://en.wikipedia.org/wiki/Alpro"},
+    {"@type": "Organization", "name": "AmRest", "sameAs": "https://www.wikidata.org/wiki/Q4738898"},
+    {"@type": "Thing", "name": "Soy milk", "sameAs": ["https://en.wikipedia.org/wiki/Soy_milk", "https://www.wikidata.org/wiki/Q192199"]},
+    {"@type": "Thing", "name": "Protein", "sameAs": "https://www.wikidata.org/wiki/Q8054"},
+    {"@type": "Thing", "name": "Matcha", "sameAs": "https://en.wikipedia.org/wiki/Matcha"},
+    {"@type": "Thing", "name": "Starbucks Protein Drink With Coffee", "sameAs": "https://www.starbuckschilledcoffee.com/de/products/protein-drink-with-coffee/caffe-latte/"}
+  ]
+}

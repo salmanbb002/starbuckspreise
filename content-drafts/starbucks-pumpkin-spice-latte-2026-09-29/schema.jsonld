@@ -1,0 +1,216 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "BlogPosting",
+      "@id": "https://starbuckspreise.com/blog/starbucks-pumpkin-spice-latte#article",
+      "headline": "Starbucks Pumpkin Spice Latte 2026: Preis, Kalorien & Koffein",
+      "description": "Starbucks Pumpkin Spice Latte 2026: 6,20 €, 259 kcal im Grande, 89 mg Koffein. Alle Herbstgetränke in Deutschland mit Preisen, Kalorien & veganen Tipps.",
+      "inLanguage": "de-DE",
+      "datePublished": "2026-10-01",
+      "dateModified": "2026-10-01",
+      "mainEntityOfPage": "https://starbuckspreise.com/blog/starbucks-pumpkin-spice-latte",
+      "image": "https://starbuckspreise.com/img/blog/starbucks-pumpkin-spice-latte-hero.webp",
+      "author": {
+        "@type": "Organization",
+        "name": "StarbucksPreise Redaktion",
+        "url": "https://starbuckspreise.com/ueber-uns"
+      },
+      "publisher": {
+        "@type": "Organization",
+        "name": "StarbucksPreise",
+        "url": "https://starbuckspreise.com/",
+        "logo": {
+          "@type": "ImageObject",
+          "url": "TODO: https://starbuckspreise.com/<logo-file>"
+        }
+      },
+      "about": [
+        {
+          "@type": "Thing",
+          "name": "Pumpkin Spice Latte",
+          "sameAs": [
+            "https://en.wikipedia.org/wiki/Pumpkin_spice_latte",
+            "https://www.wikidata.org/wiki/Q18345746"
+          ]
+        },
+        {
+          "@type": "Organization",
+          "name": "Starbucks",
+          "sameAs": [
+            "https://www.wikidata.org/wiki/Q37158",
+            "https://www.starbucks.de/"
+          ]
+        }
+      ],
+      "mentions": [
+        {
+          "@type": "Thing",
+          "name": "Espresso",
+          "sameAs": "https://en.wikipedia.org/wiki/Espresso"
+        },
+        {
+          "@type": "Thing",
+          "name": "Pumpkin pie spice",
+          "sameAs": "https://en.wikipedia.org/wiki/Pumpkin_pie_spice"
+        },
+        {
+          "@type": "Thing",
+          "name": "Matcha",
+          "sameAs": "https://en.wikipedia.org/wiki/Matcha"
+        },
+        {
+          "@type": "Thing",
+          "name": "Pumpkin Spice Caramel Macchiato"
+        },
+        {
+          "@type": "Thing",
+          "name": "Pecan Maple Flavour Macchiato"
+        },
+        {
+          "@type": "Thing",
+          "name": "Pumpkin Spice Matcha Latte"
+        },
+        {
+          "@type": "Thing",
+          "name": "Pumpkin Spice Frappuccino"
+        },
+        {
+          "@type": "Thing",
+          "name": "Starbucks Rewards"
+        }
+      ],
+      "speakable": {
+        "@type": "SpeakableSpecification",
+        "cssSelector": [
+          "#direct-answer"
+        ]
+      }
+    },
+    {
+      "@type": "FAQPage",
+      "@id": "https://starbuckspreise.com/blog/starbucks-pumpkin-spice-latte#faq",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "Wie viel kostet ein Pumpkin Spice Latte bei Starbucks in Deutschland?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Ein Pumpkin Spice Latte kostet 2026 bei Starbucks Deutschland 6,20 €, heiß wie iced (Beispiel Freiburg Hauptbahnhof). Die Preise legen die Filialen fest. An Flughäfen, Bahnhöfen oder mit Pflanzendrink kann es mehr kosten."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Wie viele Kalorien hat ein Pumpkin Spice Latte Grande?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Ein heißer Pumpkin Spice Latte Grande mit Halbfettmilch hat laut Starbucks Deutschland 259 kcal. Mit Vollmilch sind es 297 kcal, mit Mandeldrink 205 kcal. Die Iced-Version kommt mit Halbfettmilch auf 192 kcal."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Wie viel Koffein hat ein Pumpkin Spice Latte?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Tall und Grande haben je 89,1 mg Koffein aus zwei Espresso-Shots, der Venti 133,6 mg aus drei Shots. Die Decaf-Version hat 3,6 mg."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Ist echter Kürbis im Pumpkin Spice Latte?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "In den USA enthält die Pumpkin-Spice-Sauce seit 2015 Kürbispüree. Starbucks Deutschland beschreibt sie als „aromatische Kürbis-Gewürzsauce“ und nennt auf der Karte keine Zutatenliste mit Kürbisanteil. Den Geschmack prägen vor allem Zimt, Muskatnuss und Nelke."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Bis wann gibt es den Pumpkin Spice Latte 2026?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Starbucks nennt kein festes Enddatum. Der PSL läuft als Herbstgetränk meist bis in den November, danach übernimmt die Weihnachtskarte. Solange er in der App oder auf starbucks.de unter den Saisongetränken steht, kannst du ihn bestellen."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Gibt es den Pumpkin Spice Latte auch kalt?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Ja. Den Iced Pumpkin Spice Latte gibt es zum gleichen Preis wie die heiße Version (6,20 €). Mit Eis hat er im Grande 192 statt 259 kcal. Dazu kommen der Iced Pumpkin Spice Caramel Macchiato und zwei Pumpkin-Spice-Frappuccinos."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Kann ich den Pumpkin Spice Latte laktosefrei bestellen?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Ja, mit einem der vier Pflanzendrinks: Soja, Hafer, Mandel oder Kokos. Für einen komplett veganen heißen PSL lässt du zusätzlich das Topping weg. So steht es in der Allergenliste von Starbucks Deutschland."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Was ist der Unterschied zwischen Pumpkin Spice Latte und Pumpkin Spice Caramel Macchiato?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Beim Latte verbindet sich die Sauce mit Espresso und Milch, obendrauf kommen Milchschaum und eine Gewürzmischung. Beim Macchiato wird die Sauce mit der Milch kombiniert und der Espresso zuletzt dazugegeben, oben drauf kommt ein Karamell-Topping. Er kostet 6,40 € statt 6,20 € und hat im Grande 234 statt 259 kcal."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Gibt es den Pumpkin Spice Latte mit Rewards gratis?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Ja. Mit 150 Sternen löst du in der Starbucks App ein Getränk deiner Wahl ein, auch den PSL. Du bekommst 3 Sterne pro Euro, brauchst also 50 € Umsatz. Da der PSL zu den teureren Getränken gehört, lohnt sich die Prämie für ihn besonders."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Welches Starbucks Herbstgetränk hat die wenigsten Kalorien?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Der Iced Pumpkin Spice Latte mit Mandeldrink hat im Grande nur 144 kcal. Mit Halbfettmilch ist der Iced Pumpkin Spice Latte (192 kcal) der leichteste, knapp vor dem Iced Pumpkin Spice Caramel Macchiato (209 kcal). Am meisten hat der Pumpkin Spice Coffee Frappuccino mit 351 kcal."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Welche Herbstgetränke von Starbucks USA gibt es nicht in Deutschland?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Pumpkin Cream Cold Brew, Iced Pumpkin Cream Shaken Espresso, Pumpkin Spice Chai, Pecan Crunch Latte, Pecan Cortado und der Chaider stehen 2026 nicht auf der deutschen Karte. Dafür gibt es hier den Pecan Maple Macchiato und zwei Pumpkin-Spice-Matcha-Drinks."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Gibt es Pumpkin Spice Latte mit weniger Zucker?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Einen zuckerfreien Pumpkin Spice Latte gibt es nicht, denn der Geschmack kommt aus der gesüßten Sauce. Am wenigsten Zucker hat der Grande mit Soja- oder Mandeldrink (rund 26 g statt 31,4 g). Weniger Zucker bekommst du auch mit dem Tall (23,4 g)."
+          }
+        }
+      ]
+    },
+    {
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Startseite",
+          "item": "https://starbuckspreise.com/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Blog",
+          "item": "https://starbuckspreise.com/blog/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "Starbucks Pumpkin Spice Latte",
+          "item": "https://starbuckspreise.com/blog/starbucks-pumpkin-spice-latte"
+        }
+      ]
+    }
+  ]
+}

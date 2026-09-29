@@ -1,0 +1,21 @@
+{
+  "slug": "/blog/starbucks-pumpkin-spice-latte",
+  "date": "2026-10-01",
+  "crumb": "Starbucks Pumpkin Spice Latte",
+  "title": "Starbucks Pumpkin Spice Latte 2026: Preis, Kalorien & Koffein",
+  "description": "Starbucks Pumpkin Spice Latte 2026: 6,20 €, 259 kcal im Grande, 89 mg Koffein. Alle Herbstgetränke in Deutschland mit Preisen, Kalorien & veganen Tipps.",
+  "about": [
+    {"@type": "Thing", "name": "Pumpkin Spice Latte", "sameAs": ["https://en.wikipedia.org/wiki/Pumpkin_spice_latte", "https://www.wikidata.org/wiki/Q18345746"]},
+    {"@type": "Organization", "name": "Starbucks", "sameAs": ["https://www.wikidata.org/wiki/Q37158", "https://www.starbucks.de/"]}
+  ],
+  "mentions": [
+    {"@type": "Thing", "name": "Espresso", "sameAs": "https://en.wikipedia.org/wiki/Espresso"},
+    {"@type": "Thing", "name": "Pumpkin pie spice", "sameAs": "https://en.wikipedia.org/wiki/Pumpkin_pie_spice"},
+    {"@type": "Thing", "name": "Matcha", "sameAs": "https://en.wikipedia.org/wiki/Matcha"},
+    {"@type": "Thing", "name": "Pumpkin Spice Caramel Macchiato"},
+    {"@type": "Thing", "name": "Pecan Maple Flavour Macchiato"},
+    {"@type": "Thing", "name": "Pumpkin Spice Matcha Latte"},
+    {"@type": "Thing", "name": "Pumpkin Spice Frappuccino"},
+    {"@type": "Thing", "name": "Starbucks Rewards"}
+  ]
+}
