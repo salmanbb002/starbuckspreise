@@ -1,0 +1,712 @@
+[
+ {
+  "name": "Apple Crumble Cinnamon Roll",
+  "g": "140",
+  "kcal": "433",
+  "fat": "15,0",
+  "sugar": "22,8",
+  "protein": "8,1",
+  "salt": "0,500",
+  "vegan": "nein"
+ },
+ {
+  "name": "Banana-Caramel Cheesecake Muffin",
+  "g": "115",
+  "kcal": "408",
+  "fat": "20,7",
+  "sugar": "24,2",
+  "protein": "7,1",
+  "salt": "0,713",
+  "vegan": "nein"
+ },
+ {
+  "name": "Blaubeer Muffin",
+  "g": "115",
+  "kcal": "435",
+  "fat": "21,9",
+  "sugar": "21,9",
+  "protein": "6,7",
+  "salt": "0,771",
+  "vegan": "nein"
+ },
+ {
+  "name": "Blueberry-Lemon Curt Cheesecake",
+  "g": "136",
+  "kcal": "418",
+  "fat": "19,4",
+  "sugar": "36,0",
+  "protein": "8,8",
+  "salt": "0,367",
+  "vegan": "nein"
+ },
+ {
+  "name": "Bunny Cup Cookie",
+  "g": "60",
+  "kcal": "280",
+  "fat": "12,0",
+  "sugar": "22,2",
+  "protein": "3,4",
+  "salt": "0,144",
+  "vegan": "nein"
+ },
+ {
+  "name": "Cake Pop - Flamingo",
+  "g": "35",
+  "kcal": "179",
+  "fat": "11,0",
+  "sugar": "15,9",
+  "protein": "1,4",
+  "salt": "0,110",
+  "vegan": "nein"
+ },
+ {
+  "name": "Cake Pop - Little Chick",
+  "g": "35",
+  "kcal": "172",
+  "fat": "9,8",
+  "sugar": "14,0",
+  "protein": "1,6",
+  "salt": "0,220",
+  "vegan": "nein"
+ },
+ {
+  "name": "Cake Pop - Mystery Black Cat mit kakaohaltiger Fettglasur",
+  "g": "35",
+  "kcal": "154",
+  "fat": "8,1",
+  "sugar": "15,0",
+  "protein": "1,2",
+  "salt": "0,800",
+  "vegan": "nein"
+ },
+ {
+  "name": "Cake Pop - Pistachio Dream",
+  "g": "34",
+  "kcal": "168",
+  "fat": "10,4",
+  "sugar": "13,1",
+  "protein": "1,5",
+  "salt": "0,160",
+  "vegan": "nein"
+ },
+ {
+  "name": "Cake Pop - Pumpkin Spice mit kakaohaltiger Fettglasur",
+  "g": "35",
+  "kcal": "101",
+  "fat": "5,5",
+  "sugar": "8,7",
+  "protein": "1,0",
+  "salt": "0,230",
+  "vegan": "nein"
+ },
+ {
+  "name": "Cake Pop - Soccer Bear",
+  "g": "35",
+  "kcal": "166",
+  "fat": "10,0",
+  "sugar": "14,0",
+  "protein": "1,5",
+  "salt": "0,110",
+  "vegan": "nein"
+ },
+ {
+  "name": "Calamansi-Mango Lover Cake",
+  "g": "135",
+  "kcal": "598",
+  "fat": "33,9",
+  "sugar": "44,8",
+  "protein": "10,3",
+  "salt": "0,900",
+  "vegan": "nein"
+ },
+ {
+  "name": "Carrot Cake",
+  "g": "181",
+  "kcal": "817",
+  "fat": "52,6",
+  "sugar": "58,0",
+  "protein": "8,5",
+  "salt": "0,562",
+  "vegan": "nein"
+ },
+ {
+  "name": "Carrot Cake Zimtschnecke",
+  "g": "120",
+  "kcal": "462",
+  "fat": "19,4",
+  "sugar": "24,2",
+  "protein": "7,9",
+  "salt": "0,516",
+  "vegan": "nein"
+ },
+ {
+  "name": "Chocolate Brownie",
+  "g": "70",
+  "kcal": "310",
+  "fat": "20,2",
+  "sugar": "23,8",
+  "protein": "3,6",
+  "salt": "0,110",
+  "vegan": "nein"
+ },
+ {
+  "name": "Chocolate Cheesecake Muffin",
+  "g": "115",
+  "kcal": "439",
+  "fat": "25,0",
+  "sugar": "25,0",
+  "protein": "6,5",
+  "salt": "0,780",
+  "vegan": "nein"
+ },
+ {
+  "name": "Chocolate Chunk Cookie",
+  "g": "75",
+  "kcal": "319",
+  "fat": "12,7",
+  "sugar": "31,6",
+  "protein": "3,5",
+  "salt": "0,800",
+  "vegan": "nein"
+ },
+ {
+  "name": "Chocolate Lover Cake",
+  "g": "159",
+  "kcal": "590",
+  "fat": "32,6",
+  "sugar": "51,8",
+  "protein": "7",
+  "salt": "0,800",
+  "vegan": "nein"
+ },
+ {
+  "name": "Croissant",
+  "g": "60",
+  "kcal": "253",
+  "fat": "13,0",
+  "sugar": "4,8",
+  "protein": "5,1",
+  "salt": "0,500",
+  "vegan": "ja"
+ },
+ {
+  "name": "Crunchy Pecan Maple Bar",
+  "g": "75",
+  "kcal": "428",
+  "fat": "29,9",
+  "sugar": "24,2",
+  "protein": "4,8",
+  "salt": "0,300",
+  "vegan": "nein"
+ },
+ {
+  "name": "Feta & Spinach Roll",
+  "g": "140",
+  "kcal": "346",
+  "fat": "12,2",
+  "sugar": "2,4",
+  "protein": "11,6",
+  "salt": "0,784",
+  "vegan": "nein"
+ },
+ {
+  "name": "Hazelnut Croissant",
+  "g": "80",
+  "kcal": "357",
+  "fat": "18,3",
+  "sugar": "12,3",
+  "protein": "5,9",
+  "salt": "0,515",
+  "vegan": "nein"
+ },
+ {
+  "name": "Lemon Loaf Cake",
+  "g": "90",
+  "kcal": "392",
+  "fat": "22,3",
+  "sugar": "23,7",
+  "protein": "4,1",
+  "salt": "0,711",
+  "vegan": "nein"
+ },
+ {
+  "name": "Marble Loaf Cake mit kakaohaltiger Fettglasur",
+  "g": "90",
+  "kcal": "392",
+  "fat": "22,1",
+  "sugar": "23,9",
+  "protein": "4,8",
+  "salt": "0,705",
+  "vegan": "nein"
+ },
+ {
+  "name": "Matcha Cherry Blob Muffin",
+  "g": "130",
+  "kcal": "473",
+  "fat": "21,8",
+  "sugar": "36,9",
+  "protein": "5,1",
+  "salt": "0,546",
+  "vegan": "nein"
+ },
+ {
+  "name": "Mini Pastel de Nata",
+  "g": "30",
+  "kcal": "86",
+  "fat": "4,0",
+  "sugar": "5,6",
+  "protein": "1,5",
+  "salt": "0,200",
+  "vegan": "nein"
+ },
+ {
+  "name": "Mystery Black Cat Swirl",
+  "g": "140",
+  "kcal": "473",
+  "fat": "20,2",
+  "sugar": "21,8",
+  "protein": "7,8",
+  "salt": "0,600",
+  "vegan": "nein"
+ },
+ {
+  "name": "New York Cheesecake",
+  "g": "136",
+  "kcal": "370",
+  "fat": "21,0",
+  "sugar": "26,7",
+  "protein": "8,8",
+  "salt": "0,731",
+  "vegan": "nein"
+ },
+ {
+  "name": "Passion Dream Cheesecake",
+  "g": "136",
+  "kcal": "339",
+  "fat": "15,0",
+  "sugar": "35,4",
+  "protein": "8,4",
+  "salt": "0,367",
+  "vegan": "nein"
+ },
+ {
+  "name": "Pain au chocolat",
+  "g": "71",
+  "kcal": "297",
+  "fat": "15,0",
+  "sugar": "8,7",
+  "protein": "5,5",
+  "salt": "0,520",
+  "vegan": "ja"
+ },
+ {
+  "name": "Pecan Maple Cake",
+  "g": "169",
+  "kcal": "519",
+  "fat": "25,0",
+  "sugar": "50,0",
+  "protein": "5,8",
+  "salt": "0,700",
+  "vegan": "nein"
+ },
+ {
+  "name": "Pink Velvet Cake",
+  "g": "135",
+  "kcal": "519",
+  "fat": "30,0",
+  "sugar": "44,0",
+  "protein": "5,1",
+  "salt": "0,710",
+  "vegan": "nein"
+ },
+ {
+  "name": "Pistachio Croissant",
+  "g": "80",
+  "kcal": "362",
+  "fat": "19,2",
+  "sugar": "11,7",
+  "protein": "6,2",
+  "salt": "0,506",
+  "vegan": "nein"
+ },
+ {
+  "name": "Pistachio Raspberry Lover Cake",
+  "g": "178",
+  "kcal": "534",
+  "fat": "25,7",
+  "sugar": "43,6",
+  "protein": "9,6",
+  "salt": "0,802",
+  "vegan": "nein"
+ },
+ {
+  "name": "Pistachio Velvet Latte Cake",
+  "g": "100",
+  "kcal": "415",
+  "fat": "27,0",
+  "sugar": "28,0",
+  "protein": "7,0",
+  "salt": "0,510",
+  "vegan": "nein"
+ },
+ {
+  "name": "Pumpkin Spice Loaf Cake",
+  "g": "95",
+  "kcal": "401",
+  "fat": "20,9",
+  "sugar": "22,8",
+  "protein": "5,4",
+  "salt": "0,608",
+  "vegan": "nein"
+ },
+ {
+  "name": "Ruby Chocolate-Macadamia Cookie",
+  "g": "105",
+  "kcal": "494",
+  "fat": "26,1",
+  "sugar": "34,8",
+  "protein": "7,9",
+  "salt": "0,714",
+  "vegan": "nein"
+ },
+ {
+  "name": "Signature Cone Hazelnut",
+  "g": "48",
+  "kcal": "227",
+  "fat": "12,5",
+  "sugar": "13,4",
+  "protein": "3,6",
+  "salt": "0,380",
+  "vegan": "nein"
+ },
+ {
+  "name": "Signature Cone Pistachio",
+  "g": "48",
+  "kcal": "231",
+  "fat": "13,4",
+  "sugar": "12,8",
+  "protein": "3,9",
+  "salt": "0,370",
+  "vegan": "nein"
+ },
+ {
+  "name": "Strawberry Lemon Swirl",
+  "g": "120",
+  "kcal": "388",
+  "fat": "15,6",
+  "sugar": "14,0",
+  "protein": "6,7",
+  "salt": "0,468",
+  "vegan": "nein"
+ },
+ {
+  "name": "Strawberry Matcha Lover Cake",
+  "g": "143",
+  "kcal": "555",
+  "fat": "30,0",
+  "sugar": "41,5",
+  "protein": "9,4",
+  "salt": "1,100",
+  "vegan": "nein"
+ },
+ {
+  "name": "UBErry Zimtschnecke",
+  "g": "120",
+  "kcal": "397",
+  "fat": "15,4",
+  "sugar": "14,4",
+  "protein": "6,6",
+  "salt": "0,456",
+  "vegan": "nein"
+ },
+ {
+  "name": "UBE-Vanilla Velvet Matcha Cake",
+  "g": "90",
+  "kcal": "356",
+  "fat": "18,9",
+  "sugar": "27,9",
+  "protein": "4,6",
+  "salt": "0,441",
+  "vegan": "nein"
+ },
+ {
+  "name": "Zimtschnecke",
+  "g": "120",
+  "kcal": "355",
+  "fat": "15,2",
+  "sugar": "21,1",
+  "protein": "6,7",
+  "salt": "0,400",
+  "vegan": "nein"
+ },
+ {
+  "name": "Fruit Crush",
+  "g": "130",
+  "kcal": "476",
+  "fat": "27,3",
+  "sugar": "44,2",
+  "protein": "5,7",
+  "salt": "0,156",
+  "vegan": "nein"
+ },
+ {
+  "name": "Ham & Cheese Pocket",
+  "g": "160",
+  "kcal": "418",
+  "fat": "16,3",
+  "sugar": "5,3",
+  "protein": "16,0",
+  "salt": "2,400",
+  "vegan": "nein"
+ },
+ {
+  "name": "Italian Antipasti Sandwich",
+  "g": "170",
+  "kcal": "389",
+  "fat": "10,7",
+  "sugar": "12,8",
+  "protein": "9,2",
+  "salt": "1,870",
+  "vegan": "ja"
+ },
+ {
+  "name": "Lachs Bagel",
+  "g": "165",
+  "kcal": "345",
+  "fat": "11,7",
+  "sugar": "3,5",
+  "protein": "16,5",
+  "salt": "2,310",
+  "vegan": "nein"
+ },
+ {
+  "name": "Laugenzopf Hähnchen-Käse",
+  "g": "155",
+  "kcal": "392",
+  "fat": "14,7",
+  "sugar": "4,7",
+  "protein": "17,4",
+  "salt": "2,434",
+  "vegan": "nein"
+ },
+ {
+  "name": "Porridge - Feiner Kakao",
+  "g": "270",
+  "kcal": "458",
+  "fat": "12,8",
+  "sugar": "25,4",
+  "protein": "11,4",
+  "salt": "0,241",
+  "vegan": "ja"
+ },
+ {
+  "name": "Porridge - Zimtiger Apfel",
+  "g": "270",
+  "kcal": "452",
+  "fat": "10,5",
+  "sugar": "22,4",
+  "protein": "11,1",
+  "salt": "0,241",
+  "vegan": "ja"
+ },
+ {
+  "name": "Protein Joghurt Erdbeer**",
+  "g": "200",
+  "kcal": "168",
+  "fat": "3,0",
+  "sugar": "8,4",
+  "protein": "20,0",
+  "salt": "0,220",
+  "vegan": "nein"
+ },
+ {
+  "name": "Protein Joghurt Vanille**",
+  "g": "200",
+  "kcal": "164",
+  "fat": "3,0",
+  "sugar": "8,0",
+  "protein": "20,0",
+  "salt": "0,220",
+  "vegan": "nein"
+ },
+ {
+  "name": "Sandwich Käse",
+  "g": "185",
+  "kcal": "472",
+  "fat": "27,8",
+  "sugar": "5,7",
+  "protein": "17,8",
+  "salt": "2,035",
+  "vegan": "nein"
+ },
+ {
+  "name": "Sandwich Pute Ei",
+  "g": "185",
+  "kcal": "512",
+  "fat": "31,5",
+  "sugar": "4,3",
+  "protein": "17,8",
+  "salt": "2,220",
+  "vegan": "nein"
+ },
+ {
+  "name": "Sandwich Schinken Gouda",
+  "g": "185",
+  "kcal": "501",
+  "fat": "29,6",
+  "sugar": "4,3",
+  "protein": "25,9",
+  "salt": "2,590",
+  "vegan": "nein"
+ },
+ {
+  "name": "Tomato Franz",
+  "g": "115",
+  "kcal": "339",
+  "fat": "18,4",
+  "sugar": "4,0",
+  "protein": "5,1",
+  "salt": "1,139",
+  "vegan": "ja"
+ },
+ {
+  "name": "Haselnusscreme",
+  "g": "15",
+  "kcal": "84",
+  "fat": "5,3",
+  "sugar": "7,5",
+  "protein": "0,8",
+  "salt": "0,015",
+  "vegan": "nein"
+ },
+ {
+  "name": "Pistaziencreme",
+  "g": "15",
+  "kcal": "89",
+  "fat": "6,2",
+  "sugar": "6,9",
+  "protein": "1,1",
+  "salt": "0,006",
+  "vegan": "nein"
+ },
+ {
+  "name": "Caramel Sauce",
+  "g": "7",
+  "kcal": "28",
+  "fat": "1,1",
+  "sugar": "4,0",
+  "protein": "0,1",
+  "salt": "0,035",
+  "vegan": "nein"
+ },
+ {
+  "name": "Mocha Sauce",
+  "g": "7",
+  "kcal": "3",
+  "fat": "0,1",
+  "sugar": "0,5",
+  "protein": "0,1",
+  "salt": "0,000",
+  "vegan": "ja"
+ },
+ {
+  "name": "Erdbeer Sauce",
+  "g": "7",
+  "kcal": "9",
+  "fat": "0,0",
+  "sugar": "2,0",
+  "protein": "0,0",
+  "salt": "0,001",
+  "vegan": "ja"
+ },
+ {
+  "name": "Avocado & Egg Bagel",
+  "g": "190",
+  "kcal": "377",
+  "fat": "19,6",
+  "sugar": "3,1",
+  "protein": "11,4",
+  "salt": "2,374",
+  "vegan": "nein"
+ },
+ {
+  "name": "Bagel Bacon & Egg",
+  "g": "162",
+  "kcal": "459",
+  "fat": "26,6",
+  "sugar": "2,0",
+  "protein": "17,2",
+  "salt": "2,224",
+  "vegan": "nein"
+ },
+ {
+  "name": "Breakfast Croissant",
+  "g": "127",
+  "kcal": "399",
+  "fat": "25,0",
+  "sugar": "5,3",
+  "protein": "15,4",
+  "salt": "1,384",
+  "vegan": "nein"
+ },
+ {
+  "name": "Bresaola Pesto Sandwich",
+  "g": "147",
+  "kcal": "265",
+  "fat": "7,0",
+  "sugar": "4,2",
+  "protein": "13,7",
+  "salt": "2,284",
+  "vegan": "nein"
+ },
+ {
+  "name": "Cream Cheese Bagel",
+  "g": "170",
+  "kcal": "373",
+  "fat": "17,8",
+  "sugar": "2,8",
+  "protein": "10,5",
+  "salt": "1,786",
+  "vegan": "nein"
+ },
+ {
+  "name": "Focaccia Bella Italia",
+  "g": "178",
+  "kcal": "458",
+  "fat": "20,8",
+  "sugar": "4,2",
+  "protein": "17,0",
+  "salt": "2,322",
+  "vegan": "nein"
+ },
+ {
+  "name": "Focaccia Caprese Style",
+  "g": "193",
+  "kcal": "440",
+  "fat": "17,7",
+  "sugar": "4,3",
+  "protein": "17,7",
+  "salt": "2,400",
+  "vegan": "nein"
+ },
+ {
+  "name": "Focaccia Plant-based-Chick´n Salsa",
+  "g": "190",
+  "kcal": "399",
+  "fat": "10,9",
+  "sugar": "8,8",
+  "protein": "17,2",
+  "salt": "3,242",
+  "vegan": "ja"
+ },
+ {
+  "name": "Spicy Curry Falafel Naan",
+  "g": "183",
+  "kcal": "491",
+  "fat": "20,2",
+  "sugar": "5,0",
+  "protein": "15,3",
+  "salt": "1,875",
+  "vegan": "ja"
+ }
+]

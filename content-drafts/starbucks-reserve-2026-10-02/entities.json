@@ -1,0 +1,267 @@
+[
+ {
+  "canonical": "Starbucks Reserve",
+  "type": "Brand",
+  "aliases": [
+   "Reserve"
+  ],
+  "sameAs": [
+   "https://en.wikipedia.org/wiki/Starbucks_Reserve"
+  ],
+  "kind": "entity",
+  "competitor_count": 4,
+  "in_title_or_h2": true,
+  "tier": 1
+ },
+ {
+  "canonical": "Starbucks",
+  "type": "Organization",
+  "aliases": [],
+  "sameAs": [
+   "https://www.wikidata.org/wiki/Q37158"
+  ],
+  "kind": "entity",
+  "competitor_count": 4,
+  "in_title_or_h2": true,
+  "tier": 1
+ },
+ {
+  "canonical": "Reserve Roastery",
+  "type": "Place",
+  "aliases": [
+   "Roastery",
+   "Rösterei"
+  ],
+  "sameAs": [
+   "https://en.wikipedia.org/wiki/Starbucks_Reserve_Roastery_(Seattle)"
+  ],
+  "kind": "entity",
+  "competitor_count": 4,
+  "in_title_or_h2": true,
+  "tier": 1
+ },
+ {
+  "canonical": "Unterschied zum normalen Starbucks",
+  "type": "Concept",
+  "aliases": [
+   "regular Starbucks"
+  ],
+  "sameAs": [],
+  "kind": "term",
+  "competitor_count": 3,
+  "in_title_or_h2": true,
+  "tier": 1
+ },
+ {
+  "canonical": "Single-Origin-Kaffee",
+  "type": "Concept",
+  "aliases": [
+   "Einzelherkunft",
+   "small lot"
+  ],
+  "sameAs": [
+   "https://en.wikipedia.org/wiki/Single-origin_coffee"
+  ],
+  "kind": "term",
+  "competitor_count": 4,
+  "in_title_or_h2": false,
+  "tier": 1
+ },
+ {
+  "canonical": "Bedeutung",
+  "type": "Concept",
+  "aliases": [
+   "was ist"
+  ],
+  "sameAs": [],
+  "kind": "term",
+  "competitor_count": 2,
+  "in_title_or_h2": true,
+  "tier": 1
+ },
+ {
+  "canonical": "Reserve Bar",
+  "type": "Place",
+  "aliases": [],
+  "sameAs": [],
+  "kind": "entity",
+  "competitor_count": 3,
+  "in_title_or_h2": true,
+  "tier": 2
+ },
+ {
+  "canonical": "Reserve Store",
+  "type": "Place",
+  "aliases": [],
+  "sameAs": [],
+  "kind": "entity",
+  "competitor_count": 2,
+  "in_title_or_h2": true,
+  "tier": 2
+ },
+ {
+  "canonical": "Clover",
+  "type": "Product",
+  "aliases": [
+   "Clover-Bar",
+   "Vakuumpresse"
+  ],
+  "sameAs": [],
+  "kind": "entity",
+  "competitor_count": 2,
+  "in_title_or_h2": true,
+  "tier": 2
+ },
+ {
+  "canonical": "Siphon / Chemex / Pour Over",
+  "type": "Process",
+  "aliases": [
+   "French Press",
+   "Cold Brew"
+  ],
+  "sameAs": [
+   "https://en.wikipedia.org/wiki/Chemex_Coffeemaker"
+  ],
+  "kind": "term",
+  "competitor_count": 3,
+  "in_title_or_h2": false,
+  "tier": 2
+ },
+ {
+  "canonical": "Princi",
+  "type": "Organization",
+  "aliases": [],
+  "sameAs": [],
+  "kind": "entity",
+  "competitor_count": 3,
+  "in_title_or_h2": false,
+  "tier": 2
+ },
+ {
+  "canonical": "Mailand Roastery",
+  "type": "Place",
+  "aliases": [
+   "Milano",
+   "Piazza Cordusio",
+   "Palazzo Broggi"
+  ],
+  "sameAs": [],
+  "kind": "entity",
+  "competitor_count": 2,
+  "in_title_or_h2": true,
+  "tier": 2
+ },
+ {
+  "canonical": "Seattle Roastery (geschlossen)",
+  "type": "Place",
+  "aliases": [
+   "Capitol Hill"
+  ],
+  "sameAs": [
+   "https://en.wikipedia.org/wiki/Starbucks_Reserve_Roastery_(Seattle)"
+  ],
+  "kind": "entity",
+  "competitor_count": 3,
+  "in_title_or_h2": false,
+  "tier": 2
+ },
+ {
+  "canonical": "Shanghai / New York / Tokio / Chicago",
+  "type": "Place",
+  "aliases": [],
+  "sameAs": [
+   "https://en.wikipedia.org/wiki/Starbucks_Reserve_Roastery_(Chicago)"
+  ],
+  "kind": "entity",
+  "competitor_count": 3,
+  "in_title_or_h2": false,
+  "tier": 2
+ },
+ {
+  "canonical": "Preis",
+  "type": "Money",
+  "aliases": [],
+  "sameAs": [],
+  "kind": "term",
+  "competitor_count": 2,
+  "in_title_or_h2": true,
+  "tier": 2
+ },
+ {
+  "canonical": "Deutschland (München, Düsseldorf)",
+  "type": "Place",
+  "aliases": [
+   "Sendlinger Straße",
+   "Königsallee"
+  ],
+  "sameAs": [],
+  "kind": "entity",
+  "competitor_count": 1,
+  "in_title_or_h2": true,
+  "tier": 2
+ },
+ {
+  "canonical": "Cocktails / Arriviamo",
+  "type": "Product",
+  "aliases": [
+   "Old Fashioned"
+  ],
+  "sameAs": [],
+  "kind": "entity",
+  "competitor_count": 2,
+  "in_title_or_h2": false,
+  "tier": 2
+ },
+ {
+  "canonical": "R-Logo mit Stern",
+  "type": "Concept",
+  "aliases": [],
+  "sameAs": [],
+  "kind": "term",
+  "competitor_count": 0,
+  "in_title_or_h2": false,
+  "tier": 3
+ },
+ {
+  "canonical": "Scolari",
+  "type": "Organization",
+  "aliases": [],
+  "sameAs": [],
+  "kind": "entity",
+  "competitor_count": 1,
+  "in_title_or_h2": false,
+  "tier": 3
+ },
+ {
+  "canonical": "Kaffee-Flight",
+  "type": "Product",
+  "aliases": [],
+  "sameAs": [],
+  "kind": "term",
+  "competitor_count": 1,
+  "in_title_or_h2": false,
+  "tier": 3
+ },
+ {
+  "canonical": "Howard Schultz",
+  "type": "Person",
+  "aliases": [],
+  "sameAs": [
+   "https://en.wikipedia.org/wiki/Howard_Schultz"
+  ],
+  "kind": "entity",
+  "competitor_count": 1,
+  "in_title_or_h2": false,
+  "tier": 3
+ },
+ {
+  "canonical": "Nitro Cascara Cloud",
+  "type": "Product",
+  "aliases": [],
+  "sameAs": [],
+  "kind": "entity",
+  "competitor_count": 1,
+  "in_title_or_h2": false,
+  "tier": 3
+ }
+]

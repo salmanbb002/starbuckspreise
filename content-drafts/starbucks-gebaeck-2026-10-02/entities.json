@@ -1,0 +1,317 @@
+[
+ {
+  "canonical": "Starbucks Gebäck",
+  "type": "Concept",
+  "aliases": [
+   "Bakery",
+   "Desserts",
+   "Backwaren"
+  ],
+  "sameAs": [],
+  "kind": "term",
+  "competitor_count": 4,
+  "in_title_or_h2": true,
+  "tier": 1
+ },
+ {
+  "canonical": "Starbucks Deutschland",
+  "type": "Organization",
+  "aliases": [
+   "Starbucks"
+  ],
+  "sameAs": [
+   "https://www.wikidata.org/wiki/Q37158"
+  ],
+  "kind": "entity",
+  "competitor_count": 4,
+  "in_title_or_h2": true,
+  "tier": 1
+ },
+ {
+  "canonical": "Kuchen",
+  "type": "Product",
+  "aliases": [
+   "Cake",
+   "Loaf Cake",
+   "Lover Cake"
+  ],
+  "sameAs": [],
+  "kind": "entity",
+  "competitor_count": 4,
+  "in_title_or_h2": true,
+  "tier": 1
+ },
+ {
+  "canonical": "Muffin",
+  "type": "Product",
+  "aliases": [
+   "Blaubeer Muffin",
+   "Chocolate Cheesecake Muffin"
+  ],
+  "sameAs": [
+   "https://en.wikipedia.org/wiki/Muffin"
+  ],
+  "kind": "entity",
+  "competitor_count": 4,
+  "in_title_or_h2": true,
+  "tier": 1
+ },
+ {
+  "canonical": "Zimtschnecke",
+  "type": "Product",
+  "aliases": [
+   "Cinnamon Roll",
+   "Swirl"
+  ],
+  "sameAs": [
+   "https://en.wikipedia.org/wiki/Cinnamon_roll"
+  ],
+  "kind": "entity",
+  "competitor_count": 3,
+  "in_title_or_h2": true,
+  "tier": 1
+ },
+ {
+  "canonical": "Preis",
+  "type": "Money",
+  "aliases": [
+   "kosten"
+  ],
+  "sameAs": [],
+  "kind": "term",
+  "competitor_count": 4,
+  "in_title_or_h2": true,
+  "tier": 1
+ },
+ {
+  "canonical": "Kalorien",
+  "type": "Metric",
+  "aliases": [
+   "kcal",
+   "Nährwerte"
+  ],
+  "sameAs": [],
+  "kind": "term",
+  "competitor_count": 4,
+  "in_title_or_h2": true,
+  "tier": 1
+ },
+ {
+  "canonical": "Cookie",
+  "type": "Product",
+  "aliases": [
+   "Choc Chunk Cookie"
+  ],
+  "sameAs": [
+   "https://en.wikipedia.org/wiki/Cookie"
+  ],
+  "kind": "entity",
+  "competitor_count": 3,
+  "in_title_or_h2": true,
+  "tier": 1
+ },
+ {
+  "canonical": "Carrot Cake",
+  "type": "Product",
+  "aliases": [
+   "Karottenkuchen",
+   "Karottentorte"
+  ],
+  "sameAs": [
+   "https://en.wikipedia.org/wiki/Carrot_cake"
+  ],
+  "kind": "entity",
+  "competitor_count": 3,
+  "in_title_or_h2": true,
+  "tier": 2
+ },
+ {
+  "canonical": "Cheesecake",
+  "type": "Product",
+  "aliases": [
+   "New York Cheesecake",
+   "Käsekuchen"
+  ],
+  "sameAs": [
+   "https://en.wikipedia.org/wiki/Cheesecake"
+  ],
+  "kind": "entity",
+  "competitor_count": 3,
+  "in_title_or_h2": true,
+  "tier": 2
+ },
+ {
+  "canonical": "Brownie",
+  "type": "Product",
+  "aliases": [
+   "Chocolate Brownie"
+  ],
+  "sameAs": [
+   "https://en.wikipedia.org/wiki/Chocolate_brownie"
+  ],
+  "kind": "entity",
+  "competitor_count": 2,
+  "in_title_or_h2": true,
+  "tier": 2
+ },
+ {
+  "canonical": "Cake Pop",
+  "type": "Product",
+  "aliases": [],
+  "sameAs": [
+   "https://en.wikipedia.org/wiki/Cake_pop"
+  ],
+  "kind": "entity",
+  "competitor_count": 2,
+  "in_title_or_h2": true,
+  "tier": 2
+ },
+ {
+  "canonical": "Pastel de Nata",
+  "type": "Product",
+  "aliases": [],
+  "sameAs": [
+   "https://en.wikipedia.org/wiki/Pastel_de_nata"
+  ],
+  "kind": "entity",
+  "competitor_count": 2,
+  "in_title_or_h2": false,
+  "tier": 2
+ },
+ {
+  "canonical": "Signature Cone",
+  "type": "Product",
+  "aliases": [
+   "Mini-Croissant"
+  ],
+  "sameAs": [],
+  "kind": "entity",
+  "competitor_count": 2,
+  "in_title_or_h2": false,
+  "tier": 2
+ },
+ {
+  "canonical": "Zucker",
+  "type": "Metric",
+  "aliases": [],
+  "sameAs": [],
+  "kind": "term",
+  "competitor_count": 2,
+  "in_title_or_h2": false,
+  "tier": 2
+ },
+ {
+  "canonical": "Gewicht",
+  "type": "Metric",
+  "aliases": [
+   "g"
+  ],
+  "sameAs": [],
+  "kind": "term",
+  "competitor_count": 2,
+  "in_title_or_h2": false,
+  "tier": 2
+ },
+ {
+  "canonical": "Bundles",
+  "type": "Product",
+  "aliases": [
+   "Muffins zum Teilen",
+   "Cozy Cinnamon Collection",
+   "Kuchenträume"
+  ],
+  "sameAs": [],
+  "kind": "entity",
+  "competitor_count": 2,
+  "in_title_or_h2": true,
+  "tier": 2
+ },
+ {
+  "canonical": "Vegan / vegetarisch",
+  "type": "Concept",
+  "aliases": [],
+  "sameAs": [],
+  "kind": "term",
+  "competitor_count": 2,
+  "in_title_or_h2": true,
+  "tier": 2
+ },
+ {
+  "canonical": "Allergene / glutenfrei",
+  "type": "Concept",
+  "aliases": [
+   "Kreuzkontamination"
+  ],
+  "sameAs": [],
+  "kind": "term",
+  "competitor_count": 2,
+  "in_title_or_h2": false,
+  "tier": 2
+ },
+ {
+  "canonical": "Saisongebäck Herbst",
+  "type": "Concept",
+  "aliases": [
+   "Pumpkin Spice Loaf Cake",
+   "Pecan Maple Cake",
+   "Apple Crumble Cinnamon Roll"
+  ],
+  "sameAs": [],
+  "kind": "term",
+  "competitor_count": 2,
+  "in_title_or_h2": false,
+  "tier": 2
+ },
+ {
+  "canonical": "Lebkuchen Zimtschnecke",
+  "type": "Product",
+  "aliases": [],
+  "sameAs": [],
+  "kind": "entity",
+  "competitor_count": 1,
+  "in_title_or_h2": false,
+  "tier": 3
+ },
+ {
+  "canonical": "Pistazien-Zimtschnecke",
+  "type": "Product",
+  "aliases": [],
+  "sameAs": [],
+  "kind": "entity",
+  "competitor_count": 0,
+  "in_title_or_h2": true,
+  "tier": 3
+ },
+ {
+  "canonical": "Ofenfrisch",
+  "type": "Concept",
+  "aliases": [],
+  "sameAs": [],
+  "kind": "term",
+  "competitor_count": 1,
+  "in_title_or_h2": false,
+  "tier": 3
+ },
+ {
+  "canonical": "Starbucks App",
+  "type": "Product",
+  "aliases": [
+   "Mobile Order & Pay"
+  ],
+  "sameAs": [],
+  "kind": "entity",
+  "competitor_count": 1,
+  "in_title_or_h2": false,
+  "tier": 3
+ },
+ {
+  "canonical": "Kuchen Rezepte / Thermomix",
+  "type": "Concept",
+  "aliases": [],
+  "sameAs": [],
+  "kind": "term",
+  "competitor_count": 1,
+  "in_title_or_h2": false,
+  "tier": 3
+ }
+]

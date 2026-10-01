@@ -1,0 +1,64 @@
+{
+  "slug": "/blog/starbucks-weihnachten",
+  "date": "2026-10-02",
+  "crumb": "Starbucks Weihnachten",
+  "title": "Starbucks Weihnachten 2026: Start, Getränke & Becher",
+  "description": "Starbucks Weihnachten 2026: Start Anfang November, Toffee Nut & Lebkuchen Latte, Holiday-Matcha, Weihnachtsgebäck mit Kalorien und Christmas Blend.",
+  "about": [
+    {
+      "@type": "Thing",
+      "name": "Starbucks Holiday Season (Weihnachtskarte)"
+    },
+    {
+      "@type": "Organization",
+      "name": "Starbucks",
+      "sameAs": [
+        "https://www.wikidata.org/wiki/Q37158",
+        "https://www.starbucks.de/"
+      ]
+    }
+  ],
+  "mentions": [
+    {
+      "@type": "Thing",
+      "name": "Toffee Nut Latte"
+    },
+    {
+      "@type": "Thing",
+      "name": "Lebkuchen Latte (Gingerbread Latte)"
+    },
+    {
+      "@type": "Thing",
+      "name": "Mocha Mousse Latte"
+    },
+    {
+      "@type": "Thing",
+      "name": "Matcha",
+      "sameAs": "https://en.wikipedia.org/wiki/Matcha"
+    },
+    {
+      "@type": "Thing",
+      "name": "Lebkuchen",
+      "sameAs": "https://en.wikipedia.org/wiki/Lebkuchen"
+    },
+    {
+      "@type": "Thing",
+      "name": "Frappuccino",
+      "sameAs": "https://en.wikipedia.org/wiki/Frappuccino"
+    },
+    {
+      "@type": "Thing",
+      "name": "Christmas Blend"
+    },
+    {
+      "@type": "Thing",
+      "name": "Red Velvet Cake",
+      "sameAs": "https://en.wikipedia.org/wiki/Red_velvet_cake"
+    },
+    {
+      "@type": "Thing",
+      "name": "Adventskalender",
+      "sameAs": "https://en.wikipedia.org/wiki/Advent_calendar"
+    }
+  ]
+}

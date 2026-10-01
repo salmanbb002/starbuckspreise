@@ -1,0 +1,370 @@
+[
+ {
+  "canonical": "Starbucks Holiday Season / Weihnachtskarte",
+  "type": "Event",
+  "aliases": [
+   "Starbucks Weihnachten",
+   "Holiday Menu",
+   "Weihnachtsgetränke"
+  ],
+  "sameAs": [],
+  "kind": "entity",
+  "competitor_count": 4,
+  "in_title_or_h2": true,
+  "tier": 1
+ },
+ {
+  "canonical": "Starbucks Deutschland",
+  "type": "Organization",
+  "aliases": [
+   "Starbucks"
+  ],
+  "sameAs": [
+   "https://www.wikidata.org/wiki/Q37158"
+  ],
+  "kind": "entity",
+  "competitor_count": 4,
+  "in_title_or_h2": true,
+  "tier": 1
+ },
+ {
+  "canonical": "Toffee Nut Latte",
+  "type": "Product",
+  "aliases": [
+   "Toffee Nut"
+  ],
+  "sameAs": [],
+  "kind": "entity",
+  "competitor_count": 4,
+  "in_title_or_h2": true,
+  "tier": 1
+ },
+ {
+  "canonical": "Lebkuchen Latte",
+  "type": "Product",
+  "aliases": [
+   "Gingerbread Latte"
+  ],
+  "sameAs": [],
+  "kind": "entity",
+  "competitor_count": 4,
+  "in_title_or_h2": true,
+  "tier": 1
+ },
+ {
+  "canonical": "Start / Zeitraum",
+  "type": "Date",
+  "aliases": [
+   "ab wann",
+   "wann",
+   "bis wann"
+  ],
+  "sameAs": [],
+  "kind": "term",
+  "competitor_count": 3,
+  "in_title_or_h2": true,
+  "tier": 1
+ },
+ {
+  "canonical": "Weihnachtsbecher",
+  "type": "Product",
+  "aliases": [
+   "Red Cup",
+   "roter Becher",
+   "Holiday Cup"
+  ],
+  "sameAs": [],
+  "kind": "entity",
+  "competitor_count": 3,
+  "in_title_or_h2": true,
+  "tier": 1
+ },
+ {
+  "canonical": "Preis",
+  "type": "Money",
+  "aliases": [
+   "kosten"
+  ],
+  "sameAs": [],
+  "kind": "term",
+  "competitor_count": 2,
+  "in_title_or_h2": true,
+  "tier": 1
+ },
+ {
+  "canonical": "Mocha Mousse Latte",
+  "type": "Product",
+  "aliases": [],
+  "sameAs": [],
+  "kind": "entity",
+  "competitor_count": 1,
+  "in_title_or_h2": true,
+  "tier": 2
+ },
+ {
+  "canonical": "Holiday-Matcha",
+  "type": "Product",
+  "aliases": [
+   "Toffee Nut Matcha Latte",
+   "Lebkuchen Matcha Latte",
+   "Iced Matcha"
+  ],
+  "sameAs": [
+   "https://en.wikipedia.org/wiki/Matcha"
+  ],
+  "kind": "entity",
+  "competitor_count": 2,
+  "in_title_or_h2": true,
+  "tier": 2
+ },
+ {
+  "canonical": "Frappuccino",
+  "type": "Product",
+  "aliases": [
+   "Toffee Nut Coffee Frappuccino",
+   "Lebkuchen Cream Frappuccino"
+  ],
+  "sameAs": [
+   "https://en.wikipedia.org/wiki/Frappuccino"
+  ],
+  "kind": "entity",
+  "competitor_count": 2,
+  "in_title_or_h2": false,
+  "tier": 2
+ },
+ {
+  "canonical": "Winter Spiced Apple Tea",
+  "type": "Product",
+  "aliases": [],
+  "sameAs": [],
+  "kind": "entity",
+  "competitor_count": 1,
+  "in_title_or_h2": false,
+  "tier": 2
+ },
+ {
+  "canonical": "Lebkuchen Zimtschnecke",
+  "type": "Product",
+  "aliases": [],
+  "sameAs": [],
+  "kind": "entity",
+  "competitor_count": 2,
+  "in_title_or_h2": true,
+  "tier": 2
+ },
+ {
+  "canonical": "Red Velvet",
+  "type": "Product",
+  "aliases": [
+   "Red Velvet Cake",
+   "Red Velvet Cookie"
+  ],
+  "sameAs": [
+   "https://en.wikipedia.org/wiki/Red_velvet_cake"
+  ],
+  "kind": "entity",
+  "competitor_count": 2,
+  "in_title_or_h2": false,
+  "tier": 2
+ },
+ {
+  "canonical": "Christmas Blend",
+  "type": "Product",
+  "aliases": [
+   "Christmas Blonde",
+   "Weihnachtskaffee"
+  ],
+  "sameAs": [],
+  "kind": "entity",
+  "competitor_count": 3,
+  "in_title_or_h2": true,
+  "tier": 2
+ },
+ {
+  "canonical": "Adventskalender",
+  "type": "Product",
+  "aliases": [],
+  "sameAs": [
+   "https://en.wikipedia.org/wiki/Advent_calendar"
+  ],
+  "kind": "entity",
+  "competitor_count": 1,
+  "in_title_or_h2": true,
+  "tier": 2
+ },
+ {
+  "canonical": "Winterkarte",
+  "type": "Concept",
+  "aliases": [
+   "Winter Edition",
+   "Pistachio"
+  ],
+  "sameAs": [],
+  "kind": "term",
+  "competitor_count": 1,
+  "in_title_or_h2": true,
+  "tier": 2
+ },
+ {
+  "canonical": "Red Cup Day",
+  "type": "Event",
+  "aliases": [],
+  "sameAs": [],
+  "kind": "entity",
+  "competitor_count": 2,
+  "in_title_or_h2": true,
+  "tier": 2
+ },
+ {
+  "canonical": "Starbucks App",
+  "type": "Product",
+  "aliases": [
+   "Mobile Order & Pay",
+   "Rewards"
+  ],
+  "sameAs": [],
+  "kind": "entity",
+  "competitor_count": 1,
+  "in_title_or_h2": true,
+  "tier": 2
+ },
+ {
+  "canonical": "Signature Espresso",
+  "type": "Product",
+  "aliases": [
+   "Espresso"
+  ],
+  "sameAs": [
+   "https://en.wikipedia.org/wiki/Espresso"
+  ],
+  "kind": "entity",
+  "competitor_count": 3,
+  "in_title_or_h2": false,
+  "tier": 2
+ },
+ {
+  "canonical": "Toffee Nut Sirup",
+  "type": "Product",
+  "aliases": [
+   "Toffee Nut Streusel"
+  ],
+  "sameAs": [],
+  "kind": "term",
+  "competitor_count": 2,
+  "in_title_or_h2": false,
+  "tier": 2
+ },
+ {
+  "canonical": "Kalorien",
+  "type": "Metric",
+  "aliases": [
+   "kcal"
+  ],
+  "sameAs": [],
+  "kind": "term",
+  "competitor_count": 1,
+  "in_title_or_h2": true,
+  "tier": 2
+ },
+ {
+  "canonical": "Starbucks at Home",
+  "type": "Organization",
+  "aliases": [
+   "Dolce Gusto",
+   "Nespresso"
+  ],
+  "sameAs": [],
+  "kind": "entity",
+  "competitor_count": 1,
+  "in_title_or_h2": false,
+  "tier": 3
+ },
+ {
+  "canonical": "Keurig",
+  "type": "Organization",
+  "aliases": [
+   "K-Cup"
+  ],
+  "sameAs": [
+   "https://en.wikipedia.org/wiki/Keurig"
+  ],
+  "kind": "entity",
+  "competitor_count": 1,
+  "in_title_or_h2": false,
+  "tier": 3
+ },
+ {
+  "canonical": "Cold Foam",
+  "type": "Concept",
+  "aliases": [],
+  "sameAs": [],
+  "kind": "term",
+  "competitor_count": 1,
+  "in_title_or_h2": false,
+  "tier": 3
+ },
+ {
+  "canonical": "Pralinensauce",
+  "type": "Product",
+  "aliases": [],
+  "sameAs": [],
+  "kind": "term",
+  "competitor_count": 1,
+  "in_title_or_h2": false,
+  "tier": 3
+ },
+ {
+  "canonical": "Tumbler / Cold Cup",
+  "type": "Product",
+  "aliases": [],
+  "sameAs": [],
+  "kind": "term",
+  "competitor_count": 1,
+  "in_title_or_h2": false,
+  "tier": 3
+ },
+ {
+  "canonical": "Pumpkin Spice Latte",
+  "type": "Product",
+  "aliases": [
+   "PSL"
+  ],
+  "sameAs": [
+   "https://en.wikipedia.org/wiki/Pumpkin_spice_latte"
+  ],
+  "kind": "entity",
+  "competitor_count": 1,
+  "in_title_or_h2": false,
+  "tier": 3
+ },
+ {
+  "canonical": "Red Velvet Cake Latte",
+  "type": "Product",
+  "aliases": [],
+  "sameAs": [],
+  "kind": "entity",
+  "competitor_count": 2,
+  "in_title_or_h2": false,
+  "tier": 3
+ },
+ {
+  "canonical": "Fudge Brownie Hot Chocolate",
+  "type": "Product",
+  "aliases": [],
+  "sameAs": [],
+  "kind": "entity",
+  "competitor_count": 2,
+  "in_title_or_h2": false,
+  "tier": 3
+ },
+ {
+  "canonical": "Bearista",
+  "type": "Product",
+  "aliases": [],
+  "sameAs": [],
+  "kind": "entity",
+  "competitor_count": 1,
+  "in_title_or_h2": false,
+  "tier": 3
+ }
+]

@@ -1,0 +1,208 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "BlogPosting",
+      "@id": "https://starbuckspreise.com/blog/starbucks-reserve#article",
+      "headline": "Starbucks Reserve: Bedeutung, Roastery & Unterschied erklärt",
+      "description": "Was ist Starbucks Reserve? Bedeutung, alle Reserve Roasteries (Mailand, Tokio, NY …), Unterschied zum normalen Starbucks und Reserve in Deutschland.",
+      "inLanguage": "de-DE",
+      "datePublished": "2026-10-02",
+      "dateModified": "2026-10-02",
+      "mainEntityOfPage": "https://starbuckspreise.com/blog/starbucks-reserve",
+      "image": "https://starbuckspreise.com/img/blog/starbucks-reserve-hero.webp",
+      "author": {
+        "@type": "Organization",
+        "name": "StarbucksPreise Redaktion",
+        "url": "https://starbuckspreise.com/ueber-uns"
+      },
+      "publisher": {
+        "@type": "Organization",
+        "name": "StarbucksPreise",
+        "url": "https://starbuckspreise.com/",
+        "logo": {
+          "@type": "ImageObject",
+          "url": "TODO: https://starbuckspreise.com/<logo-file>"
+        }
+      },
+      "about": [
+        {
+          "@type": "Thing",
+          "name": "Starbucks Reserve",
+          "sameAs": "https://en.wikipedia.org/wiki/Starbucks_Reserve"
+        },
+        {
+          "@type": "Organization",
+          "name": "Starbucks",
+          "sameAs": [
+            "https://www.wikidata.org/wiki/Q37158",
+            "https://www.starbucks.de/"
+          ]
+        }
+      ],
+      "mentions": [
+        {
+          "@type": "Place",
+          "name": "Starbucks Reserve Roastery Milano",
+          "address": "Piazza Cordusio 3, Mailand"
+        },
+        {
+          "@type": "Place",
+          "name": "Starbucks Reserve Roastery Seattle",
+          "sameAs": "https://en.wikipedia.org/wiki/Starbucks_Reserve_Roastery_(Seattle)"
+        },
+        {
+          "@type": "Place",
+          "name": "Starbucks Reserve Roastery Chicago",
+          "sameAs": "https://en.wikipedia.org/wiki/Starbucks_Reserve_Roastery_(Chicago)"
+        },
+        {
+          "@type": "Thing",
+          "name": "Single-Origin-Kaffee",
+          "sameAs": "https://en.wikipedia.org/wiki/Single-origin_coffee"
+        },
+        {
+          "@type": "Thing",
+          "name": "Clover (Kaffeemaschine)"
+        },
+        {
+          "@type": "Thing",
+          "name": "Siphon-Kaffeebereiter",
+          "sameAs": "https://en.wikipedia.org/wiki/Vacuum_coffee_maker"
+        },
+        {
+          "@type": "Thing",
+          "name": "Chemex",
+          "sameAs": "https://en.wikipedia.org/wiki/Chemex_Coffeemaker"
+        },
+        {
+          "@type": "Organization",
+          "name": "Princi"
+        },
+        {
+          "@type": "Place",
+          "name": "München"
+        },
+        {
+          "@type": "Place",
+          "name": "Düsseldorf"
+        }
+      ],
+      "speakable": {
+        "@type": "SpeakableSpecification",
+        "cssSelector": [
+          "#direct-answer"
+        ]
+      }
+    },
+    {
+      "@type": "FAQPage",
+      "@id": "https://starbuckspreise.com/blog/starbucks-reserve#faq",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "Seit wann gibt es Starbucks Reserve?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Starbucks hat das Reserve-Programm 2010 gestartet. Die erste Reserve Roastery eröffnete im Dezember 2014 in Seattle."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Hat die Starbucks Reserve Roastery in Seattle geschlossen?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Ja. Die Roastery auf dem Capitol Hill in Seattle schloss am 25. September 2025. Starbucks schloss damals im Zuge einer Umstrukturierung rund 180 Filialen und strich etwa 900 Stellen außerhalb der Filialen."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Wo ist die nächste Starbucks Reserve Roastery von Deutschland aus?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "In Mailand an der Piazza Cordusio 3. Sie ist die einzige Roastery in Europa. Die übrigen stehen in Shanghai, New York, Tokio und Chicago."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Ist Starbucks Reserve teurer?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Ja. Reserve-Kaffees werden einzeln gebrüht und stammen aus kleinen Ernten, deshalb kosten sie mehr. In den US-Roasteries kostete ein Pumpkin Spice Latte 2023 etwa 8 $, in einer normalen Filiale rund 5,50 $."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Was ist eine Clover-Maschine?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Eine Kaffeemaschine, die jede Tasse einzeln mit einer Vakuumpresse brüht. Starbucks setzt sie in Reserve-Filialen ein. In Deutschland gab es sie zuerst 2016 in München."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Kann ich bei Starbucks Reserve normale Getränke bestellen?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "In einer Reserve Bar ja, denn sie ist eine normale Starbucks-Filiale mit zusätzlicher Reserve-Theke. In den Roasteries ist die Karte anders und enthält mehr Reserve-Spezialitäten, Speisen von Princi und Cocktails."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Was ist Princi?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Princi ist eine Bäckerei aus Mailand, die Starbucks in den Roasteries betreibt. Sie verkauft unter anderem Focaccia, Pizza und süßes Gebäck aus dem Holzofen."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Gibt es Starbucks Reserve Bohnen zu kaufen?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Ja, in Roasteries und in Filialen mit Reserve-Angebot, solange die jeweilige Ernte reicht. Weil die Sorten limitiert sind, wechselt das Angebot regelmäßig."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Kann man in der Starbucks Reserve Roastery Mailand reservieren?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Für einen normalen Kaffee brauchst du keine Reservierung. Die Roastery ist bei OpenTable gelistet. Prüfe dort oder auf der offiziellen Seite, ob für Tische oder Verkostungen eine Buchung möglich ist."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Wird der Kaffee in der Roastery vor Ort geröstet?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Ja, das ist der Kern einer Roastery. In Mailand röstet eine Scolari-Röstmaschine sichtbar für die Gäste. Reserve Bars rösten dagegen nicht selbst: Die Bohnen für Düsseldorf kamen 2018 zum Beispiel aus Seattle."
+          }
+        }
+      ]
+    },
+    {
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Startseite",
+          "item": "https://starbuckspreise.com/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Blog",
+          "item": "https://starbuckspreise.com/blog/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "Starbucks Reserve",
+          "item": "https://starbuckspreise.com/blog/starbucks-reserve"
+        }
+      ]
+    }
+  ]
+}

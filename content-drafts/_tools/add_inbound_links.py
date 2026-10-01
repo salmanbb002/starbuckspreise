@@ -2,18 +2,16 @@
 import re, pathlib
 
 BLOG = pathlib.Path(__file__).resolve().parents[2] / "blog"
-MOC, FLU, LOGO = "/blog/starbucks-mocha", "/blog/starbucks-flughafen", "/blog/starbucks-logo-name-bedeutung"
+WEI, RES, GEB = "/blog/starbucks-weihnachten", "/blog/starbucks-reserve", "/blog/starbucks-gebaeck"
 TARGETS = [
-    ("starbucks-kaffee.html", "Caffè Mocha", MOC), ("starbucks-menu.html", "Caffè Mocha", MOC),
-    ("starbucks-kalorien-guide.html", "Caffè Mocha", MOC), ("starbucks-getraenke.html", "Caffè Mocha", MOC),
-    ("starbucks-heisse-schokolade.html", "Mocha-Sauce", MOC), ("starbucks-preise.html", "Caffè Mocha", MOC),
-    ("starbucks-kapseln-angebot.html", "White Mocha", MOC),
-    ("starbucks-preise.html", "Bahnhöfen und Flughäfen", FLU), ("starbucks-deutschland-filialen.html", "Bahnhöfen und Flughäfen", FLU),
-    ("starbucks-geoeffnet.html", "Flughafenfilialen", FLU), ("starbucks-in-der-naehe.html", "Flughäfen oder Raststätten", FLU),
-    ("starbucks-near-me.html", "Hauptbahnhöfen und Flughäfen", FLU), ("starbucks-greding.html", "Autobahn A9", FLU),
-    ("starbucks-menu.html", "Bahnhofs- und Flughafen-Filialen", FLU), ("starbucks-mocha.html", "Bahnhöfen und Flughäfen", FLU),
-    ("starbucks-kaffee.html", "Howard Schultz", LOGO), ("starbucks-becher.html", "Sirenen-Logo", LOGO),
-    ("starbucks-tassen.html", "Sirenen-Logo", LOGO), ("starbucks-kapseln-angebot.html", "Sirenen-Logo", LOGO),
+    ("starbucks-latte.html", "Toffee Nut Latte", WEI), ("starbucks-pumpkin-spice-latte.html", "Weihnachtskarte", WEI),
+    ("starbucks-menu.html", "Lebkuchen Latte", WEI), ("starbucks-frappuccino-sorten.html", "Lebkuchen Coffee Frappuccino", WEI),
+    ("starbucks-becher-aktuell.html", "Holiday-Kollektion", WEI), ("starbucks-kapseln-angebot.html", "Weihnachtszeit", WEI),
+    ("starbucks-stadtmitte.html", "Starbucks Reserve", RES), ("starbucks-stadtmitte.html", "Reserve-Kaffees", RES),
+    ("starbucks-preise.html", "Reserve", RES), ("starbucks-kaffee.html", "Single-Origin-Spezialitäten", RES),
+    ("starbucks-fruehstueck.html", "Zimtschnecke", GEB), ("starbucks-menu.html", "Muffins", GEB),
+    ("starbucks-kalorien-guide.html", "Carrot Cake", GEB), ("starbucks-preise.html", "Muffin", GEB),
+    ("starbucks-vegane-optionen.html", "veganem Gebäck", GEB),
 ]
 
 

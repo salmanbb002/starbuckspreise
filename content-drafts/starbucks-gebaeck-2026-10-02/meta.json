@@ -1,0 +1,63 @@
+{
+  "slug": "/blog/starbucks-gebaeck",
+  "date": "2026-10-02",
+  "crumb": "Starbucks Gebäck",
+  "title": "Starbucks Gebäck 2026: Kuchen, Muffins & Zimtschnecken",
+  "description": "Starbucks Gebäck 2026: Kuchen, Muffins, Cookies und Zimtschnecken mit Preisen (1,70–5,40 €) und offiziellen Kalorien, z. B. Carrot Cake 817 kcal.",
+  "about": [
+    {
+      "@type": "Thing",
+      "name": "Starbucks Gebäck (Bakery)"
+    },
+    {
+      "@type": "Organization",
+      "name": "Starbucks",
+      "sameAs": [
+        "https://www.wikidata.org/wiki/Q37158",
+        "https://www.starbucks.de/"
+      ]
+    }
+  ],
+  "mentions": [
+    {
+      "@type": "Thing",
+      "name": "Carrot Cake",
+      "sameAs": "https://en.wikipedia.org/wiki/Carrot_cake"
+    },
+    {
+      "@type": "Thing",
+      "name": "Cheesecake",
+      "sameAs": "https://en.wikipedia.org/wiki/Cheesecake"
+    },
+    {
+      "@type": "Thing",
+      "name": "Muffin",
+      "sameAs": "https://en.wikipedia.org/wiki/Muffin"
+    },
+    {
+      "@type": "Thing",
+      "name": "Zimtschnecke",
+      "sameAs": "https://en.wikipedia.org/wiki/Cinnamon_roll"
+    },
+    {
+      "@type": "Thing",
+      "name": "Cookie",
+      "sameAs": "https://en.wikipedia.org/wiki/Cookie"
+    },
+    {
+      "@type": "Thing",
+      "name": "Brownie",
+      "sameAs": "https://en.wikipedia.org/wiki/Chocolate_brownie"
+    },
+    {
+      "@type": "Thing",
+      "name": "Cake Pop",
+      "sameAs": "https://en.wikipedia.org/wiki/Cake_pop"
+    },
+    {
+      "@type": "Thing",
+      "name": "Pastel de Nata",
+      "sameAs": "https://en.wikipedia.org/wiki/Pastel_de_nata"
+    }
+  ]
+}

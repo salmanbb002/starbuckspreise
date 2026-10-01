@@ -1,0 +1,202 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "BlogPosting",
+      "@id": "https://starbuckspreise.com/blog/starbucks-weihnachten#article",
+      "headline": "Starbucks Weihnachten 2026: Start, Getränke & Becher",
+      "description": "Starbucks Weihnachten 2026: Start Anfang November, Toffee Nut & Lebkuchen Latte, Holiday-Matcha, Weihnachtsgebäck mit Kalorien und Christmas Blend.",
+      "inLanguage": "de-DE",
+      "datePublished": "2026-10-02",
+      "dateModified": "2026-10-02",
+      "mainEntityOfPage": "https://starbuckspreise.com/blog/starbucks-weihnachten",
+      "image": "https://starbuckspreise.com/img/blog/starbucks-weihnachten-hero.webp",
+      "author": {
+        "@type": "Organization",
+        "name": "StarbucksPreise Redaktion",
+        "url": "https://starbuckspreise.com/ueber-uns"
+      },
+      "publisher": {
+        "@type": "Organization",
+        "name": "StarbucksPreise",
+        "url": "https://starbuckspreise.com/",
+        "logo": {
+          "@type": "ImageObject",
+          "url": "TODO: https://starbuckspreise.com/<logo-file>"
+        }
+      },
+      "about": [
+        {
+          "@type": "Thing",
+          "name": "Starbucks Holiday Season (Weihnachtskarte)"
+        },
+        {
+          "@type": "Organization",
+          "name": "Starbucks",
+          "sameAs": [
+            "https://www.wikidata.org/wiki/Q37158",
+            "https://www.starbucks.de/"
+          ]
+        }
+      ],
+      "mentions": [
+        {
+          "@type": "Thing",
+          "name": "Toffee Nut Latte"
+        },
+        {
+          "@type": "Thing",
+          "name": "Lebkuchen Latte (Gingerbread Latte)"
+        },
+        {
+          "@type": "Thing",
+          "name": "Mocha Mousse Latte"
+        },
+        {
+          "@type": "Thing",
+          "name": "Matcha",
+          "sameAs": "https://en.wikipedia.org/wiki/Matcha"
+        },
+        {
+          "@type": "Thing",
+          "name": "Lebkuchen",
+          "sameAs": "https://en.wikipedia.org/wiki/Lebkuchen"
+        },
+        {
+          "@type": "Thing",
+          "name": "Frappuccino",
+          "sameAs": "https://en.wikipedia.org/wiki/Frappuccino"
+        },
+        {
+          "@type": "Thing",
+          "name": "Christmas Blend"
+        },
+        {
+          "@type": "Thing",
+          "name": "Red Velvet Cake",
+          "sameAs": "https://en.wikipedia.org/wiki/Red_velvet_cake"
+        },
+        {
+          "@type": "Thing",
+          "name": "Adventskalender",
+          "sameAs": "https://en.wikipedia.org/wiki/Advent_calendar"
+        }
+      ],
+      "speakable": {
+        "@type": "SpeakableSpecification",
+        "cssSelector": [
+          "#direct-answer"
+        ]
+      }
+    },
+    {
+      "@type": "FAQPage",
+      "@id": "https://starbuckspreise.com/blog/starbucks-weihnachten#faq",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "Wann kommen die Weihnachtsgetränke 2026 zu Starbucks?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Ein offizielles Datum gibt es noch nicht. 2024 startete die Weihnachtskarte am 4. November, 2025 am 6. November. Für 2026 ist deshalb ein Start in der ersten Novemberwoche wahrscheinlich."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Gibt es den Toffee Nut Latte das ganze Jahr?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Nein. Der Toffee Nut Latte ist ein Saisongetränk und steht nur zur Weihnachtszeit auf der Karte, also etwa von Anfang November bis Anfang Januar. Außerhalb der Saison fehlt meist auch der Toffee Nut Sirup in den Filialen."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Was ist der Unterschied zwischen Gingerbread Latte und Lebkuchen Latte?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Es ist dasselbe Getränk unter zwei Namen. In den USA und in Österreich heißt es Gingerbread Latte, in Deutschland Lebkuchen Latte. Beide bestehen aus Espresso, Lebkuchen- bzw. Gingerbread-Sirup, Milch und Zimt."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Ist der Lebkuchen Latte vegan?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Nicht in der Standardversion, weil er mit Kuhmilch zubereitet wird. Du kannst einen Pflanzendrink wählen, zum Beispiel Hafer oder Soja. Ob Sirup und Topping vegan sind, steht in der Allergenliste von Starbucks. Prüfe sie zum Saisonstart, denn die Rezepturen ändern sich."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Welches Weihnachtsgetränk hat am wenigsten Kalorien?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Der Winter Spiced Apple Tea. Eine Preisvergleichsseite listete ihn 2025 mit nur 9 kcal, die offizielle Nährwertliste erscheint erst zum Saisonstart. Bei den Lattes sparst du Kalorien mit fettarmer Milch, einer kleineren Größe wie Tall und ohne Sahne."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Kann ich Weihnachtsgetränke in der Starbucks App bestellen?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Ja. In Filialen mit Mobile Order & Pay stehen die Saisongetränke in der App, sobald die Karte startet. Mit der App sammelst du außerdem Sterne für Starbucks Rewards."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Was ist ein Mocha Mousse Latte?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Ein Weihnachtslatte, den Starbucks Deutschland 2025 neu eingeführt hat. Er besteht aus Signature Espresso, Pralinensauce und Milch und wird mit einem Pralinen-Sahne-Topping und Kakao serviert. Es gab ihn heiß und iced."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Gibt es bei Starbucks Peppermint Mocha in Deutschland?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Auf der deutschen Weihnachtskarte 2025 stand kein Peppermint Mocha. Die Karte bestand aus Toffee Nut, Lebkuchen, Mocha Mousse und dem Winter Spiced Apple Tea. Peppermint-Getränke kennt man vor allem aus den USA."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Wo bekomme ich den Starbucks Christmas Blend?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Den Christmas Blend gibt es zur Weihnachtszeit in den Starbucks-Filialen als 250-g-Packung. Kapsel-Varianten von Starbucks at Home findest du im Supermarkt und in Online-Shops. Die Mengen sind limitiert."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Gibt es zu Weihnachten Rabatte bei Starbucks?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Feste Weihnachtsrabatte gibt es nicht, Angebote laufen vor allem über die App. Mit dem eigenen Becher bekommst du einen kleinen Nachlass. Aktuelle Deals sammeln wir unter Starbucks Angebote."
+          }
+        }
+      ]
+    },
+    {
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Startseite",
+          "item": "https://starbuckspreise.com/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Blog",
+          "item": "https://starbuckspreise.com/blog/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "Starbucks Weihnachten",
+          "item": "https://starbuckspreise.com/blog/starbucks-weihnachten"
+        }
+      ]
+    }
+  ]
+}

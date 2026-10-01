@@ -197,3 +197,21 @@ Hero photos sourced from Wikimedia Commons for the 2026-09-17 location/product p
 - Author: tommao wang
 - License: Unsplash License (free, no attribution required; credited on-page anyway)
 - Note: 2026-10-01 — generic mocha with whipped cream and cocoa in glass, cropped 16:10, no branding.
+
+## starbucks-weihnachten-hero.webp
+- Source: https://unsplash.com/photos/WsDF95mSUsI
+- Author: Toa Heftiba
+- License: Unsplash License (free, no attribution required; credited on-page anyway)
+- Note: 2026-10-02 — generic red latte with latte art, fir branches, pine cones and apples, no branding.
+
+## starbucks-reserve-hero.webp
+- Source: https://unsplash.com/photos/41CCQ-c9dkc
+- Author: Tugce
+- License: Unsplash License (free, no attribution required; credited on-page anyway)
+- Note: 2026-10-02 — coffee siphon brewer and copper kettle on a stone counter, no branding.
+
+## starbucks-gebaeck-hero.webp
+- Source: https://unsplash.com/photos/H6OBZaVveCA
+- Author: Fallon Michael
+- License: Unsplash License (free, no attribution required; credited on-page anyway)
+- Note: 2026-10-02 — glazed cinnamon roll on a plate beside a cup of coffee, no branding.

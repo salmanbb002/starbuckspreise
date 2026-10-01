@@ -1,0 +1,201 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "BlogPosting",
+      "@id": "https://starbuckspreise.com/blog/starbucks-gebaeck#article",
+      "headline": "Starbucks Gebäck 2026: Kuchen, Muffins & Zimtschnecken",
+      "description": "Starbucks Gebäck 2026: Kuchen, Muffins, Cookies und Zimtschnecken mit Preisen (1,70–5,40 €) und offiziellen Kalorien, z. B. Carrot Cake 817 kcal.",
+      "inLanguage": "de-DE",
+      "datePublished": "2026-10-02",
+      "dateModified": "2026-10-02",
+      "mainEntityOfPage": "https://starbuckspreise.com/blog/starbucks-gebaeck",
+      "image": "https://starbuckspreise.com/img/blog/starbucks-gebaeck-hero.webp",
+      "author": {
+        "@type": "Organization",
+        "name": "StarbucksPreise Redaktion",
+        "url": "https://starbuckspreise.com/ueber-uns"
+      },
+      "publisher": {
+        "@type": "Organization",
+        "name": "StarbucksPreise",
+        "url": "https://starbuckspreise.com/",
+        "logo": {
+          "@type": "ImageObject",
+          "url": "TODO: https://starbuckspreise.com/<logo-file>"
+        }
+      },
+      "about": [
+        {
+          "@type": "Thing",
+          "name": "Starbucks Gebäck (Bakery)"
+        },
+        {
+          "@type": "Organization",
+          "name": "Starbucks",
+          "sameAs": [
+            "https://www.wikidata.org/wiki/Q37158",
+            "https://www.starbucks.de/"
+          ]
+        }
+      ],
+      "mentions": [
+        {
+          "@type": "Thing",
+          "name": "Carrot Cake",
+          "sameAs": "https://en.wikipedia.org/wiki/Carrot_cake"
+        },
+        {
+          "@type": "Thing",
+          "name": "Cheesecake",
+          "sameAs": "https://en.wikipedia.org/wiki/Cheesecake"
+        },
+        {
+          "@type": "Thing",
+          "name": "Muffin",
+          "sameAs": "https://en.wikipedia.org/wiki/Muffin"
+        },
+        {
+          "@type": "Thing",
+          "name": "Zimtschnecke",
+          "sameAs": "https://en.wikipedia.org/wiki/Cinnamon_roll"
+        },
+        {
+          "@type": "Thing",
+          "name": "Cookie",
+          "sameAs": "https://en.wikipedia.org/wiki/Cookie"
+        },
+        {
+          "@type": "Thing",
+          "name": "Brownie",
+          "sameAs": "https://en.wikipedia.org/wiki/Chocolate_brownie"
+        },
+        {
+          "@type": "Thing",
+          "name": "Cake Pop",
+          "sameAs": "https://en.wikipedia.org/wiki/Cake_pop"
+        },
+        {
+          "@type": "Thing",
+          "name": "Pastel de Nata",
+          "sameAs": "https://en.wikipedia.org/wiki/Pastel_de_nata"
+        }
+      ],
+      "speakable": {
+        "@type": "SpeakableSpecification",
+        "cssSelector": [
+          "#direct-answer"
+        ]
+      }
+    },
+    {
+      "@type": "FAQPage",
+      "@id": "https://starbuckspreise.com/blog/starbucks-gebaeck#faq",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "Was kostet eine Zimtschnecke bei Starbucks?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Die klassische Zimtschnecke kostet 3,80 €. Die gefüllten Sorten wie die Apple Crumble Cinnamon Roll oder die Carrot Cake Zimtschnecke kosten 4,20 bis 4,40 €. Drei Zimtschnecken im Bundle kosten 11,40 €."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Wie viele Kalorien hat ein Starbucks Muffin?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Ein Starbucks Muffin hat 408 bis 473 kcal. Der Blaubeer Muffin hat 435 kcal, der Chocolate Cheesecake Muffin 439 kcal und der Matcha Cherry Blob Muffin 473 kcal."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Wie viele Kalorien hat der Starbucks Carrot Cake?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Ein Stück Carrot Cake hat 817 kcal bei 181 g Gewicht. Das sind 58 g Zucker und 8,5 g Eiweiß. Er ist damit das kalorienreichste Gebäck bei Starbucks."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Ist das Starbucks Gebäck frisch?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Einige Produkte stehen mit dem Zusatz „Ofenfrisch“ auf der Karte: Mini Pastel de Nata, Signature Cones, Croissant und Pain au Chocolat. Sie werden in der Filiale gebacken. Kuchen, Muffins und Cookies tragen diesen Hinweis nicht."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Kann ich Starbucks Kuchen bestellen?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Ja. Viele Filialen sind über Lieferdienste bestellbar, in Freiburg zum Beispiel mit Bundles wie „Kuchenträume“ (sechs Kuchen für 22,70 €). Im Sortiment stehen Kuchenstücke, keine ganzen Torten."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Ist der Starbucks Brownie glutenfrei?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "In der Allergenliste von Starbucks ist beim Chocolate Brownie kein glutenhaltiges Getreide markiert. Starbucks schließt Kreuzkontamination aber nicht aus. Für Menschen mit Zöliakie ist er deshalb nicht sicher."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Was ist ein Cake Pop?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Ein Cake Pop ist eine Kugel aus Kuchen am Stiel, überzogen mit einer Glasur. Bei Starbucks kostet er 2,80 € und hat je nach Sorte 101 bis 168 kcal. Die Sorten wechseln mit der Saison."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Welcher Starbucks Kuchen ist am beliebtesten?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Starbucks veröffentlicht keine Verkaufszahlen. Zu den Klassikern, die sowohl im Winter 2025 als auch im Herbst 2026 auf der Karte stehen, gehören Carrot Cake, New York Cheesecake, Chocolate Lover Cake, Zitronen- und Marmorkuchen."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Gibt es Gebäck in der Starbucks App?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Ja. In Filialen mit Mobile Order & Pay kannst du Gebäck in der Starbucks App vorbestellen. Für jeden Euro bekommst du 3 Sterne, auch beim Kauf von Gebäck."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Welches Gebäck gibt es nur im Herbst?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Im Herbst 2026 sind das Pumpkin Spice Loaf Cake, Pecan Maple Cake, Crunchy Pecan Maple Bar, Apple Crumble Cinnamon Roll und der Pumpkin Spice Cake Pop. Dazu kommen zu Halloween der Mystery Black Cat Swirl und der Mystery Black Cat Cake Pop. Alle anderen Preise stehen in unserer Starbucks Preisliste."
+          }
+        }
+      ]
+    },
+    {
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Startseite",
+          "item": "https://starbuckspreise.com/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Blog",
+          "item": "https://starbuckspreise.com/blog/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "Starbucks Gebäck",
+          "item": "https://starbuckspreise.com/blog/starbucks-gebaeck"
+        }
+      ]
+    }
+  ]
+}

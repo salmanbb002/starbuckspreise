@@ -1,0 +1,23 @@
+{
+  "slug": "/blog/starbucks-reserve",
+  "date": "2026-10-02",
+  "crumb": "Starbucks Reserve",
+  "title": "Starbucks Reserve: Bedeutung, Roastery & Unterschied erklärt",
+  "description": "Was ist Starbucks Reserve? Bedeutung, alle Reserve Roasteries (Mailand, Tokio, NY …), Unterschied zum normalen Starbucks und Reserve in Deutschland.",
+  "about": [
+    {"@type": "Thing", "name": "Starbucks Reserve", "sameAs": "https://en.wikipedia.org/wiki/Starbucks_Reserve"},
+    {"@type": "Organization", "name": "Starbucks", "sameAs": ["https://www.wikidata.org/wiki/Q37158", "https://www.starbucks.de/"]}
+  ],
+  "mentions": [
+    {"@type": "Place", "name": "Starbucks Reserve Roastery Milano", "address": "Piazza Cordusio 3, Mailand"},
+    {"@type": "Place", "name": "Starbucks Reserve Roastery Seattle", "sameAs": "https://en.wikipedia.org/wiki/Starbucks_Reserve_Roastery_(Seattle)"},
+    {"@type": "Place", "name": "Starbucks Reserve Roastery Chicago", "sameAs": "https://en.wikipedia.org/wiki/Starbucks_Reserve_Roastery_(Chicago)"},
+    {"@type": "Thing", "name": "Single-Origin-Kaffee", "sameAs": "https://en.wikipedia.org/wiki/Single-origin_coffee"},
+    {"@type": "Thing", "name": "Clover (Kaffeemaschine)"},
+    {"@type": "Thing", "name": "Siphon-Kaffeebereiter", "sameAs": "https://en.wikipedia.org/wiki/Vacuum_coffee_maker"},
+    {"@type": "Thing", "name": "Chemex", "sameAs": "https://en.wikipedia.org/wiki/Chemex_Coffeemaker"},
+    {"@type": "Organization", "name": "Princi"},
+    {"@type": "Place", "name": "München"},
+    {"@type": "Place", "name": "Düsseldorf"}
+  ]
+}
