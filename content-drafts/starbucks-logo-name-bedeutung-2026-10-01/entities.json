@@ -1,0 +1,342 @@
+[
+ {
+  "canonical": "Starbucks-Logo",
+  "type": "Other",
+  "aliases": [
+   "Starbucks Logo",
+   "Logo"
+  ],
+  "sameAs": [
+   "https://en.wikipedia.org/wiki/Starbucks#Logo"
+  ],
+  "kind": "entity",
+  "competitor_count": 4,
+  "in_title_or_h2": true,
+  "tier": 1
+ },
+ {
+  "canonical": "Sirene",
+  "type": "Concept",
+  "aliases": [
+   "Siren",
+   "Meerjungfrau",
+   "Frau im Logo",
+   "Figur"
+  ],
+  "sameAs": [
+   "https://en.wikipedia.org/wiki/Siren_(mythology)"
+  ],
+  "kind": "entity",
+  "competitor_count": 4,
+  "in_title_or_h2": true,
+  "tier": 1
+ },
+ {
+  "canonical": "Starbucks",
+  "type": "Organization",
+  "aliases": [],
+  "sameAs": [
+   "https://www.wikidata.org/wiki/Q37158"
+  ],
+  "kind": "entity",
+  "competitor_count": 4,
+  "in_title_or_h2": true,
+  "tier": 1
+ },
+ {
+  "canonical": "Name / Namensherkunft",
+  "type": "Concept",
+  "aliases": [
+   "name bedeutung",
+   "name herkunft"
+  ],
+  "sameAs": [],
+  "kind": "term",
+  "competitor_count": 3,
+  "in_title_or_h2": true,
+  "tier": 1
+ },
+ {
+  "canonical": "Moby-Dick",
+  "type": "Product",
+  "aliases": [
+   "Herman Melville"
+  ],
+  "sameAs": [
+   "https://en.wikipedia.org/wiki/Moby-Dick"
+  ],
+  "kind": "entity",
+  "competitor_count": 3,
+  "in_title_or_h2": false,
+  "tier": 1
+ },
+ {
+  "canonical": "Starbuck (Romanfigur)",
+  "type": "Person",
+  "aliases": [
+   "Erster Steuermann"
+  ],
+  "sameAs": [],
+  "kind": "entity",
+  "competitor_count": 3,
+  "in_title_or_h2": false,
+  "tier": 1
+ },
+ {
+  "canonical": "Logo-Entwicklung 1971/1987/1992/2011",
+  "type": "Event",
+  "aliases": [
+   "evolution",
+   "alt",
+   "früher",
+   "neu"
+  ],
+  "sameAs": [],
+  "kind": "term",
+  "competitor_count": 4,
+  "in_title_or_h2": true,
+  "tier": 1
+ },
+ {
+  "canonical": "Holzschnitt 16. Jahrhundert",
+  "type": "Other",
+  "aliases": [
+   "nordischer Holzschnitt"
+  ],
+  "sameAs": [],
+  "kind": "entity",
+  "competitor_count": 4,
+  "in_title_or_h2": false,
+  "tier": 1
+ },
+ {
+  "canonical": "Howard Schultz",
+  "type": "Person",
+  "aliases": [],
+  "sameAs": [
+   "https://en.wikipedia.org/wiki/Howard_Schultz"
+  ],
+  "kind": "entity",
+  "competitor_count": 3,
+  "in_title_or_h2": true,
+  "tier": 1
+ },
+ {
+  "canonical": "Seattle",
+  "type": "Place",
+  "aliases": [],
+  "sameAs": [
+   "https://en.wikipedia.org/wiki/Seattle"
+  ],
+  "kind": "entity",
+  "competitor_count": 4,
+  "in_title_or_h2": false,
+  "tier": 1
+ },
+ {
+  "canonical": "Zwei Fischschwänze",
+  "type": "Concept",
+  "aliases": [
+   "zweischwänzig"
+  ],
+  "sameAs": [],
+  "kind": "term",
+  "competitor_count": 3,
+  "in_title_or_h2": true,
+  "tier": 2
+ },
+ {
+  "canonical": "Grün (Farbe)",
+  "type": "Concept",
+  "aliases": [
+   "warum grün"
+  ],
+  "sameAs": [],
+  "kind": "term",
+  "competitor_count": 3,
+  "in_title_or_h2": true,
+  "tier": 2
+ },
+ {
+  "canonical": "Terry Heckler",
+  "type": "Person",
+  "aliases": [],
+  "sameAs": [],
+  "kind": "entity",
+  "competitor_count": 3,
+  "in_title_or_h2": false,
+  "tier": 2
+ },
+ {
+  "canonical": "Gordon Bowker / Jerry Baldwin / Zev Siegl",
+  "type": "Person",
+  "aliases": [
+   "Gründer"
+  ],
+  "sameAs": [
+   "https://en.wikipedia.org/wiki/Gordon_Bowker",
+   "https://en.wikipedia.org/wiki/Jerry_Baldwin"
+  ],
+  "kind": "entity",
+  "competitor_count": 3,
+  "in_title_or_h2": true,
+  "tier": 2
+ },
+ {
+  "canonical": "Pequod",
+  "type": "Other",
+  "aliases": [],
+  "sameAs": [],
+  "kind": "entity",
+  "competitor_count": 3,
+  "in_title_or_h2": false,
+  "tier": 2
+ },
+ {
+  "canonical": "Starbo",
+  "type": "Place",
+  "aliases": [],
+  "sameAs": [],
+  "kind": "entity",
+  "competitor_count": 1,
+  "in_title_or_h2": false,
+  "tier": 2
+ },
+ {
+  "canonical": "Il Giornale",
+  "type": "Organization",
+  "aliases": [],
+  "sameAs": [],
+  "kind": "entity",
+  "competitor_count": 2,
+  "in_title_or_h2": false,
+  "tier": 2
+ },
+ {
+  "canonical": "Lippincott",
+  "type": "Organization",
+  "aliases": [],
+  "sameAs": [],
+  "kind": "entity",
+  "competitor_count": 1,
+  "in_title_or_h2": false,
+  "tier": 2
+ },
+ {
+  "canonical": "Schriftzug entfernt (2011)",
+  "type": "Event",
+  "aliases": [],
+  "sameAs": [],
+  "kind": "term",
+  "competitor_count": 3,
+  "in_title_or_h2": false,
+  "tier": 2
+ },
+ {
+  "canonical": "Pike Place Market",
+  "type": "Place",
+  "aliases": [],
+  "sameAs": [
+   "https://en.wikipedia.org/wiki/Pike_Place_Market"
+  ],
+  "kind": "entity",
+  "competitor_count": 1,
+  "in_title_or_h2": false,
+  "tier": 2
+ },
+ {
+  "canonical": "Starbucks Geschichte und Entwicklung",
+  "type": "Event",
+  "aliases": [],
+  "sameAs": [],
+  "kind": "term",
+  "competitor_count": 2,
+  "in_title_or_h2": true,
+  "tier": 2
+ },
+ {
+  "canonical": "Stern auf der Krone",
+  "type": "Concept",
+  "aliases": [],
+  "sameAs": [],
+  "kind": "term",
+  "competitor_count": 2,
+  "in_title_or_h2": false,
+  "tier": 2
+ },
+ {
+  "canonical": "Brian Niccol",
+  "type": "Person",
+  "aliases": [],
+  "sameAs": [
+   "https://en.wikipedia.org/wiki/Brian_Niccol"
+  ],
+  "kind": "entity",
+  "competitor_count": 0,
+  "in_title_or_h2": false,
+  "tier": 3
+ },
+ {
+  "canonical": "Starbucks Deutschland 2002 / AmRest 2016",
+  "type": "Event",
+  "aliases": [],
+  "sameAs": [],
+  "kind": "term",
+  "competitor_count": 0,
+  "in_title_or_h2": false,
+  "tier": 3
+ },
+ {
+  "canonical": "Melusine",
+  "type": "Concept",
+  "aliases": [],
+  "sameAs": [],
+  "kind": "entity",
+  "competitor_count": 0,
+  "in_title_or_h2": false,
+  "tier": 3
+ },
+ {
+  "canonical": "2008 Retro-Logo",
+  "type": "Event",
+  "aliases": [],
+  "sameAs": [],
+  "kind": "term",
+  "competitor_count": 1,
+  "in_title_or_h2": false,
+  "tier": 3
+ },
+ {
+  "canonical": "Asymmetrisches Gesicht",
+  "type": "Concept",
+  "aliases": [],
+  "sameAs": [],
+  "kind": "term",
+  "competitor_count": 0,
+  "in_title_or_h2": false,
+  "tier": 3
+ },
+ {
+  "canonical": "Name auf dem Becher",
+  "type": "Concept",
+  "aliases": [
+   "name fails",
+   "namen falsch"
+  ],
+  "sameAs": [],
+  "kind": "term",
+  "competitor_count": 0,
+  "in_title_or_h2": false,
+  "tier": 3
+ },
+ {
+  "canonical": "Hear Music",
+  "type": "Organization",
+  "aliases": [],
+  "sameAs": [],
+  "kind": "entity",
+  "competitor_count": 1,
+  "in_title_or_h2": false,
+  "tier": 3
+ }
+]

@@ -1,0 +1,28 @@
+{
+  "slug": "/blog/starbucks-mocha",
+  "date": "2026-10-01",
+  "crumb": "Starbucks Mocha",
+  "title": "Starbucks Mocha 2026: Preis, Kalorien, Koffein & Sorten",
+  "description": "Starbucks Caffè Mocha 2026: 5,90 €, 281 kcal und 113 mg Koffein im Grande. Plus White Chocolate Mocha, Iced Mocha, Mocha Frappuccino und Rezept.",
+  "about": [
+    {"@type": "Thing", "name": "Caffè Mocha", "sameAs": "https://en.wikipedia.org/wiki/Caff%C3%A8_mocha"},
+    {"@type": "Organization", "name": "Starbucks", "sameAs": ["https://www.wikidata.org/wiki/Q37158", "https://www.starbucks.de/"]}
+  ],
+  "mentions": [
+    {"@type": "Thing", "name": "Espresso", "sameAs": "https://en.wikipedia.org/wiki/Espresso"},
+    {"@type": "Thing", "name": "White Chocolate Mocha"},
+    {"@type": "Thing", "name": "Mocha Frappuccino", "sameAs": "https://en.wikipedia.org/wiki/Frappuccino"},
+    {"@type": "Thing", "name": "Iced Caffè Mocha"},
+    {"@type": "Thing", "name": "Classic Hot Chocolate"},
+    {"@type": "Place", "name": "Mokka (Jemen)", "sameAs": "https://en.wikipedia.org/wiki/Mocha,_Yemen"},
+    {"@type": "Thing", "name": "Nescafé Dolce Gusto", "sameAs": "https://en.wikipedia.org/wiki/Nescaf%C3%A9_Dolce_Gusto"}
+  ],
+  "howto": {"@type": "HowTo", "name": "Mocha-Sauce selber machen",
+    "supply": [{"@type": "HowToSupply", "name": "120 ml Wasser"}, {"@type": "HowToSupply", "name": "100 g Zucker"}, {"@type": "HowToSupply", "name": "30 g ungesüßtes Kakaopulver"}, {"@type": "HowToSupply", "name": "1 Prise Salz"}, {"@type": "HowToSupply", "name": "1/2 TL Vanilleextrakt"}],
+    "step": [
+      {"@type": "HowToStep", "position": 1, "text": "Wasser, Zucker, Kakaopulver und Salz in einen kleinen Topf geben."},
+      {"@type": "HowToStep", "position": 2, "text": "Bei mittlerer Hitze unter Rühren aufkochen, bis sich der Zucker gelöst hat."},
+      {"@type": "HowToStep", "position": 3, "text": "Zwei Minuten leicht köcheln lassen, dann vom Herd nehmen."},
+      {"@type": "HowToStep", "position": 4, "text": "Vanilleextrakt einrühren und abkühlen lassen."},
+      {"@type": "HowToStep", "position": 5, "text": "In ein Schraubglas füllen und im Kühlschrank aufbewahren."}]}
+}

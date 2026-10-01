@@ -1,0 +1,349 @@
+[
+ {
+  "canonical": "Caffè Mocha",
+  "type": "Product",
+  "aliases": [
+   "Mocha",
+   "Starbucks Mocha",
+   "Café Mocha",
+   "Mochaccino"
+  ],
+  "sameAs": [
+   "https://en.wikipedia.org/wiki/Caff%C3%A8_mocha"
+  ],
+  "kind": "entity",
+  "competitor_count": 4,
+  "in_title_or_h2": true,
+  "tier": 1
+ },
+ {
+  "canonical": "Starbucks Deutschland",
+  "type": "Organization",
+  "aliases": [
+   "Starbucks"
+  ],
+  "sameAs": [
+   "https://www.wikidata.org/wiki/Q37158"
+  ],
+  "kind": "entity",
+  "competitor_count": 4,
+  "in_title_or_h2": true,
+  "tier": 1
+ },
+ {
+  "canonical": "Preis",
+  "type": "Money",
+  "aliases": [
+   "kosten"
+  ],
+  "sameAs": [],
+  "kind": "term",
+  "competitor_count": 2,
+  "in_title_or_h2": true,
+  "tier": 1
+ },
+ {
+  "canonical": "Kalorien",
+  "type": "Metric",
+  "aliases": [
+   "kcal",
+   "Nährwerte"
+  ],
+  "sameAs": [],
+  "kind": "term",
+  "competitor_count": 3,
+  "in_title_or_h2": true,
+  "tier": 1
+ },
+ {
+  "canonical": "Koffein",
+  "type": "Metric",
+  "aliases": [],
+  "sameAs": [],
+  "kind": "term",
+  "competitor_count": 2,
+  "in_title_or_h2": true,
+  "tier": 1
+ },
+ {
+  "canonical": "Mocha-Sauce",
+  "type": "Product",
+  "aliases": [
+   "Mochasauce",
+   "Schokoladensauce",
+   "Mocha Sauce"
+  ],
+  "sameAs": [],
+  "kind": "entity",
+  "competitor_count": 4,
+  "in_title_or_h2": true,
+  "tier": 1
+ },
+ {
+  "canonical": "Espresso",
+  "type": "Product",
+  "aliases": [
+   "Espresso-Shot"
+  ],
+  "sameAs": [
+   "https://en.wikipedia.org/wiki/Espresso"
+  ],
+  "kind": "entity",
+  "competitor_count": 4,
+  "in_title_or_h2": false,
+  "tier": 1
+ },
+ {
+  "canonical": "White Chocolate Mocha",
+  "type": "Product",
+  "aliases": [
+   "White Mocha",
+   "weiße Schokolade"
+  ],
+  "sameAs": [],
+  "kind": "entity",
+  "competitor_count": 3,
+  "in_title_or_h2": true,
+  "tier": 1
+ },
+ {
+  "canonical": "Grande",
+  "type": "Other",
+  "aliases": [],
+  "sameAs": [],
+  "kind": "entity",
+  "competitor_count": 3,
+  "in_title_or_h2": false,
+  "tier": 1
+ },
+ {
+  "canonical": "Schlagsahne",
+  "type": "Product",
+  "aliases": [
+   "Sahne"
+  ],
+  "sameAs": [],
+  "kind": "entity",
+  "competitor_count": 3,
+  "in_title_or_h2": false,
+  "tier": 2
+ },
+ {
+  "canonical": "Milch / Milchsorte",
+  "type": "Product",
+  "aliases": [
+   "Halbfettmilch",
+   "Vollmilch",
+   "Hafer",
+   "Mandel",
+   "Soja",
+   "Kokos"
+  ],
+  "sameAs": [],
+  "kind": "term",
+  "competitor_count": 2,
+  "in_title_or_h2": true,
+  "tier": 2
+ },
+ {
+  "canonical": "Iced Caffè Mocha",
+  "type": "Product",
+  "aliases": [
+   "Iced Mocha"
+  ],
+  "sameAs": [],
+  "kind": "entity",
+  "competitor_count": 2,
+  "in_title_or_h2": true,
+  "tier": 2
+ },
+ {
+  "canonical": "Mocha Frappuccino",
+  "type": "Product",
+  "aliases": [
+   "Frappuccino Mocha"
+  ],
+  "sameAs": [
+   "https://en.wikipedia.org/wiki/Frappuccino"
+  ],
+  "kind": "entity",
+  "competitor_count": 2,
+  "in_title_or_h2": true,
+  "tier": 2
+ },
+ {
+  "canonical": "Zucker",
+  "type": "Metric",
+  "aliases": [],
+  "sameAs": [],
+  "kind": "term",
+  "competitor_count": 2,
+  "in_title_or_h2": false,
+  "tier": 2
+ },
+ {
+  "canonical": "Größe (Short/Tall/Venti)",
+  "type": "Other",
+  "aliases": [],
+  "sameAs": [],
+  "kind": "term",
+  "competitor_count": 2,
+  "in_title_or_h2": true,
+  "tier": 2
+ },
+ {
+  "canonical": "Mokka (Jemen)",
+  "type": "Place",
+  "aliases": [
+   "al-Mukha",
+   "Mokha"
+  ],
+  "sameAs": [
+   "https://en.wikipedia.org/wiki/Mocha,_Yemen"
+  ],
+  "kind": "entity",
+  "competitor_count": 1,
+  "in_title_or_h2": false,
+  "tier": 2
+ },
+ {
+  "canonical": "Classic Hot Chocolate",
+  "type": "Product",
+  "aliases": [
+   "heiße Schokolade"
+  ],
+  "sameAs": [],
+  "kind": "entity",
+  "competitor_count": 1,
+  "in_title_or_h2": true,
+  "tier": 2
+ },
+ {
+  "canonical": "Rezept / selber machen",
+  "type": "Process",
+  "aliases": [],
+  "sameAs": [],
+  "kind": "term",
+  "competitor_count": 2,
+  "in_title_or_h2": true,
+  "tier": 2
+ },
+ {
+  "canonical": "Caffè Latte",
+  "type": "Product",
+  "aliases": [
+   "Latte"
+  ],
+  "sameAs": [],
+  "kind": "entity",
+  "competitor_count": 2,
+  "in_title_or_h2": true,
+  "tier": 2
+ },
+ {
+  "canonical": "Mocha Cookie Crumble Frappuccino",
+  "type": "Product",
+  "aliases": [],
+  "sameAs": [],
+  "kind": "entity",
+  "competitor_count": 1,
+  "in_title_or_h2": true,
+  "tier": 2
+ },
+ {
+  "canonical": "Starbucks White Mocha Dolce Gusto",
+  "type": "Product",
+  "aliases": [
+   "Dolce Gusto White Mocha"
+  ],
+  "sameAs": [],
+  "kind": "entity",
+  "competitor_count": 1,
+  "in_title_or_h2": true,
+  "tier": 2
+ },
+ {
+  "canonical": "Decaf Mocha",
+  "type": "Product",
+  "aliases": [],
+  "sameAs": [],
+  "kind": "entity",
+  "competitor_count": 0,
+  "in_title_or_h2": false,
+  "tier": 3
+ },
+ {
+  "canonical": "Blonde Mocha",
+  "type": "Product",
+  "aliases": [
+   "Blonde Espresso"
+  ],
+  "sameAs": [],
+  "kind": "entity",
+  "competitor_count": 0,
+  "in_title_or_h2": false,
+  "tier": 3
+ },
+ {
+  "canonical": "Ristretto Mocha",
+  "type": "Product",
+  "aliases": [],
+  "sameAs": [],
+  "kind": "entity",
+  "competitor_count": 0,
+  "in_title_or_h2": false,
+  "tier": 3
+ },
+ {
+  "canonical": "Java Chip Frappuccino",
+  "type": "Product",
+  "aliases": [],
+  "sameAs": [],
+  "kind": "entity",
+  "competitor_count": 1,
+  "in_title_or_h2": false,
+  "tier": 3
+ },
+ {
+  "canonical": "Mocha-Pulver",
+  "type": "Product",
+  "aliases": [
+   "Bar Mocha Powder"
+  ],
+  "sameAs": [],
+  "kind": "entity",
+  "competitor_count": 0,
+  "in_title_or_h2": false,
+  "tier": 3
+ },
+ {
+  "canonical": "vegan / Pflanzendrink",
+  "type": "Concept",
+  "aliases": [],
+  "sameAs": [],
+  "kind": "term",
+  "competitor_count": 1,
+  "in_title_or_h2": true,
+  "tier": 3
+ },
+ {
+  "canonical": "Starbucks at Home",
+  "type": "Organization",
+  "aliases": [],
+  "sameAs": [],
+  "kind": "entity",
+  "competitor_count": 1,
+  "in_title_or_h2": false,
+  "tier": 3
+ },
+ {
+  "canonical": "bicerin / bavareisa",
+  "type": "Product",
+  "aliases": [],
+  "sameAs": [],
+  "kind": "entity",
+  "competitor_count": 1,
+  "in_title_or_h2": false,
+  "tier": 3
+ }
+]

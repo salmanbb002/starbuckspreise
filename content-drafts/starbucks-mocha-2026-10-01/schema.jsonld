@@ -1,0 +1,247 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "BlogPosting",
+      "@id": "https://starbuckspreise.com/blog/starbucks-mocha#article",
+      "headline": "Starbucks Mocha 2026: Preis, Kalorien, Koffein & Sorten",
+      "description": "Starbucks Caffè Mocha 2026: 5,90 €, 281 kcal und 113 mg Koffein im Grande. Plus White Chocolate Mocha, Iced Mocha, Mocha Frappuccino und Rezept.",
+      "inLanguage": "de-DE",
+      "datePublished": "2026-10-01",
+      "dateModified": "2026-10-01",
+      "mainEntityOfPage": "https://starbuckspreise.com/blog/starbucks-mocha",
+      "image": "https://starbuckspreise.com/img/blog/starbucks-mocha-hero.webp",
+      "author": {
+        "@type": "Organization",
+        "name": "StarbucksPreise Redaktion",
+        "url": "https://starbuckspreise.com/ueber-uns"
+      },
+      "publisher": {
+        "@type": "Organization",
+        "name": "StarbucksPreise",
+        "url": "https://starbuckspreise.com/",
+        "logo": {
+          "@type": "ImageObject",
+          "url": "TODO: https://starbuckspreise.com/<logo-file>"
+        }
+      },
+      "about": [
+        {
+          "@type": "Thing",
+          "name": "Caffè Mocha",
+          "sameAs": "https://en.wikipedia.org/wiki/Caff%C3%A8_mocha"
+        },
+        {
+          "@type": "Organization",
+          "name": "Starbucks",
+          "sameAs": [
+            "https://www.wikidata.org/wiki/Q37158",
+            "https://www.starbucks.de/"
+          ]
+        }
+      ],
+      "mentions": [
+        {
+          "@type": "Thing",
+          "name": "Espresso",
+          "sameAs": "https://en.wikipedia.org/wiki/Espresso"
+        },
+        {
+          "@type": "Thing",
+          "name": "White Chocolate Mocha"
+        },
+        {
+          "@type": "Thing",
+          "name": "Mocha Frappuccino",
+          "sameAs": "https://en.wikipedia.org/wiki/Frappuccino"
+        },
+        {
+          "@type": "Thing",
+          "name": "Iced Caffè Mocha"
+        },
+        {
+          "@type": "Thing",
+          "name": "Classic Hot Chocolate"
+        },
+        {
+          "@type": "Place",
+          "name": "Mokka (Jemen)",
+          "sameAs": "https://en.wikipedia.org/wiki/Mocha,_Yemen"
+        },
+        {
+          "@type": "Thing",
+          "name": "Nescafé Dolce Gusto",
+          "sameAs": "https://en.wikipedia.org/wiki/Nescaf%C3%A9_Dolce_Gusto"
+        }
+      ],
+      "speakable": {
+        "@type": "SpeakableSpecification",
+        "cssSelector": [
+          "#direct-answer"
+        ]
+      }
+    },
+    {
+      "@type": "FAQPage",
+      "@id": "https://starbuckspreise.com/blog/starbucks-mocha#faq",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "Wie viel Koffein hat ein Starbucks Mocha?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Ein Caffè Mocha Grande hat 113,4 mg Koffein, ein Tall 107,3 mg und ein Venti 164 mg. Damit hat er mehr als ein Caffè Latte (89,1 mg im Grande), weil die Mocha-Sauce aus Kakao rund 24 mg dazugibt."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Ist der Mocha süßer als ein Caramel Macchiato?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Ja. Ein Mocha Grande mit Halbfettmilch hat 30,1 g Zucker, ein heißer Caramel Macchiato Grande 27,6 g. Dafür hat der Caramel Macchiato weniger Kalorien (214 statt 281 kcal). Am süßesten ist der White Chocolate Mocha mit 45,4 g Zucker."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Ist beim Starbucks Mocha Sahne drauf?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Ja. Der Caffè Mocha wird in Deutschland standardmäßig mit Schlagsahne serviert, und die Nährwerte enthalten sie bereits. Du kannst ihn ohne Sahne bestellen, dann sinken Fett und Kalorien etwas."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Was ist ein Mochaccino?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Mochaccino ist ein anderer Name für einen Espresso mit Schokolade und Milch, also im Grunde dasselbe wie ein Caffè Mocha. Bei Starbucks Deutschland heißt das Getränk nur „Caffè Mocha“."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Gibt es den Mocha als Decaf?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Ja. Den Mocha gibt es auch mit entkoffeiniertem Espresso. Ein Decaf Mocha Grande hat 27,9 mg Koffein, die fast nur aus der Mocha-Sauce stammen, und 281 kcal wie das Original."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Was ist ein Blonde Mocha?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Ein Blonde Mocha wird mit dem helleren Starbucks Blonde® Espresso statt dem normalen Espresso Roast gemacht. Er schmeckt milder und hat im Grande 261 kcal und 103,7 mg Koffein."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Was ist ein Ristretto Mocha?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Der Ristretto Mocha wird mit Ristretto-Shots gemacht, also mit kürzer gezogenem Espresso. Er schmeckt dadurch kräftiger und süßlicher. Er steht auf der deutschen Getränkekarte und in der Allergenliste, hat aber keine eigene Zeile in der Nährwertliste."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Welcher Mocha hat die wenigsten Kalorien?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Der heiße Mocha Short mit Mandeldrink hat nur 126 kcal. In der Größe Grande ist der Mocha mit Mandeldrink (230 kcal) die leichteste Wahl. Ohne Sahne sparst du zusätzlich."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Kann ich den Mocha in der App bestellen?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Ja. In Coffee Houses mit „Mobile Order and Pay“ kannst du den Caffè Mocha in der Starbucks App vorbestellen. Dort wählst du auch Größe, Milch und Extras."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Gibt es Starbucks Mocha im Supermarkt?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Es gibt einen Starbucks Mocha Frappuccino als Kühlregal-Getränk in der Flasche und den White Mocha als Dolce-Gusto-Kapsel. Einen dunklen Caffè Mocha als Kapsel haben wir 2026 nicht gefunden."
+          }
+        }
+      ]
+    },
+    {
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Startseite",
+          "item": "https://starbuckspreise.com/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Blog",
+          "item": "https://starbuckspreise.com/blog/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "Starbucks Mocha",
+          "item": "https://starbuckspreise.com/blog/starbucks-mocha"
+        }
+      ]
+    },
+    {
+      "@type": "HowTo",
+      "name": "Mocha-Sauce selber machen",
+      "supply": [
+        {
+          "@type": "HowToSupply",
+          "name": "120 ml Wasser"
+        },
+        {
+          "@type": "HowToSupply",
+          "name": "100 g Zucker"
+        },
+        {
+          "@type": "HowToSupply",
+          "name": "30 g ungesüßtes Kakaopulver"
+        },
+        {
+          "@type": "HowToSupply",
+          "name": "1 Prise Salz"
+        },
+        {
+          "@type": "HowToSupply",
+          "name": "1/2 TL Vanilleextrakt"
+        }
+      ],
+      "step": [
+        {
+          "@type": "HowToStep",
+          "position": 1,
+          "text": "Wasser, Zucker, Kakaopulver und Salz in einen kleinen Topf geben."
+        },
+        {
+          "@type": "HowToStep",
+          "position": 2,
+          "text": "Bei mittlerer Hitze unter Rühren aufkochen, bis sich der Zucker gelöst hat."
+        },
+        {
+          "@type": "HowToStep",
+          "position": 3,
+          "text": "Zwei Minuten leicht köcheln lassen, dann vom Herd nehmen."
+        },
+        {
+          "@type": "HowToStep",
+          "position": 4,
+          "text": "Vanilleextrakt einrühren und abkühlen lassen."
+        },
+        {
+          "@type": "HowToStep",
+          "position": 5,
+          "text": "In ein Schraubglas füllen und im Kühlschrank aufbewahren."
+        }
+      ]
+    }
+  ]
+}

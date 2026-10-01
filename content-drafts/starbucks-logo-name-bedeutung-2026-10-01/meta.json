@@ -1,0 +1,24 @@
+{
+  "slug": "/blog/starbucks-logo-name-bedeutung",
+  "date": "2026-10-01",
+  "crumb": "Starbucks Logo Bedeutung",
+  "title": "Starbucks Logo Bedeutung: Sirene, Name & Geschichte erklärt",
+  "description": "Was bedeutet das Starbucks-Logo? Die Sirene mit zwei Schwänzen, der Name aus „Moby-Dick“, alle Logo-Versionen seit 1971 und die Gründer im Überblick.",
+  "about": [
+    {"@type": "Thing", "name": "Starbucks-Logo", "sameAs": "https://en.wikipedia.org/wiki/Starbucks#Logo"},
+    {"@type": "Organization", "name": "Starbucks", "sameAs": ["https://www.wikidata.org/wiki/Q37158", "https://en.wikipedia.org/wiki/Starbucks"]}
+  ],
+  "mentions": [
+    {"@type": "Thing", "name": "Sirene (Mythologie)", "sameAs": "https://en.wikipedia.org/wiki/Siren_(mythology)"},
+    {"@type": "Book", "name": "Moby-Dick", "author": {"@type": "Person", "name": "Herman Melville"}, "sameAs": "https://en.wikipedia.org/wiki/Moby-Dick"},
+    {"@type": "Person", "name": "Howard Schultz", "sameAs": "https://en.wikipedia.org/wiki/Howard_Schultz"},
+    {"@type": "Person", "name": "Gordon Bowker", "sameAs": "https://en.wikipedia.org/wiki/Gordon_Bowker"},
+    {"@type": "Person", "name": "Jerry Baldwin", "sameAs": "https://en.wikipedia.org/wiki/Jerry_Baldwin"},
+    {"@type": "Person", "name": "Zev Siegl"},
+    {"@type": "Person", "name": "Terry Heckler"},
+    {"@type": "Person", "name": "Brian Niccol", "sameAs": "https://en.wikipedia.org/wiki/Brian_Niccol"},
+    {"@type": "Organization", "name": "Lippincott"},
+    {"@type": "Place", "name": "Seattle", "sameAs": "https://en.wikipedia.org/wiki/Seattle"},
+    {"@type": "Place", "name": "Pike Place Market", "sameAs": "https://en.wikipedia.org/wiki/Pike_Place_Market"}
+  ]
+}

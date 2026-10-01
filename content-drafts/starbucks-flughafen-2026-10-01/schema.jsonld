@@ -1,0 +1,251 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "BlogPosting",
+      "@id": "https://starbuckspreise.com/blog/starbucks-flughafen#article",
+      "headline": "Starbucks Flughafen, Bahnhof & Autobahn: alle Standorte 2026",
+      "description": "Starbucks am Flughafen 2026: Frankfurt, München, BER, Köln/Bonn, Hamburg (Düsseldorf nicht mehr). Dazu Bahnhöfe und A9-Raststätten mit Öffnungszeiten.",
+      "inLanguage": "de-DE",
+      "datePublished": "2026-10-01",
+      "dateModified": "2026-10-01",
+      "mainEntityOfPage": "https://starbuckspreise.com/blog/starbucks-flughafen",
+      "image": "https://starbuckspreise.com/img/blog/starbucks-flughafen-hero.webp",
+      "author": {
+        "@type": "Organization",
+        "name": "StarbucksPreise Redaktion",
+        "url": "https://starbuckspreise.com/ueber-uns"
+      },
+      "publisher": {
+        "@type": "Organization",
+        "name": "StarbucksPreise",
+        "url": "https://starbuckspreise.com/",
+        "logo": {
+          "@type": "ImageObject",
+          "url": "TODO: https://starbuckspreise.com/<logo-file>"
+        }
+      },
+      "about": [
+        {
+          "@type": "Organization",
+          "name": "Starbucks",
+          "sameAs": [
+            "https://www.wikidata.org/wiki/Q37158",
+            "https://www.starbucks.de/"
+          ]
+        },
+        {
+          "@type": "Thing",
+          "name": "Flughafen",
+          "sameAs": "https://de.wikipedia.org/wiki/Flughafen"
+        }
+      ],
+      "mentions": [
+        {
+          "@type": "Airport",
+          "name": "Flughafen Frankfurt am Main",
+          "iataCode": "FRA",
+          "sameAs": "https://en.wikipedia.org/wiki/Frankfurt_Airport"
+        },
+        {
+          "@type": "Airport",
+          "name": "Flughafen München",
+          "iataCode": "MUC",
+          "sameAs": "https://en.wikipedia.org/wiki/Munich_Airport"
+        },
+        {
+          "@type": "Airport",
+          "name": "Flughafen Berlin Brandenburg",
+          "iataCode": "BER",
+          "sameAs": "https://en.wikipedia.org/wiki/Berlin_Brandenburg_Airport"
+        },
+        {
+          "@type": "Airport",
+          "name": "Flughafen Köln/Bonn",
+          "iataCode": "CGN",
+          "sameAs": "https://en.wikipedia.org/wiki/Cologne_Bonn_Airport"
+        },
+        {
+          "@type": "Airport",
+          "name": "Flughafen Hamburg",
+          "iataCode": "HAM",
+          "sameAs": "https://en.wikipedia.org/wiki/Hamburg_Airport"
+        },
+        {
+          "@type": "Airport",
+          "name": "Flughafen Düsseldorf",
+          "iataCode": "DUS",
+          "sameAs": "https://en.wikipedia.org/wiki/D%C3%BCsseldorf_Airport"
+        },
+        {
+          "@type": "Organization",
+          "name": "AmRest",
+          "sameAs": "https://de.wikipedia.org/wiki/AmRest"
+        },
+        {
+          "@type": "Thing",
+          "name": "Bundesautobahn 9",
+          "sameAs": "https://de.wikipedia.org/wiki/Bundesautobahn_9"
+        },
+        {
+          "@type": "Thing",
+          "name": "Starbucks Card"
+        }
+      ],
+      "speakable": {
+        "@type": "SpeakableSpecification",
+        "cssSelector": [
+          "#direct-answer"
+        ]
+      }
+    },
+    {
+      "@type": "FAQPage",
+      "@id": "https://starbuckspreise.com/blog/starbucks-flughafen#faq",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "Gibt es Starbucks am Flughafen Düsseldorf?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Nein, seit April 2026 nicht mehr. Coffee Fellows hat die zwei bisherigen Starbucks-Standorte am Flugsteig B und in der Check-in-Halle übernommen. Die Starbucks-Seite auf dus.com ist nicht mehr online."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Wo ist Starbucks am Frankfurter Flughafen Terminal 1?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "In Terminal 1 gibt es Starbucks in Halle B auf Ebene 2 (öffentlich), in Halle B auf Ebene 3 im Non-Schengen-Bereich und in Halle C auf Ebene 2. Das Coffee House auf Ebene 2 in Halle B öffnet um 6 Uhr."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Gibt es Starbucks am Flughafen Stuttgart?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Auf der Website des Flughafens Stuttgart haben wir keinen Starbucks gefunden. Den nächsten Starbucks gibt es am Stuttgarter Hauptbahnhof (Kiosk, 6:00–21:30 Uhr) und in der Innenstadt."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Ist Starbucks am Flughafen vor oder nach der Sicherheitskontrolle?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Beides kommt vor. In München, Köln/Bonn und Hamburg liegt Starbucks im öffentlichen Bereich. Am BER und in Frankfurt (Terminal 2, Halle B Ebene 3) gibt es auch Standorte hinter der Kontrolle."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Welcher Starbucks am Flughafen öffnet am frühesten?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Der Starbucks am BER mit dem Eintrag „Berlin Flughafen“ öffnet laut Store Locator schon um 4:30 Uhr. In München und am zweiten BER-Standort geht es ab 5:00 Uhr los, in Frankfurt Halle C ab 5:30 Uhr."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Kann ich am Flughafen mit der Starbucks Card bezahlen?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "In den meisten Fällen nicht. Starbucks nennt die Flughafen-Standorte in Frankfurt, Hamburg und am BER (Terminal 1, airside) ausdrücklich als Lizenzstores, in denen die Starbucks Card nicht funktioniert."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Gibt es Starbucks am Hamburger Hauptbahnhof?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Ja. Im Store Locator steht „Hamburg Hauptbahnhof Langbaute“ mit täglich 10 bis 20 Uhr. Dazu kommen Lizenzstores auf dem Südsteg und auf der Westseite des Bahnhofs sowie am Bahnhof Dammtor."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Gibt es Starbucks am Frankfurter Hauptbahnhof?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Im Store Locator haben wir keinen Starbucks direkt im Frankfurter Hauptbahnhof gefunden. Prüfe das vor der Reise noch einmal, Bahnhofsläden wechseln oft."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Gibt es Starbucks an der A7?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Laut Starbucks gibt es an der A7 Starbucks in den Raststätten Ellwanger Berge und Holmmoor. Beide sind Lizenzstores, Öffnungszeiten zeigt der Store Locator dafür nicht."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Sind Starbucks-Raststätten rund um die Uhr geöffnet?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Nein. Die Starbucks-Cafés an der A9 öffnen laut Store Locator um 6 Uhr und schließen um 21 oder 22 Uhr. Die Raststätte selbst kann länger geöffnet sein."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Sind die Preise am Flughafen höher?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Oft ja. Wie viel mehr du zahlst, hängt vom Standort und vom Betreiber ab. Den aktuellen Preis siehst du an der Tafel oder bei der App-Bestellung."
+          }
+        }
+      ]
+    },
+    {
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Startseite",
+          "item": "https://starbuckspreise.com/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Blog",
+          "item": "https://starbuckspreise.com/blog/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "Starbucks am Flughafen",
+          "item": "https://starbuckspreise.com/blog/starbucks-flughafen"
+        }
+      ]
+    },
+    {
+      "@type": "HowTo",
+      "name": "Starbucks auf Reisen finden",
+      "step": [
+        {
+          "@type": "HowToStep",
+          "position": 1,
+          "text": "Store Locator auf starbucks.de oder in der App öffnen und Flughafen oder Bahnhof eingeben."
+        },
+        {
+          "@type": "HowToStep",
+          "position": 2,
+          "text": "Öffnungszeiten für den Reisetag prüfen; Sonn- und Feiertage weichen oft ab."
+        },
+        {
+          "@type": "HowToStep",
+          "position": 3,
+          "text": "Am Flughafen auf den Bereich achten: öffentlich oder hinter der Sicherheitskontrolle."
+        },
+        {
+          "@type": "HowToStep",
+          "position": 4,
+          "text": "Bei den Merkmalen nach „Redeem Rewards“ schauen, wenn Sterne eingelöst werden sollen."
+        },
+        {
+          "@type": "HowToStep",
+          "position": 5,
+          "text": "Bei Lizenzstores eine andere Zahlungsart einplanen, da die Starbucks Card dort nicht funktioniert."
+        }
+      ]
+    }
+  ]
+}

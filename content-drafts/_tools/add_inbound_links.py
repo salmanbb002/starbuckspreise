@@ -2,18 +2,18 @@
 import re, pathlib
 
 BLOG = pathlib.Path(__file__).resolve().parents[2] / "blog"
-PSL, APP, PRO = "/blog/starbucks-pumpkin-spice-latte", "/blog/starbucks-app", "/blog/starbucks-protein"
+MOC, FLU, LOGO = "/blog/starbucks-mocha", "/blog/starbucks-flughafen", "/blog/starbucks-logo-name-bedeutung"
 TARGETS = [
-    ("starbucks-latte.html", "Pumpkin Spice Latte", PSL), ("starbucks-latte.html", "Protein-Drink", PRO),
-    ("starbucks-kalorien-guide.html", "Pumpkin Spice Latte", PSL), ("starbucks-kalorien-guide.html", "Soy Protein Lattes", PRO),
-    ("starbucks-frappuccino-sorten.html", "Pumpkin Spice Frappuccino®", PSL),
-    ("starbucks-matcha-latte.html", "Pumpkin Spice Matcha Latte", PSL), ("starbucks-matcha-latte.html", "Soy Protein Matcha Latte", PRO),
-    ("starbucks-menu.html", "Pumpkin Spice Latte", PSL), ("starbucks-menu.html", "Starbucks-Rewards-Programm", APP),
-    ("starbucks-near-me.html", "Pumpkin Spice Latte", PSL),
-    ("starbucks-angebote.html", "Pumpkin Spice Latte", PSL), ("starbucks-angebote.html", "Starbucks Rewards", APP),
-    ("starbucks-becher-aktuell.html", "Starbucks-Rewards-Mitglieder", APP),
-    ("starbucks-in-der-naehe.html", "Starbucks App", APP), ("starbucks-preise.html", "Starbucks App", APP),
-    ("starbucks-getraenke.html", "Starbucks-App", APP),
+    ("starbucks-kaffee.html", "Caffè Mocha", MOC), ("starbucks-menu.html", "Caffè Mocha", MOC),
+    ("starbucks-kalorien-guide.html", "Caffè Mocha", MOC), ("starbucks-getraenke.html", "Caffè Mocha", MOC),
+    ("starbucks-heisse-schokolade.html", "Mocha-Sauce", MOC), ("starbucks-preise.html", "Caffè Mocha", MOC),
+    ("starbucks-kapseln-angebot.html", "White Mocha", MOC),
+    ("starbucks-preise.html", "Bahnhöfen und Flughäfen", FLU), ("starbucks-deutschland-filialen.html", "Bahnhöfen und Flughäfen", FLU),
+    ("starbucks-geoeffnet.html", "Flughafenfilialen", FLU), ("starbucks-in-der-naehe.html", "Flughäfen oder Raststätten", FLU),
+    ("starbucks-near-me.html", "Hauptbahnhöfen und Flughäfen", FLU), ("starbucks-greding.html", "Autobahn A9", FLU),
+    ("starbucks-menu.html", "Bahnhofs- und Flughafen-Filialen", FLU), ("starbucks-mocha.html", "Bahnhöfen und Flughäfen", FLU),
+    ("starbucks-kaffee.html", "Howard Schultz", LOGO), ("starbucks-becher.html", "Sirenen-Logo", LOGO),
+    ("starbucks-tassen.html", "Sirenen-Logo", LOGO), ("starbucks-kapseln-angebot.html", "Sirenen-Logo", LOGO),
 ]
 
 

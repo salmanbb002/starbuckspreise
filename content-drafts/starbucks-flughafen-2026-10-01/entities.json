@@ -1,0 +1,375 @@
+[
+ {
+  "canonical": "Starbucks Deutschland",
+  "type": "Organization",
+  "aliases": [
+   "Starbucks"
+  ],
+  "sameAs": [
+   "https://www.wikidata.org/wiki/Q37158"
+  ],
+  "kind": "entity",
+  "competitor_count": 4,
+  "in_title_or_h2": true,
+  "tier": 1
+ },
+ {
+  "canonical": "Flughafen",
+  "type": "Place",
+  "aliases": [
+   "Airport"
+  ],
+  "sameAs": [
+   "https://de.wikipedia.org/wiki/Flughafen"
+  ],
+  "kind": "term",
+  "competitor_count": 4,
+  "in_title_or_h2": true,
+  "tier": 1
+ },
+ {
+  "canonical": "Flughafen Frankfurt am Main",
+  "type": "Place",
+  "aliases": [
+   "FRA",
+   "Frankfurt Airport"
+  ],
+  "sameAs": [
+   "https://en.wikipedia.org/wiki/Frankfurt_Airport"
+  ],
+  "kind": "entity",
+  "competitor_count": 4,
+  "in_title_or_h2": true,
+  "tier": 1
+ },
+ {
+  "canonical": "Flughafen München",
+  "type": "Place",
+  "aliases": [
+   "MUC"
+  ],
+  "sameAs": [
+   "https://en.wikipedia.org/wiki/Munich_Airport"
+  ],
+  "kind": "entity",
+  "competitor_count": 3,
+  "in_title_or_h2": true,
+  "tier": 1
+ },
+ {
+  "canonical": "Terminal",
+  "type": "Place",
+  "aliases": [
+   "Terminal 1",
+   "Terminal 2",
+   "Halle B"
+  ],
+  "sameAs": [],
+  "kind": "term",
+  "competitor_count": 4,
+  "in_title_or_h2": false,
+  "tier": 1
+ },
+ {
+  "canonical": "Öffnungszeiten",
+  "type": "Other",
+  "aliases": [],
+  "sameAs": [],
+  "kind": "term",
+  "competitor_count": 4,
+  "in_title_or_h2": false,
+  "tier": 1
+ },
+ {
+  "canonical": "Hauptbahnhof",
+  "type": "Place",
+  "aliases": [
+   "Bahnhof",
+   "Hbf"
+  ],
+  "sameAs": [],
+  "kind": "term",
+  "competitor_count": 2,
+  "in_title_or_h2": true,
+  "tier": 1
+ },
+ {
+  "canonical": "Autobahn-Raststätte",
+  "type": "Place",
+  "aliases": [
+   "Raststätte",
+   "Rastanlage",
+   "Autobahn"
+  ],
+  "sameAs": [],
+  "kind": "term",
+  "competitor_count": 1,
+  "in_title_or_h2": true,
+  "tier": 1
+ },
+ {
+  "canonical": "Flughafen Berlin Brandenburg",
+  "type": "Place",
+  "aliases": [
+   "BER",
+   "BBI"
+  ],
+  "sameAs": [
+   "https://en.wikipedia.org/wiki/Berlin_Brandenburg_Airport"
+  ],
+  "kind": "entity",
+  "competitor_count": 2,
+  "in_title_or_h2": true,
+  "tier": 2
+ },
+ {
+  "canonical": "Flughafen Köln/Bonn",
+  "type": "Place",
+  "aliases": [
+   "CGN"
+  ],
+  "sameAs": [
+   "https://en.wikipedia.org/wiki/Cologne_Bonn_Airport"
+  ],
+  "kind": "entity",
+  "competitor_count": 2,
+  "in_title_or_h2": true,
+  "tier": 2
+ },
+ {
+  "canonical": "Flughafen Hamburg",
+  "type": "Place",
+  "aliases": [
+   "HAM"
+  ],
+  "sameAs": [
+   "https://en.wikipedia.org/wiki/Hamburg_Airport"
+  ],
+  "kind": "entity",
+  "competitor_count": 2,
+  "in_title_or_h2": true,
+  "tier": 2
+ },
+ {
+  "canonical": "Flughafen Düsseldorf",
+  "type": "Place",
+  "aliases": [
+   "DUS"
+  ],
+  "sameAs": [
+   "https://en.wikipedia.org/wiki/D%C3%BCsseldorf_Airport"
+  ],
+  "kind": "entity",
+  "competitor_count": 3,
+  "in_title_or_h2": true,
+  "tier": 2
+ },
+ {
+  "canonical": "Sicherheitskontrolle (öffentlich/airside)",
+  "type": "Concept",
+  "aliases": [
+   "Landside",
+   "Airside"
+  ],
+  "sameAs": [],
+  "kind": "term",
+  "competitor_count": 2,
+  "in_title_or_h2": false,
+  "tier": 2
+ },
+ {
+  "canonical": "Lizenzstore",
+  "type": "Concept",
+  "aliases": [
+   "Lizenznehmer"
+  ],
+  "sameAs": [],
+  "kind": "term",
+  "competitor_count": 1,
+  "in_title_or_h2": true,
+  "tier": 2
+ },
+ {
+  "canonical": "Starbucks Card",
+  "type": "Product",
+  "aliases": [],
+  "sameAs": [],
+  "kind": "entity",
+  "competitor_count": 1,
+  "in_title_or_h2": true,
+  "tier": 2
+ },
+ {
+  "canonical": "AmRest",
+  "type": "Organization",
+  "aliases": [
+   "AmRest Coffee Deutschland"
+  ],
+  "sameAs": [
+   "https://de.wikipedia.org/wiki/AmRest"
+  ],
+  "kind": "entity",
+  "competitor_count": 0,
+  "in_title_or_h2": false,
+  "tier": 2
+ },
+ {
+  "canonical": "Bundesautobahn 9",
+  "type": "Place",
+  "aliases": [
+   "A9"
+  ],
+  "sameAs": [
+   "https://de.wikipedia.org/wiki/Bundesautobahn_9"
+  ],
+  "kind": "entity",
+  "competitor_count": 1,
+  "in_title_or_h2": true,
+  "tier": 2
+ },
+ {
+  "canonical": "Store Locator",
+  "type": "Product",
+  "aliases": [
+   "Coffee House Suche"
+  ],
+  "sameAs": [],
+  "kind": "entity",
+  "competitor_count": 2,
+  "in_title_or_h2": false,
+  "tier": 2
+ },
+ {
+  "canonical": "Mobile Order and Pay / Rewards",
+  "type": "Product",
+  "aliases": [
+   "App-Bestellung",
+   "Redeem Rewards"
+  ],
+  "sameAs": [],
+  "kind": "entity",
+  "competitor_count": 0,
+  "in_title_or_h2": false,
+  "tier": 2
+ },
+ {
+  "canonical": "The Squaire",
+  "type": "Place",
+  "aliases": [],
+  "sameAs": [],
+  "kind": "entity",
+  "competitor_count": 2,
+  "in_title_or_h2": false,
+  "tier": 2
+ },
+ {
+  "canonical": "Coffee Fellows",
+  "type": "Organization",
+  "aliases": [],
+  "sameAs": [],
+  "kind": "entity",
+  "competitor_count": 1,
+  "in_title_or_h2": false,
+  "tier": 2
+ },
+ {
+  "canonical": "Greding",
+  "type": "Place",
+  "aliases": [],
+  "sameAs": [],
+  "kind": "entity",
+  "competitor_count": 0,
+  "in_title_or_h2": false,
+  "tier": 3
+ },
+ {
+  "canonical": "Holledau",
+  "type": "Place",
+  "aliases": [],
+  "sameAs": [],
+  "kind": "entity",
+  "competitor_count": 0,
+  "in_title_or_h2": false,
+  "tier": 3
+ },
+ {
+  "canonical": "Fläming",
+  "type": "Place",
+  "aliases": [],
+  "sameAs": [],
+  "kind": "entity",
+  "competitor_count": 0,
+  "in_title_or_h2": false,
+  "tier": 3
+ },
+ {
+  "canonical": "Fernthal / Medenbach (A3)",
+  "type": "Place",
+  "aliases": [],
+  "sameAs": [],
+  "kind": "entity",
+  "competitor_count": 0,
+  "in_title_or_h2": false,
+  "tier": 3
+ },
+ {
+  "canonical": "Ellwanger Berge / Holmmoor (A7)",
+  "type": "Place",
+  "aliases": [],
+  "sameAs": [],
+  "kind": "entity",
+  "competitor_count": 0,
+  "in_title_or_h2": false,
+  "tier": 3
+ },
+ {
+  "canonical": "Brohltal West (A61)",
+  "type": "Place",
+  "aliases": [],
+  "sameAs": [],
+  "kind": "entity",
+  "competitor_count": 0,
+  "in_title_or_h2": false,
+  "tier": 3
+ },
+ {
+  "canonical": "Bruchsal (A5)",
+  "type": "Place",
+  "aliases": [],
+  "sameAs": [],
+  "kind": "entity",
+  "competitor_count": 0,
+  "in_title_or_h2": false,
+  "tier": 3
+ },
+ {
+  "canonical": "Hamburg Dammtor / Berlin Zoologischer Garten / Erfurt Hbf",
+  "type": "Place",
+  "aliases": [],
+  "sameAs": [],
+  "kind": "entity",
+  "competitor_count": 0,
+  "in_title_or_h2": false,
+  "tier": 3
+ },
+ {
+  "canonical": "Preise an Reisestandorten",
+  "type": "Money",
+  "aliases": [],
+  "sameAs": [],
+  "kind": "term",
+  "competitor_count": 1,
+  "in_title_or_h2": true,
+  "tier": 3
+ },
+ {
+  "canonical": "SSP",
+  "type": "Organization",
+  "aliases": [],
+  "sameAs": [],
+  "kind": "entity",
+  "competitor_count": 1,
+  "in_title_or_h2": false,
+  "tier": 3
+ }
+]

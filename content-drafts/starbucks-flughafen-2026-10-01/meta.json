@@ -1,0 +1,29 @@
+{
+  "slug": "/blog/starbucks-flughafen",
+  "date": "2026-10-01",
+  "crumb": "Starbucks am Flughafen",
+  "title": "Starbucks Flughafen, Bahnhof & Autobahn: alle Standorte 2026",
+  "description": "Starbucks am Flughafen 2026: Frankfurt, München, BER, Köln/Bonn, Hamburg (Düsseldorf nicht mehr). Dazu Bahnhöfe und A9-Raststätten mit Öffnungszeiten.",
+  "about": [
+    {"@type": "Organization", "name": "Starbucks", "sameAs": ["https://www.wikidata.org/wiki/Q37158", "https://www.starbucks.de/"]},
+    {"@type": "Thing", "name": "Flughafen", "sameAs": "https://de.wikipedia.org/wiki/Flughafen"}
+  ],
+  "mentions": [
+    {"@type": "Airport", "name": "Flughafen Frankfurt am Main", "iataCode": "FRA", "sameAs": "https://en.wikipedia.org/wiki/Frankfurt_Airport"},
+    {"@type": "Airport", "name": "Flughafen München", "iataCode": "MUC", "sameAs": "https://en.wikipedia.org/wiki/Munich_Airport"},
+    {"@type": "Airport", "name": "Flughafen Berlin Brandenburg", "iataCode": "BER", "sameAs": "https://en.wikipedia.org/wiki/Berlin_Brandenburg_Airport"},
+    {"@type": "Airport", "name": "Flughafen Köln/Bonn", "iataCode": "CGN", "sameAs": "https://en.wikipedia.org/wiki/Cologne_Bonn_Airport"},
+    {"@type": "Airport", "name": "Flughafen Hamburg", "iataCode": "HAM", "sameAs": "https://en.wikipedia.org/wiki/Hamburg_Airport"},
+    {"@type": "Airport", "name": "Flughafen Düsseldorf", "iataCode": "DUS", "sameAs": "https://en.wikipedia.org/wiki/D%C3%BCsseldorf_Airport"},
+    {"@type": "Organization", "name": "AmRest", "sameAs": "https://de.wikipedia.org/wiki/AmRest"},
+    {"@type": "Thing", "name": "Bundesautobahn 9", "sameAs": "https://de.wikipedia.org/wiki/Bundesautobahn_9"},
+    {"@type": "Thing", "name": "Starbucks Card"}
+  ],
+  "howto": {"@type": "HowTo", "name": "Starbucks auf Reisen finden",
+    "step": [
+      {"@type": "HowToStep", "position": 1, "text": "Store Locator auf starbucks.de oder in der App öffnen und Flughafen oder Bahnhof eingeben."},
+      {"@type": "HowToStep", "position": 2, "text": "Öffnungszeiten für den Reisetag prüfen; Sonn- und Feiertage weichen oft ab."},
+      {"@type": "HowToStep", "position": 3, "text": "Am Flughafen auf den Bereich achten: öffentlich oder hinter der Sicherheitskontrolle."},
+      {"@type": "HowToStep", "position": 4, "text": "Bei den Merkmalen nach „Redeem Rewards“ schauen, wenn Sterne eingelöst werden sollen."},
+      {"@type": "HowToStep", "position": 5, "text": "Bei Lizenzstores eine andere Zahlungsart einplanen, da die Starbucks Card dort nicht funktioniert."}]}
+}

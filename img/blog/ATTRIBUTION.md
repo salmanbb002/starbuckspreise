@@ -179,3 +179,21 @@ Hero photos sourced from Wikimedia Commons for the 2026-09-17 location/product p
 - Author: Kenny Kennethh
 - License: Unsplash License (free, no attribution required; credited on-page anyway)
 - Note: 2026-09-29 — generic layered latte in glass, no Starbucks branding.
+
+## starbucks-logo-name-bedeutung-hero.webp
+- Source: https://unsplash.com/photos/zI9oUQTLCnU
+- Author: The New York Public Library
+- License: Unsplash License (free, no attribution required; credited on-page anyway)
+- Note: 2026-10-01 — antique engraved world map with sailing ships (seafaring theme), no Starbucks logo per site rule.
+
+## starbucks-flughafen-hero.webp
+- Source: https://unsplash.com/photos/nevwri0n7qs
+- Author: Kelvin Zyteng
+- License: Unsplash License (free, no attribution required; credited on-page anyway)
+- Note: 2026-10-01 — generic airport terminal hall with cafés, no Starbucks branding.
+
+## starbucks-mocha-hero.webp
+- Source: https://unsplash.com/photos/Gi5hCP3KGKQ
+- Author: tommao wang
+- License: Unsplash License (free, no attribution required; credited on-page anyway)
+- Note: 2026-10-01 — generic mocha with whipped cream and cocoa in glass, cropped 16:10, no branding.
