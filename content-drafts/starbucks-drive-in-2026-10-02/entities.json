@@ -1,0 +1,121 @@
+[
+ {
+  "canonical": "Drive-Thru",
+  "tier": 1,
+  "kind": "entity",
+  "covered": true,
+  "in_title_or_h2": true
+ },
+ {
+  "canonical": "Starbucks",
+  "tier": 1,
+  "kind": "entity",
+  "covered": true,
+  "in_title_or_h2": true
+ },
+ {
+  "canonical": "Düsseldorf",
+  "tier": 1,
+  "kind": "entity",
+  "covered": true,
+  "in_title_or_h2": false
+ },
+ {
+  "canonical": "Schnelldorf",
+  "tier": 1,
+  "kind": "entity",
+  "covered": true,
+  "in_title_or_h2": false
+ },
+ {
+  "canonical": "Standort",
+  "tier": 1,
+  "kind": "entity",
+  "covered": true,
+  "in_title_or_h2": true
+ },
+ {
+  "canonical": "Öffnungszeiten",
+  "tier": 1,
+  "kind": "entity",
+  "covered": true,
+  "in_title_or_h2": true
+ },
+ {
+  "canonical": "AmRest",
+  "tier": 1,
+  "kind": "entity",
+  "covered": true,
+  "in_title_or_h2": false
+ },
+ {
+  "canonical": "Erkrather Straße",
+  "tier": 2,
+  "kind": "entity",
+  "covered": true,
+  "in_title_or_h2": false
+ },
+ {
+  "canonical": "Lierenfeld",
+  "tier": 2,
+  "kind": "entity",
+  "covered": true,
+  "in_title_or_h2": false
+ },
+ {
+  "canonical": "A7",
+  "tier": 2,
+  "kind": "entity",
+  "covered": true,
+  "in_title_or_h2": false
+ },
+ {
+  "canonical": "Autohof",
+  "tier": 2,
+  "kind": "entity",
+  "covered": true,
+  "in_title_or_h2": false
+ },
+ {
+  "canonical": "Sprechsäule",
+  "tier": 2,
+  "kind": "entity",
+  "covered": true,
+  "in_title_or_h2": false
+ },
+ {
+  "canonical": "Sitzplätze",
+  "tier": 2,
+  "kind": "entity",
+  "covered": true,
+  "in_title_or_h2": false
+ },
+ {
+  "canonical": "Bottrop",
+  "tier": 2,
+  "kind": "entity",
+  "covered": true,
+  "in_title_or_h2": false
+ },
+ {
+  "canonical": "Tank & Rast",
+  "tier": 2,
+  "kind": "entity",
+  "covered": true,
+  "in_title_or_h2": false
+ },
+ {
+  "canonical": "Store Locator",
+  "tier": 2,
+  "kind": "entity",
+  "covered": true,
+  "in_title_or_h2": false
+ },
+ {
+  "canonical": "Mobile Order",
+  "tier": 2,
+  "kind": "entity",
+  "covered": true,
+  "in_title_or_h2": false
+ }
+]

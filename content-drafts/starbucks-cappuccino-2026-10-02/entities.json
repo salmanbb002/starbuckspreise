@@ -1,0 +1,156 @@
+[
+ {
+  "canonical": "Cappuccino",
+  "tier": 1,
+  "kind": "entity",
+  "covered": true,
+  "in_title_or_h2": true
+ },
+ {
+  "canonical": "Starbucks",
+  "tier": 1,
+  "kind": "entity",
+  "covered": true,
+  "in_title_or_h2": true
+ },
+ {
+  "canonical": "Espresso",
+  "tier": 1,
+  "kind": "entity",
+  "covered": true,
+  "in_title_or_h2": false
+ },
+ {
+  "canonical": "Milchschaum",
+  "tier": 1,
+  "kind": "entity",
+  "covered": true,
+  "in_title_or_h2": false
+ },
+ {
+  "canonical": "Preis",
+  "tier": 1,
+  "kind": "entity",
+  "covered": true,
+  "in_title_or_h2": true
+ },
+ {
+  "canonical": "Kalorien",
+  "tier": 1,
+  "kind": "entity",
+  "covered": true,
+  "in_title_or_h2": true
+ },
+ {
+  "canonical": "Koffein",
+  "tier": 1,
+  "kind": "entity",
+  "covered": true,
+  "in_title_or_h2": true
+ },
+ {
+  "canonical": "Espresso-Shot",
+  "tier": 1,
+  "kind": "entity",
+  "covered": true,
+  "in_title_or_h2": false
+ },
+ {
+  "canonical": "Caffè Latte",
+  "tier": 2,
+  "kind": "entity",
+  "covered": true,
+  "in_title_or_h2": false
+ },
+ {
+  "canonical": "Latte Macchiato",
+  "tier": 2,
+  "kind": "entity",
+  "covered": true,
+  "in_title_or_h2": true
+ },
+ {
+  "canonical": "Flat White",
+  "tier": 2,
+  "kind": "entity",
+  "covered": true,
+  "in_title_or_h2": true
+ },
+ {
+  "canonical": "Iced Cappuccino",
+  "tier": 2,
+  "kind": "entity",
+  "covered": true,
+  "in_title_or_h2": false
+ },
+ {
+  "canonical": "Hafermilch",
+  "tier": 2,
+  "kind": "entity",
+  "covered": true,
+  "in_title_or_h2": true
+ },
+ {
+  "canonical": "Pflanzendrink",
+  "tier": 2,
+  "kind": "entity",
+  "covered": true,
+  "in_title_or_h2": false
+ },
+ {
+  "canonical": "laktosefrei",
+  "tier": 2,
+  "kind": "term",
+  "covered": true,
+  "in_title_or_h2": true
+ },
+ {
+  "canonical": "Tall",
+  "tier": 2,
+  "kind": "entity",
+  "covered": true,
+  "in_title_or_h2": false
+ },
+ {
+  "canonical": "Grande",
+  "tier": 2,
+  "kind": "entity",
+  "covered": true,
+  "in_title_or_h2": false
+ },
+ {
+  "canonical": "Venti",
+  "tier": 2,
+  "kind": "entity",
+  "covered": true,
+  "in_title_or_h2": false
+ },
+ {
+  "canonical": "Kapseln",
+  "tier": 2,
+  "kind": "entity",
+  "covered": true,
+  "in_title_or_h2": false
+ },
+ {
+  "canonical": "Dolce Gusto",
+  "tier": 2,
+  "kind": "entity",
+  "covered": true,
+  "in_title_or_h2": false
+ },
+ {
+  "canonical": "Nespresso",
+  "tier": 2,
+  "kind": "entity",
+  "covered": true,
+  "in_title_or_h2": false
+ },
+ {
+  "canonical": "Filterkaffee",
+  "tier": 2,
+  "kind": "entity",
+  "covered": true,
+  "in_title_or_h2": false
+ }
+]

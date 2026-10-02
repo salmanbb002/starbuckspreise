@@ -1,0 +1,230 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "Article",
+      "@id": "https://starbuckspreise.com/blog/starbucks-sirup/#article",
+      "headline": "Starbucks Sirup: Sorten, zuckerfreie Varianten, Preis und Kauf 2026",
+      "description": "Starbucks Sirup: Sorten (Vanille, Karamell, Haselnuss), zuckerfreie Variante, Preis ab 0,60 €, Pumpen pro Größe und wo du Sirup kaufen kannst.",
+      "inLanguage": "de-DE",
+      "datePublished": "2026-10-02T12:00:00+02:00",
+      "dateModified": "2026-10-02T12:00:00+02:00",
+      "mainEntityOfPage": "https://starbuckspreise.com/blog/starbucks-sirup",
+      "image": "https://starbuckspreise.com/img/blog/starbucks-sirup-hero.webp",
+      "author": {
+        "@type": "Organization",
+        "name": "StarbucksPreise Redaktion",
+        "url": "https://starbuckspreise.com"
+      },
+      "publisher": {
+        "@type": "Organization",
+        "name": "StarbucksPreise Deutschland",
+        "url": "https://starbuckspreise.com"
+      },
+      "about": [
+        {
+          "@type": "Thing",
+          "name": "Kaffeesirup"
+        },
+        {
+          "@type": "Organization",
+          "name": "Starbucks",
+          "sameAs": [
+            "https://www.wikidata.org/wiki/Q37158",
+            "https://www.starbucks.de/"
+          ]
+        }
+      ],
+      "mentions": [
+        {
+          "@type": "Thing",
+          "name": "Vanille",
+          "sameAs": "https://en.wikipedia.org/wiki/Vanilla"
+        },
+        {
+          "@type": "Thing",
+          "name": "Karamell",
+          "sameAs": "https://en.wikipedia.org/wiki/Caramel"
+        },
+        {
+          "@type": "Thing",
+          "name": "Haselnuss",
+          "sameAs": "https://en.wikipedia.org/wiki/Hazelnut"
+        },
+        {
+          "@type": "Thing",
+          "name": "Pumpkin Spice",
+          "sameAs": "https://en.wikipedia.org/wiki/Pumpkin_spice"
+        },
+        {
+          "@type": "Thing",
+          "name": "Lebkuchen",
+          "sameAs": "https://en.wikipedia.org/wiki/Lebkuchen"
+        },
+        {
+          "@type": "Thing",
+          "name": "Starbucks Rewards"
+        }
+      ],
+      "speakable": {
+        "@type": "SpeakableSpecification",
+        "cssSelector": [
+          "#direct-answer"
+        ]
+      }
+    },
+    {
+      "@type": "BreadcrumbList",
+      "@id": "https://starbuckspreise.com/blog/starbucks-sirup/#breadcrumb",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Startseite",
+          "item": "https://starbuckspreise.com/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Ratgeber",
+          "item": "https://starbuckspreise.com/blog"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "Starbucks Sirup",
+          "item": "https://starbuckspreise.com/blog/starbucks-sirup"
+        }
+      ]
+    },
+    {
+      "@type": "FAQPage",
+      "@id": "https://starbuckspreise.com/blog/starbucks-sirup/#faq",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "Welche Sirup-Sorten gibt es bei Starbucks?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Vanille, Karamell und Haselnuss gehören zu den festen Sorten, dazu kommt zuckerfreier Vanillesirup. Saisonale Sorten wie Pumpkin Spice, Toffee Nut oder Lebkuchen stehen nur zeitweise auf der Karte."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Hat Starbucks zuckerfreien Sirup?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Ja, Starbucks Deutschland bietet zuckerfreien Vanillesirup an. Weitere zuckerfreie Sorten sind in Foren genannt, aber nicht belegt. Frag in deiner Filiale nach."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Was kostet ein Sirup bei Starbucks?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Ein zusätzlicher Sirup-Shot kostet 0,60 € bis 0,80 €. Gold-Mitglieder von Starbucks Rewards bekommen ihn gratis. Eine andere Preisliste nennt 0,25 €, das konnten wir nicht bestätigen."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Kann man bei Starbucks Sirup kaufen?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Einen offiziellen Shop für Sirup-Flaschen haben wir nicht gefunden. Einzelne Filialen sollen Flaschen verkaufen, das ist nicht belegt. Fachmarken wie Monin oder Teisseire gibt es im Onlinehandel."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Wie viele Pumpen Sirup sind in einem Starbucks Getränk?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Nach US-Standard Tall 3, Grande 4, Venti heiß 5 und Venti Iced 6. Für Deutschland nennt Starbucks keine Zahlen. Frag an der Kasse, wenn du es genau wissen willst."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Wie viele Kalorien hat eine Pumpe Starbucks Sirup?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Rund 20 kcal und 5 g Zucker nach US-Angaben von Tasting Table. Starbucks Deutschland nennt keinen eigenen Wert. Vier Pumpen im Grande ergeben etwa 80 kcal."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Gibt es bei Starbucks Karamell-Sirup?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Ja, Karamell gehört neben Vanille und Haselnuss zu den Sirup-Shots. Vom Karamellgitter im Caramel Macchiato unterscheidet er sich: Das Gitter ist Sauce, kein Sirup."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Gibt es bei Starbucks Pumpkin Spice Sirup?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Pumpkin Spice erscheint im Herbst als Getränk, etwa als Pumpkin Spice Latte. Ob du den Sirup einzeln bestellen kannst, ist nicht belegt. Frag in der Filiale nach."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Gibt es bei Starbucks Gingerbread Sirup?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "In Deutschland heißt die Sorte Lebkuchen und steht zu Weihnachten als Lebkuchen Latte auf der Karte. Der Sirup wird nur zur Saison geführt. Mehr dazu im Ratgeber Starbucks Weihnachten."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Ist Starbucks Sirup vegan?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Das hängt von der Sorte ab. Manche Signature-Sirups können Spuren von Milchprodukten enthalten. Prüfe die Allergenliste von Starbucks Deutschland oder frag das Personal."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Bekomme ich als Rewards-Mitglied Sirup gratis?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Ja, ab dem Gold-Status. Ihn erreichst du mit 450 Sternen innerhalb eines Jahres. Dann sind Sirup und Extra-Shots ohne Aufpreis, dazu kommen Refill und Geburtstagsgetränk."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Wie kann ich bei Starbucks weniger Zucker im Getränk bestellen?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Bestelle weniger Pumpen Sirup oder zuckerfreien Vanillesirup. Auch ein kleinerer Becher spart nach US-Standard Zucker, weil weniger Pumpen enthalten sind. Ein Caffè Latte ohne Sirup hat 151 kcal."
+          }
+        }
+      ]
+    },
+    {
+      "@type": "HowTo",
+      "@id": "https://starbuckspreise.com/blog/starbucks-sirup/#howto",
+      "name": "Wie mache ich Vanillesirup selbst?",
+      "step": [
+        {
+          "@type": "HowToStep",
+          "position": 1,
+          "text": "Gib Wasser, Zucker und Vanillezucker in einen Topf."
+        },
+        {
+          "@type": "HowToStep",
+          "position": 2,
+          "text": "Erhitze alles unter Rühren, bis der Zucker gelöst ist."
+        },
+        {
+          "@type": "HowToStep",
+          "position": 3,
+          "text": "Lass den Sirup 5 Minuten leicht köcheln."
+        },
+        {
+          "@type": "HowToStep",
+          "position": 4,
+          "text": "Fülle ihn abgekühlt in eine saubere Flasche und bewahre ihn im Kühlschrank auf."
+        }
+      ]
+    }
+  ]
+}

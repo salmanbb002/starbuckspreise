@@ -1,0 +1,61 @@
+{
+  "slug": "/blog/starbucks-cappuccino",
+  "date": "2026-10-02",
+  "crumb": "Starbucks Cappuccino",
+  "title": "Starbucks Cappuccino 2026: Preis, Kalorien & Koffein",
+  "description": "Starbucks Cappuccino ab 3,90 €, 130 kcal, 89,1 mg Koffein (Tall/Grande). Unterschied zu Latte, Flat White & Latte Macchiato, Hafermilch und Rezept.",
+  "about": [
+    {
+      "@type": "Thing",
+      "name": "Cappuccino",
+      "sameAs": "https://en.wikipedia.org/wiki/Cappuccino"
+    },
+    {
+      "@type": "Organization",
+      "name": "Starbucks",
+      "sameAs": [
+        "https://www.wikidata.org/wiki/Q37158",
+        "https://www.starbucks.de/"
+      ]
+    }
+  ],
+  "mentions": [
+    {
+      "@type": "Thing",
+      "name": "Caffè Latte",
+      "sameAs": "https://en.wikipedia.org/wiki/Caff%C3%A8_latte"
+    },
+    {
+      "@type": "Thing",
+      "name": "Latte Macchiato",
+      "sameAs": "https://en.wikipedia.org/wiki/Latte_macchiato"
+    },
+    {
+      "@type": "Thing",
+      "name": "Flat White",
+      "sameAs": "https://en.wikipedia.org/wiki/Flat_white"
+    },
+    {
+      "@type": "Thing",
+      "name": "Espresso",
+      "sameAs": "https://en.wikipedia.org/wiki/Espresso"
+    },
+    {
+      "@type": "Thing",
+      "name": "Koffein",
+      "sameAs": "https://en.wikipedia.org/wiki/Caffeine"
+    },
+    {
+      "@type": "Thing",
+      "name": "Milchschaum"
+    },
+    {
+      "@type": "Thing",
+      "name": "Signature Espresso Roast"
+    },
+    {
+      "@type": "Thing",
+      "name": "Starbucks Rewards"
+    }
+  ]
+}

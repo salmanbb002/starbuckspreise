@@ -1,0 +1,244 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "Article",
+      "@id": "https://starbuckspreise.com/blog/starbucks-cappuccino/#article",
+      "headline": "Starbucks Cappuccino 2026: Preis, Kalorien, Koffein und Unterschied zum Latte",
+      "description": "Starbucks Cappuccino ab 3,90 €, 130 kcal, 89,1 mg Koffein (Tall/Grande). Unterschied zu Latte, Flat White & Latte Macchiato, Hafermilch und Rezept.",
+      "inLanguage": "de-DE",
+      "datePublished": "2026-10-02T12:00:00+02:00",
+      "dateModified": "2026-10-02T12:00:00+02:00",
+      "mainEntityOfPage": "https://starbuckspreise.com/blog/starbucks-cappuccino",
+      "image": "https://starbuckspreise.com/img/blog/starbucks-cappuccino-hero.webp",
+      "author": {
+        "@type": "Organization",
+        "name": "StarbucksPreise Redaktion",
+        "url": "https://starbuckspreise.com"
+      },
+      "publisher": {
+        "@type": "Organization",
+        "name": "StarbucksPreise Deutschland",
+        "url": "https://starbuckspreise.com"
+      },
+      "about": [
+        {
+          "@type": "Thing",
+          "name": "Cappuccino",
+          "sameAs": "https://en.wikipedia.org/wiki/Cappuccino"
+        },
+        {
+          "@type": "Organization",
+          "name": "Starbucks",
+          "sameAs": [
+            "https://www.wikidata.org/wiki/Q37158",
+            "https://www.starbucks.de/"
+          ]
+        }
+      ],
+      "mentions": [
+        {
+          "@type": "Thing",
+          "name": "Caffè Latte",
+          "sameAs": "https://en.wikipedia.org/wiki/Caff%C3%A8_latte"
+        },
+        {
+          "@type": "Thing",
+          "name": "Latte Macchiato",
+          "sameAs": "https://en.wikipedia.org/wiki/Latte_macchiato"
+        },
+        {
+          "@type": "Thing",
+          "name": "Flat White",
+          "sameAs": "https://en.wikipedia.org/wiki/Flat_white"
+        },
+        {
+          "@type": "Thing",
+          "name": "Espresso",
+          "sameAs": "https://en.wikipedia.org/wiki/Espresso"
+        },
+        {
+          "@type": "Thing",
+          "name": "Koffein",
+          "sameAs": "https://en.wikipedia.org/wiki/Caffeine"
+        },
+        {
+          "@type": "Thing",
+          "name": "Milchschaum"
+        },
+        {
+          "@type": "Thing",
+          "name": "Signature Espresso Roast"
+        },
+        {
+          "@type": "Thing",
+          "name": "Starbucks Rewards"
+        }
+      ],
+      "speakable": {
+        "@type": "SpeakableSpecification",
+        "cssSelector": [
+          "#direct-answer"
+        ]
+      }
+    },
+    {
+      "@type": "BreadcrumbList",
+      "@id": "https://starbuckspreise.com/blog/starbucks-cappuccino/#breadcrumb",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Startseite",
+          "item": "https://starbuckspreise.com/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Ratgeber",
+          "item": "https://starbuckspreise.com/blog"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "Starbucks Cappuccino",
+          "item": "https://starbuckspreise.com/blog/starbucks-cappuccino"
+        }
+      ]
+    },
+    {
+      "@type": "FAQPage",
+      "@id": "https://starbuckspreise.com/blog/starbucks-cappuccino/#faq",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "Wie viel kostet ein Cappuccino bei Starbucks?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Ein Cappuccino kostet bei Starbucks ab 3,90 € in der Standardgröße. Grande liegt bei rund 4,40 €, Venti bei rund 4,90 €. In Bahnhöfen und an Flughäfen kann es teurer sein."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Wie viele Kalorien hat ein Starbucks Cappuccino?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Ein heißer Cappuccino hat 130 kcal, ein Iced Cappuccino 106 kcal. Die Werte gelten für die Standardzubereitung mit Milch. Sirup, Sahne und Pflanzendrinks verändern die Kalorien."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Wie viel Koffein hat ein Starbucks Cappuccino?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Ein Cappuccino in Tall oder Grande hat etwa 89,1 mg Koffein, ein Venti 133,6 mg. Ein Espresso-Shot enthält laut Starbucks Deutschland 44,5 mg. Die Zahl der Shots bestimmt das Koffein, nicht die Milch."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Was ist der Unterschied zwischen Cappuccino und Latte bei Starbucks?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Der Cappuccino hat mehr Milchschaum und weniger flüssige Milch als der Caffè Latte. Er kostet 3,90 € statt 4,59 € und hat 130 statt 151 kcal. Beide haben gleich viel Espresso."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Was ist der Unterschied zwischen Cappuccino und Flat White?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Der Flat White besteht aus einem doppelten Ristretto und dünnem Mikroschaum. Der Cappuccino trägt eine dicke Schaumhaube. Der Flat White schmeckt dadurch kräftiger nach Kaffee."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Wie viele Espresso-Shots hat ein Starbucks Cappuccino?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Tall und Grande haben je zwei Shots, Venti hat drei. Das entspricht dem Caffè Latte. Wer es milder mag, kann an der Kasse weniger Shots bestellen."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Gibt es den Starbucks Cappuccino auch kalt?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Ja, als Iced Cappuccino für 4,65 € mit 106 kcal. Er steht bei den 9 Eiskaffees auf der deutschen Karte. Mehr dazu im Ratgeber Starbucks Iced Coffee."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Ist der Starbucks Cappuccino vegan?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Nein, in der Standardversion nicht, weil er mit Kuhmilch zubereitet wird. Mit Hafer- oder Sojadrink wird er pflanzlich. Ob alle Zutaten vegan sind, prüfst du in der Allergenliste."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Kann ich einen Starbucks Cappuccino mit Hafermilch bestellen?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Ja. Pflanzendrinks wie Hafer oder Soja kosten meist 0,50 € bis 0,80 € extra. Welche Sorten es gibt, hängt von der Filiale ab."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Wo bekomme ich Starbucks Cappuccino für zu Hause?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Als Kapsel für Dolce Gusto oder für die Nespresso-Maschine, zum Beispiel im Supermarkt oder online. Starbucks at Home zeigt dazu ein Drei-Minuten-Rezept. Pulver oder Chilled Coffee haben wir nicht geprüft."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Wie groß ist ein Starbucks Cappuccino?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Tall hat 354 ml, Grande 473 ml und Venti heiß 591 ml. Short mit 237 ml gibt es nur bei einigen heißen Espresso-Getränken. Alle Größen erklärt der Ratgeber Tall, Grande, Venti."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Welcher Starbucks Kaffee hat mehr Koffein, Cappuccino oder Filterkaffee?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Der Filterkaffee. Ein Grande Pike Place Roast hat 254,6 mg Koffein, ein Grande Cappuccino etwa 89,1 mg. Der Cappuccino schmeckt trotzdem kräftiger, weil Espresso konzentrierter ist."
+          }
+        }
+      ]
+    },
+    {
+      "@type": "HowTo",
+      "@id": "https://starbuckspreise.com/blog/starbucks-cappuccino/#howto",
+      "name": "Wie mache ich einen Starbucks Cappuccino zu Hause?",
+      "step": [
+        {
+          "@type": "HowToStep",
+          "position": 1,
+          "text": "Brühe einen Espresso-Shot, zum Beispiel mit einer Starbucks-Kapsel für die Nespresso-Maschine."
+        },
+        {
+          "@type": "HowToStep",
+          "position": 2,
+          "text": "Erhitze 150 ml Milch oder Pflanzendrink und schäume sie auf."
+        },
+        {
+          "@type": "HowToStep",
+          "position": 3,
+          "text": "Gib den Espresso in die Tasse."
+        },
+        {
+          "@type": "HowToStep",
+          "position": 4,
+          "text": "Fülle zur Hälfte flüssige Milch und zur Hälfte Schaum auf."
+        },
+        {
+          "@type": "HowToStep",
+          "position": 5,
+          "text": "Streue nach Wunsch Zimt oder Kakao darüber."
+        }
+      ]
+    }
+  ]
+}

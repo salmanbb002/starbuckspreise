@@ -1,0 +1,227 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "Article",
+      "@id": "https://starbuckspreise.com/blog/starbucks-drive-in/#article",
+      "headline": "Starbucks Drive-in in Deutschland: Standorte, Öffnungszeiten und Ablauf 2026",
+      "description": "Starbucks Drive-in (Drive-Thru) in Deutschland: Düsseldorf-Lierenfeld und Schnelldorf an der A7. Adressen, Öffnungszeiten, Ablauf und Ausbau.",
+      "inLanguage": "de-DE",
+      "datePublished": "2026-10-02T12:00:00+02:00",
+      "dateModified": "2026-10-02T12:00:00+02:00",
+      "mainEntityOfPage": "https://starbuckspreise.com/blog/starbucks-drive-in",
+      "image": "https://starbuckspreise.com/img/blog/starbucks-drive-in-hero.webp",
+      "author": {
+        "@type": "Organization",
+        "name": "StarbucksPreise Redaktion",
+        "url": "https://starbuckspreise.com"
+      },
+      "publisher": {
+        "@type": "Organization",
+        "name": "StarbucksPreise Deutschland",
+        "url": "https://starbuckspreise.com"
+      },
+      "about": [
+        {
+          "@type": "Thing",
+          "name": "Drive-Thru",
+          "sameAs": "https://en.wikipedia.org/wiki/Drive-through"
+        },
+        {
+          "@type": "Organization",
+          "name": "Starbucks",
+          "sameAs": [
+            "https://www.wikidata.org/wiki/Q37158",
+            "https://www.starbucks.de/"
+          ]
+        }
+      ],
+      "mentions": [
+        {
+          "@type": "Thing",
+          "name": "AmRest",
+          "sameAs": "https://en.wikipedia.org/wiki/AmRest"
+        },
+        {
+          "@type": "Thing",
+          "name": "Düsseldorf",
+          "sameAs": "https://en.wikipedia.org/wiki/D%C3%BCsseldorf"
+        },
+        {
+          "@type": "Thing",
+          "name": "Schnelldorf",
+          "sameAs": "https://en.wikipedia.org/wiki/Schnelldorf"
+        },
+        {
+          "@type": "Thing",
+          "name": "Bundesautobahn 7",
+          "sameAs": "https://en.wikipedia.org/wiki/Bundesautobahn_7"
+        },
+        {
+          "@type": "Thing",
+          "name": "Tank & Rast",
+          "sameAs": "https://en.wikipedia.org/wiki/Tank_%26_Rast"
+        }
+      ],
+      "speakable": {
+        "@type": "SpeakableSpecification",
+        "cssSelector": [
+          "#direct-answer"
+        ]
+      }
+    },
+    {
+      "@type": "BreadcrumbList",
+      "@id": "https://starbuckspreise.com/blog/starbucks-drive-in/#breadcrumb",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Startseite",
+          "item": "https://starbuckspreise.com/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Ratgeber",
+          "item": "https://starbuckspreise.com/blog"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "Starbucks Drive-in",
+          "item": "https://starbuckspreise.com/blog/starbucks-drive-in"
+        }
+      ]
+    },
+    {
+      "@type": "FAQPage",
+      "@id": "https://starbuckspreise.com/blog/starbucks-drive-in/#faq",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "Gibt es einen Starbucks Drive-in in Deutschland?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Ja, aber nur an sehr wenigen Standorten. Nach den letzten verlässlichen Meldungen von 2024 gibt es zwei: Düsseldorf-Lierenfeld und Schnelldorf an der A7. Der Begriff lautet bei Starbucks „Drive Thru“."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Wo gibt es Starbucks Drive-in in Düsseldorf?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Der Drive-Thru in Düsseldorf steht an der Erkrather Straße 364 im Stadtteil Lierenfeld. Er eröffnete Ende Februar 2013 und war der erste in Deutschland. Prüfe die aktuellen Zeiten im Store Locator."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Gibt es einen Starbucks Drive-in in Berlin, München, Köln oder Frankfurt?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Wir haben dort keinen Drive-Thru gefunden. Google-Suchen nach Drive-ins in diesen Städten gibt es, belegte Standorte nennen die Meldungen nur für Düsseldorf und Schnelldorf. Neue Standorte kannst du im Store Locator prüfen."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Wo gibt es einen Starbucks Drive-Thru an der Autobahn?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Am Rosi’s Autohof Schnelldorf an der A7, Ausfahrt 111 (Feuchtwangen West), östlich von Nürnberg. Er eröffnete am 9. Juni 2024 und ist der erste deutsche Drive-Thru in Autobahnnähe. Er ist in beide Richtungen erreichbar."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Wann öffnet der Starbucks Drive-Thru in Düsseldorf?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Zur Eröffnung 2013 nannte Starbucks täglich 6 bis 21:45 Uhr, sonntags und feiertags ab 8 Uhr. Eine Datenbank nennt heute Montag bis Samstag 6 bis 21:45 Uhr und Sonntag geschlossen. Prüfe die Zeiten vor der Fahrt."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Wie bestelle ich am Starbucks Drive-Thru?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Du fährst in die Spur, bestellst an der Sprechsäule, zahlst am Fenster und nimmst dein Getränk entgegen. Ausgestiegen wird nicht. Preise und Karte entsprechen der normalen Filiale."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Ist das Sortiment am Drive-Thru kleiner?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Das haben wir nicht geprüft. Am Drive-Thru gibt es nach den Meldungen Kaffeegetränke zum Mitnehmen. Ob jedes Getränk und jeder Snack angeboten wird, frag vor Ort."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Warum gibt es so wenige Starbucks Drive-Thrus in Deutschland?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Starbucks sucht Standorte mit viel Platz an stark befahrenen Straßen. 2022 meldete AmRest, in 20 Städten zu suchen, die Grundstücke dürfen bis zu 2.000 m² groß sein. Ein Standort in Bottrop scheiterte am Widerstand von Anwohnern wegen Abgasen."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Wer betreibt Starbucks in Deutschland?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Seit 2016 die Gesellschaft AmRest, die Starbucks Deutschland von der Kette übernommen hat. Dazu kommen Lizenznehmer an Verkehrsknoten wie Bahnhöfen und Autobahnraststätten."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Kann ich am Starbucks Drive-Thru mit Karte oder App zahlen?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Das haben wir nicht belegt. Am Fenster wird nach dem Ablauf bezahlt. Ob die Starbucks App dort funktioniert, frag in der Filiale."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Wie viele Sitzplätze hat der Drive-Thru in Düsseldorf?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Etwa 60 Sitzplätze innen und 30 außen, bei 140 Quadratmetern Fläche (Stand 2013). Der Schnelldorfer Standort hat 25 Sitzplätze innen."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Gibt es Starbucks Drive-Thru in der Nähe von mir?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Die Standortliste für Deutschland ist sehr kurz. Nutze den Store Locator auf starbucks.de, um Drive-Thru-Filialen zu finden. Oder sieh in unseren Ratgebern zu Starbucks in der Nähe nach."
+          }
+        }
+      ]
+    },
+    {
+      "@type": "HowTo",
+      "@id": "https://starbuckspreise.com/blog/starbucks-drive-in/#howto",
+      "name": "Wie funktioniert ein Starbucks Drive-Thru?",
+      "step": [
+        {
+          "@type": "HowToStep",
+          "position": 1,
+          "text": "Fahre in die Drive-Thru-Spur ein und warte, bis du an der Reihe bist."
+        },
+        {
+          "@type": "HowToStep",
+          "position": 2,
+          "text": "Gib deine Bestellung an der Sprechsäule durch."
+        },
+        {
+          "@type": "HowToStep",
+          "position": 3,
+          "text": "Fahre zum Fenster und zahle dort."
+        },
+        {
+          "@type": "HowToStep",
+          "position": 4,
+          "text": "Nimm Getränk und Snack entgegen und fahre weiter."
+        }
+      ]
+    }
+  ]
+}

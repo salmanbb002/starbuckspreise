@@ -1,0 +1,52 @@
+{
+  "slug": "/blog/starbucks-sirup",
+  "date": "2026-10-02",
+  "crumb": "Starbucks Sirup",
+  "title": "Starbucks Sirup: Sorten, zuckerfrei, Preis & Kauf 2026",
+  "description": "Starbucks Sirup: Sorten (Vanille, Karamell, Haselnuss), zuckerfreie Variante, Preis ab 0,60 €, Pumpen pro Größe und wo du Sirup kaufen kannst.",
+  "about": [
+    {
+      "@type": "Thing",
+      "name": "Kaffeesirup"
+    },
+    {
+      "@type": "Organization",
+      "name": "Starbucks",
+      "sameAs": [
+        "https://www.wikidata.org/wiki/Q37158",
+        "https://www.starbucks.de/"
+      ]
+    }
+  ],
+  "mentions": [
+    {
+      "@type": "Thing",
+      "name": "Vanille",
+      "sameAs": "https://en.wikipedia.org/wiki/Vanilla"
+    },
+    {
+      "@type": "Thing",
+      "name": "Karamell",
+      "sameAs": "https://en.wikipedia.org/wiki/Caramel"
+    },
+    {
+      "@type": "Thing",
+      "name": "Haselnuss",
+      "sameAs": "https://en.wikipedia.org/wiki/Hazelnut"
+    },
+    {
+      "@type": "Thing",
+      "name": "Pumpkin Spice",
+      "sameAs": "https://en.wikipedia.org/wiki/Pumpkin_spice"
+    },
+    {
+      "@type": "Thing",
+      "name": "Lebkuchen",
+      "sameAs": "https://en.wikipedia.org/wiki/Lebkuchen"
+    },
+    {
+      "@type": "Thing",
+      "name": "Starbucks Rewards"
+    }
+  ]
+}

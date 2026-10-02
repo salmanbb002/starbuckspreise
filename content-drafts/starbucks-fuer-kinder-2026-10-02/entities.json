@@ -1,0 +1,142 @@
+[
+ {
+  "canonical": "Kinder",
+  "tier": 1,
+  "kind": "entity",
+  "covered": true,
+  "in_title_or_h2": true
+ },
+ {
+  "canonical": "Starbucks",
+  "tier": 1,
+  "kind": "entity",
+  "covered": true,
+  "in_title_or_h2": true
+ },
+ {
+  "canonical": "Koffein",
+  "tier": 1,
+  "kind": "entity",
+  "covered": true,
+  "in_title_or_h2": true
+ },
+ {
+  "canonical": "Cream Frappuccino",
+  "tier": 1,
+  "kind": "entity",
+  "covered": true,
+  "in_title_or_h2": false
+ },
+ {
+  "canonical": "Hot Chocolate",
+  "tier": 1,
+  "kind": "entity",
+  "covered": true,
+  "in_title_or_h2": false
+ },
+ {
+  "canonical": "Kalorien",
+  "tier": 1,
+  "kind": "entity",
+  "covered": true,
+  "in_title_or_h2": true
+ },
+ {
+  "canonical": "Preis",
+  "tier": 1,
+  "kind": "entity",
+  "covered": true,
+  "in_title_or_h2": true
+ },
+ {
+  "canonical": "Babyccino",
+  "tier": 2,
+  "kind": "entity",
+  "covered": true,
+  "in_title_or_h2": true
+ },
+ {
+  "canonical": "Kinder Bueno",
+  "tier": 2,
+  "kind": "entity",
+  "covered": true,
+  "in_title_or_h2": false
+ },
+ {
+  "canonical": "Refresha",
+  "tier": 2,
+  "kind": "entity",
+  "covered": true,
+  "in_title_or_h2": false
+ },
+ {
+  "canonical": "Chai",
+  "tier": 2,
+  "kind": "entity",
+  "covered": true,
+  "in_title_or_h2": false
+ },
+ {
+  "canonical": "Matcha",
+  "tier": 2,
+  "kind": "entity",
+  "covered": true,
+  "in_title_or_h2": false
+ },
+ {
+  "canonical": "Apfelschorle",
+  "tier": 2,
+  "kind": "entity",
+  "covered": true,
+  "in_title_or_h2": false
+ },
+ {
+  "canonical": "Hot Milk",
+  "tier": 2,
+  "kind": "entity",
+  "covered": true,
+  "in_title_or_h2": false
+ },
+ {
+  "canonical": "Cake Pop",
+  "tier": 2,
+  "kind": "entity",
+  "covered": true,
+  "in_title_or_h2": false
+ },
+ {
+  "canonical": "Kinderarzt",
+  "tier": 2,
+  "kind": "entity",
+  "covered": true,
+  "in_title_or_h2": false
+ },
+ {
+  "canonical": "Allergene",
+  "tier": 2,
+  "kind": "entity",
+  "covered": true,
+  "in_title_or_h2": false
+ },
+ {
+  "canonical": "Strawberries and Cream",
+  "tier": 2,
+  "kind": "entity",
+  "covered": true,
+  "in_title_or_h2": false
+ },
+ {
+  "canonical": "Vanilla Cream",
+  "tier": 2,
+  "kind": "entity",
+  "covered": true,
+  "in_title_or_h2": false
+ },
+ {
+  "canonical": "Zucker",
+  "tier": 2,
+  "kind": "entity",
+  "covered": true,
+  "in_title_or_h2": false
+ }
+]

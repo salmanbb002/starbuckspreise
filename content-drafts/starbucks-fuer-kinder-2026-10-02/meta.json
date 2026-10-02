@@ -1,0 +1,56 @@
+{
+  "slug": "/blog/starbucks-fuer-kinder",
+  "date": "2026-10-02",
+  "crumb": "Starbucks für Kinder",
+  "title": "Starbucks Kinder: Getränke ohne Koffein & Preise 2026",
+  "description": "Starbucks Kinder: Welche Getränke ohne Koffein passen? Cream Frappuccinos, Hot Chocolate, Babyccino & Kinder Bueno mit Preisen und Kalorien 2026.",
+  "about": [
+    {
+      "@type": "Thing",
+      "name": "Kindergetränke bei Starbucks"
+    },
+    {
+      "@type": "Organization",
+      "name": "Starbucks",
+      "sameAs": [
+        "https://www.wikidata.org/wiki/Q37158",
+        "https://www.starbucks.de/"
+      ]
+    }
+  ],
+  "mentions": [
+    {
+      "@type": "Thing",
+      "name": "Frappuccino",
+      "sameAs": "https://en.wikipedia.org/wiki/Frappuccino"
+    },
+    {
+      "@type": "Thing",
+      "name": "Hot Chocolate (Heiße Schokolade)",
+      "sameAs": "https://en.wikipedia.org/wiki/Hot_chocolate"
+    },
+    {
+      "@type": "Thing",
+      "name": "Babyccino"
+    },
+    {
+      "@type": "Thing",
+      "name": "Koffein",
+      "sameAs": "https://en.wikipedia.org/wiki/Caffeine"
+    },
+    {
+      "@type": "Thing",
+      "name": "Kinder Bueno",
+      "sameAs": "https://en.wikipedia.org/wiki/Kinder_Bueno"
+    },
+    {
+      "@type": "Thing",
+      "name": "Refresha"
+    },
+    {
+      "@type": "Thing",
+      "name": "Matcha",
+      "sameAs": "https://en.wikipedia.org/wiki/Matcha"
+    }
+  ]
+}

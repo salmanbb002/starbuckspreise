@@ -215,3 +215,27 @@ Hero photos sourced from Wikimedia Commons for the 2026-09-17 location/product p
 - Author: Fallon Michael
 - License: Unsplash License (free, no attribution required; credited on-page anyway)
 - Note: 2026-10-02 — glazed cinnamon roll on a plate beside a cup of coffee, no branding.
+
+## starbucks-cappuccino-hero.webp
+- Source: https://unsplash.com/photos/4MCJpRp_xbw
+- Author: Daniel Lincoln
+- License: Unsplash License (free, no attribution required; credited on-page anyway)
+- Note: 2026-10-02 — cappuccino with latte art in a black cup beside portafilter and espresso machine, no Starbucks branding.
+
+## starbucks-fuer-kinder-hero.webp
+- Source: https://unsplash.com/photos/7IZORt5GiLI
+- Author: Alena Torgonskaya
+- License: Unsplash License (free, no attribution required; credited on-page anyway)
+- Note: 2026-10-02 — hot chocolate with whipped cream and cinnamon beside a cookie and tealights, no branding.
+
+## starbucks-sirup-hero.webp
+- Source: https://unsplash.com/photos/kRS7qyKfVhY
+- Author: Ieva Kisunaite
+- License: Unsplash License (free, no attribution required; credited on-page anyway)
+- Note: 2026-10-02 — caramel syrup pouring from a white bowl into a glass, no branding.
+
+## starbucks-drive-in-hero.webp
+- Source: https://unsplash.com/photos/nwxLVN69wFU
+- Author: Xingchen Yan
+- License: Unsplash License (free, no attribution required; credited on-page anyway)
+- Note: 2026-10-02 — driver's view through a windshield in low sun, no branding.

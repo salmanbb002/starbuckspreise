@@ -1,0 +1,142 @@
+[
+ {
+  "canonical": "Sirup",
+  "tier": 1,
+  "kind": "entity",
+  "covered": true,
+  "in_title_or_h2": true
+ },
+ {
+  "canonical": "Starbucks",
+  "tier": 1,
+  "kind": "entity",
+  "covered": true,
+  "in_title_or_h2": true
+ },
+ {
+  "canonical": "Vanille",
+  "tier": 1,
+  "kind": "entity",
+  "covered": true,
+  "in_title_or_h2": false
+ },
+ {
+  "canonical": "Karamell",
+  "tier": 1,
+  "kind": "entity",
+  "covered": true,
+  "in_title_or_h2": false
+ },
+ {
+  "canonical": "Haselnuss",
+  "tier": 1,
+  "kind": "entity",
+  "covered": true,
+  "in_title_or_h2": false
+ },
+ {
+  "canonical": "zuckerfrei",
+  "tier": 1,
+  "kind": "term",
+  "covered": true,
+  "in_title_or_h2": true
+ },
+ {
+  "canonical": "Pumpe",
+  "tier": 1,
+  "kind": "entity",
+  "covered": true,
+  "in_title_or_h2": false
+ },
+ {
+  "canonical": "Preis",
+  "tier": 1,
+  "kind": "entity",
+  "covered": true,
+  "in_title_or_h2": true
+ },
+ {
+  "canonical": "Sirup-Shot",
+  "tier": 2,
+  "kind": "entity",
+  "covered": true,
+  "in_title_or_h2": false
+ },
+ {
+  "canonical": "Gold-Mitglied",
+  "tier": 2,
+  "kind": "entity",
+  "covered": true,
+  "in_title_or_h2": false
+ },
+ {
+  "canonical": "Saisonsirup",
+  "tier": 2,
+  "kind": "entity",
+  "covered": true,
+  "in_title_or_h2": false
+ },
+ {
+  "canonical": "Pumpkin Spice",
+  "tier": 2,
+  "kind": "entity",
+  "covered": true,
+  "in_title_or_h2": false
+ },
+ {
+  "canonical": "Lebkuchen",
+  "tier": 2,
+  "kind": "entity",
+  "covered": true,
+  "in_title_or_h2": false
+ },
+ {
+  "canonical": "Sauce",
+  "tier": 2,
+  "kind": "entity",
+  "covered": true,
+  "in_title_or_h2": true
+ },
+ {
+  "canonical": "Kalorien",
+  "tier": 2,
+  "kind": "entity",
+  "covered": true,
+  "in_title_or_h2": false
+ },
+ {
+  "canonical": "Zucker",
+  "tier": 2,
+  "kind": "entity",
+  "covered": true,
+  "in_title_or_h2": true
+ },
+ {
+  "canonical": "Monin",
+  "tier": 2,
+  "kind": "entity",
+  "covered": true,
+  "in_title_or_h2": false
+ },
+ {
+  "canonical": "Teisseire",
+  "tier": 2,
+  "kind": "entity",
+  "covered": true,
+  "in_title_or_h2": false
+ },
+ {
+  "canonical": "vegan",
+  "tier": 2,
+  "kind": "term",
+  "covered": true,
+  "in_title_or_h2": true
+ },
+ {
+  "canonical": "Allergenliste",
+  "tier": 2,
+  "kind": "entity",
+  "covered": true,
+  "in_title_or_h2": false
+ }
+]

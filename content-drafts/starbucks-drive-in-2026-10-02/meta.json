@@ -1,0 +1,49 @@
+{
+  "slug": "/blog/starbucks-drive-in",
+  "date": "2026-10-02",
+  "crumb": "Starbucks Drive-in",
+  "title": "Starbucks Drive-in Deutschland: Standorte & Zeiten 2026",
+  "description": "Starbucks Drive-in (Drive-Thru) in Deutschland: Düsseldorf-Lierenfeld und Schnelldorf an der A7. Adressen, Öffnungszeiten, Ablauf und Ausbau.",
+  "about": [
+    {
+      "@type": "Thing",
+      "name": "Drive-Thru",
+      "sameAs": "https://en.wikipedia.org/wiki/Drive-through"
+    },
+    {
+      "@type": "Organization",
+      "name": "Starbucks",
+      "sameAs": [
+        "https://www.wikidata.org/wiki/Q37158",
+        "https://www.starbucks.de/"
+      ]
+    }
+  ],
+  "mentions": [
+    {
+      "@type": "Thing",
+      "name": "AmRest",
+      "sameAs": "https://en.wikipedia.org/wiki/AmRest"
+    },
+    {
+      "@type": "Thing",
+      "name": "Düsseldorf",
+      "sameAs": "https://en.wikipedia.org/wiki/D%C3%BCsseldorf"
+    },
+    {
+      "@type": "Thing",
+      "name": "Schnelldorf",
+      "sameAs": "https://en.wikipedia.org/wiki/Schnelldorf"
+    },
+    {
+      "@type": "Thing",
+      "name": "Bundesautobahn 7",
+      "sameAs": "https://en.wikipedia.org/wiki/Bundesautobahn_7"
+    },
+    {
+      "@type": "Thing",
+      "name": "Tank & Rast",
+      "sameAs": "https://en.wikipedia.org/wiki/Tank_%26_Rast"
+    }
+  ]
+}
