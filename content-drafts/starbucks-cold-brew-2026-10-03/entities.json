@@ -1,0 +1,360 @@
+[
+ {
+  "canonical": "Cold Brew",
+  "type": "Product",
+  "aliases": [
+   "Cold Brew"
+  ],
+  "sameAs": "https://en.wikipedia.org/wiki/Cold_brew_coffee",
+  "kind": "entity",
+  "competitor_count": 4,
+  "in_title_or_h2": true,
+  "tier": 1,
+  "covered": true
+ },
+ {
+  "canonical": "Starbucks",
+  "type": "Organization",
+  "aliases": [
+   "Starbucks"
+  ],
+  "sameAs": "https://www.wikidata.org/wiki/Q37158",
+  "kind": "entity",
+  "competitor_count": 4,
+  "in_title_or_h2": true,
+  "tier": 1,
+  "covered": true
+ },
+ {
+  "canonical": "20 Stunden Kaltextraktion",
+  "type": "Process",
+  "aliases": [
+   "20 Stunden"
+  ],
+  "sameAs": "",
+  "kind": "term",
+  "competitor_count": 3,
+  "in_title_or_h2": false,
+  "tier": 1,
+  "covered": true
+ },
+ {
+  "canonical": "Koffein",
+  "type": "Concept",
+  "aliases": [
+   "Koffein"
+  ],
+  "sameAs": "https://en.wikipedia.org/wiki/Caffeine",
+  "kind": "term",
+  "competitor_count": 3,
+  "in_title_or_h2": true,
+  "tier": 1,
+  "covered": true
+ },
+ {
+  "canonical": "Preis",
+  "type": "Money",
+  "aliases": [
+   "4,25 €",
+   "4,75 €"
+  ],
+  "sameAs": "",
+  "kind": "term",
+  "competitor_count": 2,
+  "in_title_or_h2": false,
+  "tier": 1,
+  "covered": true
+ },
+ {
+  "canonical": "Kalorien",
+  "type": "Metric",
+  "aliases": [
+   "kcal"
+  ],
+  "sameAs": "",
+  "kind": "term",
+  "competitor_count": 2,
+  "in_title_or_h2": false,
+  "tier": 1,
+  "covered": true
+ },
+ {
+  "canonical": "Cold Brew Latte",
+  "type": "Product",
+  "aliases": [
+   "Cold Brew Latte"
+  ],
+  "sameAs": "",
+  "kind": "entity",
+  "competitor_count": 2,
+  "in_title_or_h2": false,
+  "tier": 1,
+  "covered": true
+ },
+ {
+  "canonical": "Rezept zu Hause",
+  "type": "Process",
+  "aliases": [
+   "Mason Jar",
+   "22 g"
+  ],
+  "sameAs": "",
+  "kind": "term",
+  "competitor_count": 3,
+  "in_title_or_h2": false,
+  "tier": 1,
+  "covered": true
+ },
+ {
+  "canonical": "Iced Coffee",
+  "type": "Product",
+  "aliases": [
+   "Iced Coffee"
+  ],
+  "sameAs": "",
+  "kind": "entity",
+  "competitor_count": 2,
+  "in_title_or_h2": true,
+  "tier": 2,
+  "covered": true
+ },
+ {
+  "canonical": "Iced Americano",
+  "type": "Product",
+  "aliases": [
+   "Iced Americano"
+  ],
+  "sameAs": "",
+  "kind": "entity",
+  "competitor_count": 1,
+  "in_title_or_h2": true,
+  "tier": 2,
+  "covered": true
+ },
+ {
+  "canonical": "Filterkaffee",
+  "type": "Product",
+  "aliases": [
+   "Filterkaffee"
+  ],
+  "sameAs": "",
+  "kind": "entity",
+  "competitor_count": 1,
+  "in_title_or_h2": false,
+  "tier": 2,
+  "covered": true
+ },
+ {
+  "canonical": "Nitro Cold Brew",
+  "type": "Product",
+  "aliases": [
+   "Nitro Cold Brew"
+  ],
+  "sameAs": "",
+  "kind": "entity",
+  "competitor_count": 1,
+  "in_title_or_h2": false,
+  "tier": 2,
+  "covered": true
+ },
+ {
+  "canonical": "Säure",
+  "type": "Concept",
+  "aliases": [
+   "Säure"
+  ],
+  "sameAs": "",
+  "kind": "term",
+  "competitor_count": 2,
+  "in_title_or_h2": false,
+  "tier": 2,
+  "covered": true
+ },
+ {
+  "canonical": "Bohnenmischung",
+  "type": "Product",
+  "aliases": [
+   "Bohnenmischung",
+   "Mischung"
+  ],
+  "sameAs": "",
+  "kind": "entity",
+  "competitor_count": 2,
+  "in_title_or_h2": false,
+  "tier": 2,
+  "covered": true
+ },
+ {
+  "canonical": "Konzentrat",
+  "type": "Product",
+  "aliases": [
+   "Konzentrat"
+  ],
+  "sameAs": "",
+  "kind": "entity",
+  "competitor_count": 2,
+  "in_title_or_h2": false,
+  "tier": 2,
+  "covered": true
+ },
+ {
+  "canonical": "Milch / Pflanzendrink",
+  "type": "Product",
+  "aliases": [
+   "Haferdrink",
+   "laktosefreie Milch"
+  ],
+  "sameAs": "",
+  "kind": "entity",
+  "competitor_count": 1,
+  "in_title_or_h2": false,
+  "tier": 2,
+  "covered": true
+ },
+ {
+  "canonical": "Sirup",
+  "type": "Product",
+  "aliases": [
+   "Sirup"
+  ],
+  "sameAs": "",
+  "kind": "entity",
+  "competitor_count": 1,
+  "in_title_or_h2": false,
+  "tier": 2,
+  "covered": true
+ },
+ {
+  "canonical": "Cold Foam",
+  "type": "Product",
+  "aliases": [
+   "Cold Foam"
+  ],
+  "sameAs": "",
+  "kind": "entity",
+  "competitor_count": 1,
+  "in_title_or_h2": false,
+  "tier": 2,
+  "covered": true
+ },
+ {
+  "canonical": "Tall/Grande/Venti",
+  "type": "Metric",
+  "aliases": [
+   "Tall",
+   "Grande",
+   "Venti"
+  ],
+  "sameAs": "",
+  "kind": "term",
+  "competitor_count": 2,
+  "in_title_or_h2": false,
+  "tier": 2,
+  "covered": true
+ },
+ {
+  "canonical": "vegan / glutenfrei",
+  "type": "Concept",
+  "aliases": [
+   "vegan",
+   "glutenfrei"
+  ],
+  "sameAs": "",
+  "kind": "term",
+  "competitor_count": 1,
+  "in_title_or_h2": true,
+  "tier": 2,
+  "covered": true
+ },
+ {
+  "canonical": "Starbucks at Home",
+  "type": "Organization",
+  "aliases": [
+   "Starbucks at Home"
+  ],
+  "sameAs": "",
+  "kind": "entity",
+  "competitor_count": 1,
+  "in_title_or_h2": false,
+  "tier": 2,
+  "covered": true
+ },
+ {
+  "canonical": "Nestlé",
+  "type": "Organization",
+  "aliases": [
+   "Nestlé"
+  ],
+  "sameAs": "https://en.wikipedia.org/wiki/Nestl%C3%A9",
+  "kind": "entity",
+  "competitor_count": 1,
+  "in_title_or_h2": false,
+  "tier": 3,
+  "covered": true
+ },
+ {
+  "canonical": "EFSA",
+  "type": "Organization",
+  "aliases": [
+   "EFSA"
+  ],
+  "sameAs": "https://en.wikipedia.org/wiki/European_Food_Safety_Authority",
+  "kind": "entity",
+  "competitor_count": 0,
+  "in_title_or_h2": false,
+  "tier": 3,
+  "covered": true
+ },
+ {
+  "canonical": "Salted Caramel Cold Brew",
+  "type": "Product",
+  "aliases": [
+   "Salted Caramel Cold Brew"
+  ],
+  "sameAs": "",
+  "kind": "entity",
+  "competitor_count": 1,
+  "in_title_or_h2": false,
+  "tier": 3,
+  "covered": true
+ },
+ {
+  "canonical": "Single Origin Kenya",
+  "type": "Product",
+  "aliases": [
+   "Kenya"
+  ],
+  "sameAs": "",
+  "kind": "entity",
+  "competitor_count": 0,
+  "in_title_or_h2": false,
+  "tier": 3,
+  "covered": true
+ },
+ {
+  "canonical": "Veranda Blend",
+  "type": "Product",
+  "aliases": [
+   "Veranda Blend"
+  ],
+  "sameAs": "",
+  "kind": "entity",
+  "competitor_count": 1,
+  "in_title_or_h2": false,
+  "tier": 3,
+  "covered": true
+ },
+ {
+  "canonical": "Pike Place Roast",
+  "type": "Product",
+  "aliases": [
+   "Pike Place Roast"
+  ],
+  "sameAs": "",
+  "kind": "entity",
+  "competitor_count": 0,
+  "in_title_or_h2": false,
+  "tier": 3,
+  "covered": true
+ }
+]

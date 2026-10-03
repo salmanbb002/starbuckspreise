@@ -1,0 +1,261 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "Article",
+      "@id": "https://starbuckspreise.com/blog/starbucks-milchalternativen/#article",
+      "headline": "Starbucks laktosefrei: alle Milchsorten, Hafermilch und Nährwerte im Vergleich (2026)",
+      "description": "Starbucks laktosefrei: laktosefreie Milch, Hafer-, Soja-, Mandel- & Kokosdrink ohne Aufpreis, Kalorien je Milch und versteckte Milch in Saucen.",
+      "inLanguage": "de-DE",
+      "datePublished": "2026-10-03T12:00:00+02:00",
+      "dateModified": "2026-10-03T12:00:00+02:00",
+      "mainEntityOfPage": "https://starbuckspreise.com/blog/starbucks-milchalternativen",
+      "image": "https://starbuckspreise.com/img/blog/starbucks-milchalternativen-hero.webp",
+      "author": {
+        "@type": "Organization",
+        "name": "StarbucksPreise Redaktion",
+        "url": "https://starbuckspreise.com"
+      },
+      "publisher": {
+        "@type": "Organization",
+        "name": "StarbucksPreise Deutschland",
+        "url": "https://starbuckspreise.com"
+      },
+      "about": [
+        {
+          "@type": "Thing",
+          "name": "Laktosefreie Milch",
+          "sameAs": "https://en.wikipedia.org/wiki/Lactose-free_milk"
+        },
+        {
+          "@type": "Thing",
+          "name": "Pflanzenmilch",
+          "sameAs": "https://en.wikipedia.org/wiki/Plant_milk"
+        },
+        {
+          "@type": "Organization",
+          "name": "Starbucks",
+          "sameAs": [
+            "https://www.wikidata.org/wiki/Q37158",
+            "https://www.starbucks.de/"
+          ]
+        }
+      ],
+      "mentions": [
+        {
+          "@type": "Thing",
+          "name": "Haferdrink",
+          "sameAs": "https://en.wikipedia.org/wiki/Oat_milk"
+        },
+        {
+          "@type": "Thing",
+          "name": "Sojadrink",
+          "sameAs": "https://en.wikipedia.org/wiki/Soy_milk"
+        },
+        {
+          "@type": "Thing",
+          "name": "Mandeldrink",
+          "sameAs": "https://en.wikipedia.org/wiki/Almond_milk"
+        },
+        {
+          "@type": "Thing",
+          "name": "Kokosdrink",
+          "sameAs": "https://en.wikipedia.org/wiki/Coconut_milk"
+        },
+        {
+          "@type": "Thing",
+          "name": "Laktoseintoleranz",
+          "sameAs": "https://en.wikipedia.org/wiki/Lactose_intolerance"
+        },
+        {
+          "@type": "Thing",
+          "name": "Milcheiweißallergie",
+          "sameAs": "https://en.wikipedia.org/wiki/Milk_allergy"
+        },
+        {
+          "@type": "Thing",
+          "name": "Laktase",
+          "sameAs": "https://en.wikipedia.org/wiki/Lactase"
+        },
+        {
+          "@type": "Thing",
+          "name": "Zöliakie",
+          "sameAs": "https://en.wikipedia.org/wiki/Coeliac_disease"
+        },
+        {
+          "@type": "Thing",
+          "name": "Caffè Latte",
+          "sameAs": "https://en.wikipedia.org/wiki/Latte"
+        },
+        {
+          "@type": "Thing",
+          "name": "Soy Protein Drink"
+        }
+      ],
+      "speakable": {
+        "@type": "SpeakableSpecification",
+        "cssSelector": [
+          "#direct-answer"
+        ]
+      }
+    },
+    {
+      "@type": "BreadcrumbList",
+      "@id": "https://starbuckspreise.com/blog/starbucks-milchalternativen/#breadcrumb",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Startseite",
+          "item": "https://starbuckspreise.com/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Ratgeber",
+          "item": "https://starbuckspreise.com/blog"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "Starbucks laktosefrei & Milchalternativen",
+          "item": "https://starbuckspreise.com/blog/starbucks-milchalternativen"
+        }
+      ]
+    },
+    {
+      "@type": "FAQPage",
+      "@id": "https://starbuckspreise.com/blog/starbucks-milchalternativen/#faq",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "Hat Starbucks laktosefreie Milch?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Ja, Starbucks Deutschland bietet laktosefreie Milch ohne Aufpreis an. Du kannst sie in der App oder an der Kasse für fast jedes Milchgetränk wählen. Ob deine Filiale sie gerade vorrätig hat, kann je nach Store abweichen."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Welche Milchalternativen bietet Starbucks an?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Starbucks bietet Hafer-, Soja-, Mandel- und Kokosdrink an, dazu den Soy Protein Drink. Alle Pflanzendrinks außer dem Protein-Drink sind kostenlos. Der Soy Protein Drink kostet 1,50 € extra."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Kostet Pflanzenmilch bei Starbucks extra?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Nein, Hafer-, Soja-, Mandel- und Kokosdrink kosten bei Starbucks Deutschland seit März 2023 nichts extra. Die Bestellseite zeigt dafür „+0,00“. Nur der Soy Protein Drink hat einen Aufpreis von 1,50 €."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Ist ein Starbucks Latte mit Hafermilch vegan?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Ja, ein Caffè Latte mit Haferdrink ist laut Allergenliste von Starbucks Deutschland vegan. Das gilt auch für Cappuccino, Latte Macchiato, Chai Tea Latte und Matcha Tea Latte. Bei Caramel Macchiato und White Chocolate Mocha reicht der Haferdrink dagegen nicht."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Ist der Caramel Macchiato mit Hafermilch laktosefrei?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Nicht sicher. Die Allergenliste führt den Caramel Macchiato auch mit Haferdrink als nicht vegan, die tierische Zutat steckt im Karamell-Topping oder in der Sauce. Bestelle ihn ohne Caramel Drizzle oder frage das Team nach einer milchfreien Alternative."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Welche Milch ist bei Starbucks am gesündesten?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Das hängt von deinem Ziel ab. Mandeldrink hat die wenigsten Kalorien (82 kcal im Grande Caffè Latte), Sojadrink liefert das meiste Eiweiß unter den Pflanzendrinks (10,1 g). Magermilch hat am wenigsten Fett, aber viel Milchzucker."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Hat Hafermilch bei Starbucks mehr Kalorien als normale Milch?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Ja, ein Grande Caffè Latte mit Haferdrink hat 178 kcal, mit Halbfettmilch nur 151 kcal. Der Haferdrink hat mehr Fett und Kohlenhydrate. Weniger Kalorien als Halbfettmilch haben Mandel-, Kokos- und Sojadrink."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Ist laktosefreie Milch für Milchallergiker geeignet?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Nein, laktosefreie Milch ist für eine Milcheiweißallergie nicht geeignet. Sie enthält weiterhin Milcheiweiß, nur der Milchzucker ist aufgespalten. Milchallergiker greifen bei Starbucks zu Soja-, Hafer-, Mandel- oder Kokosdrink."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Ist der Frappuccino laktosefrei möglich?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Teilweise. Mit Pflanzendrink, ohne Sahne und ohne Topping werden etwa Coffee, Mocha und Vanilla Cream Frappuccino laut Allergenliste vegan. Caramel, White Mocha und Cookies and Cream Frappuccino bleiben dagegen auch mit Haferdrink nicht vegan."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Gibt es bei Starbucks vegane Sahne?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Ja, Starbucks Deutschland nennt auf der Personalisierungsseite vegane Schlagsahne als Topping. Damit werden Getränke wie Caffè Mocha oder Frappuccinos mit Pflanzendrink vegan. Frage in der Filiale, ob sie vorrätig ist."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Welche Milch nimmt Starbucks für den Flat White?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Der Flat White wird bei Starbucks standardmäßig mit Vollmilch zubereitet. Die meisten anderen Milchgetränke bekommen Halbfettmilch. Du kannst die Milch bei jedem Getränk ohne Aufpreis tauschen."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Ist Starbucks Kokosmilch gesüßt?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Starbucks nennt keine Zutatenliste für den Kokosdrink. Ein Grande Caffè Latte mit Kokosdrink hat 9,8 g Zucker, etwas mehr als mit Soja- oder Mandeldrink. Mit 103 kcal im Grande Caffè Latte liegt er zwischen Mandeldrink und Magermilch."
+          }
+        }
+      ]
+    },
+    {
+      "@type": "HowTo",
+      "@id": "https://starbuckspreise.com/blog/starbucks-milchalternativen/#howto",
+      "name": "Wie bestelle ich ein Getränk komplett laktosefrei?",
+      "step": [
+        {
+          "@type": "HowToStep",
+          "position": 1,
+          "text": "Wähle laktosefreie Milch oder einen Pflanzendrink, auch bei Getränken mit Standardmilch."
+        },
+        {
+          "@type": "HowToStep",
+          "position": 2,
+          "text": "Verzichte auf normale Schlagsahne oder nimm die vegane Schlagsahne, die Starbucks laut Personalisierungsseite anbietet."
+        },
+        {
+          "@type": "HowToStep",
+          "position": 3,
+          "text": "Meide Karamell-Topping und Sauce aus weißer Schokolade oder frage nach einer Alternative."
+        },
+        {
+          "@type": "HowToStep",
+          "position": 4,
+          "text": "Prüfe dein Getränk in der Allergenliste auf starbucks.de/nutrition."
+        },
+        {
+          "@type": "HowToStep",
+          "position": 5,
+          "text": "Sag an der Kasse, dass du Laktose meiden musst, damit das Team darauf achtet."
+        }
+      ]
+    }
+  ]
+}

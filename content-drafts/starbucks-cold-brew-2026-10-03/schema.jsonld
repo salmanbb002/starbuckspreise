@@ -1,0 +1,244 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "Article",
+      "@id": "https://starbuckspreise.com/blog/starbucks-cold-brew/#article",
+      "headline": "Starbucks Cold Brew: Preis, Koffein, Kalorien und Rezept für zu Hause (2026)",
+      "description": "Starbucks Cold Brew: 20 Stunden kalt gebrüht, 22 kcal und 255,8 mg Koffein im Grande, Preis ab ca. 4,25 €. Plus Cold Brew Latte und Rezept für zu Hause.",
+      "inLanguage": "de-DE",
+      "datePublished": "2026-10-03T12:00:00+02:00",
+      "dateModified": "2026-10-03T12:00:00+02:00",
+      "mainEntityOfPage": "https://starbuckspreise.com/blog/starbucks-cold-brew",
+      "image": "https://starbuckspreise.com/img/blog/starbucks-cold-brew-hero.webp",
+      "author": {
+        "@type": "Organization",
+        "name": "StarbucksPreise Redaktion",
+        "url": "https://starbuckspreise.com"
+      },
+      "publisher": {
+        "@type": "Organization",
+        "name": "StarbucksPreise Deutschland",
+        "url": "https://starbuckspreise.com"
+      },
+      "about": [
+        {
+          "@type": "Thing",
+          "name": "Cold Brew",
+          "sameAs": "https://en.wikipedia.org/wiki/Cold_brew_coffee"
+        },
+        {
+          "@type": "Organization",
+          "name": "Starbucks",
+          "sameAs": [
+            "https://www.wikidata.org/wiki/Q37158",
+            "https://www.starbucks.de/"
+          ]
+        }
+      ],
+      "mentions": [
+        {
+          "@type": "Thing",
+          "name": "Cold Brew Latte"
+        },
+        {
+          "@type": "Thing",
+          "name": "Nitro Cold Brew"
+        },
+        {
+          "@type": "Thing",
+          "name": "Koffein",
+          "sameAs": "https://en.wikipedia.org/wiki/Caffeine"
+        },
+        {
+          "@type": "Thing",
+          "name": "Iced Americano"
+        },
+        {
+          "@type": "Thing",
+          "name": "Mason Jar",
+          "sameAs": "https://en.wikipedia.org/wiki/Mason_jar"
+        },
+        {
+          "@type": "Organization",
+          "name": "Nestlé",
+          "sameAs": "https://en.wikipedia.org/wiki/Nestl%C3%A9"
+        },
+        {
+          "@type": "Organization",
+          "name": "Europäische Behörde für Lebensmittelsicherheit",
+          "sameAs": "https://en.wikipedia.org/wiki/European_Food_Safety_Authority"
+        },
+        {
+          "@type": "Thing",
+          "name": "Haferdrink",
+          "sameAs": "https://en.wikipedia.org/wiki/Oat_milk"
+        }
+      ],
+      "speakable": {
+        "@type": "SpeakableSpecification",
+        "cssSelector": [
+          "#direct-answer"
+        ]
+      }
+    },
+    {
+      "@type": "BreadcrumbList",
+      "@id": "https://starbuckspreise.com/blog/starbucks-cold-brew/#breadcrumb",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Startseite",
+          "item": "https://starbuckspreise.com/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Ratgeber",
+          "item": "https://starbuckspreise.com/blog"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "Starbucks Cold Brew",
+          "item": "https://starbuckspreise.com/blog/starbucks-cold-brew"
+        }
+      ]
+    },
+    {
+      "@type": "FAQPage",
+      "@id": "https://starbuckspreise.com/blog/starbucks-cold-brew/#faq",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "Wie lange zieht der Starbucks Cold Brew?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Starbucks lässt den Cold Brew 20 Stunden in kaltem Wasser ziehen. Er wird täglich in kleinen Mengen von Hand angesetzt. Zu Hause reichen laut Starbucks at Home 12 Stunden."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Ist Starbucks Cold Brew gesüßt?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Nein, der Starbucks Cold Brew ist ungesüßt. Ein Grande enthält nur 0,1 g Zucker. Süße kommt erst durch Sirup oder Toppings dazu, die du extra bestellst."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Wie viel Koffein hat ein Venti Cold Brew?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Ein Venti Cold Brew hat laut Starbucks Deutschland 322,9 mg Koffein. Das ist mehr als ein Grande Filterkaffee mit 254,6 mg. Die EFSA nennt 400 mg am Tag als unbedenkliche Menge für gesunde Erwachsene."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Ist Cold Brew magenfreundlicher als normaler Kaffee?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Cold Brew enthält weniger Säure, weil beim kalten Aufguss weniger Säuren aus dem Kaffee gelöst werden. Viele Menschen empfinden ihn deshalb als milder. Eine medizinische Garantie ist das nicht, bei Magenproblemen hilft eher weniger Koffein."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Was ist der Unterschied zwischen Cold Brew und Cold Brew Latte?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Der Cold Brew ist schwarz, der Cold Brew Latte enthält zusätzlich Milch. Dadurch hat der Latte im Grande 123 kcal statt 22 kcal und weniger Koffein, nämlich 166,5 mg statt 255,8 mg. Beide sind ungesüßt."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Gibt es Nitro Cold Brew bei Starbucks in Deutschland?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Nitro Cold Brew gibt es nur in ausgewählten Filialen. In der Filialsuche auf starbucks.de ist er als eigenes Ausstattungsmerkmal hinterlegt. Auf der allgemeinen Online-Karte steht er nicht."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Kann ich Cold Brew mit Hafermilch bestellen?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Ja, sowohl als Schuss im Cold Brew als auch als Basis für den Cold Brew Latte. Hafermilch kostet bei Starbucks Deutschland seit März 2023 keinen Aufpreis. Ein Grande Cold Brew Latte mit Haferdrink hat 144 kcal."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Wie lange hält sich selbst gemachter Cold Brew?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Das Konzentrat hält sich im Kühlschrank in einem verschlossenen Gefäß einige Tage. Starbucks at Home gibt dafür keine Frist an. Reste kannst du laut Rezept zu Eiswürfeln einfrieren."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Kann ich für Cold Brew normalen Filterkaffee nehmen?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Ja, aber das Ergebnis wird mit fein gemahlenem Pulver schnell bitter und trüb. Besser sind grob gemahlene Bohnen wie für die French Press. Das Verhältnis von Starbucks at Home ist 22 g Kaffee auf 180 ml Wasser."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Gibt es den Salted Caramel Cold Brew noch?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Der Salted Caramel Cold Brew steht weder auf der Online-Karte noch in der Nährwerttabelle von Starbucks Deutschland vom 10. September 2026. Auf der Karte stehen nur Cold Brew und Cold Brew Latte. Eine salzige Karamellnote bekommst du mit Caramel Drizzle als Topping."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Hat Cold Brew Kalorien?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Ja, aber sehr wenige: 16 kcal im Tall, 22 kcal im Grande und 28 kcal im Venti. Damit gehört er zu den leichtesten Getränken bei Starbucks. Erst Milch, Sirup oder Cold Foam machen ihn kalorienreicher."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Ist Starbucks Cold Brew glutenfrei?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Ja, der schwarze Cold Brew ist laut Starbucks Deutschland glutenfrei und vegan. Beim Cold Brew Latte mit Haferdrink ist Vorsicht geboten, denn Starbucks führt Hafer als glutenhaltiges Getreide. Mit Kuhmilch, Soja- oder Kokosdrink bleibt er glutenfrei."
+          }
+        }
+      ]
+    },
+    {
+      "@type": "HowTo",
+      "@id": "https://starbuckspreise.com/blog/starbucks-cold-brew/#howto",
+      "name": "Wie mache ich Starbucks Cold Brew zu Hause?",
+      "step": [
+        {
+          "@type": "HowToStep",
+          "position": 1,
+          "text": "Mahle 22 g Kaffee grob, ähnlich wie für die French Press, und gib ihn in ein großes Glas."
+        },
+        {
+          "@type": "HowToStep",
+          "position": 2,
+          "text": "Gieße 180 ml kaltes, gefiltertes Wasser dazu und schwenke das Glas, bis das Pulver ganz nass ist."
+        },
+        {
+          "@type": "HowToStep",
+          "position": 3,
+          "text": "Verschließe das Glas und lass den Kaffee 12 Stunden im Kühlschrank oder bei Raumtemperatur ziehen."
+        },
+        {
+          "@type": "HowToStep",
+          "position": 4,
+          "text": "Gieße den Kaffee durch ein Mulltuch oder einen Papierfilter in eine Karaffe."
+        },
+        {
+          "@type": "HowToStep",
+          "position": 5,
+          "text": "Mische einen Teil Konzentrat mit einem Teil Wasser und gieße alles über Eiswürfel."
+        }
+      ]
+    }
+  ]
+}

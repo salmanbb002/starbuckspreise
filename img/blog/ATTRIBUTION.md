@@ -239,3 +239,21 @@ Hero photos sourced from Wikimedia Commons for the 2026-09-17 location/product p
 - Author: Xingchen Yan
 - License: Unsplash License (free, no attribution required; credited on-page anyway)
 - Note: 2026-10-02 — driver's view through a windshield in low sun, no branding.
+
+## starbucks-cold-brew-hero.webp
+- Source: https://unsplash.com/photos/w2wsyjSaHns
+- Author: Daniel Hooper
+- License: Unsplash License (free, no attribution required; credited on-page anyway)
+- Note: 2026-10-03 — iced coffee with milk and ice cubes in a tumbler on light concrete, long shadow, no branding.
+
+## starbucks-milchalternativen-hero.webp
+- Source: https://unsplash.com/photos/oKq_2v6pr4A
+- Author: Ibrahim Rifath
+- License: Unsplash License (free, no attribution required; credited on-page anyway)
+- Note: 2026-10-03 — clear glass mug of milk with coffee swirls on a grey background, no branding (other candidates showed Alpro/Oatly cartons).
+
+## starbucks-kaffeebohnen-hero.webp
+- Source: https://unsplash.com/photos/TD4DBagg2wE
+- Author: Mike Kenneally
+- License: Unsplash License (free, no attribution required; credited on-page anyway)
+- Note: 2026-10-03 — close-up of roasted coffee beans, top view, no branding.

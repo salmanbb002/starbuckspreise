@@ -1,0 +1,64 @@
+{
+  "slug": "/blog/starbucks-cold-brew",
+  "url": "https://starbuckspreise.com/blog/starbucks-cold-brew",
+  "date": "2026-10-03",
+  "crumb": "Starbucks Cold Brew",
+  "title": "Starbucks Cold Brew: Preis, Koffein, Kalorien & Rezept 2026",
+  "description": "Starbucks Cold Brew: 20 Stunden kalt gebrüht, 22 kcal und 255,8 mg Koffein im Grande, Preis ab ca. 4,25 €. Plus Cold Brew Latte und Rezept für zu Hause.",
+  "published": "2026-10-03T12:00:00+02:00",
+  "howto_heading": "## 7. Wie mache ich Starbucks Cold Brew zu Hause?",
+  "about": [
+    {
+      "@type": "Thing",
+      "name": "Cold Brew",
+      "sameAs": "https://en.wikipedia.org/wiki/Cold_brew_coffee"
+    },
+    {
+      "@type": "Organization",
+      "name": "Starbucks",
+      "sameAs": [
+        "https://www.wikidata.org/wiki/Q37158",
+        "https://www.starbucks.de/"
+      ]
+    }
+  ],
+  "mentions": [
+    {
+      "@type": "Thing",
+      "name": "Cold Brew Latte"
+    },
+    {
+      "@type": "Thing",
+      "name": "Nitro Cold Brew"
+    },
+    {
+      "@type": "Thing",
+      "name": "Koffein",
+      "sameAs": "https://en.wikipedia.org/wiki/Caffeine"
+    },
+    {
+      "@type": "Thing",
+      "name": "Iced Americano"
+    },
+    {
+      "@type": "Thing",
+      "name": "Mason Jar",
+      "sameAs": "https://en.wikipedia.org/wiki/Mason_jar"
+    },
+    {
+      "@type": "Organization",
+      "name": "Nestlé",
+      "sameAs": "https://en.wikipedia.org/wiki/Nestl%C3%A9"
+    },
+    {
+      "@type": "Organization",
+      "name": "Europäische Behörde für Lebensmittelsicherheit",
+      "sameAs": "https://en.wikipedia.org/wiki/European_Food_Safety_Authority"
+    },
+    {
+      "@type": "Thing",
+      "name": "Haferdrink",
+      "sameAs": "https://en.wikipedia.org/wiki/Oat_milk"
+    }
+  ]
+}

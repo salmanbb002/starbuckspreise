@@ -1,0 +1,386 @@
+[
+ {
+  "canonical": "Kaffeebohnen",
+  "type": "Product",
+  "aliases": [
+   "Kaffeebohnen",
+   "Bohnen"
+  ],
+  "sameAs": "https://en.wikipedia.org/wiki/Coffee_bean",
+  "kind": "entity",
+  "competitor_count": 4,
+  "in_title_or_h2": true,
+  "tier": 1,
+  "covered": true
+ },
+ {
+  "canonical": "Starbucks",
+  "type": "Organization",
+  "aliases": [
+   "Starbucks"
+  ],
+  "sameAs": "https://www.wikidata.org/wiki/Q37158",
+  "kind": "entity",
+  "competitor_count": 4,
+  "in_title_or_h2": true,
+  "tier": 1,
+  "covered": true
+ },
+ {
+  "canonical": "Sorten",
+  "type": "Concept",
+  "aliases": [
+   "Sorten"
+  ],
+  "sameAs": "",
+  "kind": "term",
+  "competitor_count": 3,
+  "in_title_or_h2": true,
+  "tier": 1,
+  "covered": true
+ },
+ {
+  "canonical": "Preis",
+  "type": "Money",
+  "aliases": [
+   "14,89 €",
+   "6,99 €"
+  ],
+  "sameAs": "",
+  "kind": "term",
+  "competitor_count": 3,
+  "in_title_or_h2": false,
+  "tier": 1,
+  "covered": true
+ },
+ {
+  "canonical": "kaufen / wo kaufen",
+  "type": "Concept",
+  "aliases": [
+   "kaufen"
+  ],
+  "sameAs": "",
+  "kind": "term",
+  "competitor_count": 3,
+  "in_title_or_h2": true,
+  "tier": 1,
+  "covered": true
+ },
+ {
+  "canonical": "Arabica",
+  "type": "Thing",
+  "aliases": [
+   "Arabica"
+  ],
+  "sameAs": "https://en.wikipedia.org/wiki/Coffea_arabica",
+  "kind": "entity",
+  "competitor_count": 3,
+  "in_title_or_h2": false,
+  "tier": 1,
+  "covered": true
+ },
+ {
+  "canonical": "Pike Place Roast",
+  "type": "Product",
+  "aliases": [
+   "Pike Place Roast"
+  ],
+  "sameAs": "",
+  "kind": "entity",
+  "competitor_count": 3,
+  "in_title_or_h2": false,
+  "tier": 1,
+  "covered": true
+ },
+ {
+  "canonical": "Espresso Roast",
+  "type": "Product",
+  "aliases": [
+   "Espresso Roast"
+  ],
+  "sameAs": "",
+  "kind": "entity",
+  "competitor_count": 3,
+  "in_title_or_h2": false,
+  "tier": 1,
+  "covered": true
+ },
+ {
+  "canonical": "Blonde Espresso Roast",
+  "type": "Product",
+  "aliases": [
+   "Blonde Espresso Roast"
+  ],
+  "sameAs": "",
+  "kind": "entity",
+  "competitor_count": 2,
+  "in_title_or_h2": false,
+  "tier": 2,
+  "covered": true
+ },
+ {
+  "canonical": "Röstgrad / Roast Spectrum",
+  "type": "Concept",
+  "aliases": [
+   "Röstgrad",
+   "Roast Spectrum"
+  ],
+  "sameAs": "",
+  "kind": "term",
+  "competitor_count": 2,
+  "in_title_or_h2": false,
+  "tier": 2,
+  "covered": true
+ },
+ {
+  "canonical": "Single Origin",
+  "type": "Concept",
+  "aliases": [
+   "Single Origin"
+  ],
+  "sameAs": "",
+  "kind": "term",
+  "competitor_count": 2,
+  "in_title_or_h2": false,
+  "tier": 2,
+  "covered": true
+ },
+ {
+  "canonical": "Caffè Verona",
+  "type": "Product",
+  "aliases": [
+   "Caffè Verona"
+  ],
+  "sameAs": "",
+  "kind": "entity",
+  "competitor_count": 1,
+  "in_title_or_h2": false,
+  "tier": 2,
+  "covered": true
+ },
+ {
+  "canonical": "Sumatra",
+  "type": "Product",
+  "aliases": [
+   "Sumatra"
+  ],
+  "sameAs": "",
+  "kind": "entity",
+  "competitor_count": 2,
+  "in_title_or_h2": false,
+  "tier": 2,
+  "covered": true
+ },
+ {
+  "canonical": "Decaf Espresso Roast",
+  "type": "Product",
+  "aliases": [
+   "Decaf"
+  ],
+  "sameAs": "",
+  "kind": "entity",
+  "competitor_count": 1,
+  "in_title_or_h2": false,
+  "tier": 2,
+  "covered": true
+ },
+ {
+  "canonical": "Vollautomat",
+  "type": "Product",
+  "aliases": [
+   "Vollautomat"
+  ],
+  "sameAs": "https://de.wikipedia.org/wiki/Kaffeevollautomat",
+  "kind": "entity",
+  "competitor_count": 0,
+  "in_title_or_h2": true,
+  "tier": 2,
+  "covered": true
+ },
+ {
+  "canonical": "450 g / 250 g Packung",
+  "type": "Metric",
+  "aliases": [
+   "450 g",
+   "250 g"
+  ],
+  "sameAs": "",
+  "kind": "term",
+  "competitor_count": 2,
+  "in_title_or_h2": false,
+  "tier": 2,
+  "covered": true
+ },
+ {
+  "canonical": "Mahlgrad / mahlen",
+  "type": "Process",
+  "aliases": [
+   "Mahlgrad",
+   "mahlen"
+  ],
+  "sameAs": "",
+  "kind": "term",
+  "competitor_count": 2,
+  "in_title_or_h2": false,
+  "tier": 2,
+  "covered": true
+ },
+ {
+  "canonical": "Nestlé",
+  "type": "Organization",
+  "aliases": [
+   "Nestlé"
+  ],
+  "sameAs": "https://en.wikipedia.org/wiki/Nestl%C3%A9",
+  "kind": "entity",
+  "competitor_count": 1,
+  "in_title_or_h2": false,
+  "tier": 2,
+  "covered": true
+ },
+ {
+  "canonical": "Starbucks at Home",
+  "type": "Organization",
+  "aliases": [
+   "Starbucks at Home"
+  ],
+  "sameAs": "",
+  "kind": "entity",
+  "competitor_count": 2,
+  "in_title_or_h2": false,
+  "tier": 2,
+  "covered": true
+ },
+ {
+  "canonical": "Lagerung / Frische",
+  "type": "Process",
+  "aliases": [
+   "lager",
+   "Frische"
+  ],
+  "sameAs": "",
+  "kind": "term",
+  "competitor_count": 1,
+  "in_title_or_h2": true,
+  "tier": 2,
+  "covered": true
+ },
+ {
+  "canonical": "REWE / Edeka",
+  "type": "Organization",
+  "aliases": [
+   "REWE",
+   "Edeka"
+  ],
+  "sameAs": "",
+  "kind": "entity",
+  "competitor_count": 0,
+  "in_title_or_h2": false,
+  "tier": 2,
+  "covered": true
+ },
+ {
+  "canonical": "Kapseln",
+  "type": "Product",
+  "aliases": [
+   "Kapseln"
+  ],
+  "sameAs": "",
+  "kind": "entity",
+  "competitor_count": 2,
+  "in_title_or_h2": false,
+  "tier": 2,
+  "covered": true
+ },
+ {
+  "canonical": "Starbucks Reserve",
+  "type": "Product",
+  "aliases": [
+   "Reserve"
+  ],
+  "sameAs": "https://en.wikipedia.org/wiki/Starbucks_Reserve",
+  "kind": "entity",
+  "competitor_count": 1,
+  "in_title_or_h2": false,
+  "tier": 3,
+  "covered": true
+ },
+ {
+  "canonical": "Guatemala Antigua",
+  "type": "Product",
+  "aliases": [
+   "Guatemala Antigua"
+  ],
+  "sameAs": "",
+  "kind": "entity",
+  "competitor_count": 1,
+  "in_title_or_h2": false,
+  "tier": 3,
+  "covered": true
+ },
+ {
+  "canonical": "Kenya",
+  "type": "Product",
+  "aliases": [
+   "Kenya"
+  ],
+  "sameAs": "",
+  "kind": "entity",
+  "competitor_count": 1,
+  "in_title_or_h2": false,
+  "tier": 3,
+  "covered": true
+ },
+ {
+  "canonical": "Global Coffee Alliance",
+  "type": "Event",
+  "aliases": [
+   "Global Coffee Alliance"
+  ],
+  "sameAs": "",
+  "kind": "entity",
+  "competitor_count": 0,
+  "in_title_or_h2": false,
+  "tier": 3,
+  "covered": true
+ },
+ {
+  "canonical": "AmRest",
+  "type": "Organization",
+  "aliases": [
+   "AmRest"
+  ],
+  "sameAs": "",
+  "kind": "entity",
+  "competitor_count": 0,
+  "in_title_or_h2": false,
+  "tier": 3,
+  "covered": true
+ },
+ {
+  "canonical": "Pike Place Market",
+  "type": "Place",
+  "aliases": [
+   "Pike Place Market"
+  ],
+  "sameAs": "https://en.wikipedia.org/wiki/Pike_Place_Market",
+  "kind": "entity",
+  "competitor_count": 1,
+  "in_title_or_h2": false,
+  "tier": 3,
+  "covered": true
+ },
+ {
+  "canonical": "Robusta",
+  "type": "Thing",
+  "aliases": [
+   "Robusta"
+  ],
+  "sameAs": "",
+  "kind": "entity",
+  "competitor_count": 1,
+  "in_title_or_h2": false,
+  "tier": 3,
+  "covered": true
+ }
+]

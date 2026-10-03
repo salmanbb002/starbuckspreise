@@ -1,0 +1,252 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "Article",
+      "@id": "https://starbuckspreise.com/blog/starbucks-kaffeebohnen/#article",
+      "headline": "Starbucks Kaffeebohnen kaufen: Sorten, Preise und die richtige Bohne für zu Hause (2026)",
+      "description": "Starbucks Kaffeebohnen: alle 9 Sorten von Blonde bis Sumatra, Preise pro Kilo, wo du sie kaufst und welche Bohne zu Vollautomat, Siebträger oder Filter passt.",
+      "inLanguage": "de-DE",
+      "datePublished": "2026-10-03T12:00:00+02:00",
+      "dateModified": "2026-10-03T12:00:00+02:00",
+      "mainEntityOfPage": "https://starbuckspreise.com/blog/starbucks-kaffeebohnen",
+      "image": "https://starbuckspreise.com/img/blog/starbucks-kaffeebohnen-hero.webp",
+      "author": {
+        "@type": "Organization",
+        "name": "StarbucksPreise Redaktion",
+        "url": "https://starbuckspreise.com"
+      },
+      "publisher": {
+        "@type": "Organization",
+        "name": "StarbucksPreise Deutschland",
+        "url": "https://starbuckspreise.com"
+      },
+      "about": [
+        {
+          "@type": "Thing",
+          "name": "Kaffeebohne",
+          "sameAs": "https://en.wikipedia.org/wiki/Coffee_bean"
+        },
+        {
+          "@type": "Organization",
+          "name": "Starbucks",
+          "sameAs": [
+            "https://www.wikidata.org/wiki/Q37158",
+            "https://www.starbucks.de/"
+          ]
+        }
+      ],
+      "mentions": [
+        {
+          "@type": "Thing",
+          "name": "Arabica",
+          "sameAs": "https://en.wikipedia.org/wiki/Coffea_arabica"
+        },
+        {
+          "@type": "Thing",
+          "name": "Pike Place Roast"
+        },
+        {
+          "@type": "Thing",
+          "name": "Espresso Roast"
+        },
+        {
+          "@type": "Thing",
+          "name": "Blonde Espresso Roast"
+        },
+        {
+          "@type": "Thing",
+          "name": "Caffè Verona"
+        },
+        {
+          "@type": "Organization",
+          "name": "Nestlé",
+          "sameAs": "https://en.wikipedia.org/wiki/Nestl%C3%A9"
+        },
+        {
+          "@type": "Thing",
+          "name": "Starbucks at Home"
+        },
+        {
+          "@type": "Thing",
+          "name": "Starbucks Reserve",
+          "sameAs": "https://en.wikipedia.org/wiki/Starbucks_Reserve"
+        },
+        {
+          "@type": "Place",
+          "name": "Pike Place Market",
+          "sameAs": "https://en.wikipedia.org/wiki/Pike_Place_Market"
+        },
+        {
+          "@type": "Thing",
+          "name": "Kaffeevollautomat",
+          "sameAs": "https://de.wikipedia.org/wiki/Kaffeevollautomat"
+        }
+      ],
+      "speakable": {
+        "@type": "SpeakableSpecification",
+        "cssSelector": [
+          "#direct-answer"
+        ]
+      }
+    },
+    {
+      "@type": "BreadcrumbList",
+      "@id": "https://starbuckspreise.com/blog/starbucks-kaffeebohnen/#breadcrumb",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Startseite",
+          "item": "https://starbuckspreise.com/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Ratgeber",
+          "item": "https://starbuckspreise.com/blog"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "Starbucks Kaffeebohnen",
+          "item": "https://starbuckspreise.com/blog/starbucks-kaffeebohnen"
+        }
+      ]
+    },
+    {
+      "@type": "FAQPage",
+      "@id": "https://starbuckspreise.com/blog/starbucks-kaffeebohnen/#faq",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "Verkauft Starbucks Kaffeebohnen?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Ja, Starbucks verkauft ganze Kaffeebohnen in vielen Filialen. Online gibt es sie bei Händlern wie MaxiCoffee, KaffeK, Amazon und auf dem Kaufland-Marktplatz. Die Bohnen für den Handel vertreibt Nestlé unter der Marke Starbucks at Home."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Welcher Starbucks Kaffee ist der beste?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Den einen besten Starbucks Kaffee gibt es nicht, es kommt auf deinen Geschmack an. Pike Place Roast ist der ausgewogene Allrounder, Blonde Espresso Roast der mildeste und Sumatra der kräftigste mit wenig Säure. Für Milchgetränke wie im Café nimmst du den Espresso Roast."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Welche Bohnen verwendet Starbucks für Espresso?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Starbucks verwendet für seine Espresso-Getränke den Espresso Roast, auf der Bestellseite „Signature Espresso“ genannt. Alternativ kannst du Blonde Espresso Roast oder Decaf Espresso Roast wählen. Laut Starbucks at Home ist der Signature Espresso Roast seit 1984 die Grundlage der Starbucks-Getränke."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Sind Starbucks Kaffeebohnen 100 % Arabica?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Ja, Starbucks verwendet laut eigener Angabe ausschließlich 100 % Arabica-Bohnen. So steht es auf der Bohnenkarte von starbucks.de und bei Starbucks at Home. Robusta-Bohnen setzt Starbucks nicht ein."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Was kosten 250 g Starbucks Kaffeebohnen in der Filiale?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Eine 250-g-Packung kostet laut unserer Preisliste 6,99 € bis 7,99 €. Starbucks Deutschland veröffentlicht selbst keine Preise. Reserve-Röstungen können bis 12,99 € kosten."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Gibt es Starbucks Kaffeebohnen in 1 kg?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Eine 1-kg-Packung haben wir im deutschen Handel nicht gefunden. Die größte Einzelpackung ist der 450-g-Beutel. Händler wie MaxiCoffee bieten Sets mit 4 × 450 g an, also 1,8 kg."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Woher kommen die Starbucks Kaffeebohnen?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Starbucks kauft Kaffee aus den drei großen Anbauregionen Lateinamerika, Afrika und Asien-Pazifik. Lateinamerikanische Kaffees schmecken laut Starbucks at Home nussig und schokoladig, afrikanische zitronig bis beerig, Kaffees aus Asien-Pazifik kräftig und erdig. Single Origins wie Kenya oder Sumatra stammen aus einem einzigen Land."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Gibt es entkoffeinierte Starbucks Bohnen?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Ja, Starbucks führt den Decaf Espresso Roast auf der Bohnenkarte. Er schmeckt laut Starbucks samtig mit Noten von geröstetem Karamell und Kakao. Auch im Café kannst du jedes Espresso-Getränk mit Decaf bestellen."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Wie viel Kaffee brauche ich pro Tasse?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Starbucks at Home empfiehlt 10 g gemahlenen Kaffee pro 180 ml Wasser. Für Cold Brew ist es mehr, nämlich 22 g auf 180 ml. Passe die Menge an, wenn dir der Kaffee zu stark oder zu schwach ist."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Eignen sich Starbucks Bohnen für den Vollautomaten?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Ja, vor allem helle und mittlere Röstungen wie Blonde Espresso Roast und Pike Place Roast. Sehr dunkle, ölige Bohnen können bei manchen Geräten Rückstände im Mahlwerk hinterlassen. Prüfe die Empfehlung deines Geräteherstellers."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Wie lange sind Starbucks Kaffeebohnen haltbar?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Ungeöffnet gilt das Mindesthaltbarkeitsdatum auf der Packung. Nach dem Öffnen solltest du die Bohnen innerhalb weniger Wochen verbrauchen, weil das Aroma nachlässt. Lagere sie luftdicht, dunkel und kühl."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Was ist der Unterschied zwischen Starbucks Bohnen und Kapseln?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Bohnen mahlst du selbst und kannst jede Zubereitung nutzen, Kapseln funktionieren nur mit Nespresso- oder Dolce-Gusto-Maschinen. Bohnen sind pro Tasse meist günstiger: rund 0,33 € für 10 g, eine Kapsel kostet 0,30 € bis 0,50 €. Kapseln sind dafür schneller und immer gleich dosiert."
+          }
+        }
+      ]
+    },
+    {
+      "@type": "HowTo",
+      "@id": "https://starbuckspreise.com/blog/starbucks-kaffeebohnen/#howto",
+      "name": "Wie lagere ich Starbucks Kaffeebohnen richtig?",
+      "step": [
+        {
+          "@type": "HowToStep",
+          "position": 1,
+          "text": "Verschließe den Beutel nach dem Öffnen fest oder fülle die Bohnen in eine luftdichte, lichtundurchlässige Dose."
+        },
+        {
+          "@type": "HowToStep",
+          "position": 2,
+          "text": "Lagere die Dose an einem kühlen, trockenen Ort, nicht neben dem Herd."
+        },
+        {
+          "@type": "HowToStep",
+          "position": 3,
+          "text": "Mahle nur so viel Kaffee, wie du gleich brauchst."
+        },
+        {
+          "@type": "HowToStep",
+          "position": 4,
+          "text": "Nimm frisches, gefiltertes Wasser, denn Kaffee besteht laut Starbucks at Home zu 98 % aus Wasser."
+        },
+        {
+          "@type": "HowToStep",
+          "position": 5,
+          "text": "Brauche einen 450-g-Beutel nach dem Öffnen innerhalb weniger Wochen auf."
+        }
+      ]
+    }
+  ]
+}
