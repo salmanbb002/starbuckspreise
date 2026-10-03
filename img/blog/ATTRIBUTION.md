@@ -241,19 +241,19 @@ Hero photos sourced from Wikimedia Commons for the 2026-09-17 location/product p
 - Note: 2026-10-02 — driver's view through a windshield in low sun, no branding.
 
 ## starbucks-cold-brew-hero.webp
-- Source: https://unsplash.com/photos/w2wsyjSaHns
-- Author: Daniel Hooper
-- License: Unsplash License (free, no attribution required; credited on-page anyway)
-- Note: 2026-10-03 — iced coffee with milk and ice cubes in a tumbler on light concrete, long shadow, no branding.
+- Source: https://www.starbucks.de/de/menu/product/106865 (Cold Brew) + https://www.starbucks.de/de/menu/product/104683 (Cold Brew Latte), image files on www.digitalassets.starbucks.eu
+- Author: Starbucks Coffee Company (official product images, starbucks.de)
+- License: Starbucks product images, used at the site owner's request — not CC/Unsplash, so no on-page credit is rendered
+- Note: 2026-10-03 — composite of the two official product shots on their original green background; replaced the earlier Unsplash photo on the owner's request (brand images wanted).
 
 ## starbucks-milchalternativen-hero.webp
-- Source: https://unsplash.com/photos/oKq_2v6pr4A
-- Author: Ibrahim Rifath
-- License: Unsplash License (free, no attribution required; credited on-page anyway)
-- Note: 2026-10-03 — clear glass mug of milk with coffee swirls on a grey background, no branding (other candidates showed Alpro/Oatly cartons).
+- Source: https://www.starbucks.de/de/menu/product/106985 (Caffè Latte), /107073 (Iced Caffè Latte), /104683 (Cold Brew Latte), image files on www.digitalassets.starbucks.eu
+- Author: Starbucks Coffee Company (official product images, starbucks.de)
+- License: Starbucks product images, used at the site owner's request — not CC/Unsplash, so no on-page credit is rendered
+- Note: 2026-10-03 — composite of three official product shots; Iced Caffè Latte background shifted by 1 RGB step to match; replaced the earlier Unsplash photo on the owner's request (brand images wanted).
 
 ## starbucks-kaffeebohnen-hero.webp
-- Source: https://unsplash.com/photos/TD4DBagg2wE
-- Author: Mike Kenneally
-- License: Unsplash License (free, no attribution required; credited on-page anyway)
-- Note: 2026-10-03 — close-up of roasted coffee beans, top view, no branding.
+- Source: https://www.starbucks.de/de/menu-kaffeebohnen (2023_WHOLEBEAN_* pack shots)
+- Author: Starbucks Coffee Company (official product images, starbucks.de)
+- License: Starbucks product images, used at the site owner's request — not CC/Unsplash, so no on-page credit is rendered
+- Note: 2026-10-03 — composite of four official whole-bean pack shots on white; replaced the earlier Unsplash photo on the owner's request (brand images wanted).
