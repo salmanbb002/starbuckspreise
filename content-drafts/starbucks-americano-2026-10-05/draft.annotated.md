@@ -43,7 +43,7 @@ Starbucks veröffentlicht keine bundesweite Preisliste. Die Preise legt jede Fil
 
 Quellen: unsere Ratgeber Starbucks Preise und Starbucks Getränke (Stand 28. September 2026), speisekartemenus.de (abgerufen 5. Oktober 2026). Alle Angaben sind Richtwerte.
 
-Zum Vergleich: Ein Caffè Latte kostete in Freiburg 4,90 €, ein Filterkaffee 3,00 €. Der Americano liegt also dazwischen. Die ganze Karte findest du im Ratgeber [Starbucks Preise](/blog/starbucks-preise).
+Zum Vergleich: Ein Caffè Latte kostete in Freiburg 4,90 €, ein Filterkaffee 3,00 €. Der Americano liegt also dazwischen. Die ganze Karte findest du im Ratgeber [Starbucks Preise](/blog/starbucks-preise), alle Getränke im Überblick in der Liste der [Starbucks Getränke](/blog/starbucks-getraenke).
 
 ### Ist der Americano das günstigste Getränk bei Starbucks?
 
@@ -67,7 +67,7 @@ Viele halten den Americano für den stärksten Kaffee der Karte. Das stimmt nich
 
 Quelle: Nährwerttabelle Getränke, Starbucks Deutschland, 10. September 2026.
 
-Die Europäische Behörde für Lebensmittelsicherheit (EFSA) hält bis zu 400 mg Koffein am Tag für gesunde Erwachsene für unbedenklich. Ein Venti Americano liegt mit 178,2 mg unter der Hälfte davon.
+Die Europäische Behörde für Lebensmittelsicherheit (EFSA) hält bis zu 400 mg Koffein am Tag für gesunde Erwachsene für unbedenklich. Ein Venti Americano liegt mit 178,2 mg unter der Hälfte davon. Wie viel Koffein in den Milchgetränken steckt, steht bei [Starbucks Cappuccino](/blog/starbucks-cappuccino) und [Starbucks Latte](/blog/starbucks-latte).
 
 ### Ist ein Americano stärker als Filterkaffee?
 

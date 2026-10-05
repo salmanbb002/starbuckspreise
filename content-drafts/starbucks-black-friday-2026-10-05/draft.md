@@ -63,7 +63,7 @@ Achte bei Bohnen auf das Mindesthaltbarkeitsdatum. Ein großer Vorrat lohnt sich
 
 ### Starbucks Eiskaffee aus dem Kühlregal
 
-Gekühlter Starbucks Eiskaffee ist fast jede Woche irgendwo im Angebot. Der 220-ml-Becher kostete Anfang Oktober 2026 ab 1,29 € statt 2,49 €. Bei Kaufland gab es ihn laut mydealz schon für 0,79 €. Ein Black-Friday-Preis ist hier also nur gut, wenn er unter 1 € liegt.
+Gekühlter Starbucks Eiskaffee ist fast jede Woche irgendwo im Angebot. Der 220-ml-Becher kostete Anfang Oktober 2026 ab 1,29 € statt 2,49 €. Bei Kaufland gab es ihn laut mydealz schon für 0,79 €. Ein Black-Friday-Preis ist hier also nur gut, wenn er unter 1 € liegt. Wer lieber selbst brüht, findet Rezept und Kosten im Ratgeber [Starbucks Cold Brew](/blog/starbucks-cold-brew).
 
 ### Starbucks Tassen und Becher
 

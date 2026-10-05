@@ -80,7 +80,7 @@ Lizenzstores liegen vor allem an Bahnhöfen, Flughäfen und Raststätten. Starbu
 
 Quelle: FAQ zur Starbucks Card, starbucks.de, abgerufen am 5. Oktober 2026.
 
-Welche Filiale die Karte annimmt, zeigt der Store Locator auf starbucks.de. Setze dort den Filter „Redeem Rewards“. Dann siehst du nur Coffee Houses, die die Starbucks Card akzeptieren. Was an Flughäfen sonst anders ist, steht im Ratgeber [Starbucks Flughafen](/blog/starbucks-flughafen).
+Welche Filiale die Karte annimmt, zeigt der Store Locator auf starbucks.de. Setze dort den Filter „Redeem Rewards“. Dann siehst du nur Coffee Houses, die die Starbucks Card akzeptieren. Filialen in deiner Umgebung findest du über [Starbucks in der Nähe](/blog/starbucks-in-der-naehe). Was an Flughäfen sonst anders ist, steht im Ratgeber [Starbucks Flughafen](/blog/starbucks-flughafen).
 
 ### Gilt der Starbucks Gutschein im Ausland?
 
@@ -88,7 +88,7 @@ Nein, die deutsche Starbucks Card gilt nur in Deutschland. Die AGB beschränken 
 
 ### Was kann ich mit dem Gutschein bezahlen?
 
-Mit dem Guthaben bezahlst du alles, was das Coffee House verkauft: Getränke, Speisen, Kaffeebohnen, Tassen und Becher. Für jeden Euro bekommst du mit registrierter Karte 3 Sterne bei Starbucks Rewards. Für 150 Sterne gibt es ein Freigetränk.
+Mit dem Guthaben bezahlst du alles, was das Coffee House verkauft: Getränke, Speisen, Kaffeebohnen, Tassen und Becher. Was auf der Karte steht, zeigt das [Starbucks Menü](/blog/starbucks-menu). Für jeden Euro bekommst du mit registrierter Karte 3 Sterne bei Starbucks Rewards. Für 150 Sterne gibt es ein Freigetränk.
 
 ## 5. Wie prüfe ich das Guthaben meiner Starbucks Card?
 
@@ -134,7 +134,7 @@ Alle Sparwege im Café und im Supermarkt stehen im Ratgeber [Starbucks Angebote]
 
 ## 8. Wie verschenke ich einen Starbucks Gutschein richtig?
 
-Zum Verschenken eignet sich die Plastikkarte aus dem Coffee House am besten. Du lädst sie an der Kasse auf und gibst sie unregistriert weiter. Der Beschenkte registriert sie dann in seinem eigenen Konto. Starbucks bewirbt die Karte ausdrücklich als Geschenk.
+Zum Verschenken eignet sich die Plastikkarte aus dem Coffee House am besten. Du lädst sie an der Kasse auf und gibst sie unregistriert weiter. Der Beschenkte registriert sie dann in seinem eigenen Konto. Starbucks bewirbt die Karte ausdrücklich als Geschenk. Passende Saisongetränke für die Adventszeit zeigt der Ratgeber [Starbucks Weihnachten](/blog/starbucks-weihnachten).
 
 Drei Tipps, damit das Geschenk ankommt:
 

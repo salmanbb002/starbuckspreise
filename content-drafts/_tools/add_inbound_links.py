@@ -4,15 +4,8 @@ import re, pathlib
 BLOG = pathlib.Path(__file__).resolve().parents[2] / "blog"
 BF, GUT, AME = "/blog/starbucks-black-friday", "/blog/starbucks-gutschein", "/blog/starbucks-americano"
 TARGETS = [
-    ("starbucks-kapseln-angebot.html", "Black Friday", BF), ("starbucks-angebote.html", "Black Friday", BF),
-    ("starbucks-weihnachten.html", "Black Friday", BF), ("starbucks-kaffeebohnen.html", "Black Friday", BF),
-    ("starbucks-app.html", "Starbucks Card", GUT), ("starbucks-menu.html", "Starbucks Card", GUT),
-    ("starbucks-angebote.html", "Starbucks Card", GUT), ("starbucks-flughafen.html", "Starbucks Card", GUT),
-    ("starbucks-weihnachten.html", "Starbucks Card", GUT), ("starbucks-preise.html", "Starbucks Card", GUT),
-    ("starbucks-getraenke.html", "Caffè Americano", AME), ("starbucks-kaffee.html", "Caffè Americano", AME),
-    ("starbucks-preise.html", "Caffè Americano", AME), ("starbucks-iced-coffee.html", "Iced Americano", AME),
-    ("starbucks-cold-brew.html", "Iced Americano", AME), ("starbucks-kalorien-guide.html", "Americano", AME),
-    ("starbucks-menu.html", "Americano", AME),
+    ("starbucks-in-der-naehe.html", "Starbucks Card", GUT), ("starbucks-refresha.html", "Starbucks Card", GUT),
+    ("starbucks-kaffeebohnen.html", "Americano", AME), ("starbucks-latte.html", "Americano", AME),
 ]
 
 
