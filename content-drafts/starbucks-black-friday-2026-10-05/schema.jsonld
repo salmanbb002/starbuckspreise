@@ -1,0 +1,210 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "BlogPosting",
+      "@id": "https://starbuckspreise.com/blog/starbucks-black-friday#article",
+      "headline": "Starbucks Black Friday 2026: Deals, Termine & Spartipps",
+      "description": "Starbucks Black Friday 2026 am 27. November: Im Café gibt es keine feste Aktion, im Handel schon. Richtpreise für Kapseln, Bohnen und Eiskaffee plus Deal-Check.",
+      "inLanguage": "de-DE",
+      "datePublished": "2026-10-05",
+      "dateModified": "2026-10-05",
+      "mainEntityOfPage": "https://starbuckspreise.com/blog/starbucks-black-friday",
+      "image": "https://starbuckspreise.com/img/blog/starbucks-black-friday-hero.webp",
+      "author": {
+        "@type": "Organization",
+        "name": "StarbucksPreise Redaktion",
+        "url": "https://starbuckspreise.com/ueber-uns"
+      },
+      "publisher": {
+        "@type": "Organization",
+        "name": "StarbucksPreise",
+        "url": "https://starbuckspreise.com/",
+        "logo": {
+          "@type": "ImageObject",
+          "url": "TODO: https://starbuckspreise.com/<logo-file>"
+        }
+      },
+      "about": [
+        {
+          "@type": "Thing",
+          "name": "Black Friday",
+          "sameAs": "https://de.wikipedia.org/wiki/Black_Friday"
+        },
+        {
+          "@type": "Organization",
+          "name": "Starbucks",
+          "sameAs": [
+            "https://www.wikidata.org/wiki/Q37158",
+            "https://www.starbucks.de/"
+          ]
+        }
+      ],
+      "mentions": [
+        {
+          "@type": "Thing",
+          "name": "Cyber Monday",
+          "sameAs": "https://de.wikipedia.org/wiki/Cyber_Monday"
+        },
+        {
+          "@type": "Thing",
+          "name": "Black Week"
+        },
+        {
+          "@type": "Thing",
+          "name": "Starbucks Kapseln"
+        },
+        {
+          "@type": "Thing",
+          "name": "Starbucks Rewards"
+        },
+        {
+          "@type": "Thing",
+          "name": "Starbucks Card"
+        },
+        {
+          "@type": "Organization",
+          "name": "Nestlé",
+          "sameAs": "https://en.wikipedia.org/wiki/Nestl%C3%A9"
+        },
+        {
+          "@type": "Organization",
+          "name": "Amazon",
+          "sameAs": "https://www.wikidata.org/wiki/Q3884"
+        },
+        {
+          "@type": "Organization",
+          "name": "Verbraucherzentrale Nordrhein-Westfalen"
+        },
+        {
+          "@type": "Thing",
+          "name": "Thanksgiving",
+          "sameAs": "https://de.wikipedia.org/wiki/Thanksgiving"
+        }
+      ],
+      "speakable": {
+        "@type": "SpeakableSpecification",
+        "cssSelector": [
+          "#direct-answer"
+        ]
+      }
+    },
+    {
+      "@type": "FAQPage",
+      "@id": "https://starbuckspreise.com/blog/starbucks-black-friday#faq",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "Hat Starbucks am Black Friday geöffnet?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Ja, der Black Friday ist in Deutschland ein normaler Werktag. Die Coffee Houses öffnen wie an jedem Freitag. Die Zeiten deiner Filiale stehen im Store Locator auf starbucks.de."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Gibt es am Black Friday Gratisgetränke bei Starbucks?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Eine Gratis-Aktion zum Black Friday hat Starbucks Deutschland nicht angekündigt. Ein Freigetränk bekommst du über Starbucks Rewards für 150 Sterne. Das entspricht rund 50 € Umsatz."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Gibt es einen Starbucks Rabattcode für den Black Friday?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Einen offiziellen Rabattcode gibt es nicht, weil Starbucks Deutschland keinen Online-Shop mit Warenkorb betreibt. Codes auf Gutscheinportalen beziehen sich meist auf Shops, die es hier nicht gibt. Echte Angebote findest du in der Starbucks App und bei den Händlern."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Wo sind Starbucks Kapseln am Black Friday am günstigsten?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Am günstigsten sind meist Großpackungen bei Amazon und Wochenangebote in Drogerien und Supermärkten. Vergleiche immer den Preis pro Kapsel. Unter 0,30 € ist gut, um 0,20 € sehr gut."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Gibt es Starbucks Becher am Black Friday günstiger?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Einen Black-Friday-Sale für Becher hat Starbucks Deutschland nicht angekündigt. Becher und Tassen gibt es nur im Coffee House. Angebote auf Marktplätzen stammen von Dritten und liegen oft über dem Filialpreis."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Kann ich am Black Friday eine Starbucks Geschenkkarte mit Bonus kaufen?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "In Deutschland ist keine Bonus-Aktion für die Starbucks Card bekannt. Die Bonuskarten aus den USA gelten nur dort. Die deutsche Starbucks Card kostet keine Gebühren und lässt sich ab 5 € aufladen."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Ist der Cyber Monday für Starbucks Produkte besser als der Black Friday?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Nein, meist nicht. Die Angebote für Kaffee und Kapseln laufen in der Regel die ganze Black Week über. Der Cyber Monday am 30. November 2026 ist vor allem der letzte Tag, um einen Online-Deal zu nutzen."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Wann ist Black Friday 2027?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Black Friday 2027 ist am 26. November 2027. Er liegt immer am Freitag nach dem vierten Donnerstag im November. Das Datum wandert deshalb zwischen dem 23. und 29. November."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Sammle ich Sterne, wenn ich Starbucks Kapseln im Handel kaufe?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Nein. Sterne gibt es nur für Käufe im Coffee House mit deinem Rewards-Konto. Kapseln, Bohnen und Eiskaffee aus dem Supermarkt sind Handelsware und zählen nicht."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Lohnt sich ein Spar-Abo für Starbucks Kapseln?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Ein Spar-Abo lohnt sich, wenn du die Sorte ohnehin regelmäßig trinkst. Der Abo-Preis liegt oft deutlich unter dem Einzelpreis, im Beispiel bei 0,20 € statt 0,39 € pro Kapsel. Prüfe vor jeder Lieferung den Preis, denn er kann sich ändern."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Sind Starbucks Kapseln aus dem Angebot dieselben wie im Café?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Nein, im Café nutzt Starbucks keine Kapseln, sondern frisch gemahlene Bohnen. Die Kapseln tragen die Namen bekannter Röstungen wie Espresso Roast oder House Blend. Hergestellt und vertrieben werden sie von Nestlé."
+          }
+        }
+      ]
+    },
+    {
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Startseite",
+          "item": "https://starbuckspreise.com/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Blog",
+          "item": "https://starbuckspreise.com/blog/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "Starbucks Black Friday",
+          "item": "https://starbuckspreise.com/blog/starbucks-black-friday"
+        }
+      ]
+    }
+  ]
+}

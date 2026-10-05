@@ -1,0 +1,237 @@
+[
+ {
+  "canonical": "Starbucks Gutschein",
+  "type": "Product",
+  "aliases": [
+   "Gutschein"
+  ],
+  "sameAs": "",
+  "kind": "entity",
+  "competitor_count": 4,
+  "in_title_or_h2": true,
+  "tier": 1,
+  "covered": true
+ },
+ {
+  "canonical": "Starbucks Card",
+  "type": "Product",
+  "aliases": [
+   "Starbucks® Card",
+   "Geschenkkarte"
+  ],
+  "sameAs": "",
+  "kind": "entity",
+  "competitor_count": 4,
+  "in_title_or_h2": true,
+  "tier": 1,
+  "covered": true
+ },
+ {
+  "canonical": "Starbucks",
+  "type": "Organization",
+  "aliases": [
+   "Starbucks Deutschland"
+  ],
+  "sameAs": "https://www.wikidata.org/wiki/Q37158",
+  "kind": "entity",
+  "competitor_count": 4,
+  "in_title_or_h2": true,
+  "tier": 1,
+  "covered": true
+ },
+ {
+  "canonical": "Guthaben",
+  "type": "Concept",
+  "aliases": [
+   "Kontostand"
+  ],
+  "sameAs": "",
+  "kind": "term",
+  "competitor_count": 4,
+  "in_title_or_h2": true,
+  "tier": 1,
+  "covered": true
+ },
+ {
+  "canonical": "einlösen",
+  "type": "Process",
+  "aliases": [],
+  "sameAs": "",
+  "kind": "term",
+  "competitor_count": 3,
+  "in_title_or_h2": true,
+  "tier": 1,
+  "covered": true
+ },
+ {
+  "canonical": "AmRest",
+  "type": "Organization",
+  "aliases": [
+   "AmRest Coffee Deutschland"
+  ],
+  "sameAs": "https://en.wikipedia.org/wiki/AmRest",
+  "kind": "entity",
+  "competitor_count": 1,
+  "in_title_or_h2": false,
+  "tier": 2,
+  "covered": true
+ },
+ {
+  "canonical": "Lizenzstore",
+  "type": "Concept",
+  "aliases": [
+   "franchisegeführte Stores"
+  ],
+  "sameAs": "",
+  "kind": "term",
+  "competitor_count": 1,
+  "in_title_or_h2": false,
+  "tier": 2,
+  "covered": true
+ },
+ {
+  "canonical": "Starbucks App",
+  "type": "Product",
+  "aliases": [],
+  "sameAs": "",
+  "kind": "entity",
+  "competitor_count": 2,
+  "in_title_or_h2": false,
+  "tier": 2,
+  "covered": true
+ },
+ {
+  "canonical": "Starbucks Rewards",
+  "type": "Concept",
+  "aliases": [
+   "Sterne"
+  ],
+  "sameAs": "",
+  "kind": "entity",
+  "competitor_count": 2,
+  "in_title_or_h2": false,
+  "tier": 2,
+  "covered": true
+ },
+ {
+  "canonical": "Registrierung",
+  "type": "Process",
+  "aliases": [
+   "16-stellige Kartennummer",
+   "8-stellige PIN"
+  ],
+  "sameAs": "",
+  "kind": "term",
+  "competitor_count": 2,
+  "in_title_or_h2": false,
+  "tier": 2,
+  "covered": true
+ },
+ {
+  "canonical": "Mindestbetrag 5 €",
+  "type": "Money",
+  "aliases": [],
+  "sameAs": "",
+  "kind": "term",
+  "competitor_count": 1,
+  "in_title_or_h2": false,
+  "tier": 2,
+  "covered": true
+ },
+ {
+  "canonical": "250 € pro Monat",
+  "type": "Money",
+  "aliases": [],
+  "sameAs": "",
+  "kind": "term",
+  "competitor_count": 1,
+  "in_title_or_h2": false,
+  "tier": 2,
+  "covered": true
+ },
+ {
+  "canonical": "Verjährung",
+  "type": "Law",
+  "aliases": [
+   "Gültigkeit"
+  ],
+  "sameAs": "https://de.wikipedia.org/wiki/Verj%C3%A4hrung_(Deutschland)",
+  "kind": "term",
+  "competitor_count": 2,
+  "in_title_or_h2": false,
+  "tier": 2,
+  "covered": true
+ },
+ {
+  "canonical": "Auszahlung",
+  "type": "Concept",
+  "aliases": [
+   "Bargeld"
+  ],
+  "sameAs": "",
+  "kind": "term",
+  "competitor_count": 1,
+  "in_title_or_h2": false,
+  "tier": 2,
+  "covered": true
+ },
+ {
+  "canonical": "Rabattcode",
+  "type": "Concept",
+  "aliases": [
+   "Gutscheincode"
+  ],
+  "sameAs": "",
+  "kind": "term",
+  "competitor_count": 1,
+  "in_title_or_h2": false,
+  "tier": 2,
+  "covered": true
+ },
+ {
+  "canonical": "WUNSCHGUTSCHEIN",
+  "type": "Organization",
+  "aliases": [],
+  "sameAs": "",
+  "kind": "entity",
+  "competitor_count": 1,
+  "in_title_or_h2": false,
+  "tier": 2,
+  "covered": true
+ },
+ {
+  "canonical": "CoinGate",
+  "type": "Organization",
+  "aliases": [],
+  "sameAs": "",
+  "kind": "entity",
+  "competitor_count": 1,
+  "in_title_or_h2": false,
+  "tier": 3,
+  "covered": true
+ },
+ {
+  "canonical": "automatische Wiederaufladung",
+  "type": "Process",
+  "aliases": [],
+  "sameAs": "",
+  "kind": "term",
+  "competitor_count": 1,
+  "in_title_or_h2": false,
+  "tier": 3,
+  "covered": true
+ },
+ {
+  "canonical": "Store Locator",
+  "type": "Concept",
+  "aliases": [
+   "Redeem Rewards"
+  ],
+  "sameAs": "",
+  "kind": "term",
+  "competitor_count": 1,
+  "in_title_or_h2": false,
+  "tier": 3,
+  "covered": true
+ }
+]

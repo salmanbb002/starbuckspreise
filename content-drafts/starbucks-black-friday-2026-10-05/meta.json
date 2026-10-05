@@ -1,0 +1,66 @@
+{
+  "slug": "/blog/starbucks-black-friday",
+  "url": "https://starbuckspreise.com/blog/starbucks-black-friday",
+  "date": "2026-10-05",
+  "crumb": "Starbucks Black Friday",
+  "title": "Starbucks Black Friday 2026: Deals, Termine & Spartipps",
+  "description": "Starbucks Black Friday 2026 am 27. November: Im Café gibt es keine feste Aktion, im Handel schon. Richtpreise für Kapseln, Bohnen und Eiskaffee plus Deal-Check.",
+  "published": "2026-10-05T12:00:00+02:00",
+  "about": [
+    {
+      "@type": "Thing",
+      "name": "Black Friday",
+      "sameAs": "https://de.wikipedia.org/wiki/Black_Friday"
+    },
+    {
+      "@type": "Organization",
+      "name": "Starbucks",
+      "sameAs": [
+        "https://www.wikidata.org/wiki/Q37158",
+        "https://www.starbucks.de/"
+      ]
+    }
+  ],
+  "mentions": [
+    {
+      "@type": "Thing",
+      "name": "Cyber Monday",
+      "sameAs": "https://de.wikipedia.org/wiki/Cyber_Monday"
+    },
+    {
+      "@type": "Thing",
+      "name": "Black Week"
+    },
+    {
+      "@type": "Thing",
+      "name": "Starbucks Kapseln"
+    },
+    {
+      "@type": "Thing",
+      "name": "Starbucks Rewards"
+    },
+    {
+      "@type": "Thing",
+      "name": "Starbucks Card"
+    },
+    {
+      "@type": "Organization",
+      "name": "Nestlé",
+      "sameAs": "https://en.wikipedia.org/wiki/Nestl%C3%A9"
+    },
+    {
+      "@type": "Organization",
+      "name": "Amazon",
+      "sameAs": "https://www.wikidata.org/wiki/Q3884"
+    },
+    {
+      "@type": "Organization",
+      "name": "Verbraucherzentrale Nordrhein-Westfalen"
+    },
+    {
+      "@type": "Thing",
+      "name": "Thanksgiving",
+      "sameAs": "https://de.wikipedia.org/wiki/Thanksgiving"
+    }
+  ]
+}

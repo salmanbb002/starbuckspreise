@@ -1,0 +1,228 @@
+[
+ {
+  "canonical": "Black Friday",
+  "type": "Event",
+  "aliases": [
+   "Black Friday 2026"
+  ],
+  "sameAs": "https://de.wikipedia.org/wiki/Black_Friday",
+  "kind": "entity",
+  "competitor_count": 4,
+  "in_title_or_h2": true,
+  "tier": 1,
+  "covered": true
+ },
+ {
+  "canonical": "Starbucks",
+  "type": "Organization",
+  "aliases": [
+   "Starbucks Deutschland"
+  ],
+  "sameAs": "https://www.wikidata.org/wiki/Q37158",
+  "kind": "entity",
+  "competitor_count": 5,
+  "in_title_or_h2": true,
+  "tier": 1,
+  "covered": true
+ },
+ {
+  "canonical": "27. November 2026",
+  "type": "Date",
+  "aliases": [],
+  "sameAs": "",
+  "kind": "term",
+  "competitor_count": 1,
+  "in_title_or_h2": true,
+  "tier": 1,
+  "covered": true
+ },
+ {
+  "canonical": "Starbucks Kapseln",
+  "type": "Product",
+  "aliases": [
+   "Nespresso-Kapseln",
+   "Starbucks by Nespresso"
+  ],
+  "sameAs": "",
+  "kind": "entity",
+  "competitor_count": 4,
+  "in_title_or_h2": true,
+  "tier": 1,
+  "covered": true
+ },
+ {
+  "canonical": "Angebot / Rabatt",
+  "type": "Concept",
+  "aliases": [
+   "Deal"
+  ],
+  "sameAs": "",
+  "kind": "term",
+  "competitor_count": 5,
+  "in_title_or_h2": true,
+  "tier": 1,
+  "covered": true
+ },
+ {
+  "canonical": "Black Week",
+  "type": "Event",
+  "aliases": [],
+  "sameAs": "",
+  "kind": "entity",
+  "competitor_count": 1,
+  "in_title_or_h2": false,
+  "tier": 2,
+  "covered": true
+ },
+ {
+  "canonical": "Cyber Monday",
+  "type": "Event",
+  "aliases": [],
+  "sameAs": "https://de.wikipedia.org/wiki/Cyber_Monday",
+  "kind": "entity",
+  "competitor_count": 1,
+  "in_title_or_h2": false,
+  "tier": 2,
+  "covered": true
+ },
+ {
+  "canonical": "Starbucks Bohnen",
+  "type": "Product",
+  "aliases": [
+   "Pike Place Roast"
+  ],
+  "sameAs": "",
+  "kind": "entity",
+  "competitor_count": 2,
+  "in_title_or_h2": false,
+  "tier": 2,
+  "covered": true
+ },
+ {
+  "canonical": "Chilled Coffee",
+  "type": "Product",
+  "aliases": [
+   "Eiskaffee"
+  ],
+  "sameAs": "",
+  "kind": "entity",
+  "competitor_count": 2,
+  "in_title_or_h2": false,
+  "tier": 2,
+  "covered": true
+ },
+ {
+  "canonical": "Starbucks Rewards",
+  "type": "Concept",
+  "aliases": [],
+  "sameAs": "",
+  "kind": "entity",
+  "competitor_count": 1,
+  "in_title_or_h2": false,
+  "tier": 2,
+  "covered": true
+ },
+ {
+  "canonical": "Starbucks Card",
+  "type": "Product",
+  "aliases": [
+   "Geschenkkarte"
+  ],
+  "sameAs": "",
+  "kind": "entity",
+  "competitor_count": 1,
+  "in_title_or_h2": false,
+  "tier": 2,
+  "covered": true
+ },
+ {
+  "canonical": "Preis pro Kapsel",
+  "type": "Metric",
+  "aliases": [],
+  "sameAs": "",
+  "kind": "term",
+  "competitor_count": 3,
+  "in_title_or_h2": false,
+  "tier": 2,
+  "covered": true
+ },
+ {
+  "canonical": "Spar-Abo",
+  "type": "Concept",
+  "aliases": [],
+  "sameAs": "",
+  "kind": "term",
+  "competitor_count": 1,
+  "in_title_or_h2": false,
+  "tier": 2,
+  "covered": true
+ },
+ {
+  "canonical": "UVP",
+  "type": "Concept",
+  "aliases": [],
+  "sameAs": "",
+  "kind": "term",
+  "competitor_count": 1,
+  "in_title_or_h2": false,
+  "tier": 2,
+  "covered": true
+ },
+ {
+  "canonical": "Online-Shop",
+  "type": "Concept",
+  "aliases": [],
+  "sameAs": "",
+  "kind": "term",
+  "competitor_count": 2,
+  "in_title_or_h2": false,
+  "tier": 2,
+  "covered": true
+ },
+ {
+  "canonical": "Nestlé",
+  "type": "Organization",
+  "aliases": [
+   "Starbucks at Home"
+  ],
+  "sameAs": "https://en.wikipedia.org/wiki/Nestl%C3%A9",
+  "kind": "entity",
+  "competitor_count": 1,
+  "in_title_or_h2": false,
+  "tier": 3,
+  "covered": true
+ },
+ {
+  "canonical": "Thanksgiving",
+  "type": "Event",
+  "aliases": [],
+  "sameAs": "https://de.wikipedia.org/wiki/Thanksgiving",
+  "kind": "entity",
+  "competitor_count": 1,
+  "in_title_or_h2": false,
+  "tier": 3,
+  "covered": true
+ },
+ {
+  "canonical": "Verbraucherzentrale Nordrhein-Westfalen",
+  "type": "Organization",
+  "aliases": [],
+  "sameAs": "",
+  "kind": "entity",
+  "competitor_count": 1,
+  "in_title_or_h2": false,
+  "tier": 3,
+  "covered": true
+ },
+ {
+  "canonical": "Corporate Benefits",
+  "type": "Organization",
+  "aliases": [],
+  "sameAs": "",
+  "kind": "entity",
+  "competitor_count": 1,
+  "in_title_or_h2": false,
+  "tier": 3,
+  "covered": true
+ }
+]

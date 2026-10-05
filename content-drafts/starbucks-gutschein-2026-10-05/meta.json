@@ -1,0 +1,92 @@
+{
+  "slug": "/blog/starbucks-gutschein",
+  "url": "https://starbuckspreise.com/blog/starbucks-gutschein",
+  "date": "2026-10-05",
+  "crumb": "Starbucks Gutschein",
+  "title": "Starbucks Gutschein: Kaufen, einlösen & Guthaben prüfen 2026",
+  "description": "Starbucks Gutschein kaufen: Die Starbucks Card gibt es im Store und in der App, ab 5 € und ohne Gebühren. Wo du sie einlöst und wie du das Guthaben prüfst.",
+  "published": "2026-10-05T12:00:00+02:00",
+  "about": [
+    {
+      "@type": "Thing",
+      "name": "Starbucks Card"
+    },
+    {
+      "@type": "Thing",
+      "name": "Geschenkkarte",
+      "sameAs": "https://de.wikipedia.org/wiki/Geschenkkarte"
+    },
+    {
+      "@type": "Organization",
+      "name": "Starbucks",
+      "sameAs": [
+        "https://www.wikidata.org/wiki/Q37158",
+        "https://www.starbucks.de/"
+      ]
+    }
+  ],
+  "mentions": [
+    {
+      "@type": "Organization",
+      "name": "AmRest",
+      "sameAs": "https://en.wikipedia.org/wiki/AmRest"
+    },
+    {
+      "@type": "Thing",
+      "name": "Starbucks Rewards"
+    },
+    {
+      "@type": "Thing",
+      "name": "Starbucks App"
+    },
+    {
+      "@type": "Thing",
+      "name": "Lizenzstore"
+    },
+    {
+      "@type": "Organization",
+      "name": "WUNSCHGUTSCHEIN"
+    },
+    {
+      "@type": "Thing",
+      "name": "Guthaben"
+    },
+    {
+      "@type": "Thing",
+      "name": "Verjährung",
+      "sameAs": "https://de.wikipedia.org/wiki/Verj%C3%A4hrung_(Deutschland)"
+    }
+  ],
+  "howto": {
+    "@type": "HowTo",
+    "@id": "https://starbuckspreise.com/blog/starbucks-gutschein/#howto",
+    "name": "Wie prüfe ich das Guthaben meiner Starbucks Card?",
+    "step": [
+      {
+        "@type": "HowToStep",
+        "position": 1,
+        "text": "Öffne die Starbucks App oder melde dich auf starbucks.de an."
+      },
+      {
+        "@type": "HowToStep",
+        "position": 2,
+        "text": "Lege ein Konto bei Starbucks Rewards an, falls du noch keines hast."
+      },
+      {
+        "@type": "HowToStep",
+        "position": 3,
+        "text": "Gib die 16-stellige Kartennummer und die 8-stellige PIN von der Rückseite der Karte ein."
+      },
+      {
+        "@type": "HowToStep",
+        "position": 4,
+        "text": "Lies das Guthaben in der Kartenübersicht ab."
+      },
+      {
+        "@type": "HowToStep",
+        "position": 5,
+        "text": "Lade bei Bedarf direkt in der App nach."
+      }
+    ]
+  }
+}

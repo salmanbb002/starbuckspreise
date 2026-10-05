@@ -2,16 +2,17 @@
 import re, pathlib
 
 BLOG = pathlib.Path(__file__).resolve().parents[2] / "blog"
-WEI, RES, GEB = "/blog/starbucks-weihnachten", "/blog/starbucks-reserve", "/blog/starbucks-gebaeck"
+BF, GUT, AME = "/blog/starbucks-black-friday", "/blog/starbucks-gutschein", "/blog/starbucks-americano"
 TARGETS = [
-    ("starbucks-latte.html", "Toffee Nut Latte", WEI), ("starbucks-pumpkin-spice-latte.html", "Weihnachtskarte", WEI),
-    ("starbucks-menu.html", "Lebkuchen Latte", WEI), ("starbucks-frappuccino-sorten.html", "Lebkuchen Coffee Frappuccino", WEI),
-    ("starbucks-becher-aktuell.html", "Holiday-Kollektion", WEI), ("starbucks-kapseln-angebot.html", "Weihnachtszeit", WEI),
-    ("starbucks-stadtmitte.html", "Starbucks Reserve", RES), ("starbucks-stadtmitte.html", "Reserve-Kaffees", RES),
-    ("starbucks-preise.html", "Reserve", RES), ("starbucks-kaffee.html", "Single-Origin-Spezialitäten", RES),
-    ("starbucks-fruehstueck.html", "Zimtschnecke", GEB), ("starbucks-menu.html", "Muffins", GEB),
-    ("starbucks-kalorien-guide.html", "Carrot Cake", GEB), ("starbucks-preise.html", "Muffin", GEB),
-    ("starbucks-vegane-optionen.html", "veganem Gebäck", GEB),
+    ("starbucks-kapseln-angebot.html", "Black Friday", BF), ("starbucks-angebote.html", "Black Friday", BF),
+    ("starbucks-weihnachten.html", "Black Friday", BF), ("starbucks-kaffeebohnen.html", "Black Friday", BF),
+    ("starbucks-app.html", "Starbucks Card", GUT), ("starbucks-menu.html", "Starbucks Card", GUT),
+    ("starbucks-angebote.html", "Starbucks Card", GUT), ("starbucks-flughafen.html", "Starbucks Card", GUT),
+    ("starbucks-weihnachten.html", "Starbucks Card", GUT), ("starbucks-preise.html", "Starbucks Card", GUT),
+    ("starbucks-getraenke.html", "Caffè Americano", AME), ("starbucks-kaffee.html", "Caffè Americano", AME),
+    ("starbucks-preise.html", "Caffè Americano", AME), ("starbucks-iced-coffee.html", "Iced Americano", AME),
+    ("starbucks-cold-brew.html", "Iced Americano", AME), ("starbucks-kalorien-guide.html", "Americano", AME),
+    ("starbucks-menu.html", "Americano", AME),
 ]
 
 

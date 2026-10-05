@@ -1,0 +1,97 @@
+{
+  "slug": "/blog/starbucks-americano",
+  "url": "https://starbuckspreise.com/blog/starbucks-americano",
+  "date": "2026-10-05",
+  "crumb": "Starbucks Americano",
+  "title": "Starbucks Americano: Preis, Koffein & Shots pro Größe (2026)",
+  "description": "Starbucks Americano: 3 Shots, 133,6 mg Koffein und 11 kcal im Grande, Preis ab ca. 3,10 €. Plus Iced, Blonde und Decaf Americano im Vergleich.",
+  "published": "2026-10-05T12:00:00+02:00",
+  "about": [
+    {
+      "@type": "Thing",
+      "name": "Caffè Americano",
+      "sameAs": "https://www.wikidata.org/wiki/Q1152551"
+    },
+    {
+      "@type": "Organization",
+      "name": "Starbucks",
+      "sameAs": [
+        "https://www.wikidata.org/wiki/Q37158",
+        "https://www.starbucks.de/"
+      ]
+    }
+  ],
+  "mentions": [
+    {
+      "@type": "Thing",
+      "name": "Iced Americano"
+    },
+    {
+      "@type": "Thing",
+      "name": "Espresso",
+      "sameAs": "https://de.wikipedia.org/wiki/Espresso"
+    },
+    {
+      "@type": "Thing",
+      "name": "Koffein",
+      "sameAs": "https://en.wikipedia.org/wiki/Caffeine"
+    },
+    {
+      "@type": "Thing",
+      "name": "Filterkaffee"
+    },
+    {
+      "@type": "Thing",
+      "name": "Long Black"
+    },
+    {
+      "@type": "Thing",
+      "name": "Lungo"
+    },
+    {
+      "@type": "Thing",
+      "name": "Blonde Americano"
+    },
+    {
+      "@type": "Thing",
+      "name": "Decaf Americano"
+    },
+    {
+      "@type": "Organization",
+      "name": "Europäische Behörde für Lebensmittelsicherheit",
+      "sameAs": "https://en.wikipedia.org/wiki/European_Food_Safety_Authority"
+    }
+  ],
+  "howto": {
+    "@type": "HowTo",
+    "@id": "https://starbuckspreise.com/blog/starbucks-americano/#howto",
+    "name": "Wie mache ich einen Americano wie bei Starbucks zu Hause?",
+    "step": [
+      {
+        "@type": "HowToStep",
+        "position": 1,
+        "text": "Wärme eine große Tasse mit heißem Wasser vor und gieße es wieder aus."
+      },
+      {
+        "@type": "HowToStep",
+        "position": 2,
+        "text": "Brühe einen doppelten Espresso, also 45 bis 60 ml, direkt in die Tasse."
+      },
+      {
+        "@type": "HowToStep",
+        "position": 3,
+        "text": "Erhitze frisches Wasser im Wasserkocher."
+      },
+      {
+        "@type": "HowToStep",
+        "position": 4,
+        "text": "Gieße 120 bis 180 ml heißes Wasser auf den Espresso."
+      },
+      {
+        "@type": "HowToStep",
+        "position": 5,
+        "text": "Probiere und gib bei Bedarf mehr Wasser dazu."
+      }
+    ]
+  }
+}

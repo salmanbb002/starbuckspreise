@@ -257,3 +257,21 @@ Hero photos sourced from Wikimedia Commons for the 2026-09-17 location/product p
 - Author: Starbucks Coffee Company (official product images, starbucks.de)
 - License: Starbucks product images, used at the site owner's request — not CC/Unsplash, so no on-page credit is rendered
 - Note: 2026-10-03 — composite of four official whole-bean pack shots on white; replaced the earlier Unsplash photo on the owner's request (brand images wanted).
+
+## starbucks-black-friday-hero.webp
+- Source: https://www.starbucksathome.com/de (homepage campaign teaser "STARBUCKS_NESPRESSO_WEBSITE_Homepage_Campaign Teaser_Desktop_2880x1440_v2_Clean.jpg")
+- Author: Starbucks at Home / Nestlé (official campaign image)
+- License: Starbucks brand image, used at the site owner's request — not CC/Unsplash, so no on-page credit is rendered
+- Note: 2026-10-05 — cropped to 1600x1000; three Starbucks by Nespresso sleeves, capsule machine, people blurred in the background.
+
+## starbucks-gutschein-hero.webp
+- Source: https://www.starbucks.de/de/starbucks-card (C03_Starbucks Card.jpeg, 1504x631 style)
+- Author: Starbucks Coffee Company (official image, starbucks.de)
+- License: Starbucks brand image, used at the site owner's request — not CC/Unsplash, so no on-page credit is rendered
+- Note: 2026-10-05 — cropped to 1600x1000; Starbucks cup on a table next to a hand holding a phone.
+
+## starbucks-americano-hero.webp
+- Source: https://www.starbucks.de/de/menu-drinks-hot-coffees (Starbucks_FR_Deliveroo_1200x1200_Hot_Drinks_Americano.jpg) + https://www.starbucks.de/de/menu-drinks-iced-coffees (Iced_Americano_Glass_WHITE_2023 (1).jpg)
+- Author: Starbucks Coffee Company (official product images, starbucks.de)
+- License: Starbucks product images, used at the site owner's request — not CC/Unsplash, so no on-page credit is rendered
+- Note: 2026-10-05 — composite of the two official product shots on white.
