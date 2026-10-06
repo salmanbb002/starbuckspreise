@@ -275,3 +275,15 @@ Hero photos sourced from Wikimedia Commons for the 2026-09-17 location/product p
 - Author: Starbucks Coffee Company (official product images, starbucks.de)
 - License: Starbucks product images, used at the site owner's request — not CC/Unsplash, so no on-page credit is rendered
 - Note: 2026-10-05 — composite of the two official product shots on white.
+
+## starbucks-wlan-hero.webp
+- Source: https://commons.wikimedia.org/wiki/File:Starbucks-Munich.jpg
+- Author: Hecki
+- License: CC BY-SA 3.0 — attribution required if reused/redistributed further
+- Note: 2026-10-06 — Starbucks Coffee in the hall of München Hbf (old logo, undated upload); cropped to 1600x1000. Fetched via the en.wikipedia.org API proxy + upload.wikimedia.org.
+
+## starbucks-israel-boykott-hero.webp
+- Source: https://commons.wikimedia.org/wiki/File:Starbuckscenter.jpg
+- Author: Coolcaesar
+- License: CC BY-SA 4.0 — attribution required if reused/redistributed further
+- Note: 2026-10-06 — Starbucks Center, Seattle (company headquarters), photographed 30 May 2016; deliberately neutral image for a politically sensitive article (no protest photo). Cropped to 1600x1000.

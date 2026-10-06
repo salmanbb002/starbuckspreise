@@ -1,0 +1,223 @@
+[
+ {
+  "canonical": "Starbucks WLAN",
+  "type": "Service",
+  "aliases": [
+   "WLAN bei Starbucks",
+   "Starbucks WiFi"
+  ],
+  "sameAs": "https://de.wikipedia.org/wiki/Hot_Spot_(WLAN)",
+  "kind": "entity",
+  "competitor_count": 4,
+  "in_title_or_h2": true,
+  "tier": 1,
+  "covered": true
+ },
+ {
+  "canonical": "Starbucks",
+  "type": "Organization",
+  "aliases": [
+   "Starbucks Deutschland"
+  ],
+  "sameAs": "https://www.wikidata.org/wiki/Q37158",
+  "kind": "entity",
+  "competitor_count": 4,
+  "in_title_or_h2": true,
+  "tier": 1,
+  "covered": true
+ },
+ {
+  "canonical": "kostenlos",
+  "type": "Concept",
+  "aliases": [
+   "gratis"
+  ],
+  "sameAs": "",
+  "kind": "term",
+  "competitor_count": 3,
+  "in_title_or_h2": true,
+  "tier": 1,
+  "covered": true
+ },
+ {
+  "canonical": "Anmeldung",
+  "type": "Concept",
+  "aliases": [
+   "anmelden",
+   "Login"
+  ],
+  "sameAs": "",
+  "kind": "term",
+  "competitor_count": 3,
+  "in_title_or_h2": true,
+  "tier": 1,
+  "covered": true
+ },
+ {
+  "canonical": "Store Locator / Drahtloser Hotspot",
+  "type": "Concept",
+  "aliases": [
+   "Annehmlichkeiten"
+  ],
+  "sameAs": "https://www.starbucks.de/de/store-locator",
+  "kind": "entity",
+  "competitor_count": 0,
+  "in_title_or_h2": true,
+  "tier": 1,
+  "covered": true
+ },
+ {
+  "canonical": "Passwort",
+  "type": "Concept",
+  "aliases": [
+   "Zugangscode"
+  ],
+  "sameAs": "",
+  "kind": "term",
+  "competitor_count": 2,
+  "in_title_or_h2": false,
+  "tier": 2,
+  "covered": true
+ },
+ {
+  "canonical": "Netzname",
+  "type": "Concept",
+  "aliases": [
+   "SSID",
+   "WLAN Name"
+  ],
+  "sameAs": "",
+  "kind": "term",
+  "competitor_count": 1,
+  "in_title_or_h2": false,
+  "tier": 2,
+  "covered": true
+ },
+ {
+  "canonical": "Zeitlimit",
+  "type": "Concept",
+  "aliases": [
+   "zwei Stunden"
+  ],
+  "sameAs": "",
+  "kind": "term",
+  "competitor_count": 2,
+  "in_title_or_h2": false,
+  "tier": 2,
+  "covered": true
+ },
+ {
+  "canonical": "Anmeldeseite",
+  "type": "Concept",
+  "aliases": [
+   "Captive Portal"
+  ],
+  "sameAs": "https://de.wikipedia.org/wiki/Captive_Portal",
+  "kind": "term",
+  "competitor_count": 1,
+  "in_title_or_h2": false,
+  "tier": 2,
+  "covered": true
+ },
+ {
+  "canonical": "Bahnhof",
+  "type": "Place",
+  "aliases": [],
+  "sameAs": "",
+  "kind": "term",
+  "competitor_count": 0,
+  "in_title_or_h2": false,
+  "tier": 2,
+  "covered": true
+ },
+ {
+  "canonical": "VPN",
+  "type": "Concept",
+  "aliases": [],
+  "sameAs": "https://de.wikipedia.org/wiki/Virtual_Private_Network",
+  "kind": "term",
+  "competitor_count": 0,
+  "in_title_or_h2": false,
+  "tier": 2,
+  "covered": true
+ },
+ {
+  "canonical": "BT Openzone",
+  "type": "Organization",
+  "aliases": [
+   "BT"
+  ],
+  "sameAs": "https://de.wikipedia.org/wiki/BT_Group",
+  "kind": "entity",
+  "competitor_count": 2,
+  "in_title_or_h2": false,
+  "tier": 2,
+  "covered": true
+ },
+ {
+  "canonical": "T-Mobile",
+  "type": "Organization",
+  "aliases": [],
+  "sameAs": "",
+  "kind": "entity",
+  "competitor_count": 1,
+  "in_title_or_h2": false,
+  "tier": 2,
+  "covered": true
+ },
+ {
+  "canonical": "WIFI@DB",
+  "type": "Service",
+  "aliases": [],
+  "sameAs": "",
+  "kind": "entity",
+  "competitor_count": 0,
+  "in_title_or_h2": false,
+  "tier": 3,
+  "covered": true
+ },
+ {
+  "canonical": "BSI",
+  "type": "Organization",
+  "aliases": [],
+  "sameAs": "https://de.wikipedia.org/wiki/Bundesamt_f%C3%BCr_Sicherheit_in_der_Informationstechnik",
+  "kind": "entity",
+  "competitor_count": 0,
+  "in_title_or_h2": false,
+  "tier": 3,
+  "covered": true
+ },
+ {
+  "canonical": "Steckdosen",
+  "type": "Concept",
+  "aliases": [],
+  "sameAs": "",
+  "kind": "term",
+  "competitor_count": 0,
+  "in_title_or_h2": false,
+  "tier": 3,
+  "covered": true
+ },
+ {
+  "canonical": "Flughafen",
+  "type": "Place",
+  "aliases": [],
+  "sameAs": "",
+  "kind": "term",
+  "competitor_count": 0,
+  "in_title_or_h2": false,
+  "tier": 3,
+  "covered": true
+ },
+ {
+  "canonical": "Drive-Thru",
+  "type": "Concept",
+  "aliases": [],
+  "sameAs": "",
+  "kind": "term",
+  "competitor_count": 0,
+  "in_title_or_h2": false,
+  "tier": 3,
+  "covered": true
+ }
+]

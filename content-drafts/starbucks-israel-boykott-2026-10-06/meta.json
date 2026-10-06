@@ -1,0 +1,80 @@
+{
+  "slug": "/blog/starbucks-israel-boykott",
+  "url": "https://starbuckspreise.com/blog/starbucks-israel-boykott",
+  "date": "2026-10-06",
+  "crumb": "Starbucks Israel Boykott",
+  "title": "Starbucks & Israel: Was hinter dem Boykott steckt (Faktencheck)",
+  "description": "Unterstützt Starbucks Israel? Faktencheck zum Boykott: Auslöser, Rechtsstreit mit der Gewerkschaft, Filialen in Israel, Umsatzfolgen und Stand Oktober 2026.",
+  "published": "2026-10-06T12:00:00+02:00",
+  "about": [
+    {
+      "@type": "Organization",
+      "name": "Starbucks",
+      "sameAs": [
+        "https://www.wikidata.org/wiki/Q37158",
+        "https://en.wikipedia.org/wiki/Starbucks"
+      ]
+    },
+    {
+      "@type": "Thing",
+      "name": "Starbucks-Boykott",
+      "sameAs": "https://en.wikipedia.org/wiki/Criticism_of_Starbucks"
+    }
+  ],
+  "mentions": [
+    {
+      "@type": "Country",
+      "name": "Israel",
+      "sameAs": "https://www.wikidata.org/wiki/Q801"
+    },
+    {
+      "@type": "Organization",
+      "name": "Starbucks Workers United",
+      "sameAs": "https://en.wikipedia.org/wiki/Starbucks_Workers_United"
+    },
+    {
+      "@type": "Person",
+      "name": "Howard Schultz",
+      "sameAs": "https://en.wikipedia.org/wiki/Howard_Schultz"
+    },
+    {
+      "@type": "Organization",
+      "name": "Boycott, Divestment and Sanctions",
+      "sameAs": "https://en.wikipedia.org/wiki/Boycott,_Divestment_and_Sanctions"
+    },
+    {
+      "@type": "Organization",
+      "name": "Alshaya Group",
+      "sameAs": "https://en.wikipedia.org/wiki/M.H._Alshaya_Co."
+    },
+    {
+      "@type": "Organization",
+      "name": "Berjaya Food"
+    },
+    {
+      "@type": "Organization",
+      "name": "Delek Group",
+      "sameAs": "https://en.wikipedia.org/wiki/Delek_Group"
+    },
+    {
+      "@type": "Organization",
+      "name": "AmRest",
+      "sameAs": "https://en.wikipedia.org/wiki/AmRest"
+    },
+    {
+      "@type": "Person",
+      "name": "Brian Niccol",
+      "sameAs": "https://en.wikipedia.org/wiki/Brian_Niccol"
+    },
+    {
+      "@type": "Person",
+      "name": "Laxman Narasimhan",
+      "sameAs": "https://en.wikipedia.org/wiki/Laxman_Narasimhan"
+    },
+    {
+      "@type": "Organization",
+      "name": "Amadeu Antonio Stiftung",
+      "sameAs": "https://de.wikipedia.org/wiki/Amadeu_Antonio_Stiftung"
+    }
+  ]
+}

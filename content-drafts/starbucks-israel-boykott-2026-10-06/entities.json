@@ -1,0 +1,231 @@
+[
+ {
+  "canonical": "Starbucks",
+  "type": "Organization",
+  "aliases": [
+   "Starbucks Corporation"
+  ],
+  "sameAs": "https://www.wikidata.org/wiki/Q37158",
+  "kind": "entity",
+  "competitor_count": 4,
+  "in_title_or_h2": true,
+  "tier": 1,
+  "covered": true
+ },
+ {
+  "canonical": "Israel",
+  "type": "Country",
+  "aliases": [],
+  "sameAs": "https://www.wikidata.org/wiki/Q801",
+  "kind": "entity",
+  "competitor_count": 4,
+  "in_title_or_h2": true,
+  "tier": 1,
+  "covered": true
+ },
+ {
+  "canonical": "Starbucks-Boykott",
+  "type": "Event",
+  "aliases": [
+   "Boykott"
+  ],
+  "sameAs": "https://en.wikipedia.org/wiki/Criticism_of_Starbucks",
+  "kind": "entity",
+  "competitor_count": 4,
+  "in_title_or_h2": true,
+  "tier": 1,
+  "covered": true
+ },
+ {
+  "canonical": "Starbucks Workers United",
+  "type": "Organization",
+  "aliases": [
+   "Gewerkschaft",
+   "SBWU"
+  ],
+  "sameAs": "https://en.wikipedia.org/wiki/Starbucks_Workers_United",
+  "kind": "entity",
+  "competitor_count": 3,
+  "in_title_or_h2": true,
+  "tier": 1,
+  "covered": true
+ },
+ {
+  "canonical": "Howard Schultz",
+  "type": "Person",
+  "aliases": [],
+  "sameAs": "https://en.wikipedia.org/wiki/Howard_Schultz",
+  "kind": "entity",
+  "competitor_count": 3,
+  "in_title_or_h2": true,
+  "tier": 1,
+  "covered": true
+ },
+ {
+  "canonical": "BDS",
+  "type": "Organization",
+  "aliases": [
+   "Boycott, Divestment and Sanctions"
+  ],
+  "sameAs": "https://en.wikipedia.org/wiki/Boycott,_Divestment_and_Sanctions",
+  "kind": "entity",
+  "competitor_count": 2,
+  "in_title_or_h2": false,
+  "tier": 2,
+  "covered": true
+ },
+ {
+  "canonical": "Alshaya Group",
+  "type": "Organization",
+  "aliases": [
+   "Alshaya"
+  ],
+  "sameAs": "https://en.wikipedia.org/wiki/M.H._Alshaya_Co.",
+  "kind": "entity",
+  "competitor_count": 2,
+  "in_title_or_h2": false,
+  "tier": 2,
+  "covered": true
+ },
+ {
+  "canonical": "Naher Osten",
+  "type": "Place",
+  "aliases": [
+   "Nahost"
+  ],
+  "sameAs": "",
+  "kind": "entity",
+  "competitor_count": 3,
+  "in_title_or_h2": false,
+  "tier": 2,
+  "covered": true
+ },
+ {
+  "canonical": "Markenrechtsklage",
+  "type": "Concept",
+  "aliases": [
+   "Klage",
+   "Rechtsstreit"
+  ],
+  "sameAs": "",
+  "kind": "term",
+  "competitor_count": 2,
+  "in_title_or_h2": false,
+  "tier": 2,
+  "covered": true
+ },
+ {
+  "canonical": "Auswirkungen / Umsatz",
+  "type": "Concept",
+  "aliases": [
+   "Verlust"
+  ],
+  "sameAs": "",
+  "kind": "term",
+  "competitor_count": 3,
+  "in_title_or_h2": false,
+  "tier": 2,
+  "covered": true
+ },
+ {
+  "canonical": "Gaza-Krieg",
+  "type": "Event",
+  "aliases": [
+   "7. Oktober 2023"
+  ],
+  "sameAs": "",
+  "kind": "entity",
+  "competitor_count": 3,
+  "in_title_or_h2": false,
+  "tier": 2,
+  "covered": true
+ },
+ {
+  "canonical": "Delek Group",
+  "type": "Organization",
+  "aliases": [],
+  "sameAs": "https://en.wikipedia.org/wiki/Delek_Group",
+  "kind": "entity",
+  "competitor_count": 1,
+  "in_title_or_h2": false,
+  "tier": 2,
+  "covered": true
+ },
+ {
+  "canonical": "Berjaya Food",
+  "type": "Organization",
+  "aliases": [],
+  "sameAs": "",
+  "kind": "entity",
+  "competitor_count": 0,
+  "in_title_or_h2": false,
+  "tier": 3,
+  "covered": true
+ },
+ {
+  "canonical": "Brian Niccol",
+  "type": "Person",
+  "aliases": [],
+  "sameAs": "https://en.wikipedia.org/wiki/Brian_Niccol",
+  "kind": "entity",
+  "competitor_count": 0,
+  "in_title_or_h2": false,
+  "tier": 3,
+  "covered": true
+ },
+ {
+  "canonical": "Laxman Narasimhan",
+  "type": "Person",
+  "aliases": [],
+  "sameAs": "https://en.wikipedia.org/wiki/Laxman_Narasimhan",
+  "kind": "entity",
+  "competitor_count": 1,
+  "in_title_or_h2": false,
+  "tier": 3,
+  "covered": true
+ },
+ {
+  "canonical": "AmRest",
+  "type": "Organization",
+  "aliases": [],
+  "sameAs": "https://en.wikipedia.org/wiki/AmRest",
+  "kind": "entity",
+  "competitor_count": 0,
+  "in_title_or_h2": false,
+  "tier": 3,
+  "covered": true
+ },
+ {
+  "canonical": "Amadeu Antonio Stiftung",
+  "type": "Organization",
+  "aliases": [],
+  "sameAs": "https://de.wikipedia.org/wiki/Amadeu_Antonio_Stiftung",
+  "kind": "entity",
+  "competitor_count": 2,
+  "in_title_or_h2": false,
+  "tier": 3,
+  "covered": true
+ },
+ {
+  "canonical": "McDonald's",
+  "type": "Organization",
+  "aliases": [],
+  "sameAs": "",
+  "kind": "entity",
+  "competitor_count": 1,
+  "in_title_or_h2": false,
+  "tier": 3,
+  "covered": true
+ },
+ {
+  "canonical": "Snopes",
+  "type": "Organization",
+  "aliases": [],
+  "sameAs": "",
+  "kind": "entity",
+  "competitor_count": 0,
+  "in_title_or_h2": false,
+  "tier": 3,
+  "covered": true
+ }
+]

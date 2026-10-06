@@ -1,0 +1,101 @@
+{
+  "slug": "/blog/starbucks-wlan",
+  "url": "https://starbuckspreise.com/blog/starbucks-wlan",
+  "date": "2026-10-06",
+  "crumb": "Starbucks WLAN",
+  "title": "Starbucks WLAN: kostenlos, Anmeldung & Zeitlimit (2026)",
+  "description": "Hat Starbucks WLAN? Ja, kostenlos in rund 9 von 10 deutschen Filialen. So klappt die Anmeldung, das gilt bei Passwort und Zeitlimit, plus Hilfe bei Problemen.",
+  "published": "2026-10-06T12:00:00+02:00",
+  "about": [
+    {
+      "@type": "Thing",
+      "name": "WLAN-Hotspot",
+      "sameAs": "https://de.wikipedia.org/wiki/Hot_Spot_(WLAN)"
+    },
+    {
+      "@type": "Organization",
+      "name": "Starbucks",
+      "sameAs": [
+        "https://www.wikidata.org/wiki/Q37158",
+        "https://www.starbucks.de/"
+      ]
+    }
+  ],
+  "mentions": [
+    {
+      "@type": "Thing",
+      "name": "Wireless Local Area Network",
+      "sameAs": "https://de.wikipedia.org/wiki/Wireless_Local_Area_Network"
+    },
+    {
+      "@type": "Thing",
+      "name": "Captive Portal",
+      "sameAs": "https://de.wikipedia.org/wiki/Captive_Portal"
+    },
+    {
+      "@type": "Thing",
+      "name": "Virtual Private Network",
+      "sameAs": "https://de.wikipedia.org/wiki/Virtual_Private_Network"
+    },
+    {
+      "@type": "Organization",
+      "name": "Bundesamt für Sicherheit in der Informationstechnik",
+      "sameAs": "https://de.wikipedia.org/wiki/Bundesamt_f%C3%BCr_Sicherheit_in_der_Informationstechnik"
+    },
+    {
+      "@type": "Organization",
+      "name": "Deutsche Bahn",
+      "sameAs": "https://de.wikipedia.org/wiki/Deutsche_Bahn"
+    },
+    {
+      "@type": "Thing",
+      "name": "WIFI@DB"
+    },
+    {
+      "@type": "Organization",
+      "name": "BT Group",
+      "sameAs": "https://de.wikipedia.org/wiki/BT_Group"
+    },
+    {
+      "@type": "Organization",
+      "name": "T-Mobile"
+    },
+    {
+      "@type": "Thing",
+      "name": "Starbucks Store Locator",
+      "sameAs": "https://www.starbucks.de/de/store-locator"
+    }
+  ],
+  "howto": {
+    "@type": "HowTo",
+    "@id": "https://starbuckspreise.com/blog/starbucks-wlan/#howto",
+    "name": "Wie melde ich mich im Starbucks WLAN an?",
+    "step": [
+      {
+        "@type": "HowToStep",
+        "position": 1,
+        "text": "Öffne die WLAN-Einstellungen an Smartphone, Tablet oder Laptop."
+      },
+      {
+        "@type": "HowToStep",
+        "position": 2,
+        "text": "Wähle das Netz der Filiale. Frag im Zweifel an der Theke nach dem Namen."
+      },
+      {
+        "@type": "HowToStep",
+        "position": 3,
+        "text": "Warte, bis sich die Anmeldeseite öffnet. Öffne sonst den Browser und rufe eine beliebige Seite auf."
+      },
+      {
+        "@type": "HowToStep",
+        "position": 4,
+        "text": "Bestätige die Nutzungsbedingungen und tippe auf Verbinden."
+      },
+      {
+        "@type": "HowToStep",
+        "position": 5,
+        "text": "Prüfe mit einer Webseite, ob die Verbindung steht."
+      }
+    ]
+  }
+}

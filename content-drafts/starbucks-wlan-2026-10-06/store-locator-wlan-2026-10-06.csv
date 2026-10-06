@@ -1,0 +1,171 @@
+name,city,postal,features,wlan_listed,type
+Aachen Markt,Aachen,52062,DR/WF/XO,1,Einkaufszentrum und Sonstige
+"Aachen, Aquis Plaza",Aachen,52062,DR/WF/XO,1,Einkaufszentrum und Sonstige
+Augsburg City Galerie,Augsburg,86153,WF/DR/XO,1,Einkaufszentrum und Sonstige
+Augsburg Hauptbanhof,Augsburg,86150,WF/DR/XO,1,Einkaufszentrum und Sonstige
+Augsburg Koenigsbau,Augsburg,86150,DR/WF/XO,1,Einkaufszentrum und Sonstige
+BBI Airport E2 L01 I Landing,Berlin,12521,WF/DR/XO,1,Flughafen
+Berlin Albrechststrasse 132,Berlin,12165,WF/DR/XO,1,Einkaufszentrum und Sonstige
+Berlin Bahnhof Zoologischer Ga,Berlin,10623,,0,Bahnhof
+Berlin Flughafen,Berlin,12529,,0,Flughafen
+Berlin Hauptbahnhof,Berlin,10557,DR/WF/XO,1,Bahnhof
+Berlin Kurfuerstendamm 224,Berlin,10719,WF/DR/XO,1,Einkaufszentrum und Sonstige
+Berlin Schoenhauser Allee Arca,Berlin,10439,WF/DR/XO,1,Einkaufszentrum und Sonstige
+Berlin Tauentzienstrasse 8,Berlin,10789,WF/DR/XO,1,Einkaufszentrum und Sonstige
+Berlin Unter den Linden 39,Berlin,10117,WF/DR/XO,1,Einkaufszentrum und Sonstige
+"Berlin, Alexa Shopping Centre",Berlin,10719,DR/WF/XO,1,Einkaufszentrum und Sonstige
+"Berlin, Alexanderhaus",Berlin,10178,WF/DR/XO,1,Einkaufszentrum und Sonstige
+"Berlin, Am Tacheles",Berlin,10117,WF/DR/XO,1,Einkaufszentrum und Sonstige
+"Berlin, East Side Mall",Berlin,10243,DR/WF/XO,1,Einkaufszentrum und Sonstige
+"Berlin, Friedrichstrasse 61",Berlin,10117,DR/WF/XO,1,Einkaufszentrum und Sonstige
+"Berlin, Hackescher Markt",Berlin,10178,DR/WF/XO,1,Einkaufszentrum und Sonstige
+"Berlin, IHZ Friedrichstrasse 9",Berlin,10117,DR/WF/XO,1,Einkaufszentrum und Sonstige
+"Berlin, Kurfuerstendamm 61",Berlin,10707,DR/WF/XO,1,Einkaufszentrum und Sonstige
+"Berlin, Pariser Platz",Berlin,10117,DR/WF/XO,1,Einkaufszentrum und Sonstige
+"Berlin, Zoom",Berlin,10623,WF/DR/XO,1,Einkaufszentrum und Sonstige
+"Bielefeld, Niedernstrasse 41",Bielefeld,33602,WF/DR/XO,1,Einkaufszentrum und Sonstige
+"Bochum, Dr.Ruer Platz",Bochum,44787,DR/WF/XO,1,Einkaufszentrum und Sonstige
+Bonn Markt 13-21,Bonn,53111,WF/DR/XO,1,Einkaufszentrum und Sonstige
+"Bonn, Muensterplatz",Bonn,53111,DR/WF/XO,1,Einkaufszentrum und Sonstige
+"Bonn, T-Mobile Hauptverwaltung",Bonn,53227,DR/WF/XO,1,Einkaufszentrum und Sonstige
+"Bonn, Urban Soul",Bonn,53111,WF/DR/XO,1,Einkaufszentrum und Sonstige
+Braunschweig Damm 22,Braunschweig,38100,WF/DR/XO,1,Einkaufszentrum und Sonstige
+Bremen Main Station,Bremen,28195,,0,Bahnhof
+Bremen Waterfront C02,Bremen,28237,DR/WF/XO,1,Einkaufszentrum und Sonstige
+Bremen Waterfront Kiosk,Bremen,28237,DR/WF/XO,1,Einkaufszentrum und Sonstige
+"Bremen, Marktstrasse 3",Bremen,28195,DR/WF/XO,1,Einkaufszentrum und Sonstige
+"Darmstadt, Luisenplatz 4",Darmstadt,64283,DR/WF/XO,1,Einkaufszentrum und Sonstige
+"Dortmund, Markt 6",Dortmund,44137,DR/WF/XO,1,Einkaufszentrum und Sonstige
+"Dortmund, Thier Galerie",Dortmund,44137,DR/WF/XO,1,Einkaufszentrum und Sonstige
+Dresden Altmarkt,Dresden,1067,DR/WF/XO,1,Einkaufszentrum und Sonstige
+"Dresden, Centrum Galerie",Dresden,1069,DR/WF/XO,1,Einkaufszentrum und Sonstige
+"Dresden, Kaufpark Nickern",Dresden,01239,WF/DR/XO,1,Einkaufszentrum und Sonstige
+Duisburg Hauptbahnhof,Duisburg,47051,DR/WF/XO,1,Bahnhof
+Duesseldorf Hauptbahnhof,Düsseldorf,40210,DR/WF/XO,1,Bahnhof
+Duesseldorf Mittelstrasse 9,Düsseldorf,40213,DR/WF/XO,1,Einkaufszentrum und Sonstige
+Duesseldorf Schadowstrasse 84,Düsseldorf,40212,DR/WF/XO,1,Einkaufszentrum und Sonstige
+"Duesseldorf, Erkrather Strasse",Düsseldorf,40231,DR/WF/DT/XO,1,Einkaufszentrum und Sonstige
+"Duesseldorf, Schadow Arkaden",Düsseldorf,40212,DR/WF/XO,1,Einkaufszentrum und Sonstige
+"Dusseldorf, Steinstrasse 1-3",Düsseldorf,40212,DR/WF/XO,1,Einkaufszentrum und Sonstige
+Ellwanger Berge Ost (A7),Ellwangen Jagst,73479,,0,Autobahn und Autohof
+Erfurt Central Station,Erfurt,99084,WF,1,Einkaufszentrum und Sonstige
+Erlangen Erlangen Arcaden,Erlangen,91052,WF/DR/XO,1,Einkaufszentrum und Sonstige
+Essen Hauptbahnhof,Essen,45130,DR/WF/XO,1,Bahnhof
+Essen Kettwiger Strasse 2-10,Essen,45127,WF/DR/XO,1,Einkaufszentrum und Sonstige
+"Essen, Limbecker Platz",Essen,45127,DR/WF/XO,1,Einkaufszentrum und Sonstige
+FRA - Terminal 1 Departures,Frankfurt am Main,60549,WF,1,Flughafen
+Frankfurt - The Squaire (stati,Frankfurt am Main,60549,WF,1,Einkaufszentrum und Sonstige
+Frankfurt Airport T1 Mezzanine,Frankfurt am Main,60549,,0,Flughafen
+"Frankfurt, Boersenplatz",Frankfurt am Main,60313,DR/WF/XO,1,Einkaufszentrum und Sonstige
+"Frankfurt, Fressgass",Frankfurt am Main,60313,DR/WF/XO,1,Einkaufszentrum und Sonstige
+"Frankfurt, Hessencenter",Frankfurt am Main,60388,DR/WF/XO,1,Einkaufszentrum und Sonstige
+"Frankfurt, Kaiserstrasse 20",Frankfurt am Main,60311,DR/WF/XO,1,Einkaufszentrum und Sonstige
+"Frankfurt, Konstablerwache",Frankfurt am Main,60313,DR/WF/XO,1,Einkaufszentrum und Sonstige
+"Frankfurt, My Zeil 4th Floor",Frankfurt am Main,60313,WF/DR/XO,1,Einkaufszentrum und Sonstige
+"Frankfurt, My Zeil Kiosk",Frankfurt am Main,60313,WF/DR/XO,1,Einkaufszentrum und Sonstige
+"Frankfurt, Nord West Zentrum",Frankfurt am Main,60439,DR/WF/XO,1,Einkaufszentrum und Sonstige
+"Frankfurt, Skyline Plaza",Frankfurt am Main,60327,DR/WF/XO,1,Einkaufszentrum und Sonstige
+Frankfurt-Airport (hall B land,Frankfurt am Main,60549,WF,1,Flughafen
+Freiburg Hauptbahnhof,Freiburg,79098,DR/WF,1,Bahnhof
+Giessen Seltersweg 39,Giessen,35390,WF/DR/XO,1,Einkaufszentrum und Sonstige
+Greding Ost A9,Greding,91171,,0,Autobahn und Autohof
+Halle Hauptbahnhof,Halle (Saale),06112,WF/DR/XO,1,Bahnhof
+Hamburg Bahnhof Dammtor,Hamburg,20355,,0,Bahnhof
+Hamburg HBF,Hamburg,20095,,0,Bahnhof
+Hamburg Hauptbahnhof Langbaute,Hamburg,20099,,0,Bahnhof
+Hamburg Phoenix Center,Hamburg,21079,XO,0,Einkaufszentrum und Sonstige
+Hamburg Ueberseequartier,Hamburg,20457,WF/DR/XO,1,Einkaufszentrum und Sonstige
+"Hamburg, Alstertal EKZ",Hamburg,22391,DR/WF/XO,1,Einkaufszentrum und Sonstige
+"Hamburg, Am Moenckebergbrunnen",Hamburg,20095,DR/WF/XO,1,Einkaufszentrum und Sonstige
+"Hamburg, Elbe EKZ",Hamburg,22609,DR/WF/XO,1,Einkaufszentrum und Sonstige
+"Hamburg, Europa Passage",Hamburg,20095,DR/WF/XO,1,Einkaufszentrum und Sonstige
+"Hamburg, Neuer Jungfernstieg 5",Hamburg,20354,DR/WF/XO,1,Einkaufszentrum und Sonstige
+"Hamburg, Rathausmarkt 5",Hamburg,20095,DR/WF/XO,1,Einkaufszentrum und Sonstige
+"Hamburg, Roedingsmarkt",Hamburg,20457,DR/WF/XO,1,Einkaufszentrum und Sonstige
+Hannover Hauptbahnhof,Hannover,30159,DR/WF/XO,1,Bahnhof
+"Hannover, Ernst-August Galerie",Hannover,30159,WF/DR/XO,1,Einkaufszentrum und Sonstige
+"Hannover, Ernst-August Galerie",Hannover,30159,WF/DR/XO,1,Einkaufszentrum und Sonstige
+"Heidelberg, Hauptstrasse 137",Heidelberg,69117,DR/WF/XO,1,Einkaufszentrum und Sonstige
+"Heilbronn, Kilianstrasse 6",Heilbronn,74072,DR/WF/XO,1,Einkaufszentrum und Sonstige
+Aurach Sued A3 Herzogenaurach,Herzogenaurach,91074,,0,Autobahn und Autohof
+"Karlsruhe, Ettlinger Tor",Karlsruhe,76133,DR/WF/XO,1,Einkaufszentrum und Sonstige
+Kiel Holstenstr. 82,Kiel,24103,WF/DR/XO,1,Einkaufszentrum und Sonstige
+Koblenz Forum Mittelrhein,Koblenz,56068,DR/WF/XO,1,Einkaufszentrum und Sonstige
+Koeln Barbarossaplatz,Köln,50674,WF/DR/XO,1,Einkaufszentrum und Sonstige
+Koeln Hauptbahnhof Colonaden,Köln,50667,DR/WF/XO,1,Bahnhof
+Koeln Neumarkt New,Köln,50667,DR/WF/XO,1,Einkaufszentrum und Sonstige
+Koeln Rudolfplatz,Köln,50672,WF/DR/XO,1,Einkaufszentrum und Sonstige
+"Koeln, Guerzenichstr",Köln,50667,WF/DR/XO,1,Einkaufszentrum und Sonstige
+"Koeln, Rhein Center",Köln,50858,DR/WF/XO,1,Einkaufszentrum und Sonstige
+"Koeln, Ring Karree",Köln,50672,DR/WF/XO,1,Einkaufszentrum und Sonstige
+Leipzig Hainstrasse 16-18,Leipzig,04109,WF/DR/XO,1,Einkaufszentrum und Sonstige
+Leipzig Hauptbahnhof,Leipzig,4109,DR/WF/XO,1,Bahnhof
+Leipzig Petersstrasse 22,Leipzig,04109,WF/DR/XO,1,Einkaufszentrum und Sonstige
+Leipzig Promenaden Hauptbahnho,Leipzig,04109,WF/DR/XO,1,Einkaufszentrum und Sonstige
+"Leipzig, Grimmaische Strasse 1",Leipzig,4109,DR/WF/XO,1,Einkaufszentrum und Sonstige
+Lorrach Bahnhofsplatz,Lorrach,79539,WF/DR/XO,1,Einkaufszentrum und Sonstige
+Ludwigsburg Breuningerland,Ludwigsburg,71634,DR/WF/XO,1,Einkaufszentrum und Sonstige
+Ludwigsburg Marstall,Ludwigsburg,71634,WF/DR/XO,1,Einkaufszentrum und Sonstige
+Magdeburg Breiter Weg 173,Magdeburg,39104,XO,0,Einkaufszentrum und Sonstige
+Mainz Hauptbahnhof,Mainz,55116,,0,Bahnhof
+Mannheim Hauptbahnhof,Mannheim,68161,WF/DR/XO,1,Bahnhof
+Mannheim Planken O4 7,Mannheim,68161,DR/WF/XO,1,Einkaufszentrum und Sonstige
+"Mannheim, Am Wasserturm",Mannheim,68161,DR/WF/XO,1,Einkaufszentrum und Sonstige
+Metzingen Outlet City,Metzingen,72555,WF/DR/XO,1,Einkaufszentrum und Sonstige
+"Monchengladbach, Minto",Monchengladbach,41061,WF/DR/XO,1,Einkaufszentrum und Sonstige
+Montabaur Fashion Outlet,Montabaur,56410,WF/DR/XO,1,Einkaufszentrum und Sonstige
+Muelheim-Kaerlich Industriestr,Muelheim Kaerlich,56218,WF/DR/XO,1,Einkaufszentrum und Sonstige
+Muenster Hauptbahnhof,Muenster,48143,DR/WF/XO,1,Bahnhof
+"Muenster, Hanse Carree",Muenster,48143,DR/WF/XO,1,Einkaufszentrum und Sonstige
+MUC Munich Airport T2 Ankunft,München,85356,WF/DR/XO,1,Flughafen
+Muenchen Hbf Container2,München,80335,DR/WF/XO,1,Bahnhof
+Muenchen Karlsplatz 8,München,80335,DR/WF/XO,1,Einkaufszentrum und Sonstige
+Muenchen Marienplatz U-Bahn,München,80331,WF/DR/XO,1,Einkaufszentrum und Sonstige
+Muenchen Pasing,München,81241,WF/DR/XO,1,Einkaufszentrum und Sonstige
+Muenchen Rotkreuzplatz,München,80634,WF/DR/XO,1,Einkaufszentrum und Sonstige
+"Muenchen, EKZ Stachuspassagen",München,80335,DR/WF/XO,1,Einkaufszentrum und Sonstige
+"Muenchen, Leopoldstrasse 56",München,80802,DR/WF/XO,1,Einkaufszentrum und Sonstige
+"Muenchen, Odeonsplatz",München,80539,DR/WF/XO,1,Einkaufszentrum und Sonstige
+"Muenchen, PEP Einkaufszentrum",München,81737,DR/WF/XO,1,Einkaufszentrum und Sonstige
+"Muenchen, Platzl",München,80331,DR/WF/XO,1,Einkaufszentrum und Sonstige
+"Muenchen, Rosental 7",München,80331,DR/WF/XO,1,Einkaufszentrum und Sonstige
+"Muenchen, Sendlinger Strasse 3",München,80331,WF/DR/XO,1,Einkaufszentrum und Sonstige
+Munich Main Station II,München,80335,DR/WF/XO,1,Bahnhof
+"Neumuenster, FOC Hamburg",Neumuenster,24539,DR/WF/XO,1,Einkaufszentrum und Sonstige
+Fernthal A3 Neustadt-Wied,Neustadt Wied,53577,WF,1,Autobahn und Autohof
+Brohltal West A61 Niederzissen,Niederzissen,56651,,0,Autobahn und Autohof
+Flaming Ost A9 Niemegk,Niemegk,14823,,0,Autobahn und Autohof
+Nuernberg Hauptbahnhof,Nürnberg,90443,WF/DR/XO,1,Bahnhof
+Nuernberg Hauptmarkt 1,Nürnberg,90403,DR/WF/XO,1,Einkaufszentrum und Sonstige
+"Nuernberg, Hefnersplatz 10",Nürnberg,90402,DR/WF/XO,1,Einkaufszentrum und Sonstige
+"Nuernberg, Karolinenstrasse 12",Nürnberg,90402,WF/DR/XO,1,Einkaufszentrum und Sonstige
+"Oberhausen, Centro",Oberhausen,46047,DR/WF/XO,1,Einkaufszentrum und Sonstige
+"Oberhausen, Centro Allee 1st F",Oberhausen,46047,WF/DR/XO,1,Einkaufszentrum und Sonstige
+"Oberhausen, Centro EG",Oberhausen,46047,DR/WF/XO,1,Einkaufszentrum und Sonstige
+Osnabrueck Kamp Promenade,Osnabrueck,49074,DR/WF/XO,1,Einkaufszentrum und Sonstige
+Passau Ludwigsplatz 8,Passau,94032,WF/DR/XO,1,Einkaufszentrum und Sonstige
+Holmmoor Ost (A7),Quickborn,25451,,0,Autobahn und Autohof
+SBX Regensburg Arcaden,Regensburg,93047,WF/DR/XO,1,Einkaufszentrum und Sonstige
+"Rostock, Kropeliner Tor Center",Rostock,18055,DR/WF/XO,1,Einkaufszentrum und Sonstige
+Saarbruecken Bahnhofstrasse 10,Saarbruecken,66111,WF/DR/XO,1,Einkaufszentrum und Sonstige
+Halle Leipzig The Style Outlet,Sandersdorf-Brehna,6796,WF/DR/XO,1,Einkaufszentrum und Sonstige
+Feuchtwangen Autohof,Schnelldorf,91625,DT,0,Autobahn und Autohof
+Holledau A9 Munich,Schweitenkirchen,85301,,0,Autobahn und Autohof
+"Siegen, City Galerie",Siegen,57072,DR/WF/XO,1,Einkaufszentrum und Sonstige
+"Stuhr, FOC Ochtum Park",Stuhr,28816,WF/DR/XO,1,Einkaufszentrum und Sonstige
+Stuttgart HB Kiosk,Stuttgart,70173,,0,Bahnhof
+"Stuttgart, Koenigsbau Passagen",Stuttgart,70173,DR/WF/XO,1,Einkaufszentrum und Sonstige
+"Stuttgart, Koenigstrasse 44",Stuttgart,70173,DR/WF/XO,1,Einkaufszentrum und Sonstige
+"Stuttgart, Milaneo",Stuttgart,70173,DR/WF/XO,1,Einkaufszentrum und Sonstige
+"Stuttgart, Milaneo Kiosk",Stuttgart,70173,DR/WF/XO,1,Einkaufszentrum und Sonstige
+"Sulzbach, Main Taunus Zentrum",Sulzbach,65843,DR/WF/XO,1,Einkaufszentrum und Sonstige
+"Ulm, Munsterplatz 16",Ulm,89073,DR/WF/XO,1,Einkaufszentrum und Sonstige
+Viernheim Rhein-Neckar-Zentrum,Viernheim,68519,DR/WF/XO,1,Einkaufszentrum und Sonstige
+"Weil am Rhein, Dreilaendergale",Weil am Rhein,79576,WF/DR,1,Einkaufszentrum und Sonstige
+"Weiterstadt, Loop 5",Weiterstadt,64331,DR/WF/XO,1,Einkaufszentrum und Sonstige
+Medenbach Ost (A3),Wiesbaden,65207,,0,Autobahn und Autohof
+"Wiesbaden, Kirchgasse 35-43",Wiesbaden,65183,DR/WF/XO,1,Einkaufszentrum und Sonstige
+"Wiesbaden, Lili",Wiesbaden,65189,WF/DR/XO,1,Einkaufszentrum und Sonstige
+Wolfsburg FOC,Wolfsburg,38440,DR/WF/XO,1,Einkaufszentrum und Sonstige
+"Wuppertal, City Plaza",Wuppertal,42103,WF/DR/XO,1,Einkaufszentrum und Sonstige
+"Zweibruecken, Londoner Bogen 1",Zweibruecken,66482,WF/DR/XO,1,Einkaufszentrum und Sonstige

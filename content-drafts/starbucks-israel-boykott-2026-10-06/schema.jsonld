@@ -1,0 +1,232 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "BlogPosting",
+      "@id": "https://starbuckspreise.com/blog/starbucks-israel-boykott#article",
+      "headline": "Starbucks & Israel: Was hinter dem Boykott steckt (Faktencheck)",
+      "description": "Unterstützt Starbucks Israel? Faktencheck zum Boykott: Auslöser, Rechtsstreit mit der Gewerkschaft, Filialen in Israel, Umsatzfolgen und Stand Oktober 2026.",
+      "inLanguage": "de-DE",
+      "datePublished": "2026-10-06",
+      "dateModified": "2026-10-06",
+      "mainEntityOfPage": "https://starbuckspreise.com/blog/starbucks-israel-boykott",
+      "image": "https://starbuckspreise.com/img/blog/starbucks-israel-boykott-hero.webp",
+      "author": {
+        "@type": "Organization",
+        "name": "StarbucksPreise Redaktion",
+        "url": "https://starbuckspreise.com/ueber-uns"
+      },
+      "publisher": {
+        "@type": "Organization",
+        "name": "StarbucksPreise",
+        "url": "https://starbuckspreise.com/",
+        "logo": {
+          "@type": "ImageObject",
+          "url": "TODO: https://starbuckspreise.com/<logo-file>"
+        }
+      },
+      "about": [
+        {
+          "@type": "Organization",
+          "name": "Starbucks",
+          "sameAs": [
+            "https://www.wikidata.org/wiki/Q37158",
+            "https://en.wikipedia.org/wiki/Starbucks"
+          ]
+        },
+        {
+          "@type": "Thing",
+          "name": "Starbucks-Boykott",
+          "sameAs": "https://en.wikipedia.org/wiki/Criticism_of_Starbucks"
+        }
+      ],
+      "mentions": [
+        {
+          "@type": "Country",
+          "name": "Israel",
+          "sameAs": "https://www.wikidata.org/wiki/Q801"
+        },
+        {
+          "@type": "Organization",
+          "name": "Starbucks Workers United",
+          "sameAs": "https://en.wikipedia.org/wiki/Starbucks_Workers_United"
+        },
+        {
+          "@type": "Person",
+          "name": "Howard Schultz",
+          "sameAs": "https://en.wikipedia.org/wiki/Howard_Schultz"
+        },
+        {
+          "@type": "Organization",
+          "name": "Boycott, Divestment and Sanctions",
+          "sameAs": "https://en.wikipedia.org/wiki/Boycott,_Divestment_and_Sanctions"
+        },
+        {
+          "@type": "Organization",
+          "name": "Alshaya Group",
+          "sameAs": "https://en.wikipedia.org/wiki/M.H._Alshaya_Co."
+        },
+        {
+          "@type": "Organization",
+          "name": "Berjaya Food"
+        },
+        {
+          "@type": "Organization",
+          "name": "Delek Group",
+          "sameAs": "https://en.wikipedia.org/wiki/Delek_Group"
+        },
+        {
+          "@type": "Organization",
+          "name": "AmRest",
+          "sameAs": "https://en.wikipedia.org/wiki/AmRest"
+        },
+        {
+          "@type": "Person",
+          "name": "Brian Niccol",
+          "sameAs": "https://en.wikipedia.org/wiki/Brian_Niccol"
+        },
+        {
+          "@type": "Person",
+          "name": "Laxman Narasimhan",
+          "sameAs": "https://en.wikipedia.org/wiki/Laxman_Narasimhan"
+        },
+        {
+          "@type": "Organization",
+          "name": "Amadeu Antonio Stiftung",
+          "sameAs": "https://de.wikipedia.org/wiki/Amadeu_Antonio_Stiftung"
+        }
+      ],
+      "speakable": {
+        "@type": "SpeakableSpecification",
+        "cssSelector": [
+          "#direct-answer"
+        ]
+      }
+    },
+    {
+      "@type": "FAQPage",
+      "@id": "https://starbuckspreise.com/blog/starbucks-israel-boykott#faq",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "Was hat Starbucks mit Israel zu tun?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Sehr wenig. Starbucks betrieb von 2001 bis 2003 sechs Filialen in Israel und hat sich dann zurückgezogen. Heute gibt es dort keine Starbucks-Filiale. Die Verbindung im Netz entsteht vor allem über den früheren Chef Howard Schultz und über den Rechtsstreit mit der Gewerkschaft."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Spendet Starbucks Geld an Israel?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Dafür gibt es keinen Beleg. Starbucks nennt Gerüchte über Zahlungen an die israelische Regierung oder Armee „eindeutig falsch“. Der Faktencheck-Dienst Snopes bewertet die Behauptung ebenfalls als falsch."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Warum hat Starbucks Israel verlassen?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Starbucks nennt geschäftliche Gründe. Die sechs Filialen liefen laut Snopes schlecht, der Markt war gesättigt und die Partnerschaft mit der Delek Group schwierig. Politische Motive bestreitet das Unternehmen."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Steht Starbucks auf der BDS-Liste?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Nein. Laut dem Magazin TIME war Starbucks nie ein Ziel der BDS-Bewegung, weil das Unternehmen deren Auswahlkriterien nicht erfüllte. Der Boykott entstand unabhängig davon in sozialen Medien."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Wer ist Starbucks Workers United?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Starbucks Workers United ist die Gewerkschaft der Starbucks-Baristas in den USA. Sie organisiert seit Dezember 2021 Filialen und vertritt laut Labor Notes rund 12.000 Beschäftigte. Einen Tarifvertrag gibt es bis heute nicht."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Hat Starbucks sich zum Gaza-Krieg geäußert?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Starbucks hat keine Seite ergriffen. Das Unternehmen bezeichnet sich als unpolitisch und verurteilte nach eigener Aussage Gewalt gegen Unschuldige, Hass und Hetze. Im Oktober 2023 aktualisierte es seine Erklärung zum Nahen Osten."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Wie viele Stellen hat der Boykott gekostet?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Belegt sind rund 2.000 gestrichene Stellen beim Lizenzpartner Alshaya Group im März 2024. Alshaya betreibt Starbucks im Nahen Osten und in Nordafrika. Das Unternehmen nannte schwierige Handelsbedingungen als Grund."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Hat Starbucks durch den Boykott 11 Milliarden Dollar verloren?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Das ist nicht belegt. Der Börsenwert sank Ende 2023 zeitweise um etwa diesen Betrag. Ein Börsenwert ist aber kein Umsatz, und für den Kursrückgang gab es mehrere Gründe."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Gehört Starbucks Howard Schultz?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Nein. Starbucks ist eine börsennotierte Aktiengesellschaft mit vielen Aktionären. Howard Schultz hat das Unternehmen geprägt und lange geführt, leitet es aber nicht mehr."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Ist der Starbucks-Boykott 2026 noch aktiv?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Ja, in zwei Formen. Aufrufe aus propalästinensischen Kreisen kursieren weiter. Dazu kommt seit dem 25. August 2026 ein Boykottaufruf der Gewerkschaft, bei dem es um einen Tarifvertrag geht."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Sind deutsche Starbucks-Filialen vom Boykott betroffen?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Dazu gibt es keine belastbaren Zahlen. Die deutschen Filialen betreibt der Lizenznehmer AmRest Coffee Deutschland. Boykottaufrufe gab es vereinzelt auch in Deutschland, etwa bei einer Demonstration in München im Juni 2024."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Welche Länder im Nahen Osten haben Starbucks?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Starbucks nennt elf Märkte: Bahrain, Ägypten, Jordanien, Kuwait, Libanon, Marokko, Oman, Katar, Saudi-Arabien, die Türkei und die Vereinigten Arabischen Emirate. Betreiber ist überall die Alshaya Group aus Kuwait."
+          }
+        }
+      ]
+    },
+    {
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Startseite",
+          "item": "https://starbuckspreise.com/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Blog",
+          "item": "https://starbuckspreise.com/blog/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "Starbucks Israel Boykott",
+          "item": "https://starbuckspreise.com/blog/starbucks-israel-boykott"
+        }
+      ]
+    }
+  ]
+}

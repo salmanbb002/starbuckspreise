@@ -1,0 +1,253 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "BlogPosting",
+      "@id": "https://starbuckspreise.com/blog/starbucks-wlan#article",
+      "headline": "Starbucks WLAN: kostenlos, Anmeldung & Zeitlimit (2026)",
+      "description": "Hat Starbucks WLAN? Ja, kostenlos in rund 9 von 10 deutschen Filialen. So klappt die Anmeldung, das gilt bei Passwort und Zeitlimit, plus Hilfe bei Problemen.",
+      "inLanguage": "de-DE",
+      "datePublished": "2026-10-06",
+      "dateModified": "2026-10-06",
+      "mainEntityOfPage": "https://starbuckspreise.com/blog/starbucks-wlan",
+      "image": "https://starbuckspreise.com/img/blog/starbucks-wlan-hero.webp",
+      "author": {
+        "@type": "Organization",
+        "name": "StarbucksPreise Redaktion",
+        "url": "https://starbuckspreise.com/ueber-uns"
+      },
+      "publisher": {
+        "@type": "Organization",
+        "name": "StarbucksPreise",
+        "url": "https://starbuckspreise.com/",
+        "logo": {
+          "@type": "ImageObject",
+          "url": "TODO: https://starbuckspreise.com/<logo-file>"
+        }
+      },
+      "about": [
+        {
+          "@type": "Thing",
+          "name": "WLAN-Hotspot",
+          "sameAs": "https://de.wikipedia.org/wiki/Hot_Spot_(WLAN)"
+        },
+        {
+          "@type": "Organization",
+          "name": "Starbucks",
+          "sameAs": [
+            "https://www.wikidata.org/wiki/Q37158",
+            "https://www.starbucks.de/"
+          ]
+        }
+      ],
+      "mentions": [
+        {
+          "@type": "Thing",
+          "name": "Wireless Local Area Network",
+          "sameAs": "https://de.wikipedia.org/wiki/Wireless_Local_Area_Network"
+        },
+        {
+          "@type": "Thing",
+          "name": "Captive Portal",
+          "sameAs": "https://de.wikipedia.org/wiki/Captive_Portal"
+        },
+        {
+          "@type": "Thing",
+          "name": "Virtual Private Network",
+          "sameAs": "https://de.wikipedia.org/wiki/Virtual_Private_Network"
+        },
+        {
+          "@type": "Organization",
+          "name": "Bundesamt für Sicherheit in der Informationstechnik",
+          "sameAs": "https://de.wikipedia.org/wiki/Bundesamt_f%C3%BCr_Sicherheit_in_der_Informationstechnik"
+        },
+        {
+          "@type": "Organization",
+          "name": "Deutsche Bahn",
+          "sameAs": "https://de.wikipedia.org/wiki/Deutsche_Bahn"
+        },
+        {
+          "@type": "Thing",
+          "name": "WIFI@DB"
+        },
+        {
+          "@type": "Organization",
+          "name": "BT Group",
+          "sameAs": "https://de.wikipedia.org/wiki/BT_Group"
+        },
+        {
+          "@type": "Organization",
+          "name": "T-Mobile"
+        },
+        {
+          "@type": "Thing",
+          "name": "Starbucks Store Locator",
+          "sameAs": "https://www.starbucks.de/de/store-locator"
+        }
+      ],
+      "speakable": {
+        "@type": "SpeakableSpecification",
+        "cssSelector": [
+          "#direct-answer"
+        ]
+      }
+    },
+    {
+      "@type": "FAQPage",
+      "@id": "https://starbuckspreise.com/blog/starbucks-wlan#faq",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "Hat Starbucks WLAN?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Ja. Im Store Locator von Starbucks Deutschland führten am 6. Oktober 2026 150 von 170 Filialen einen drahtlosen Hotspot. Das sind rund 88 Prozent."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Ist das WLAN bei Starbucks gratis?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Ja, das WLAN kostet nichts extra. In Deutschland ist es seit August 2010 kostenlos. Davor verlangte der damalige Anbieter T-Mobile 7,95 € pro Stunde."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Wie lautet das Starbucks WLAN Passwort?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Ein allgemeines Passwort gibt es nicht. Üblich ist eine Anmeldeseite, auf der du die Nutzungsbedingungen bestätigst. Braucht eine Filiale einen Code, bekommst du ihn an der Theke."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Wie heißt das WLAN von Starbucks?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Einen einheitlichen Netznamen veröffentlicht Starbucks Deutschland nicht. Der Name kann je nach Filiale abweichen. Frag das Team, bevor du dich mit einem unbekannten Netz verbindest."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Wie lange darf ich das Starbucks WLAN nutzen?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Ein aktuelles Zeitlimit nennt Starbucks Deutschland nicht. Bei der Einführung des Gratis-WLANs im Jahr 2010 waren es bis zu zwei Stunden. Nach einem Abbruch kannst du dich in der Regel neu anmelden."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Warum öffnet sich die Anmeldeseite nicht?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Meist blockiert ein VPN oder ein fest eingestellter DNS-Dienst die Umleitung. Schalte beides kurz aus und rufe im Browser eine unverschlüsselte Seite wie neverssl.com auf. Dann erscheint die Anmeldung."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Haben Starbucks-Filialen im Bahnhof WLAN?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Nicht alle. Von den 20 Filialen ohne WLAN-Eintrag liegen 7 an Bahnhöfen. Dort hilft oft das kostenlose WIFI@DB der Deutschen Bahn, das es an rund 600 Bahnhöfen gibt."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Gibt es WLAN bei Starbucks am Flughafen?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Teilweise. Mehrere Flughafen-Filialen in Frankfurt, München und Berlin haben einen WLAN-Eintrag, 2 Flughafen-Standorte haben keinen. Flughäfen bieten meist ein eigenes kostenloses WLAN an."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Ist das Starbucks WLAN sicher für Online-Banking?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Besser nicht. Das BSI rät, vertrauliche Daten in einem fremden WLAN möglichst nicht abzurufen. Nutze dafür das Mobilfunknetz oder ein VPN."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Brauche ich die Starbucks App für das WLAN?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Nein. Die Anmeldung im WLAN läuft über den Browser und hat mit der App nichts zu tun. Ein Rewards-Konto ist nicht nötig."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Gibt es bei Starbucks Steckdosen?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "In vielen Filialen ja, aber nicht an jedem Platz. Der Store Locator führt Steckdosen nicht als Merkmal. Eine Garantie gibt es deshalb nicht."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Funktioniert das WLAN auch im Drive-Thru?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Darauf solltest du dich nicht verlassen. Das WLAN ist für den Gästebereich gedacht. Die Mobile Order in der App nutzt ohnehin deine mobile Datenverbindung."
+          }
+        }
+      ]
+    },
+    {
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Startseite",
+          "item": "https://starbuckspreise.com/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Blog",
+          "item": "https://starbuckspreise.com/blog/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "Starbucks WLAN",
+          "item": "https://starbuckspreise.com/blog/starbucks-wlan"
+        }
+      ]
+    },
+    {
+      "@type": "HowTo",
+      "@id": "https://starbuckspreise.com/blog/starbucks-wlan/#howto",
+      "name": "Wie melde ich mich im Starbucks WLAN an?",
+      "step": [
+        {
+          "@type": "HowToStep",
+          "position": 1,
+          "text": "Öffne die WLAN-Einstellungen an Smartphone, Tablet oder Laptop."
+        },
+        {
+          "@type": "HowToStep",
+          "position": 2,
+          "text": "Wähle das Netz der Filiale. Frag im Zweifel an der Theke nach dem Namen."
+        },
+        {
+          "@type": "HowToStep",
+          "position": 3,
+          "text": "Warte, bis sich die Anmeldeseite öffnet. Öffne sonst den Browser und rufe eine beliebige Seite auf."
+        },
+        {
+          "@type": "HowToStep",
+          "position": 4,
+          "text": "Bestätige die Nutzungsbedingungen und tippe auf Verbinden."
+        },
+        {
+          "@type": "HowToStep",
+          "position": 5,
+          "text": "Prüfe mit einer Webseite, ob die Verbindung steht."
+        }
+      ]
+    }
+  ]
+}
