@@ -6,7 +6,7 @@ from pathlib import Path
 ROOT = Path(__file__).resolve().parents[1]
 LICENSES = {  # ledger text -> creativecommons.org path
     'CC BY-SA 4.0': 'by-sa/4.0', 'CC BY-SA 3.0 DE': 'by-sa/3.0/de', 'CC BY-SA 3.0': 'by-sa/3.0',
-    'CC BY-SA 2.5': 'by-sa/2.5', 'CC BY-SA 2.0 DE': 'by-sa/2.0/de', 'CC BY-SA 2.0': 'by-sa/2.0', 'CC BY 2.0': 'by/2.0',
+    'CC BY-SA 2.5': 'by-sa/2.5', 'CC BY-SA 2.0 DE': 'by-sa/2.0/de', 'CC BY-SA 2.0': 'by-sa/2.0', 'CC BY 2.0': 'by/2.0', 'CC BY 3.0': 'by/3.0',
 }
 
 def ledger():

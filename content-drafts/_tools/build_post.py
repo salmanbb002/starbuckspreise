@@ -59,6 +59,15 @@ def render(chunk, region_id):
             i += 1; continue
         if r.startswith("### "):
             res.append(f'<h3 id="{anchor(r[4:])}">{inline(r[4:])}</h3>'); i += 1; continue
+        if r.startswith("!["):  # ![alt](/img/blog/file.webp "caption")
+            alt, src, cap = re.match(r'!\[(.*?)\]\((\S+?)(?:\s+"(.*)")?\)', r).groups()
+            try:
+                from PIL import Image
+                dims = ' width="%d" height="%d"' % Image.open(ROOT / src.lstrip("/")).size
+            except Exception:
+                dims = ""
+            res.append(f'<figure class="inline-img"><img src="{src}" alt="{html.escape(alt)}"{dims} loading="lazy" decoding="async">'
+                       + (f"<figcaption>{inline(cap)}</figcaption>" if cap else "") + "</figure>"); i += 1; continue
         if r.startswith("|"):
             tb = []
             while i < len(rows) and rows[i].startswith("|"):
@@ -77,7 +86,7 @@ def render(chunk, region_id):
             res.append(f"<{tag}>\n" + "".join(f"<li>{lead_bold(x, ordered)}</li>\n" for x in items) + f"</{tag}>")
             continue
         para = []
-        while i < len(rows) and rows[i].strip() and not re.match(r"^(### |\||- |\d+\. )", rows[i]):
+        while i < len(rows) and rows[i].strip() and not re.match(r"^(### |\||- |\d+\. |!\[)", rows[i]):
             para.append(rows[i]); i += 1
         res.append(f"<p>{inline(' '.join(para))}</p>")
     return "\n".join(res)

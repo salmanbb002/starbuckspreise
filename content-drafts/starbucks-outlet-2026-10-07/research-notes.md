@@ -50,7 +50,7 @@ T1: Starbucks Outlet, Outlet-Center, Starbucks Deutschland, Öffnungszeiten, Out
 Relations: 10 centres —have→ Starbucks · all 10 —closed→ Sunday · all 10 —offer→ WF + DR + XO · Halle Leipzig —opened→ 1 Oct 2024 · Zweibrücken —opened→ 31 Oct 2019 · Ingolstadt/Wertheim Village —have no→ Starbucks · Starbucks DE —runs no→ factory outlet.
 
 ## 7. Information gain
-The full list from first-party data, the negative list, the hours table and the map (hero).
+The full list from first-party data, the negative list, the hours table and the map (inline figure in §2; the hero is a 2014 photo of Designer Outlet Soltau whose pylon shows the Starbucks sign, CC BY 3.0, Hajotthu).
 
 ## 8. Internal links
 zweibruecken, deutschland-filialen, geoeffnet, in-der-naehe, app, wlan, angebote, preise, gutschein, drive-in, becher-aktuell. Inbound added from deutschland-filialen + zweibruecken. Cannibalisation: /blog/starbucks-zweibruecken stays the detail page for that one store.

@@ -8,7 +8,7 @@ Wer „Starbucks Outlet“ sucht, meint eines von zwei Dingen: einen Fabrikverka
 
 ## 1. Gibt es ein Starbucks Outlet in Deutschland?
 
-Nein, einen Fabrikverkauf von Starbucks gibt es in Deutschland nicht. Starbucks betreibt hier weder ein eigenes Outlet für Merchandise noch einen Lagerverkauf für Kaffee. Die deutschen Coffee Houses führt **AmRest**, und Becher gibt es dort zum normalen Preis.
+Nein, einen Fabrikverkauf von Starbucks gibt es in Deutschland nicht. Starbucks betreibt hier weder ein eigenes Outlet für Merchandise noch einen Lagerverkauf für Kaffee. Die deutschen Coffee Houses führt **AmRest**. Becher und Tassen verkauft Starbucks hier nur über die Filialen, wie der Ratgeber [Starbucks Becher](/blog/starbucks-becher) zeigt.
 
 Was es gibt, sind Coffee Houses in **Outlet-Centern**. Das Sortiment ist dasselbe wie in der Innenstadt: Getränke, Gebäck und das Kernsortiment an Bechern. Hinweise auf Outlet-Rabatte bei Starbucks haben wir nicht gefunden. Die Preise legt jede Filiale selbst fest, und Starbucks veröffentlicht sie nicht einheitlich.
 
@@ -17,6 +17,8 @@ Wer sparen will, hat andere Hebel: die App, Starbucks Rewards und Aktionen im Su
 ## 2. In welchen Outlet-Centern gibt es einen Starbucks?
 
 In zehn deutschen Outlet-Centern gibt es am 7. Oktober 2026 einen **Starbucks**. Drei liegen in Niedersachsen, zwei in Rheinland-Pfalz, je eines in Baden-Württemberg, Schleswig-Holstein, Brandenburg, Sachsen-Anhalt und Nordrhein-Westfalen.
+
+![Deutschlandkarte mit den zehn Outlet-Centern, in denen es eine Starbucks-Filiale gibt](/img/blog/starbucks-outlet-karte.webp "Die zehn Outlet-Center mit Starbucks auf einen Blick (Stand 7. Oktober 2026). Grafik: StarbucksPreise.")
 
 | Outlet-Center | Ort | Bundesland | Adresse laut Starbucks |
 |---|---|---|---|
@@ -110,7 +112,7 @@ Die Starbucks in Outlet-Centern öffnen zwischen 8:00 und 10:00 Uhr und schließ
 
 Quelle: Store Locator auf starbucks.de, Zeiten für den 7. bis 13. Oktober 2026.
 
-An verkaufsoffenen Sonntagen öffnen Outlet-Center ausnahmsweise. Ob der Starbucks dann mitmacht, zeigt der Store Locator für den jeweiligen Tag. Prüfe die Zeiten vor einer längeren Anfahrt. Wie du die Zeiten jeder Filiale findest, erklärt der Ratgeber [Starbucks geöffnet](/blog/starbucks-geoeffnet).
+An verkaufsoffenen Sonntagen öffnen Outlet-Center ausnahmsweise. Ob der Starbucks dann mitmacht, zeigt der Store Locator für den jeweiligen Tag. Prüfe die Zeiten vor einer längeren Anfahrt. Das gilt besonders am 31. Oktober 2026: Der Reformationstag ist in Niedersachsen, Schleswig-Holstein, Brandenburg und Sachsen-Anhalt Feiertag, und dort liegen sechs der zehn Outlet-Filialen. Mehr dazu im Ratgeber [Starbucks Halloween](/blog/starbucks-halloween). Wie du die Zeiten jeder Filiale findest, erklärt der Ratgeber [Starbucks geöffnet](/blog/starbucks-geoeffnet).
 
 ## 7. Welche Outlet-Center haben keinen Starbucks?
 
@@ -154,7 +156,7 @@ In **Landquart** liegt der Starbucks in der Tardisstrasse 20a. Er öffnete in de
 
 ### Gibt es ein Starbucks Outlet mit günstigeren Bechern?
 
-Nein, einen Fabrikverkauf oder ein eigenes Outlet für Becher betreibt Starbucks in Deutschland nicht. Die Filialen in Outlet-Centern führen das normale Sortiment zum normalen Preis. Limitierte Becher findest du über den Ratgeber [Starbucks Becher aktuell](/blog/starbucks-becher-aktuell).
+Nein, einen Fabrikverkauf oder ein eigenes Outlet für Becher betreibt Starbucks in Deutschland nicht. Die Filialen in Outlet-Centern führen das normale Sortiment. Hinweise auf niedrigere Preise haben wir nicht gefunden. Limitierte Becher findest du über den Ratgeber [Starbucks Becher aktuell](/blog/starbucks-becher-aktuell).
 
 ### Wie viele Outlet-Center in Deutschland haben einen Starbucks?
 

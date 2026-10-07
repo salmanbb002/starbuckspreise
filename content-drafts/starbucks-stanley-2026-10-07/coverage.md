@@ -1,6 +1,6 @@
 # Coverage – starbucks-stanley (2026-10-07)
 
-- Wortzahl gesamt: 2089 (Body ohne FAQ: 1654) – Standard 1.500–2.500+ → OK
+- Wortzahl gesamt: 2138 (Body ohne FAQ: 1703) – Standard 1.500–2.500+ → OK
 - H1: 1 · H2: 10 (inkl. FAQ) · H3: 14 (inkl. 11 FAQ) · übersprungene Ebenen: 0 (finalize.py) · check-blog-layout.py PASS (80 Seiten)
 - Direkt-Antwort: 50 Wörter (Ziel 40–55) → OK, wiederholt die H1 nicht
 - QUORA: jede H2/H3 beginnt mit einem Antwortsatz → manuell geprüft

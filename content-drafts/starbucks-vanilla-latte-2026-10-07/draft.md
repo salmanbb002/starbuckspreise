@@ -12,7 +12,7 @@ Ein Vanilla Latte ist bei Starbucks ein Caffè Latte, der mit Vanillesirup gesü
 
 Die Basis ist der Caffè Latte. Er besteht aus Espresso, aufgeschäumter Milch und einer zarten Schicht Milchschaum. Dazu kommt nur der Sirup. Topping oder Sahne gehören nicht zum Rezept.
 
-Ohne Sirup ist der Caffè Latte eines der kalorienärmeren Milchgetränke auf der Karte. Erst die Vanille macht ihn süß. Alle Verwandten, vom Latte Macchiato bis zum Flat White, stellt der Ratgeber [Starbucks Latte](/blog/starbucks-latte) vor.
+Ohne Sirup ist der Caffè Latte eines der kalorienärmeren Milchgetränke auf der Karte. Erst die Vanille macht ihn süß. Saisonale Sorten wie der [Pumpkin Spice Latte](/blog/starbucks-pumpkin-spice-latte) folgen demselben Prinzip: Caffè Latte plus Aroma. Alle Verwandten, vom Latte Macchiato bis zum Flat White, stellt der Ratgeber [Starbucks Latte](/blog/starbucks-latte) vor.
 
 ## 2. Steht der Vanilla Latte in Deutschland auf der Karte?
 
@@ -27,7 +27,7 @@ Ja, aber nicht überall. Starbucks Deutschland führt den Vanilla Latte auf der 
 
 Quelle: starbucks.de und starbucksfreiburg.de, abgerufen am 7. Oktober 2026.
 
-Die Bestellkarte listet 28 heiße Getränke. Das einzige mit Vanille im Namen ist der Soy Protein Vanilla Latte mit zuckerfreiem Sirup. Den klassischen Vanilla Latte baust du dir aus dem Caffè Latte selbst. An der Theke reicht es, „Vanilla Latte“ zu sagen.
+Die Bestellkarte listet 28 heiße Getränke. Das einzige mit Vanille im Namen ist der Soy Protein Vanilla Latte mit zuckerfreiem Sirup. Den klassischen Vanilla Latte baust du dir aus dem Caffè Latte selbst. An der Theke reicht es, „Vanilla Latte“ zu sagen. Die ganze Karte zeigt der Überblick [Starbucks Getränke](/blog/starbucks-getraenke).
 
 ## 3. Wie bestellst du einen Vanilla Latte?
 

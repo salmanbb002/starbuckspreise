@@ -82,7 +82,7 @@ In den USA verkauft Starbucks seit dem 15. September 2026 eine eigene Halloween-
 - Black cat stainless steel cold cup: mattschwarzer Edelstahl-Becher, das Katzen-Motiv leuchtet im Dunkeln, 29,95 US-Dollar
 - Black Cat Bearista Plush Bag Charm: Bearista-Bär im Katzenkostüm als Taschenanhänger, 14,95 US-Dollar
 
-Starbucks nennt als Verkaufsort ausgewählte Coffee Houses, solange der Vorrat reicht. Einen Verkauf in Europa kündigt die Mitteilung nicht an. Wer den leuchtenden Becher will, findet ihn hierzulande nur im Wiederverkauf.
+Starbucks nennt als Verkaufsort ausgewählte Coffee Houses, solange der Vorrat reicht. Einen Verkauf in Europa kündigt die Mitteilung nicht an. Wer den leuchtenden Becher will, findet ihn hierzulande nur im Wiederverkauf. Dasselbe gilt für den Stanley-Becher mit Starbucks-Logo, siehe [Starbucks Stanley](/blog/starbucks-stanley).
 
 ### Peanuts und Snoopy: der zweite Herbst-Drop
 
@@ -105,7 +105,7 @@ Diese Herbstgetränke stehen am 7. Oktober 2026 auf der Saisonkarte:
 
 Quelle: starbucks.de (Saisonkarte) und starbucksfreiburg.de, abgerufen am 7. Oktober 2026. Die Bestellseite nennt keine Größe zum Preis.
 
-Am nächsten an ein Halloween-Getränk kommt der Pumpkin Spice Frappuccino: orange, mit Sahne und Kürbis-Topping. Wer weniger Zucker will, nimmt den Pumpkin Spice Latte in Tall. Alles zum Klassiker steht im Ratgeber [Starbucks Pumpkin Spice Latte](/blog/starbucks-pumpkin-spice-latte), alle Sorten im Überblick [Frappuccino-Sorten](/blog/starbucks-frappuccino-sorten).
+Am nächsten an ein Halloween-Getränk kommt der Pumpkin Spice Frappuccino: orange, mit Sahne und Kürbis-Topping. Wer weniger Zucker will, nimmt den Pumpkin Spice Latte in Tall. Ganz ohne Kürbis geht es mit einem [Vanilla Latte](/blog/starbucks-vanilla-latte). Alles zum Klassiker steht im Ratgeber [Starbucks Pumpkin Spice Latte](/blog/starbucks-pumpkin-spice-latte), alle Sorten im Überblick [Frappuccino-Sorten](/blog/starbucks-frappuccino-sorten).
 
 ## 5. Kommt der Black Cat Frappuccino nach Deutschland?
 
@@ -146,7 +146,7 @@ Für Sammler heißt das: Becher kaufst du besser im Oktober. Die Kürbis-Geträn
 
 Ja. Halloween fällt 2026 auf Samstag, den 31. Oktober. Halloween selbst ist kein Feiertag. In neun Bundesländern ist der 31. Oktober aber als **Reformationstag** gesetzlicher Feiertag.
 
-Das sind Brandenburg, Bremen, Hamburg, Mecklenburg-Vorpommern, Niedersachsen, Sachsen, Sachsen-Anhalt, Schleswig-Holstein und Thüringen. Dort gelten in vielen Filialen Feiertagszeiten. Coffee Houses in Einkaufszentren können ganz geschlossen bleiben, wenn das Center zu hat.
+Das sind Brandenburg, Bremen, Hamburg, Mecklenburg-Vorpommern, Niedersachsen, Sachsen, Sachsen-Anhalt, Schleswig-Holstein und Thüringen. Dort gelten in vielen Filialen Feiertagszeiten. Coffee Houses in Einkaufszentren können ganz geschlossen bleiben, wenn das Center zu hat. In diesen Ländern liegen auch sechs der zehn [Starbucks in Outlet-Centern](/blog/starbucks-outlet).
 
 Der 1. November 2026 ist ein Sonntag. Allerheiligen ändert deshalb in Bayern, Baden-Württemberg, Nordrhein-Westfalen, Rheinland-Pfalz und im Saarland kaum etwas an den Zeiten. Die genauen Zeiten deiner Filiale zeigt der Store Locator auf starbucks.de. Mehr dazu steht im Ratgeber [Starbucks geöffnet](/blog/starbucks-geoeffnet).
 

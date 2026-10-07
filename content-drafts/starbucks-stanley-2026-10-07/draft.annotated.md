@@ -27,7 +27,7 @@ Nein, offiziell nicht. In drei deutschen und europäischen Quellen von Starbucks
 
 Quellen: jeweils abgerufen am 7. Oktober 2026.
 
-Der Grund liegt in der Struktur. Die Kooperation wird über Starbucks in den USA und über einzelne Märkte in Asien vermarktet. Die deutschen Coffee Houses betreibt **AmRest**. Das Sortiment hierzulande folgt der europäischen Kollektion, und die führt bisher keine Stanley-Becher.
+Der Grund liegt in der Struktur. Die Kooperation wird über Starbucks in den USA und über einzelne Märkte in Asien vermarktet. Die deutschen Coffee Houses betreibt **AmRest**. Mehr zum Betreiber steht im Ratgeber [Starbucks Deutschland Filialen](/blog/starbucks-deutschland-filialen). Das Sortiment hierzulande folgt der europäischen Kollektion, und die führt bisher keine Stanley-Becher.
 
 Das kann sich ändern. Eine Zusage oder ein Datum gibt es aber nicht. Wenn ein Händler „Starbucks Stanley Deutschland“ verspricht, handelt es sich um Importware oder Wiederverkauf.
 
@@ -111,7 +111,7 @@ Starbucks Deutschland verkauft eigene Edelstahl-Becher, die du sofort in der Fil
 
 Quellen: starbucksfreiburg.de (abgerufen am 7. Oktober 2026), about.starbucks.com (Preis vom 7. November 2024).
 
-Der **Tumbler Luxor Black** kommt dem Stanley technisch am nächsten. Starbucks beschreibt ihn als doppelwandigen Edelstahl-Becher mit Vakuumkonstruktion. Er fasst 473 ml und damit genau ein Getränk in Grande.
+Der **Tumbler Luxor Black** kommt dem Stanley technisch am nächsten. Starbucks beschreibt ihn als doppelwandigen Edelstahl-Becher mit Vakuumkonstruktion. Er fasst 473 ml und damit genau ein Getränk in Grande. Preise für Getränke stehen in der [Starbucks Preisliste](/blog/starbucks-preise).
 
 Wer vor allem die Größe will, kauft den Quencher ohne Starbucks-Logo direkt bei Stanley. Alle Becher-Typen und ihre Pflege erklärt der Ratgeber [Starbucks Becher](/blog/starbucks-becher). Was gerade neu im Regal steht, zeigt [Starbucks Becher aktuell](/blog/starbucks-becher-aktuell).
 
@@ -119,7 +119,7 @@ Wer vor allem die Größe will, kauft den Quencher ohne Starbucks-Logo direkt be
 
 Ja, einen sauberen eigenen Becher darfst du bei Starbucks mitbringen. In einen Quencher mit 1,18 Litern passt jedes Getränk der Karte. Der größte Becher für Kaltgetränke, der Venti, fasst 709 ml.
 
-Die Bestellkarte auf starbucks.de berechnet für den Einwegbecher 0,05 € extra. Als Alternative bietet sie einen Mehrwegbecher mit 2,50 € Pfand an. Mit eigenem Becher brauchst du keinen von beiden. Wie der Rabatt für Mehrweg genau geregelt ist, steht im Ratgeber [Starbucks Becher](/blog/starbucks-becher).
+Die Bestellkarte auf starbucks.de berechnet für den Einwegbecher 0,05 € extra. Als Alternative bietet sie einen Mehrwegbecher mit 2,50 € Pfand an. Die vier Bechertypen vergleicht der Ratgeber [Kaffeebecher von Starbucks](/blog/kaffeebecher-von-starbucks). Mit eigenem Becher brauchst du keinen von beiden. Wie der Rabatt für Mehrweg genau geregelt ist, steht im Ratgeber [Starbucks Becher](/blog/starbucks-becher).
 
 Ein praktischer Hinweis: Der Barista bereitet das Getränk in der bestellten Größe zu. Ein Grande füllt einen Quencher nicht einmal zur Hälfte. Welche Größe wie viel fasst, zeigt die Übersicht [Tall, Grande, Venti](/blog/starbucks-groessen-tall-grande-venti).
 
@@ -127,7 +127,7 @@ Ein praktischer Hinweis: Der Barista bereitet das Getränk in der bestellten Gr�
 
 Angekündigt ist nichts. Starbucks hat am 5. Oktober 2026 eine erste Vorschau auf die Holiday-Kollektion für die USA veröffentlicht. Sie beginnt dort am 5. November. Ein Stanley-Becher wird in der Vorschau nicht genannt.
 
-Die Vorschau ist nicht vollständig, Starbucks spricht von einem ersten Blick. Für Europa bleibt die Herbstkollektion 2026 der letzte Stand, und die kommt ohne Stanley aus. Sobald es eine offizielle Ankündigung gibt, aktualisieren wir diesen Artikel. Was zu Weihnachten sicher kommt, steht im Ratgeber [Starbucks Weihnachten](/blog/starbucks-weihnachten).
+Die Vorschau ist nicht vollständig, Starbucks spricht von einem ersten Blick. Für Europa bleibt die Herbstkollektion 2026 der letzte Stand, und die kommt ohne Stanley aus. Was sie stattdessen enthält, zeigt der Ratgeber [Starbucks Halloween](/blog/starbucks-halloween). Sobald es eine offizielle Ankündigung gibt, aktualisieren wir diesen Artikel. Was zu Weihnachten sicher kommt, steht im Ratgeber [Starbucks Weihnachten](/blog/starbucks-weihnachten).
 
 ## Häufig gestellte Fragen
 
