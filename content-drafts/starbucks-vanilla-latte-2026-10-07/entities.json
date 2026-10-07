@@ -1,0 +1,253 @@
+[
+ {
+  "canonical": "Vanilla Latte",
+  "type": "Product",
+  "aliases": [
+   "Starbucks Vanilla Latte"
+  ],
+  "sameAs": "",
+  "kind": "entity",
+  "competitor_count": 2,
+  "in_title_or_h2": true,
+  "tier": 1,
+  "covered": true
+ },
+ {
+  "canonical": "Caffè Latte",
+  "type": "Product",
+  "aliases": [],
+  "sameAs": "https://de.wikipedia.org/wiki/Milchkaffee",
+  "kind": "entity",
+  "competitor_count": 1,
+  "in_title_or_h2": true,
+  "tier": 1,
+  "covered": true
+ },
+ {
+  "canonical": "Vanillesirup",
+  "type": "Product",
+  "aliases": [
+   "Vanilla Sirup"
+  ],
+  "sameAs": "",
+  "kind": "entity",
+  "competitor_count": 1,
+  "in_title_or_h2": true,
+  "tier": 1,
+  "covered": true
+ },
+ {
+  "canonical": "Preis",
+  "type": "Money",
+  "aliases": [
+   "€",
+   "kostet"
+  ],
+  "sameAs": "",
+  "kind": "term",
+  "competitor_count": 1,
+  "in_title_or_h2": true,
+  "tier": 1,
+  "covered": true
+ },
+ {
+  "canonical": "Kalorien",
+  "type": "Metric",
+  "aliases": [
+   "kcal"
+  ],
+  "sameAs": "",
+  "kind": "term",
+  "competitor_count": 2,
+  "in_title_or_h2": true,
+  "tier": 1,
+  "covered": true
+ },
+ {
+  "canonical": "Starbucks Deutschland",
+  "type": "Organization",
+  "aliases": [
+   "Starbucks"
+  ],
+  "sameAs": "https://www.wikidata.org/wiki/Q37158",
+  "kind": "entity",
+  "competitor_count": 0,
+  "in_title_or_h2": true,
+  "tier": 1,
+  "covered": true
+ },
+ {
+  "canonical": "Pumpen",
+  "type": "Metric",
+  "aliases": [
+   "Pumpe"
+  ],
+  "sameAs": "",
+  "kind": "term",
+  "competitor_count": 0,
+  "in_title_or_h2": false,
+  "tier": 2,
+  "covered": true
+ },
+ {
+  "canonical": "Soy Protein Vanilla Latte",
+  "type": "Product",
+  "aliases": [
+   "Protein Vanilla Latte"
+  ],
+  "sameAs": "",
+  "kind": "entity",
+  "competitor_count": 1,
+  "in_title_or_h2": false,
+  "tier": 2,
+  "covered": true
+ },
+ {
+  "canonical": "Sugar Free Vanilla Sirup",
+  "type": "Product",
+  "aliases": [
+   "zuckerfrei"
+  ],
+  "sameAs": "",
+  "kind": "entity",
+  "competitor_count": 1,
+  "in_title_or_h2": false,
+  "tier": 2,
+  "covered": true
+ },
+ {
+  "canonical": "Iced Vanilla Latte",
+  "type": "Product",
+  "aliases": [
+   "Iced Caffè Latte"
+  ],
+  "sameAs": "",
+  "kind": "entity",
+  "competitor_count": 0,
+  "in_title_or_h2": false,
+  "tier": 2,
+  "covered": true
+ },
+ {
+  "canonical": "Zucker",
+  "type": "Metric",
+  "aliases": [],
+  "sameAs": "",
+  "kind": "term",
+  "competitor_count": 2,
+  "in_title_or_h2": false,
+  "tier": 2,
+  "covered": true
+ },
+ {
+  "canonical": "Koffein",
+  "type": "Metric",
+  "aliases": [],
+  "sameAs": "https://de.wikipedia.org/wiki/Coffein",
+  "kind": "term",
+  "competitor_count": 0,
+  "in_title_or_h2": false,
+  "tier": 2,
+  "covered": true
+ },
+ {
+  "canonical": "Caramel Macchiato",
+  "type": "Product",
+  "aliases": [],
+  "sameAs": "",
+  "kind": "entity",
+  "competitor_count": 0,
+  "in_title_or_h2": false,
+  "tier": 2,
+  "covered": true
+ },
+ {
+  "canonical": "Starbucks Rewards",
+  "type": "Product",
+  "aliases": [
+   "Gold"
+  ],
+  "sameAs": "",
+  "kind": "entity",
+  "competitor_count": 0,
+  "in_title_or_h2": false,
+  "tier": 2,
+  "covered": true
+ },
+ {
+  "canonical": "Pflanzendrink",
+  "type": "Product",
+  "aliases": [
+   "Hafer",
+   "Soja",
+   "vegan"
+  ],
+  "sameAs": "",
+  "kind": "term",
+  "competitor_count": 1,
+  "in_title_or_h2": false,
+  "tier": 2,
+  "covered": true
+ },
+ {
+  "canonical": "Tall, Grande, Venti",
+  "type": "Concept",
+  "aliases": [
+   "Grande"
+  ],
+  "sameAs": "",
+  "kind": "term",
+  "competitor_count": 0,
+  "in_title_or_h2": false,
+  "tier": 2,
+  "covered": true
+ },
+ {
+  "canonical": "Blonde",
+  "type": "Product",
+  "aliases": [
+   "Blonde Roast"
+  ],
+  "sameAs": "",
+  "kind": "entity",
+  "competitor_count": 0,
+  "in_title_or_h2": false,
+  "tier": 3,
+  "covered": true
+ },
+ {
+  "canonical": "Vanilla Cream Frappuccino",
+  "type": "Product",
+  "aliases": [],
+  "sameAs": "",
+  "kind": "entity",
+  "competitor_count": 1,
+  "in_title_or_h2": false,
+  "tier": 3,
+  "covered": true
+ },
+ {
+  "canonical": "Starbucks Creamy Vanilla by Nespresso",
+  "type": "Product",
+  "aliases": [
+   "Creamy Vanilla"
+  ],
+  "sameAs": "",
+  "kind": "entity",
+  "competitor_count": 0,
+  "in_title_or_h2": false,
+  "tier": 3,
+  "covered": true
+ },
+ {
+  "canonical": "Madagascar Vanilla Macchiato",
+  "type": "Product",
+  "aliases": [],
+  "sameAs": "",
+  "kind": "entity",
+  "competitor_count": 0,
+  "in_title_or_h2": false,
+  "tier": 3,
+  "covered": true
+ }
+]

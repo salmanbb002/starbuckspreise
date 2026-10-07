@@ -1,0 +1,85 @@
+{
+  "slug": "/blog/starbucks-outlet",
+  "url": "https://starbuckspreise.com/blog/starbucks-outlet",
+  "date": "2026-10-07",
+  "crumb": "Starbucks Outlet",
+  "title": "Starbucks Outlet: Alle 10 Filialen in Outlet-Centern (2026)",
+  "description": "Starbucks im Outlet: 10 deutsche Outlet-Center haben ein Coffee House, von Metzingen bis Neumünster. Adressen, Öffnungszeiten und Center ohne Starbucks.",
+  "published": "2026-10-07T12:00:00+02:00",
+  "about": [
+    {
+      "@type": "Thing",
+      "name": "Factory-Outlet-Center",
+      "sameAs": "https://de.wikipedia.org/wiki/Factory-Outlet-Center"
+    },
+    {
+      "@type": "Organization",
+      "name": "Starbucks",
+      "sameAs": [
+        "https://www.wikidata.org/wiki/Q37158",
+        "https://www.starbucks.de/"
+      ]
+    }
+  ],
+  "mentions": [
+    {
+      "@type": "Place",
+      "name": "Outletcity Metzingen",
+      "sameAs": "https://de.wikipedia.org/wiki/Outletcity_Metzingen"
+    },
+    {
+      "@type": "Place",
+      "name": "Designer Outlet Soltau"
+    },
+    {
+      "@type": "Place",
+      "name": "designer outlets Wolfsburg"
+    },
+    {
+      "@type": "Place",
+      "name": "Ochtum Park"
+    },
+    {
+      "@type": "Place",
+      "name": "Designer Outlet Neumünster"
+    },
+    {
+      "@type": "Place",
+      "name": "Designer Outlet Berlin"
+    },
+    {
+      "@type": "Place",
+      "name": "Halle Leipzig The Style Outlets"
+    },
+    {
+      "@type": "Place",
+      "name": "Designer Outlet Ochtrup"
+    },
+    {
+      "@type": "Place",
+      "name": "Montabaur The Style Outlets"
+    },
+    {
+      "@type": "Place",
+      "name": "Zweibrücken Fashion Outlet"
+    },
+    {
+      "@type": "Place",
+      "name": "Ingolstadt Village"
+    },
+    {
+      "@type": "Place",
+      "name": "Wertheim Village"
+    },
+    {
+      "@type": "Organization",
+      "name": "AmRest",
+      "sameAs": "https://de.wikipedia.org/wiki/AmRest"
+    },
+    {
+      "@type": "Thing",
+      "name": "Starbucks Store Locator",
+      "sameAs": "https://www.starbucks.de/de/store-locator"
+    }
+  ]
+}

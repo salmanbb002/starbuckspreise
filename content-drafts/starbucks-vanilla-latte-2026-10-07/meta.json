@@ -1,0 +1,104 @@
+{
+  "slug": "/blog/starbucks-vanilla-latte",
+  "url": "https://starbuckspreise.com/blog/starbucks-vanilla-latte",
+  "date": "2026-10-07",
+  "crumb": "Starbucks Vanilla Latte",
+  "title": "Starbucks Vanilla Latte: Preis, Kalorien & Bestell-Tipps",
+  "description": "Starbucks Vanilla Latte: So bestellst du ihn in Deutschland, was er kostet, wie viele Pumpen Sirup drin sind und welche zuckerfreie Variante es gibt.",
+  "published": "2026-10-07T12:00:00+02:00",
+  "about": [
+    {
+      "@type": "Thing",
+      "name": "Vanilla Latte"
+    },
+    {
+      "@type": "Thing",
+      "name": "Caffè Latte",
+      "sameAs": "https://de.wikipedia.org/wiki/Milchkaffee"
+    },
+    {
+      "@type": "Organization",
+      "name": "Starbucks",
+      "sameAs": [
+        "https://www.wikidata.org/wiki/Q37158",
+        "https://www.starbucks.de/"
+      ]
+    }
+  ],
+  "mentions": [
+    {
+      "@type": "Thing",
+      "name": "Vanillesirup"
+    },
+    {
+      "@type": "Thing",
+      "name": "Espresso",
+      "sameAs": "https://de.wikipedia.org/wiki/Espresso"
+    },
+    {
+      "@type": "Thing",
+      "name": "Soy Protein Vanilla Latte"
+    },
+    {
+      "@type": "Thing",
+      "name": "Sugar Free Vanilla Sirup"
+    },
+    {
+      "@type": "Thing",
+      "name": "Caramel Macchiato"
+    },
+    {
+      "@type": "Thing",
+      "name": "Vanilla Cream Frappuccino"
+    },
+    {
+      "@type": "Thing",
+      "name": "Starbucks Rewards"
+    },
+    {
+      "@type": "Thing",
+      "name": "Koffein",
+      "sameAs": "https://de.wikipedia.org/wiki/Coffein"
+    },
+    {
+      "@type": "Thing",
+      "name": "Starbucks Creamy Vanilla by Nespresso"
+    },
+    {
+      "@type": "Thing",
+      "name": "Starbucks Madagascar Vanilla Macchiato by Nescafé Dolce Gusto"
+    }
+  ],
+  "howto": {
+    "@type": "HowTo",
+    "@id": "https://starbuckspreise.com/blog/starbucks-vanilla-latte/#howto",
+    "name": "Wie bestellst du einen Vanilla Latte bei Starbucks?",
+    "step": [
+      {
+        "@type": "HowToStep",
+        "position": 1,
+        "text": "Wähle in der Bestellkarte unter „Heiße Getränke“ den Caffè Latte."
+      },
+      {
+        "@type": "HowToStep",
+        "position": 2,
+        "text": "Lege die Größe fest: Tall, Grande oder Venti. Grande ist voreingestellt."
+      },
+      {
+        "@type": "HowToStep",
+        "position": 3,
+        "text": "Tippe unter „Sauce & Sirup“ auf Vanilla Sirup. Für weniger Süße senkst du die Zahl der Pumpen."
+      },
+      {
+        "@type": "HowToStep",
+        "position": 4,
+        "text": "Wähle die Milch. Voreingestellt ist Halbfett-Milch, Pflanzendrinks stehen in derselben Liste."
+      },
+      {
+        "@type": "HowToStep",
+        "position": 5,
+        "text": "Wähle die Bohne: Signature Espresso ist Standard, Blonde und Decaf sind möglich."
+      }
+    ]
+  }
+}

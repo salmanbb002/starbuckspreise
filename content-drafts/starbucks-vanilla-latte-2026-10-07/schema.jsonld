@@ -1,0 +1,248 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "BlogPosting",
+      "@id": "https://starbuckspreise.com/blog/starbucks-vanilla-latte#article",
+      "headline": "Starbucks Vanilla Latte: Preis, Kalorien & Bestell-Tipps",
+      "description": "Starbucks Vanilla Latte: So bestellst du ihn in Deutschland, was er kostet, wie viele Pumpen Sirup drin sind und welche zuckerfreie Variante es gibt.",
+      "inLanguage": "de-DE",
+      "datePublished": "2026-10-07",
+      "dateModified": "2026-10-07",
+      "mainEntityOfPage": "https://starbuckspreise.com/blog/starbucks-vanilla-latte",
+      "image": "https://starbuckspreise.com/img/blog/starbucks-vanilla-latte-hero.webp",
+      "author": {
+        "@type": "Organization",
+        "name": "StarbucksPreise Redaktion",
+        "url": "https://starbuckspreise.com/ueber-uns"
+      },
+      "publisher": {
+        "@type": "Organization",
+        "name": "StarbucksPreise",
+        "url": "https://starbuckspreise.com/",
+        "logo": {
+          "@type": "ImageObject",
+          "url": "TODO: https://starbuckspreise.com/<logo-file>"
+        }
+      },
+      "about": [
+        {
+          "@type": "Thing",
+          "name": "Vanilla Latte"
+        },
+        {
+          "@type": "Thing",
+          "name": "Caffè Latte",
+          "sameAs": "https://de.wikipedia.org/wiki/Milchkaffee"
+        },
+        {
+          "@type": "Organization",
+          "name": "Starbucks",
+          "sameAs": [
+            "https://www.wikidata.org/wiki/Q37158",
+            "https://www.starbucks.de/"
+          ]
+        }
+      ],
+      "mentions": [
+        {
+          "@type": "Thing",
+          "name": "Vanillesirup"
+        },
+        {
+          "@type": "Thing",
+          "name": "Espresso",
+          "sameAs": "https://de.wikipedia.org/wiki/Espresso"
+        },
+        {
+          "@type": "Thing",
+          "name": "Soy Protein Vanilla Latte"
+        },
+        {
+          "@type": "Thing",
+          "name": "Sugar Free Vanilla Sirup"
+        },
+        {
+          "@type": "Thing",
+          "name": "Caramel Macchiato"
+        },
+        {
+          "@type": "Thing",
+          "name": "Vanilla Cream Frappuccino"
+        },
+        {
+          "@type": "Thing",
+          "name": "Starbucks Rewards"
+        },
+        {
+          "@type": "Thing",
+          "name": "Koffein",
+          "sameAs": "https://de.wikipedia.org/wiki/Coffein"
+        },
+        {
+          "@type": "Thing",
+          "name": "Starbucks Creamy Vanilla by Nespresso"
+        },
+        {
+          "@type": "Thing",
+          "name": "Starbucks Madagascar Vanilla Macchiato by Nescafé Dolce Gusto"
+        }
+      ],
+      "speakable": {
+        "@type": "SpeakableSpecification",
+        "cssSelector": [
+          "#direct-answer"
+        ]
+      }
+    },
+    {
+      "@type": "FAQPage",
+      "@id": "https://starbuckspreise.com/blog/starbucks-vanilla-latte#faq",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "Was ist in einem Starbucks Vanilla Latte?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Ein Starbucks Vanilla Latte besteht aus Espresso, gedämpfter Milch, einer dünnen Schicht Milchschaum und Vanillesirup. Sahne oder Topping gehören nicht dazu. Die Basis ist der Caffè Latte."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Warum finde ich den Vanilla Latte nicht in der Starbucks App?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Die deutsche Bestellkarte führt den Vanilla Latte nicht als eigenes Getränk. Du wählst den Caffè Latte und fügst unter „Sauce & Sirup“ Vanilla Sirup hinzu. Das Ergebnis ist dasselbe Getränk."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Wie viele Pumpen Vanillesirup sind in einem Grande?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "In einem Grande sind 4 Pumpen Vanilla Sirup voreingestellt. Im Tall sind es 3, im Venti 5. Du kannst die Zahl in der Bestellkarte senken oder auf bis zu 12 erhöhen."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Was kostet ein Vanilla Latte bei Starbucks?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Ein Vanilla Latte kostet so viel wie ein Caffè Latte plus Sirup. Der Caffè Latte steht in Freiburg Hauptbahnhof mit 4,90 € auf der Bestellseite. Mit Sirup-Aufpreis sind etwa 5,50 € bis 5,70 € realistisch."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Wie viel Zucker hat ein Vanilla Latte?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Ein Vanilla Latte in Grande hat geschätzt rund 34 g Zucker. 14,2 g stammen laut Starbucks aus der Milch, der Rest aus 4 Pumpen Sirup. Der Sirup-Wert ist ein US-Wert und für Deutschland nicht bestätigt."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Hat der Vanilla Latte Koffein?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Ja. Ein Tall enthält einen Espresso-Shot mit 44,5 mg Koffein, Grande und Venti enthalten zwei Shots mit 89,1 mg. Mit der Bohne Decaf bekommst du ihn entkoffeiniert."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Gibt es den Vanilla Latte auch kalt?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Ja, als Iced Vanilla Latte. Du bestellst einen Iced Caffè Latte und fügst Vanilla Sirup hinzu. In Freiburg kostet der Iced Caffè Latte 4,90 €."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Ist der Vanilla Sirup bei Starbucks vegan?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Ja, die Allergenliste von Starbucks Deutschland kennzeichnet den Vanilla Sirup als vegan. Das gilt auch für die zuckerfreie Sorte. Vegan wird der ganze Vanilla Latte erst mit einem Pflanzendrink."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Was ist der Unterschied zwischen Vanilla Latte und Caramel Macchiato?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Der Caramel Macchiato enthält ebenfalls Vanilla Sirup, bekommt aber zusätzlich Karamellsauce obenauf. Der Vanilla Latte bleibt ohne Topping. Ein Caramel Macchiato in Grande hat laut Starbucks 214 kcal."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Kann ich weniger Sirup bestellen?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Ja. In der Bestellkarte senkst du die Zahl der Pumpen, an der Theke sagst du die gewünschte Zahl an. Eine Pumpe weniger spart nach dem US-Wert rund 20 kcal und 5 g Zucker."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Gibt es Starbucks Vanilla Latte im Supermarkt?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Als Kapseln gibt es Starbucks Creamy Vanilla für Nespresso und Madagascar Vanilla Macchiato für Nescafé Dolce Gusto. Beide basieren auf Blonde Roast. Angebote findest du im Ratgeber Starbucks Kapseln Angebot."
+          }
+        }
+      ]
+    },
+    {
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Startseite",
+          "item": "https://starbuckspreise.com/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Blog",
+          "item": "https://starbuckspreise.com/blog/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "Starbucks Vanilla Latte",
+          "item": "https://starbuckspreise.com/blog/starbucks-vanilla-latte"
+        }
+      ]
+    },
+    {
+      "@type": "HowTo",
+      "@id": "https://starbuckspreise.com/blog/starbucks-vanilla-latte/#howto",
+      "name": "Wie bestellst du einen Vanilla Latte bei Starbucks?",
+      "step": [
+        {
+          "@type": "HowToStep",
+          "position": 1,
+          "text": "Wähle in der Bestellkarte unter „Heiße Getränke“ den Caffè Latte."
+        },
+        {
+          "@type": "HowToStep",
+          "position": 2,
+          "text": "Lege die Größe fest: Tall, Grande oder Venti. Grande ist voreingestellt."
+        },
+        {
+          "@type": "HowToStep",
+          "position": 3,
+          "text": "Tippe unter „Sauce & Sirup“ auf Vanilla Sirup. Für weniger Süße senkst du die Zahl der Pumpen."
+        },
+        {
+          "@type": "HowToStep",
+          "position": 4,
+          "text": "Wähle die Milch. Voreingestellt ist Halbfett-Milch, Pflanzendrinks stehen in derselben Liste."
+        },
+        {
+          "@type": "HowToStep",
+          "position": 5,
+          "text": "Wähle die Bohne: Signature Espresso ist Standard, Blonde und Decaf sind möglich."
+        }
+      ]
+    }
+  ]
+}

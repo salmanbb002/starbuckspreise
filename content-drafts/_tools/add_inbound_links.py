@@ -2,10 +2,10 @@
 import re, pathlib
 
 BLOG = pathlib.Path(__file__).resolve().parents[2] / "blog"
-BF, GUT, AME = "/blog/starbucks-black-friday", "/blog/starbucks-gutschein", "/blog/starbucks-americano"
+HAL, VAN = "/blog/starbucks-halloween", "/blog/starbucks-vanilla-latte"
 TARGETS = [
-    ("starbucks-in-der-naehe.html", "Starbucks Card", GUT), ("starbucks-refresha.html", "Starbucks Card", GUT),
-    ("starbucks-kaffeebohnen.html", "Americano", AME), ("starbucks-latte.html", "Americano", AME),
+    ("starbucks-gebaeck.html", "Halloween-Gebäck", HAL), ("starbucks-becher-aktuell.html", "Halloween-Katzen", HAL),
+    ("starbucks-sirup.html", "Vanilla Latte", VAN), ("starbucks-getraenke.html", "Vanilla Latte", VAN),
 ]
 
 

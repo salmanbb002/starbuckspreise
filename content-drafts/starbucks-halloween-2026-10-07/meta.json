@@ -1,0 +1,75 @@
+{
+  "slug": "/blog/starbucks-halloween",
+  "url": "https://starbuckspreise.com/blog/starbucks-halloween",
+  "date": "2026-10-07",
+  "crumb": "Starbucks Halloween",
+  "title": "Starbucks Halloween 2026: Becher, Getränke & Gebäck",
+  "description": "Starbucks Halloween 2026: Black-Cat-Gebäck ab 2,80 €, Katzen-Becher der Herbstkollektion und was es nur in den USA gibt. Alle Termine und Preise im Überblick.",
+  "published": "2026-10-07T12:00:00+02:00",
+  "about": [
+    {
+      "@type": "Thing",
+      "name": "Halloween",
+      "sameAs": "https://de.wikipedia.org/wiki/Halloween"
+    },
+    {
+      "@type": "Organization",
+      "name": "Starbucks",
+      "sameAs": [
+        "https://www.wikidata.org/wiki/Q37158",
+        "https://www.starbucks.de/"
+      ]
+    }
+  ],
+  "mentions": [
+    {
+      "@type": "Thing",
+      "name": "Mystery Black Cat Swirl"
+    },
+    {
+      "@type": "Thing",
+      "name": "Cake Pop Mystery Black Cat"
+    },
+    {
+      "@type": "Thing",
+      "name": "Black Cat Frappuccino"
+    },
+    {
+      "@type": "Thing",
+      "name": "Venti Black Night Cookie"
+    },
+    {
+      "@type": "Thing",
+      "name": "Frappuccino",
+      "sameAs": "https://en.wikipedia.org/wiki/Frappuccino"
+    },
+    {
+      "@type": "Thing",
+      "name": "Pumpkin Spice Latte",
+      "sameAs": "https://en.wikipedia.org/wiki/Pumpkin_Spice_Latte"
+    },
+    {
+      "@type": "Thing",
+      "name": "Reformationstag",
+      "sameAs": "https://de.wikipedia.org/wiki/Reformationstag"
+    },
+    {
+      "@type": "Thing",
+      "name": "Allerheiligen",
+      "sameAs": "https://de.wikipedia.org/wiki/Allerheiligen"
+    },
+    {
+      "@type": "Thing",
+      "name": "Die Peanuts",
+      "sameAs": "https://de.wikipedia.org/wiki/Die_Peanuts"
+    },
+    {
+      "@type": "Thing",
+      "name": "Tumbler"
+    },
+    {
+      "@type": "Thing",
+      "name": "Starbucks Herbstkollektion 2026"
+    }
+  ]
+}

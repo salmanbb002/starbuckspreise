@@ -1,0 +1,219 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "BlogPosting",
+      "@id": "https://starbuckspreise.com/blog/starbucks-halloween#article",
+      "headline": "Starbucks Halloween 2026: Becher, Getränke & Gebäck",
+      "description": "Starbucks Halloween 2026: Black-Cat-Gebäck ab 2,80 €, Katzen-Becher der Herbstkollektion und was es nur in den USA gibt. Alle Termine und Preise im Überblick.",
+      "inLanguage": "de-DE",
+      "datePublished": "2026-10-07",
+      "dateModified": "2026-10-07",
+      "mainEntityOfPage": "https://starbuckspreise.com/blog/starbucks-halloween",
+      "image": "https://starbuckspreise.com/img/blog/starbucks-halloween-hero.webp",
+      "author": {
+        "@type": "Organization",
+        "name": "StarbucksPreise Redaktion",
+        "url": "https://starbuckspreise.com/ueber-uns"
+      },
+      "publisher": {
+        "@type": "Organization",
+        "name": "StarbucksPreise",
+        "url": "https://starbuckspreise.com/",
+        "logo": {
+          "@type": "ImageObject",
+          "url": "TODO: https://starbuckspreise.com/<logo-file>"
+        }
+      },
+      "about": [
+        {
+          "@type": "Thing",
+          "name": "Halloween",
+          "sameAs": "https://de.wikipedia.org/wiki/Halloween"
+        },
+        {
+          "@type": "Organization",
+          "name": "Starbucks",
+          "sameAs": [
+            "https://www.wikidata.org/wiki/Q37158",
+            "https://www.starbucks.de/"
+          ]
+        }
+      ],
+      "mentions": [
+        {
+          "@type": "Thing",
+          "name": "Mystery Black Cat Swirl"
+        },
+        {
+          "@type": "Thing",
+          "name": "Cake Pop Mystery Black Cat"
+        },
+        {
+          "@type": "Thing",
+          "name": "Black Cat Frappuccino"
+        },
+        {
+          "@type": "Thing",
+          "name": "Venti Black Night Cookie"
+        },
+        {
+          "@type": "Thing",
+          "name": "Frappuccino",
+          "sameAs": "https://en.wikipedia.org/wiki/Frappuccino"
+        },
+        {
+          "@type": "Thing",
+          "name": "Pumpkin Spice Latte",
+          "sameAs": "https://en.wikipedia.org/wiki/Pumpkin_Spice_Latte"
+        },
+        {
+          "@type": "Thing",
+          "name": "Reformationstag",
+          "sameAs": "https://de.wikipedia.org/wiki/Reformationstag"
+        },
+        {
+          "@type": "Thing",
+          "name": "Allerheiligen",
+          "sameAs": "https://de.wikipedia.org/wiki/Allerheiligen"
+        },
+        {
+          "@type": "Thing",
+          "name": "Die Peanuts",
+          "sameAs": "https://de.wikipedia.org/wiki/Die_Peanuts"
+        },
+        {
+          "@type": "Thing",
+          "name": "Tumbler"
+        },
+        {
+          "@type": "Thing",
+          "name": "Starbucks Herbstkollektion 2026"
+        }
+      ],
+      "speakable": {
+        "@type": "SpeakableSpecification",
+        "cssSelector": [
+          "#direct-answer"
+        ]
+      }
+    },
+    {
+      "@type": "FAQPage",
+      "@id": "https://starbuckspreise.com/blog/starbucks-halloween#faq",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "Gibt es bei Starbucks Deutschland ein Halloween-Getränk?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Nein, ein eigenes Halloween-Getränk gibt es bei Starbucks Deutschland 2026 nicht. Auf der Saisonkarte stehen die Kürbis-Getränke rund um den Pumpkin Spice Latte. Den Black Cat Frappuccino verkauft Starbucks nur in den USA."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Wann kommen die Starbucks Halloween-Becher 2026?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Die Katzen-Becher gehören zur Herbstkollektion und liegen seit September 2026 in teilnehmenden Filialen. In den USA startete die Black-Cat-Kollektion am 15. September 2026. Starbucks verkauft beide nur, solange der Vorrat reicht."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Was kostet der Mystery Black Cat Swirl?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Der Mystery Black Cat Swirl kostet in der Filiale Freiburg Hauptbahnhof 4,20 €. Starbucks veröffentlicht keine einheitlichen Preise, deshalb kann der Betrag in deiner Filiale abweichen. Er hat 473 kcal bei 140 g."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Wie viele Kalorien hat der Cake Pop Mystery Black Cat?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Der Cake Pop Mystery Black Cat hat laut Starbucks 154 kcal. Er wiegt 35 g und enthält 15 g Zucker. In Freiburg kostet er 2,80 €."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Was ist der Black Cat Frappuccino?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Der Black Cat Frappuccino ist ein Crème Frappuccino mit Schokoladenkuchen-Geschmack, Sahne und Katzenohren aus Schokolade. Starbucks verkauft ihn ab dem 22. Oktober 2026 in ausgewählten Coffee Houses in den USA. Für Deutschland ist er nicht angekündigt."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Kann ich die Halloween-Becher online kaufen?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Nein, bei Starbucks Deutschland nicht. Die Merchandise-Seite auf starbucks.de zeigt nur das Kernsortiment. Die Saisonware gibt es in den Filialen, alles andere läuft über den Wiederverkauf."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Gibt es den leuchtenden Black-Cat-Becher in Deutschland?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Nein, der Edelstahl-Becher mit leuchtendem Katzen-Motiv gehört zur US-Kollektion. Er kostet dort 29,95 US-Dollar. In Europa führt die Herbstkollektion andere Katzen-Becher in Lila."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Sind die Halloween-Produkte vegan?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Das Gebäck ist auf starbucks.de nicht als vegan gekennzeichnet. Bei den Getränken hängt es von Milch und Topping ab. Welche Optionen sicher pflanzlich sind, steht im Ratgeber Starbucks vegane Optionen."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Gibt es zu Halloween eine Rabatt-Aktion bei Starbucks?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Eine Halloween-Aktion hat Starbucks Deutschland bis zum 7. Oktober 2026 nicht angekündigt. Angebote laufen meist über die App und Starbucks Rewards. Aktuelle Deals sammelt der Ratgeber Starbucks Angebote."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Wie lange gibt es den Pumpkin Spice Latte noch?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Den Pumpkin Spice Latte gibt es in der Regel bis zum Start der Weihnachtskarte Anfang November. 2025 begann sie am 6. November. Ein festes Enddatum für 2026 nennt Starbucks Deutschland nicht."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Welche Starbucks Becher sind 2026 sonst noch neu?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Neben den Katzen-Bechern läuft die Peanuts-Kollektion mit Snoopy, dazu kommen Tumbler in Orange und Bronze. Ab November folgen die Weihnachtsbecher. Den Überblick gibt Starbucks Becher aktuell."
+          }
+        }
+      ]
+    },
+    {
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Startseite",
+          "item": "https://starbuckspreise.com/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Blog",
+          "item": "https://starbuckspreise.com/blog/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "Starbucks Halloween",
+          "item": "https://starbuckspreise.com/blog/starbucks-halloween"
+        }
+      ]
+    }
+  ]
+}

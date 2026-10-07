@@ -287,3 +287,28 @@ Hero photos sourced from Wikimedia Commons for the 2026-09-17 location/product p
 - Author: Coolcaesar
 - License: CC BY-SA 4.0 — attribution required if reused/redistributed further
 - Note: 2026-10-06 — Starbucks Center, Seattle (company headquarters), photographed 30 May 2016; deliberately neutral image for a politically sensitive article (no protest photo). Cropped to 1600x1000.
+
+## starbucks-halloween-hero.webp
+- Source: https://www.starbucks.de/de/menu/product/417669 (Mystery Black Cat Swirl) + https://www.starbucks.de/de/menu/product/417609 (Cake Pop - Mystery Black Cat), image files on www.digitalassets.starbucks.eu
+- Author: Starbucks Coffee Company (official product images, starbucks.de)
+- License: Starbucks product images, used at the site owner's request — not CC/Unsplash, so no on-page credit is rendered
+- Note: 2026-10-07 — composite of the two official Halloween 2026 product shots on their shared dark-green background, 1600x1000; products kept inside the desktop 4:3 crop.
+
+## starbucks-vanilla-latte-hero.webp
+- Source: https://www.starbucks.de/de/menu-drinks-hot-coffees (Vanilla_Latte_Mug_WHITE_OPT2_2023.jpg) + https://www.starbucks.de/de/menu/product/397105 (SPR26-MOP-1500x1500-Promo-Beverages-Protein-Sugar-Free-Vanilla-Latte.jpeg)
+- Author: Starbucks Coffee Company (official product images, starbucks.de)
+- License: Starbucks product images, used at the site owner's request — not CC/Unsplash, so no on-page credit is rendered
+- Note: 2026-10-07 — two-panel composite: classic Vanilla Latte (white) and Soy Protein Vanilla Latte (green), 1600x1000.
+
+## starbucks-stanley-hero.webp
+- Source: https://about.starbucks.com/press/2024/new-starbucks-merchandise-for-on-the-go-summer-sipping/ (Lime Green), https://about.starbucks.com/stories/2024/the-holidays-are-back-at-starbucks-beginning-nov-7/ (Berry Pink Glitter), https://about.starbucks.com/press/2024/new-starbucks-merchandise-to-match-all-the-summer-vibes/ (Sunset Gradient)
+- Author: Starbucks Coffee Company (official press images, about.starbucks.com)
+- License: Starbucks press images, used at the site owner's request — not CC/Unsplash, so no on-page credit is rendered
+- Note: 2026-10-07 — three official press shots of the 40 oz Starbucks x Stanley Quencher side by side, 1600x1000. US products, not sold in Germany (the article says so).
+
+## starbucks-outlet-hero.webp
+- Source: own graphic; Germany outline from Natural Earth (ne_50m_admin_0_countries), https://www.naturalearthdata.com/
+- Author: StarbucksPreise (own work)
+- License: own work; Natural Earth data is public domain — no credit required
+- Note: 2026-10-07 — map of the 10 outlet centres with a Starbucks, positions from the starbucks.de store locator (7 Oct 2026). No Starbucks logo used. Regenerate when a store opens or closes.
+

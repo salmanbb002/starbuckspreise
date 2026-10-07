@@ -1,0 +1,229 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "BlogPosting",
+      "@id": "https://starbuckspreise.com/blog/starbucks-outlet#article",
+      "headline": "Starbucks Outlet: Alle 10 Filialen in Outlet-Centern (2026)",
+      "description": "Starbucks im Outlet: 10 deutsche Outlet-Center haben ein Coffee House, von Metzingen bis Neumünster. Adressen, Öffnungszeiten und Center ohne Starbucks.",
+      "inLanguage": "de-DE",
+      "datePublished": "2026-10-07",
+      "dateModified": "2026-10-07",
+      "mainEntityOfPage": "https://starbuckspreise.com/blog/starbucks-outlet",
+      "image": "https://starbuckspreise.com/img/blog/starbucks-outlet-hero.webp",
+      "author": {
+        "@type": "Organization",
+        "name": "StarbucksPreise Redaktion",
+        "url": "https://starbuckspreise.com/ueber-uns"
+      },
+      "publisher": {
+        "@type": "Organization",
+        "name": "StarbucksPreise",
+        "url": "https://starbuckspreise.com/",
+        "logo": {
+          "@type": "ImageObject",
+          "url": "TODO: https://starbuckspreise.com/<logo-file>"
+        }
+      },
+      "about": [
+        {
+          "@type": "Thing",
+          "name": "Factory-Outlet-Center",
+          "sameAs": "https://de.wikipedia.org/wiki/Factory-Outlet-Center"
+        },
+        {
+          "@type": "Organization",
+          "name": "Starbucks",
+          "sameAs": [
+            "https://www.wikidata.org/wiki/Q37158",
+            "https://www.starbucks.de/"
+          ]
+        }
+      ],
+      "mentions": [
+        {
+          "@type": "Place",
+          "name": "Outletcity Metzingen",
+          "sameAs": "https://de.wikipedia.org/wiki/Outletcity_Metzingen"
+        },
+        {
+          "@type": "Place",
+          "name": "Designer Outlet Soltau"
+        },
+        {
+          "@type": "Place",
+          "name": "designer outlets Wolfsburg"
+        },
+        {
+          "@type": "Place",
+          "name": "Ochtum Park"
+        },
+        {
+          "@type": "Place",
+          "name": "Designer Outlet Neumünster"
+        },
+        {
+          "@type": "Place",
+          "name": "Designer Outlet Berlin"
+        },
+        {
+          "@type": "Place",
+          "name": "Halle Leipzig The Style Outlets"
+        },
+        {
+          "@type": "Place",
+          "name": "Designer Outlet Ochtrup"
+        },
+        {
+          "@type": "Place",
+          "name": "Montabaur The Style Outlets"
+        },
+        {
+          "@type": "Place",
+          "name": "Zweibrücken Fashion Outlet"
+        },
+        {
+          "@type": "Place",
+          "name": "Ingolstadt Village"
+        },
+        {
+          "@type": "Place",
+          "name": "Wertheim Village"
+        },
+        {
+          "@type": "Organization",
+          "name": "AmRest",
+          "sameAs": "https://de.wikipedia.org/wiki/AmRest"
+        },
+        {
+          "@type": "Thing",
+          "name": "Starbucks Store Locator",
+          "sameAs": "https://www.starbucks.de/de/store-locator"
+        }
+      ],
+      "speakable": {
+        "@type": "SpeakableSpecification",
+        "cssSelector": [
+          "#direct-answer"
+        ]
+      }
+    },
+    {
+      "@type": "FAQPage",
+      "@id": "https://starbuckspreise.com/blog/starbucks-outlet#faq",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "Gibt es ein Starbucks Outlet mit günstigeren Bechern?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Nein, einen Fabrikverkauf oder ein eigenes Outlet für Becher betreibt Starbucks in Deutschland nicht. Die Filialen in Outlet-Centern führen das normale Sortiment zum normalen Preis. Limitierte Becher findest du über den Ratgeber Starbucks Becher aktuell."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Wie viele Outlet-Center in Deutschland haben einen Starbucks?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Zehn Outlet-Center haben am 7. Oktober 2026 einen Starbucks. Das zeigt eine Abfrage des Store Locators auf starbucks.de. Die Standorte reichen von Neumünster im Norden bis Metzingen im Süden."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Hat der Starbucks im Outlet sonntags geöffnet?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "In der Regel nicht. In der Woche vom 7. bis 13. Oktober 2026 waren alle zehn Outlet-Filialen am Sonntag geschlossen. An verkaufsoffenen Sonntagen kann das anders sein."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Gibt es einen Starbucks im Ingolstadt Village?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Nein. Weder der Store Locator von Starbucks noch das Gastronomie-Verzeichnis von Ingolstadt Village nennt am 7. Oktober 2026 einen Starbucks. Auch für die Stadt Ingolstadt zeigt der Store Locator keine Filiale."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Gibt es einen Starbucks im Wertheim Village?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Nein, Wertheim Village hat keinen Starbucks. Das Gastronomie-Verzeichnis des Village führt am 7. Oktober 2026 ein eigenes Café, aber keinen Starbucks. Auch der Store Locator zeigt für Wertheim keine Filiale."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Wo ist der Starbucks im Outlet Berlin?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Der Starbucks liegt im Designer Outlet Berlin in Wustermark, Alter Spandauer Weg 1. Das Center befindet sich in Brandenburg westlich von Berlin. Geöffnet ist Montag bis Samstag von 9:30 bis 20:00 Uhr."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Wo ist der Starbucks im Outlet Bremen?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Der Starbucks liegt im Ochtum Park in Stuhr, Bremer Straße 107. Das Center grenzt direkt an Bremen. Geöffnet ist Montag bis Freitag von 9:00 bis 19:00 Uhr und samstags bis 18:30 Uhr."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Seit wann gibt es Starbucks in Halle Leipzig The Style Outlets?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Die Filiale eröffnete am 1. Oktober 2024. Das geht aus der Pressemitteilung des Centers vom 26. September 2024 hervor. Sie ist die jüngste Starbucks-Filiale in einem deutschen Outlet-Center, die wir belegen können."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Sind die Preise im Outlet-Starbucks niedriger?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Dafür gibt es keinen Beleg. Starbucks veröffentlicht keine einheitlichen Preise, und einen Outlet-Rabatt bewirbt weder Starbucks noch eines der Center. Rechne mit den üblichen Preisen einer Filiale im Einkaufszentrum."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Kann ich im Outlet-Starbucks mit der Starbucks Card zahlen?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Alle zehn Filialen führen im Store Locator den Service „Reward einlösen“. Das ist der Filter, mit dem Starbucks die Coffee Houses kennzeichnet, die Rewards annehmen. Wo die Card nicht gilt, erklärt der Ratgeber Starbucks Gutschein."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Gibt es im Outlet einen Starbucks Drive-in?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Nein, keine der zehn Outlet-Filialen ist im Store Locator als Drive-Through gekennzeichnet. Wo du Starbucks aus dem Auto bestellen kannst, zeigt der Ratgeber Starbucks Drive-in."
+          }
+        }
+      ]
+    },
+    {
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Startseite",
+          "item": "https://starbuckspreise.com/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Blog",
+          "item": "https://starbuckspreise.com/blog/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "Starbucks Outlet",
+          "item": "https://starbuckspreise.com/blog/starbucks-outlet"
+        }
+      ]
+    }
+  ]
+}

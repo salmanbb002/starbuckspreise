@@ -1,0 +1,15 @@
+# Coverage – starbucks-vanilla-latte (2026-10-07)
+
+- Wortzahl gesamt: 2320 (Body ohne FAQ: 1898) – Standard 1.500–2.500+ → OK
+- H1: 1 · H2: 11 (inkl. FAQ) · H3: 15 (inkl. 11 FAQ) · übersprungene Ebenen: 0 (finalize.py) · check-blog-layout.py PASS (80 Seiten)
+- Direkt-Antwort: 55 Wörter (Ziel 40–55) → OK, wiederholt die H1 nicht
+- QUORA: jede H2/H3 beginnt mit einem Antwortsatz → manuell geprüft
+- FAQ: 11 (Minimum 10) → OK; FAQPage-Schema 1:1 aus draft.md erzeugt
+- Tier-1: 6/6 (100 %), alle mit Attribut oder Beziehung · Tier-2: 10/10 (100 %) · Tier-3: 4/4 (100 %)
+- Information Gain: Offizielle Voreinstellung der Sirup-Pumpen je Größe (3/4/5) aus der deutschen Bestellkarte; Tabelle „wo ist der Vanilla Latte gelistet“; Kalorien-Schätzung mit offen gelegter Rechnung; Vergleichstabelle mit Caramel Macchiato, Protein Vanilla Latte und Frappuccino.
+- Competitor-Matrix: Kalorien/Nährwerte (C1 Yazio) ✔ mit Einordnung · Preisliste (C2 fastfoodsmenu) ✔ mit geprüften Freiburg-Preisen · Zucker (C3 küchenfibel) ✔ · At-Home-Produkte (C4 Starbucks at Home) ✔ · „Alternativen zu Starbucks“ (C2) ✘ ausgelassen, anderes Suchinteresse
+- Fragen: PAA nicht erfasst (kein gerenderter SERP). Fan-out aus Autocomplete: starbucks vanilla latte, iced protein sugar free vanilla latte, vanilla iced latte, vanilla kapseln, vanilla macchiato, vanilla syrup → alle in Abschnitten 3, 6, 7, 8, 10 beantwortet.
+- Fakten-Check: Rezept: starbucks.de/de/menu-drinks-hot-coffees. Pumpen, Shots, Größen, Milch- und Becher-Aufpreise: Produkt-JSON 106955/106985/107535/107073 der Bestellkarte. Nährwerte: Produkt-JSON (Caffè Latte, Soy Protein Vanilla Latte, Caramel Macchiato). Vegan-Angaben: Allergen-PDF „Autumn – 10.09.2026 (Getränke)“. Gold-Status: starbucks.de/de/rewards. Preise: starbucksfreiburg.de.
+- Offene Flags (bitte manuell prüfen): (1) Kalorien des Vanilla Latte sind eine SCHÄTZUNG (offizieller Latte-Wert + US-Wert 20 kcal/5 g pro Pumpe von Tasting Table) – im Text dreifach gekennzeichnet; Starbucks DE veröffentlicht keinen Wert. (2) Sirup-Aufpreis 0,60–0,80 € stammt aus /blog/starbucks-sirup und ist nicht von Starbucks bestätigt; die Bestellkarte zeigt keinen Betrag. (3) Pflanzendrink +0,00 € widerspricht älteren Angaben auf der Website (menu.js-FAQ, /blog/starbucks-menu: +0,50–0,80 €) – bitte dort angleichen. (4) /blog/starbucks-sirup nennt nur 3 feste Sirupsorten, die Bestellkarte listet 12 – Sirup-Artikel sollte aktualisiert werden. (5) Freiburg-Preise gelten für eine Bahnhofsfiliale.
+- Intent: know (Was ist drin, Kalorien) + do (bestellen) → abgedeckt; HowTo-Schema für die Bestellschritte ergänzt.
+- E-E-A-T: Autor ist „StarbucksPreise Redaktion“ (Organisation, kein Personen-Byline); keine erfundenen Erfahrungsberichte im Text.

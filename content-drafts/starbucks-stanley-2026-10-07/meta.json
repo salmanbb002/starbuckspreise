@@ -1,0 +1,74 @@
+{
+  "slug": "/blog/starbucks-stanley",
+  "url": "https://starbuckspreise.com/blog/starbucks-stanley",
+  "date": "2026-10-07",
+  "crumb": "Starbucks Stanley",
+  "title": "Starbucks Stanley Cup: Gibt es ihn in Deutschland? (2026)",
+  "description": "Starbucks x Stanley: Den Quencher gibt es offiziell in den USA und Asien, nicht in deutschen Filialen. Alle Farben, Preise und sichere Wege zum Kauf.",
+  "published": "2026-10-07T12:00:00+02:00",
+  "about": [
+    {
+      "@type": "Thing",
+      "name": "Starbucks x Stanley Quencher"
+    },
+    {
+      "@type": "Organization",
+      "name": "Stanley",
+      "sameAs": "https://en.wikipedia.org/wiki/Stanley_(drinkware_company)"
+    },
+    {
+      "@type": "Organization",
+      "name": "Starbucks",
+      "sameAs": [
+        "https://www.wikidata.org/wiki/Q37158",
+        "https://www.starbucks.de/"
+      ]
+    }
+  ],
+  "mentions": [
+    {
+      "@type": "Thing",
+      "name": "Stanley Quencher"
+    },
+    {
+      "@type": "Thing",
+      "name": "Tumbler"
+    },
+    {
+      "@type": "Organization",
+      "name": "Target Corporation",
+      "sameAs": "https://de.wikipedia.org/wiki/Target_Corporation"
+    },
+    {
+      "@type": "Organization",
+      "name": "AmRest",
+      "sameAs": "https://de.wikipedia.org/wiki/AmRest"
+    },
+    {
+      "@type": "Organization",
+      "name": "eBay",
+      "sameAs": "https://de.wikipedia.org/wiki/EBay"
+    },
+    {
+      "@type": "Thing",
+      "name": "Einfuhrumsatzsteuer",
+      "sameAs": "https://de.wikipedia.org/wiki/Einfuhrumsatzsteuer"
+    },
+    {
+      "@type": "Thing",
+      "name": "Winter Pink Quencher"
+    },
+    {
+      "@type": "Thing",
+      "name": "Sakura-Kollektion 2026"
+    },
+    {
+      "@type": "Thing",
+      "name": "Tumbler Luxor Black"
+    },
+    {
+      "@type": "Thing",
+      "name": "Thermobecher"
+    }
+  ]
+}

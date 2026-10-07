@@ -1,0 +1,1210 @@
+{
+ "Metzingen Outletcity": [
+  {
+   "name": "Metzingen Outlet City",
+   "address": {
+    "streetAddressLine1": "Hugo Boss Platz 6",
+    "streetAddressLine2": null,
+    "streetAddressLine3": null,
+    "city": "Metzingen",
+    "countrySubdivisionCode": "BW",
+    "countryCode": "DE",
+    "postalCode": "72555",
+    "countyCode": null
+   },
+   "features": [
+    "WF",
+    "DR",
+    "XO"
+   ],
+   "openHours": [
+    {
+     "date": "2026-10-07",
+     "open": true,
+     "from": "09:00:00",
+     "to": "20:00:00"
+    },
+    {
+     "date": "2026-10-08",
+     "open": true,
+     "from": "09:00:00",
+     "to": "20:00:00"
+    },
+    {
+     "date": "2026-10-09",
+     "open": true,
+     "from": "09:00:00",
+     "to": "20:30:00"
+    },
+    {
+     "date": "2026-10-10",
+     "open": true,
+     "from": "08:00:00",
+     "to": "20:30:00"
+    },
+    {
+     "date": "2026-10-11",
+     "open": false,
+     "from": "00:00:00",
+     "to": "00:00:00"
+    },
+    {
+     "date": "2026-10-12",
+     "open": true,
+     "from": "09:00:00",
+     "to": "20:00:00"
+    },
+    {
+     "date": "2026-10-13",
+     "open": true,
+     "from": "09:00:00",
+     "to": "20:00:00"
+    }
+   ],
+   "coordinates": {
+    "latitude": 48.53582,
+    "longitude": 9.28087
+   }
+  }
+ ],
+ "Montabaur The Style Outlets": [
+  {
+   "name": "Montabaur Fashion Outlet",
+   "address": {
+    "streetAddressLine1": "Am Fashion Outlet 72",
+    "streetAddressLine2": null,
+    "streetAddressLine3": null,
+    "city": "Montabaur",
+    "countrySubdivisionCode": "RP",
+    "countryCode": "DE",
+    "postalCode": "56410",
+    "countyCode": null
+   },
+   "features": [
+    "WF",
+    "DR",
+    "XO"
+   ],
+   "openHours": [
+    {
+     "date": "2026-10-07",
+     "open": true,
+     "from": "08:30:00",
+     "to": "20:00:00"
+    },
+    {
+     "date": "2026-10-08",
+     "open": true,
+     "from": "08:30:00",
+     "to": "20:00:00"
+    },
+    {
+     "date": "2026-10-09",
+     "open": true,
+     "from": "08:30:00",
+     "to": "20:00:00"
+    },
+    {
+     "date": "2026-10-10",
+     "open": true,
+     "from": "09:00:00",
+     "to": "20:00:00"
+    },
+    {
+     "date": "2026-10-11",
+     "open": false,
+     "from": "00:00:00",
+     "to": "00:00:00"
+    },
+    {
+     "date": "2026-10-12",
+     "open": true,
+     "from": "08:30:00",
+     "to": "20:00:00"
+    },
+    {
+     "date": "2026-10-13",
+     "open": true,
+     "from": "08:30:00",
+     "to": "20:00:00"
+    }
+   ],
+   "coordinates": {
+    "latitude": 50.44389,
+    "longitude": 7.82839
+   }
+  }
+ ],
+ "Neumünster Designer Outlet": [
+  {
+   "name": "Neumuenster, FOC Hamburg",
+   "address": {
+    "streetAddressLine1": "Oderstrasse 11",
+    "streetAddressLine2": null,
+    "streetAddressLine3": null,
+    "city": "Neumuenster",
+    "countrySubdivisionCode": "SH",
+    "countryCode": "DE",
+    "postalCode": "24539",
+    "countyCode": null
+   },
+   "features": [
+    "DR",
+    "WF",
+    "XO"
+   ],
+   "openHours": [
+    {
+     "date": "2026-10-07",
+     "open": true,
+     "from": "09:30:00",
+     "to": "20:00:00"
+    },
+    {
+     "date": "2026-10-08",
+     "open": true,
+     "from": "09:30:00",
+     "to": "20:00:00"
+    },
+    {
+     "date": "2026-10-09",
+     "open": true,
+     "from": "09:30:00",
+     "to": "20:00:00"
+    },
+    {
+     "date": "2026-10-10",
+     "open": true,
+     "from": "09:30:00",
+     "to": "20:00:00"
+    },
+    {
+     "date": "2026-10-11",
+     "open": false,
+     "from": "12:00:00",
+     "to": "12:00:00"
+    },
+    {
+     "date": "2026-10-12",
+     "open": true,
+     "from": "09:30:00",
+     "to": "20:00:00"
+    },
+    {
+     "date": "2026-10-13",
+     "open": true,
+     "from": "09:30:00",
+     "to": "20:00:00"
+    }
+   ],
+   "coordinates": {
+    "latitude": 54.0447,
+    "longitude": 9.97608
+   }
+  }
+ ],
+ "Halle Leipzig The Style Outlets (Brehna)": [
+  {
+   "name": "Halle Leipzig The Style Outlet",
+   "address": {
+    "streetAddressLine1": "Berliner Strasse 1",
+    "streetAddressLine2": null,
+    "streetAddressLine3": null,
+    "city": "Sandersdorf-Brehna",
+    "countrySubdivisionCode": "ST",
+    "countryCode": "DE",
+    "postalCode": "6796",
+    "countyCode": null
+   },
+   "features": [
+    "WF",
+    "DR",
+    "XO"
+   ],
+   "openHours": [
+    {
+     "date": "2026-10-07",
+     "open": true,
+     "from": "10:00:00",
+     "to": "20:00:00"
+    },
+    {
+     "date": "2026-10-08",
+     "open": true,
+     "from": "10:00:00",
+     "to": "20:00:00"
+    },
+    {
+     "date": "2026-10-09",
+     "open": true,
+     "from": "10:00:00",
+     "to": "20:00:00"
+    },
+    {
+     "date": "2026-10-10",
+     "open": true,
+     "from": "10:00:00",
+     "to": "20:00:00"
+    },
+    {
+     "date": "2026-10-11",
+     "open": false,
+     "from": "00:00:00",
+     "to": "00:00:00"
+    },
+    {
+     "date": "2026-10-12",
+     "open": true,
+     "from": "10:00:00",
+     "to": "20:00:00"
+    },
+    {
+     "date": "2026-10-13",
+     "open": true,
+     "from": "10:00:00",
+     "to": "20:00:00"
+    }
+   ],
+   "coordinates": {
+    "latitude": 51.55408,
+    "longitude": 12.19269
+   }
+  }
+ ],
+ "Stuhr Ochtum Park (Bremen)": [
+  {
+   "name": "Stuhr, FOC Ochtum Park",
+   "address": {
+    "streetAddressLine1": "Bremer Str 107",
+    "streetAddressLine2": null,
+    "streetAddressLine3": null,
+    "city": "Stuhr",
+    "countrySubdivisionCode": "NI",
+    "countryCode": "DE",
+    "postalCode": "28816",
+    "countyCode": null
+   },
+   "features": [
+    "WF",
+    "DR",
+    "XO"
+   ],
+   "openHours": [
+    {
+     "date": "2026-10-07",
+     "open": true,
+     "from": "09:00:00",
+     "to": "19:00:00"
+    },
+    {
+     "date": "2026-10-08",
+     "open": true,
+     "from": "09:00:00",
+     "to": "19:00:00"
+    },
+    {
+     "date": "2026-10-09",
+     "open": true,
+     "from": "09:00:00",
+     "to": "19:00:00"
+    },
+    {
+     "date": "2026-10-10",
+     "open": true,
+     "from": "09:00:00",
+     "to": "18:30:00"
+    },
+    {
+     "date": "2026-10-11",
+     "open": false,
+     "from": "00:00:00",
+     "to": "00:00:00"
+    },
+    {
+     "date": "2026-10-12",
+     "open": true,
+     "from": "09:00:00",
+     "to": "19:00:00"
+    },
+    {
+     "date": "2026-10-13",
+     "open": true,
+     "from": "09:00:00",
+     "to": "19:00:00"
+    }
+   ],
+   "coordinates": {
+    "latitude": 53.02996,
+    "longitude": 8.80434
+   }
+  },
+  {
+   "name": "Bremen, Marktstrasse 3",
+   "address": {
+    "streetAddressLine1": "Marktstrasse 3",
+    "streetAddressLine2": null,
+    "streetAddressLine3": null,
+    "city": "Bremen",
+    "countrySubdivisionCode": "HB",
+    "countryCode": "DE",
+    "postalCode": "28195",
+    "countyCode": null
+   },
+   "features": [
+    "DR",
+    "WF",
+    "XO"
+   ],
+   "openHours": [
+    {
+     "date": "2026-10-07",
+     "open": true,
+     "from": "07:30:00",
+     "to": "19:00:00"
+    },
+    {
+     "date": "2026-10-08",
+     "open": true,
+     "from": "07:30:00",
+     "to": "19:00:00"
+    },
+    {
+     "date": "2026-10-09",
+     "open": true,
+     "from": "07:30:00",
+     "to": "19:00:00"
+    },
+    {
+     "date": "2026-10-10",
+     "open": true,
+     "from": "09:00:00",
+     "to": "19:00:00"
+    },
+    {
+     "date": "2026-10-11",
+     "open": true,
+     "from": "10:00:00",
+     "to": "17:00:00"
+    },
+    {
+     "date": "2026-10-12",
+     "open": true,
+     "from": "07:30:00",
+     "to": "19:00:00"
+    },
+    {
+     "date": "2026-10-13",
+     "open": true,
+     "from": "07:30:00",
+     "to": "19:00:00"
+    }
+   ],
+   "coordinates": {
+    "latitude": 53.07515,
+    "longitude": 8.80728
+   }
+  },
+  {
+   "name": "Bremen Main Station",
+   "address": {
+    "streetAddressLine1": "Bahnhofsplatz 15",
+    "streetAddressLine2": null,
+    "streetAddressLine3": null,
+    "city": "Bremen",
+    "countrySubdivisionCode": "HB",
+    "countryCode": "DE",
+    "postalCode": "28195",
+    "countyCode": null
+   },
+   "features": [],
+   "openHours": [
+    {
+     "date": "2026-10-07",
+     "open": true,
+     "from": "08:00:00",
+     "to": "20:00:00"
+    },
+    {
+     "date": "2026-10-08",
+     "open": true,
+     "from": "08:00:00",
+     "to": "20:00:00"
+    },
+    {
+     "date": "2026-10-09",
+     "open": true,
+     "from": "08:00:00",
+     "to": "20:00:00"
+    },
+    {
+     "date": "2026-10-10",
+     "open": true,
+     "from": "08:00:00",
+     "to": "20:00:00"
+    },
+    {
+     "date": "2026-10-11",
+     "open": true,
+     "from": "08:00:00",
+     "to": "20:00:00"
+    },
+    {
+     "date": "2026-10-12",
+     "open": true,
+     "from": "08:00:00",
+     "to": "20:00:00"
+    },
+    {
+     "date": "2026-10-13",
+     "open": true,
+     "from": "08:00:00",
+     "to": "20:00:00"
+    }
+   ],
+   "coordinates": {
+    "latitude": 53.08321,
+    "longitude": 8.81339
+   }
+  },
+  {
+   "name": "Bremen Waterfront Kiosk",
+   "address": {
+    "streetAddressLine1": "AG Weser Strasse 1",
+    "streetAddressLine2": null,
+    "streetAddressLine3": null,
+    "city": "Bremen",
+    "countrySubdivisionCode": "HB",
+    "countryCode": "DE",
+    "postalCode": "28237",
+    "countyCode": null
+   },
+   "features": [
+    "DR",
+    "WF",
+    "XO"
+   ],
+   "openHours": [
+    {
+     "date": "2026-10-07",
+     "open": true,
+     "from": "10:00:00",
+     "to": "20:00:00"
+    },
+    {
+     "date": "2026-10-08",
+     "open": true,
+     "from": "10:00:00",
+     "to": "20:00:00"
+    },
+    {
+     "date": "2026-10-09",
+     "open": true,
+     "from": "10:00:00",
+     "to": "20:00:00"
+    },
+    {
+     "date": "2026-10-10",
+     "open": true,
+     "from": "10:00:00",
+     "to": "20:00:00"
+    },
+    {
+     "date": "2026-10-11",
+     "open": true,
+     "from": "10:00:00",
+     "to": "16:00:00"
+    },
+    {
+     "date": "2026-10-12",
+     "open": true,
+     "from": "10:00:00",
+     "to": "20:00:00"
+    },
+    {
+     "date": "2026-10-13",
+     "open": true,
+     "from": "10:00:00",
+     "to": "20:00:00"
+    }
+   ],
+   "coordinates": {
+    "latitude": 53.10981,
+    "longitude": 8.74959
+   }
+  },
+  {
+   "name": "Bremen Waterfront C02",
+   "address": {
+    "streetAddressLine1": "AG Weser Strasse 1",
+    "streetAddressLine2": null,
+    "streetAddressLine3": null,
+    "city": "Bremen",
+    "countrySubdivisionCode": "HB",
+    "countryCode": "DE",
+    "postalCode": "28237",
+    "countyCode": null
+   },
+   "features": [
+    "DR",
+    "WF",
+    "XO"
+   ],
+   "openHours": [
+    {
+     "date": "2026-10-07",
+     "open": true,
+     "from": "10:00:00",
+     "to": "20:00:00"
+    },
+    {
+     "date": "2026-10-08",
+     "open": true,
+     "from": "10:00:00",
+     "to": "20:00:00"
+    },
+    {
+     "date": "2026-10-09",
+     "open": true,
+     "from": "10:00:00",
+     "to": "20:00:00"
+    },
+    {
+     "date": "2026-10-10",
+     "open": true,
+     "from": "10:00:00",
+     "to": "20:00:00"
+    },
+    {
+     "date": "2026-10-11",
+     "open": false,
+     "from": "00:00:00",
+     "to": "00:00:00"
+    },
+    {
+     "date": "2026-10-12",
+     "open": true,
+     "from": "10:00:00",
+     "to": "20:00:00"
+    },
+    {
+     "date": "2026-10-13",
+     "open": true,
+     "from": "10:00:00",
+     "to": "20:00:00"
+    }
+   ],
+   "coordinates": {
+    "latitude": 53.11181,
+    "longitude": 8.74898
+   }
+  }
+ ],
+ "Wolfsburg designer outlets": [
+  {
+   "name": "Wolfsburg FOC",
+   "address": {
+    "streetAddressLine1": "An der Vorburg",
+    "streetAddressLine2": null,
+    "streetAddressLine3": null,
+    "city": "Wolfsburg",
+    "countrySubdivisionCode": "NI",
+    "countryCode": "DE",
+    "postalCode": "38440",
+    "countyCode": null
+   },
+   "features": [
+    "DR",
+    "WF",
+    "XO"
+   ],
+   "openHours": [
+    {
+     "date": "2026-10-07",
+     "open": true,
+     "from": "09:00:00",
+     "to": "19:00:00"
+    },
+    {
+     "date": "2026-10-08",
+     "open": true,
+     "from": "09:00:00",
+     "to": "19:00:00"
+    },
+    {
+     "date": "2026-10-09",
+     "open": true,
+     "from": "09:00:00",
+     "to": "20:00:00"
+    },
+    {
+     "date": "2026-10-10",
+     "open": true,
+     "from": "09:00:00",
+     "to": "20:00:00"
+    },
+    {
+     "date": "2026-10-11",
+     "open": false,
+     "from": "00:00:00",
+     "to": "00:00:00"
+    },
+    {
+     "date": "2026-10-12",
+     "open": true,
+     "from": "09:00:00",
+     "to": "19:00:00"
+    },
+    {
+     "date": "2026-10-13",
+     "open": true,
+     "from": "09:00:00",
+     "to": "19:00:00"
+    }
+   ],
+   "coordinates": {
+    "latitude": 52.42839,
+    "longitude": 10.79597
+   }
+  }
+ ],
+ "Zweibrücken Fashion Outlet": [
+  {
+   "name": "Zweibruecken, Londoner Bogen 1",
+   "address": {
+    "streetAddressLine1": "Londoner Bogen 10 90",
+    "streetAddressLine2": null,
+    "streetAddressLine3": null,
+    "city": "Zweibruecken",
+    "countrySubdivisionCode": "RP",
+    "countryCode": "DE",
+    "postalCode": "66482",
+    "countyCode": null
+   },
+   "features": [
+    "WF",
+    "DR",
+    "XO"
+   ],
+   "openHours": [
+    {
+     "date": "2026-10-07",
+     "open": true,
+     "from": "10:00:00",
+     "to": "19:00:00"
+    },
+    {
+     "date": "2026-10-08",
+     "open": true,
+     "from": "10:00:00",
+     "to": "19:00:00"
+    },
+    {
+     "date": "2026-10-09",
+     "open": true,
+     "from": "10:00:00",
+     "to": "19:00:00"
+    },
+    {
+     "date": "2026-10-10",
+     "open": true,
+     "from": "10:00:00",
+     "to": "19:00:00"
+    },
+    {
+     "date": "2026-10-11",
+     "open": false,
+     "from": "00:00:00",
+     "to": "00:00:00"
+    },
+    {
+     "date": "2026-10-12",
+     "open": true,
+     "from": "10:00:00",
+     "to": "19:00:00"
+    },
+    {
+     "date": "2026-10-13",
+     "open": true,
+     "from": "10:00:00",
+     "to": "19:00:00"
+    }
+   ],
+   "coordinates": {
+    "latitude": 49.23076,
+    "longitude": 7.40543
+   }
+  }
+ ],
+ "Soltau Designer Outlet": [
+  {
+   "name": "Soltau FOC",
+   "address": {
+    "streetAddressLine1": "Factory Outlet Center",
+    "streetAddressLine2": null,
+    "streetAddressLine3": null,
+    "city": "Soltau",
+    "countrySubdivisionCode": "NI",
+    "countryCode": "DE",
+    "postalCode": "29614",
+    "countyCode": null
+   },
+   "features": [
+    "DR",
+    "WF",
+    "XO"
+   ],
+   "openHours": [
+    {
+     "date": "2026-10-07",
+     "open": true,
+     "from": "10:00:00",
+     "to": "20:00:00"
+    },
+    {
+     "date": "2026-10-08",
+     "open": true,
+     "from": "10:00:00",
+     "to": "20:00:00"
+    },
+    {
+     "date": "2026-10-09",
+     "open": true,
+     "from": "10:00:00",
+     "to": "20:00:00"
+    },
+    {
+     "date": "2026-10-10",
+     "open": true,
+     "from": "10:00:00",
+     "to": "20:00:00"
+    },
+    {
+     "date": "2026-10-11",
+     "open": false,
+     "from": "12:00:00",
+     "to": "12:00:00"
+    },
+    {
+     "date": "2026-10-12",
+     "open": true,
+     "from": "10:00:00",
+     "to": "20:00:00"
+    },
+    {
+     "date": "2026-10-13",
+     "open": true,
+     "from": "10:00:00",
+     "to": "20:00:00"
+    }
+   ],
+   "coordinates": {
+    "latitude": 52.98245,
+    "longitude": 9.92546
+   }
+  }
+ ],
+ "Ingolstadt Village": [],
+ "Wertheim Village": [],
+ "Designer Outlet Berlin (Wustermark)": [
+  {
+   "name": "Berlin, Designer Outlet",
+   "address": {
+    "streetAddressLine1": "Alter Spandauer Weg 1",
+    "streetAddressLine2": null,
+    "streetAddressLine3": null,
+    "city": "Wustermark",
+    "countrySubdivisionCode": "BB",
+    "countryCode": "DE",
+    "postalCode": "14641",
+    "countyCode": null
+   },
+   "features": [
+    "WF",
+    "DR",
+    "XO"
+   ],
+   "openHours": [
+    {
+     "date": "2026-10-07",
+     "open": true,
+     "from": "09:30:00",
+     "to": "20:00:00"
+    },
+    {
+     "date": "2026-10-08",
+     "open": true,
+     "from": "09:30:00",
+     "to": "20:00:00"
+    },
+    {
+     "date": "2026-10-09",
+     "open": true,
+     "from": "09:30:00",
+     "to": "20:00:00"
+    },
+    {
+     "date": "2026-10-10",
+     "open": true,
+     "from": "09:30:00",
+     "to": "20:00:00"
+    },
+    {
+     "date": "2026-10-11",
+     "open": false,
+     "from": "00:00:00",
+     "to": "00:00:00"
+    },
+    {
+     "date": "2026-10-12",
+     "open": true,
+     "from": "09:30:00",
+     "to": "20:00:00"
+    },
+    {
+     "date": "2026-10-13",
+     "open": true,
+     "from": "09:30:00",
+     "to": "20:00:00"
+    }
+   ],
+   "coordinates": {
+    "latitude": 52.54055,
+    "longitude": 12.97895
+   }
+  }
+ ],
+ "Ochtrup Designer Outlet": [
+  {
+   "name": "Designer Outlet Ochtrup",
+   "address": {
+    "streetAddressLine1": "Laurenzstrasse 51 55",
+    "streetAddressLine2": null,
+    "streetAddressLine3": null,
+    "city": "Ochtrup",
+    "countrySubdivisionCode": "NW",
+    "countryCode": "DE",
+    "postalCode": "48607",
+    "countyCode": null
+   },
+   "features": [
+    "WF",
+    "DR",
+    "XO"
+   ],
+   "openHours": [
+    {
+     "date": "2026-10-07",
+     "open": true,
+     "from": "09:30:00",
+     "to": "20:00:00"
+    },
+    {
+     "date": "2026-10-08",
+     "open": true,
+     "from": "09:30:00",
+     "to": "20:00:00"
+    },
+    {
+     "date": "2026-10-09",
+     "open": true,
+     "from": "09:30:00",
+     "to": "20:00:00"
+    },
+    {
+     "date": "2026-10-10",
+     "open": true,
+     "from": "09:30:00",
+     "to": "20:00:00"
+    },
+    {
+     "date": "2026-10-11",
+     "open": false,
+     "from": "00:00:00",
+     "to": "00:00:00"
+    },
+    {
+     "date": "2026-10-12",
+     "open": true,
+     "from": "09:30:00",
+     "to": "20:00:00"
+    },
+    {
+     "date": "2026-10-13",
+     "open": true,
+     "from": "09:30:00",
+     "to": "20:00:00"
+    }
+   ],
+   "coordinates": {
+    "latitude": 52.20973,
+    "longitude": 7.19981
+   }
+  }
+ ],
+ "Bad Münstereifel City Outlet": [],
+ "Roermond Designer Outlet (NL)": [
+  {
+   "name": "Roermond - Outlet SC (Zuid)",
+   "address": {
+    "streetAddressLine1": "Stadsweide 100 Unit R00 033",
+    "streetAddressLine2": null,
+    "streetAddressLine3": null,
+    "city": "Roermond",
+    "countrySubdivisionCode": "LI",
+    "countryCode": "NL",
+    "postalCode": "6041 TD",
+    "countyCode": null
+   },
+   "features": [],
+   "openHours": [
+    {
+     "date": "2026-10-07",
+     "open": true,
+     "from": "10:00:00",
+     "to": "18:00:00"
+    },
+    {
+     "date": "2026-10-08",
+     "open": true,
+     "from": "10:00:00",
+     "to": "18:00:00"
+    },
+    {
+     "date": "2026-10-09",
+     "open": true,
+     "from": "10:00:00",
+     "to": "18:00:00"
+    },
+    {
+     "date": "2026-10-10",
+     "open": true,
+     "from": "10:00:00",
+     "to": "18:00:00"
+    },
+    {
+     "date": "2026-10-11",
+     "open": true,
+     "from": "10:00:00",
+     "to": "18:00:00"
+    },
+    {
+     "date": "2026-10-12",
+     "open": true,
+     "from": "10:00:00",
+     "to": "18:00:00"
+    },
+    {
+     "date": "2026-10-13",
+     "open": true,
+     "from": "10:00:00",
+     "to": "18:00:00"
+    }
+   ],
+   "coordinates": {
+    "latitude": 51.19901,
+    "longitude": 5.98792
+   }
+  },
+  {
+   "name": "Roermond - Outlet SC (Oost)",
+   "address": {
+    "streetAddressLine1": "Stadsweide 2",
+    "streetAddressLine2": null,
+    "streetAddressLine3": null,
+    "city": "Roermond",
+    "countrySubdivisionCode": "LI",
+    "countryCode": "NL",
+    "postalCode": "6041TD",
+    "countyCode": null
+   },
+   "features": [],
+   "openHours": [
+    {
+     "date": "2026-10-07",
+     "open": true,
+     "from": "10:00:00",
+     "to": "21:00:00"
+    },
+    {
+     "date": "2026-10-08",
+     "open": true,
+     "from": "10:00:00",
+     "to": "21:00:00"
+    },
+    {
+     "date": "2026-10-09",
+     "open": true,
+     "from": "10:00:00",
+     "to": "21:00:00"
+    },
+    {
+     "date": "2026-10-10",
+     "open": true,
+     "from": "10:00:00",
+     "to": "21:00:00"
+    },
+    {
+     "date": "2026-10-11",
+     "open": true,
+     "from": "10:00:00",
+     "to": "21:00:00"
+    },
+    {
+     "date": "2026-10-12",
+     "open": true,
+     "from": "10:00:00",
+     "to": "21:00:00"
+    },
+    {
+     "date": "2026-10-13",
+     "open": true,
+     "from": "10:00:00",
+     "to": "21:00:00"
+    }
+   ],
+   "coordinates": {
+    "latitude": 51.19942,
+    "longitude": 5.99104
+   }
+  },
+  {
+   "name": "Roermond - Outlet SC (Noord)",
+   "address": {
+    "streetAddressLine1": "Stadsweide 2 Unit A0 17",
+    "streetAddressLine2": null,
+    "streetAddressLine3": null,
+    "city": "Roermond",
+    "countrySubdivisionCode": "LI",
+    "countryCode": "NL",
+    "postalCode": "6041 TD",
+    "countyCode": null
+   },
+   "features": [],
+   "openHours": [
+    {
+     "date": "2026-10-07",
+     "open": true,
+     "from": "10:00:00",
+     "to": "18:00:00"
+    },
+    {
+     "date": "2026-10-08",
+     "open": true,
+     "from": "10:00:00",
+     "to": "18:00:00"
+    },
+    {
+     "date": "2026-10-09",
+     "open": true,
+     "from": "10:00:00",
+     "to": "18:00:00"
+    },
+    {
+     "date": "2026-10-10",
+     "open": true,
+     "from": "10:00:00",
+     "to": "18:00:00"
+    },
+    {
+     "date": "2026-10-11",
+     "open": true,
+     "from": "10:00:00",
+     "to": "18:00:00"
+    },
+    {
+     "date": "2026-10-12",
+     "open": true,
+     "from": "10:00:00",
+     "to": "18:00:00"
+    },
+    {
+     "date": "2026-10-13",
+     "open": true,
+     "from": "10:00:00",
+     "to": "18:00:00"
+    }
+   ],
+   "coordinates": {
+    "latitude": 51.20067,
+    "longitude": 5.98762
+   }
+  }
+ ],
+ "Landquart Fashion Outlet (CH)": [
+  {
+   "name": "Landquart Fashion Outlet",
+   "address": {
+    "streetAddressLine1": "Tardisstrasse 20a",
+    "streetAddressLine2": null,
+    "streetAddressLine3": null,
+    "city": "Landquart",
+    "countrySubdivisionCode": "GR",
+    "countryCode": "CH",
+    "postalCode": "7302",
+    "countyCode": null
+   },
+   "features": [
+    "DR",
+    "GO",
+    "XO"
+   ],
+   "openHours": [
+    {
+     "date": "2026-10-07",
+     "open": true,
+     "from": "08:00:00",
+     "to": "20:00:00"
+    },
+    {
+     "date": "2026-10-08",
+     "open": true,
+     "from": "08:00:00",
+     "to": "20:00:00"
+    },
+    {
+     "date": "2026-10-09",
+     "open": true,
+     "from": "08:00:00",
+     "to": "20:00:00"
+    },
+    {
+     "date": "2026-10-10",
+     "open": true,
+     "from": "08:00:00",
+     "to": "20:00:00"
+    },
+    {
+     "date": "2026-10-11",
+     "open": true,
+     "from": "08:30:00",
+     "to": "20:00:00"
+    },
+    {
+     "date": "2026-10-12",
+     "open": true,
+     "from": "08:00:00",
+     "to": "20:00:00"
+    },
+    {
+     "date": "2026-10-13",
+     "open": true,
+     "from": "08:00:00",
+     "to": "20:00:00"
+    }
+   ],
+   "coordinates": {
+    "latitude": 46.9634,
+    "longitude": 9.55333
+   }
+  }
+ ],
+ "Ingolstadt Village (retry)": [],
+ "Ingolstadt Westpark": [],
+ "Ingolstadt Zentrum": [],
+ "Wertheim Village (retry)": [],
+ "Bad Münstereifel (retry)": [],
+ "Roppenheim The Style Outlets (FR)": [],
+ "Geislingen City Outlet": [],
+ "Radolfzell Seemaxx": [],
+ "Selb Outlet": []
+}

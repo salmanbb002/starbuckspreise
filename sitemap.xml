@@ -22,7 +22,7 @@
   <url><loc>https://starbuckspreise.com/blog/starbucks-vegane-optionen</loc><changefreq>monthly</changefreq><priority>0.6</priority></url>
   <url><loc>https://starbuckspreise.com/blog/starbucks-tassen</loc><lastmod>2026-09-28</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url>
   <url><loc>https://starbuckspreise.com/blog/starbucks-tasse</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
-  <url><loc>https://starbuckspreise.com/blog/starbucks-getraenke</loc><lastmod>2026-09-28</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://starbuckspreise.com/blog/starbucks-getraenke</loc><lastmod>2026-10-07</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url>
   <url><loc>https://starbuckspreise.com/blog/starbucks-a-proximite</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
   <url><loc>https://starbuckspreise.com/blog/starbucks-geoeffnet</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
   <url>
@@ -83,7 +83,7 @@
   </url>
   <url>
     <loc>https://starbuckspreise.com/blog/starbucks-zweibruecken</loc>
-    <lastmod>2026-09-19</lastmod>
+    <lastmod>2026-10-07</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -113,7 +113,7 @@
   </url>
   <url>
     <loc>https://starbuckspreise.com/blog/starbucks-deutschland-filialen</loc>
-    <lastmod>2026-10-06</lastmod>
+    <lastmod>2026-10-07</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -179,7 +179,7 @@
   </url>
   <url>
     <loc>https://starbuckspreise.com/blog/starbucks-becher</loc>
-    <lastmod>2026-09-28</lastmod>
+    <lastmod>2026-10-07</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -227,7 +227,7 @@
   </url>
   <url>
     <loc>https://starbuckspreise.com/blog/starbucks-latte</loc>
-    <lastmod>2026-09-24</lastmod>
+    <lastmod>2026-10-07</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -245,7 +245,7 @@
   </url>
   <url>
     <loc>https://starbuckspreise.com/blog/starbucks-becher-aktuell</loc>
-    <lastmod>2026-09-28</lastmod>
+    <lastmod>2026-10-07</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -317,7 +317,7 @@
   </url>
   <url>
     <loc>https://starbuckspreise.com/blog/starbucks-gebaeck</loc>
-    <lastmod>2026-10-02</lastmod>
+    <lastmod>2026-10-07</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -335,7 +335,7 @@
   </url>
   <url>
     <loc>https://starbuckspreise.com/blog/starbucks-sirup</loc>
-    <lastmod>2026-10-02</lastmod>
+    <lastmod>2026-10-07</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -390,6 +390,30 @@
   <url>
     <loc>https://starbuckspreise.com/blog/starbucks-wlan</loc>
     <lastmod>2026-10-06</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://starbuckspreise.com/blog/starbucks-halloween</loc>
+    <lastmod>2026-10-07</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://starbuckspreise.com/blog/starbucks-vanilla-latte</loc>
+    <lastmod>2026-10-07</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://starbuckspreise.com/blog/starbucks-stanley</loc>
+    <lastmod>2026-10-07</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://starbuckspreise.com/blog/starbucks-outlet</loc>
+    <lastmod>2026-10-07</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>

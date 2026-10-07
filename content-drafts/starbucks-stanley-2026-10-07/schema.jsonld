@@ -1,0 +1,218 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "BlogPosting",
+      "@id": "https://starbuckspreise.com/blog/starbucks-stanley#article",
+      "headline": "Starbucks Stanley Cup: Gibt es ihn in Deutschland? (2026)",
+      "description": "Starbucks x Stanley: Den Quencher gibt es offiziell in den USA und Asien, nicht in deutschen Filialen. Alle Farben, Preise und sichere Wege zum Kauf.",
+      "inLanguage": "de-DE",
+      "datePublished": "2026-10-07",
+      "dateModified": "2026-10-07",
+      "mainEntityOfPage": "https://starbuckspreise.com/blog/starbucks-stanley",
+      "image": "https://starbuckspreise.com/img/blog/starbucks-stanley-hero.webp",
+      "author": {
+        "@type": "Organization",
+        "name": "StarbucksPreise Redaktion",
+        "url": "https://starbuckspreise.com/ueber-uns"
+      },
+      "publisher": {
+        "@type": "Organization",
+        "name": "StarbucksPreise",
+        "url": "https://starbuckspreise.com/",
+        "logo": {
+          "@type": "ImageObject",
+          "url": "TODO: https://starbuckspreise.com/<logo-file>"
+        }
+      },
+      "about": [
+        {
+          "@type": "Thing",
+          "name": "Starbucks x Stanley Quencher"
+        },
+        {
+          "@type": "Organization",
+          "name": "Stanley",
+          "sameAs": "https://en.wikipedia.org/wiki/Stanley_(drinkware_company)"
+        },
+        {
+          "@type": "Organization",
+          "name": "Starbucks",
+          "sameAs": [
+            "https://www.wikidata.org/wiki/Q37158",
+            "https://www.starbucks.de/"
+          ]
+        }
+      ],
+      "mentions": [
+        {
+          "@type": "Thing",
+          "name": "Stanley Quencher"
+        },
+        {
+          "@type": "Thing",
+          "name": "Tumbler"
+        },
+        {
+          "@type": "Organization",
+          "name": "Target Corporation",
+          "sameAs": "https://de.wikipedia.org/wiki/Target_Corporation"
+        },
+        {
+          "@type": "Organization",
+          "name": "AmRest",
+          "sameAs": "https://de.wikipedia.org/wiki/AmRest"
+        },
+        {
+          "@type": "Organization",
+          "name": "eBay",
+          "sameAs": "https://de.wikipedia.org/wiki/EBay"
+        },
+        {
+          "@type": "Thing",
+          "name": "Einfuhrumsatzsteuer",
+          "sameAs": "https://de.wikipedia.org/wiki/Einfuhrumsatzsteuer"
+        },
+        {
+          "@type": "Thing",
+          "name": "Winter Pink Quencher"
+        },
+        {
+          "@type": "Thing",
+          "name": "Sakura-Kollektion 2026"
+        },
+        {
+          "@type": "Thing",
+          "name": "Tumbler Luxor Black"
+        },
+        {
+          "@type": "Thing",
+          "name": "Thermobecher"
+        }
+      ],
+      "speakable": {
+        "@type": "SpeakableSpecification",
+        "cssSelector": [
+          "#direct-answer"
+        ]
+      }
+    },
+    {
+      "@type": "FAQPage",
+      "@id": "https://starbuckspreise.com/blog/starbucks-stanley#faq",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "Kann man den Starbucks Stanley Cup in Deutschland kaufen?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Nein, in deutschen Starbucks-Filialen und auf starbucks.de gibt es den Starbucks Stanley Cup nicht. Er wird in den USA und in einzelnen Märkten in Asien verkauft. In Deutschland bekommst du ihn nur über Wiederverkauf oder Import."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Was kostet der Starbucks Stanley Cup?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "In den USA kostete der Quencher mit 40 oz zuletzt 54,95 US-Dollar. Bis April 2024 lag der Preis bei 49,95 US-Dollar. Im Wiederverkauf liegen die Preise deutlich höher."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Wie groß ist der Starbucks Stanley Quencher?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Der Quencher fasst 40 oz, das sind 1,18 Liter. Damit ist er größer als jeder Becher bei Starbucks. Ein Venti-Becher für Kaltgetränke fasst 709 ml."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Wann kam der erste Starbucks Stanley heraus?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Die erste gemeinsame Edition erschien im Mai 2023 in den USA, exklusiv bei Target. Im November 2023 folgte eine rote Holiday-Version. Bekannt wurde die Kooperation durch den Winter Pink Quencher vom 3. Januar 2024."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Wird der pinke Starbucks Stanley wieder aufgelegt?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Der Winter Pink Quencher von Januar 2024 wurde nicht nachgeliefert. Das hat Starbucks damals gegenüber TODAY bestätigt. Im November 2024 erschien mit Berry Pink Glitter eine neue pinke Farbe."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Gibt es den Starbucks Stanley in Japan?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Ja, Starbucks Japan hat 2026 zwei Stanley-Stücke in der Sakura-Kollektion verkauft. Ein Tumbler mit 414 ml kostete 5.200 Yen, eine Flasche mit 473 ml 5.700 Yen. Verkaufsstart war der 4. März 2026."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Fallen beim Import eines Starbucks Stanley Zoll und Steuern an?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Ja. Laut Zoll fällt die Einfuhrumsatzsteuer von 19 Prozent ab 0 Euro Warenwert an. Seit dem 1. Juli 2026 kommt für Sendungen bis 150 Euro eine pauschale Zollabgabe von 3 Euro pro Warenkategorie dazu."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Woran erkenne ich einen echten Starbucks Stanley?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Vergleiche Farbe und Schriftzug mit den offiziellen Bildern von Starbucks zur jeweiligen Edition. Bitte den Verkäufer um eigene Fotos und kaufe mit Käuferschutz. Eine offizielle Prüfliste von Starbucks oder Stanley gibt es nicht."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Welcher Starbucks Becher ist die beste Alternative?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Der Tumbler Luxor Black kommt dem Stanley am nächsten. Er ist aus doppelwandigem Edelstahl, fasst 473 ml und kostet in Freiburg 24,90 €. Du bekommst ihn ohne Wartezeit in der Filiale."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Verkauft Stanley den Quencher in Deutschland?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Ja, Stanley verkauft den Quencher über seinen Shop für Europa. Dort gibt es ihn in mehreren Größen und Farben, zum Beispiel mit 30 oz und 40 oz."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Bekomme ich Rabatt, wenn ich meinen Stanley bei Starbucks nutze?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Mit eigenem Becher brauchst du keinen Einwegbecher, für den die Bestellkarte 0,05 € berechnet. Ob und wie viel Rabatt es zusätzlich gibt, erklärt der Ratgeber Starbucks Becher."
+          }
+        }
+      ]
+    },
+    {
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Startseite",
+          "item": "https://starbuckspreise.com/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Blog",
+          "item": "https://starbuckspreise.com/blog/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "Starbucks Stanley",
+          "item": "https://starbuckspreise.com/blog/starbucks-stanley"
+        }
+      ]
+    }
+  ]
+}
