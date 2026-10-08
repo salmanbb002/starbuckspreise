@@ -64,7 +64,7 @@ Dedupe / parked: half-caf (not verifiable for DE), Passion Tango / Mint Majesty 
 | H2 | 11. Welche koffeinfreie Bestellung passt zu dir? | – | decision table |
 
 ## 8. Internal links
-Out: kaffeebohnen, groessen, americano, kalorien-guide, mocha, tee, fuer-kinder, heisse-schokolade, refresha, matcha-latte, frappuccino-sorten, cold-brew, iced-coffee, preise, app, kapseln-angebot, milchalternativen, getraenke. In (15): americano, kaffeebohnen, kapseln-angebot, tee, mocha, pumpkin-spice-latte, vanilla-latte, kaffee, matcha-latte, protein, kalorien-guide, fuer-kinder, cappuccino, cold-brew, iced-coffee, plus hund. Cannibalisation: /blog/starbucks-fuer-kinder covers caffeine-free drinks for children (different intent); /blog/starbucks-tee owns tea; no page owned decaf.
+Out: kaffeebohnen, groessen, americano, kalorien-guide, mocha, tee, fuer-kinder, heisse-schokolade, refresha, matcha-latte, frappuccino-sorten, cold-brew, iced-coffee, preise, app, kapseln-angebot, milchalternativen, getraenke. In (22): americano, kaffeebohnen, kapseln-angebot, tee, mocha, pumpkin-spice-latte, vanilla-latte, kaffee, matcha-latte, protein, kalorien-guide, fuer-kinder, cappuccino, cold-brew, iced-coffee, latte, groessen, preise, getraenke, menu, /iced-caramel-macchiato, hund. Published 9 Oct 2026, commit e513174. Cannibalisation: /blog/starbucks-fuer-kinder covers caffeine-free drinks for children (different intent); /blog/starbucks-tee owns tea; no page owned decaf.
 
 ## 9. Own-site contradictions found (NOT changed, for the owner)
 - /blog/starbucks-heisse-schokolade and /blog/starbucks-fuer-kinder say Starbucks gives no caffeine value for hot chocolate ("nahe null"). The nutrition list gives 26,1 mg (Grande).
