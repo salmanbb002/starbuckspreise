@@ -26,6 +26,7 @@
 | S9 | starbucks.de/de/rewards | 3 Sterne pro Euro; Gold ab 450 Sternen; Gold: Sirups und Espresso-Shots kostenlos |
 | S10 | starbucksathome.com/de | Creamy Vanilla by Nespresso (10 Kapseln, Blonde Roast); Madagascar Vanilla Macchiato by Nescafé Dolce Gusto |
 | S11 | own /blog/starbucks-sirup research (tastingtable.com, US) | ~20 kcal and 5 g sugar per pump – US value, not DE |
+| S12 | Nährwert-PDF „Autumn – 10.09.2026 (Getränke Nährwerte)“, relative link on starbucks.de/de/nutrition (found 8 Oct 2026) | Caffè Latte Halbfettmilch: Short 74 kcal / 44,5 mg, Tall 124 / 89,1, Grande 151 / 89,1, Venti 204 / 133,6; sugar 6,9 / 11,5 / 14,2 / 19,1 g. Caramel Macchiato 167 / 214 / 272 kcal. Soy Protein Latte 155 / 194 / 256 kcal, 44,5 / 89,1 / 89,1 mg. No Vanilla Latte row, no syrup rows. |
 
 ## 4. Competitors
 | # | URL | What it has |
@@ -43,8 +44,9 @@ Relations: Vanilla Latte = Caffè Latte + Vanilla Sirup · size —sets→ 3/4/5
 ## 6. Information gain
 Pump presets per size from the official order menu, the "where is it listed" table, the worked calorie estimate and the comparison table.
 
-## 7. Calorie estimate (worked)
-Tall 129 + 3×20 = 189 ≈ 190 kcal · Grande 151 + 4×20 = 231 ≈ 230 kcal · Venti 204 + 5×20 = 304 ≈ 300 kcal. Sugar Grande 14,2 + 4×5 = 34,2 g. Yazio (220 kcal, no size) is in the same range. Official Caramel Macchiato Grande (214 kcal) is lower → estimate may be high; said so in the draft.
+## 7. Calorie estimate (worked) – corrected 8 Oct 2026
+**Correction:** the first version used the order-menu product JSON for the latte base (Tall 129 kcal, 44,5 mg, 1 shot; Venti 89,1 mg, 2 shots). Those are the Spring 2026 values. The Autumn nutrition list (S12) is newer: Tall 2 shots / 124 kcal / 89,1 mg, Venti 3 shots / 133,6 mg, as /blog/starbucks-kalorien-guide and /blog/starbucks-protein already said. The draft now uses S12 and mentions the order-menu discrepancy.
+Tall 124 + 3×20 = 184 ≈ 185 kcal (first version: 129 + 60 = 189) · Grande 151 + 4×20 = 231 ≈ 230 kcal · Venti 204 + 5×20 = 304 ≈ 300 kcal. Sugar Grande 14,2 + 4×5 = 34,2 g. Yazio (220 kcal, no size) is in the same range. Official Caramel Macchiato Grande (214 kcal) is lower → estimate may be high; said so in the draft.
 
 ## 8. Internal links
 latte, sirup, protein, kalorien-guide, groessen, app, preise, iced-coffee, milchalternativen, kapseln-angebot, /iced-caramel-macchiato. Inbound added from latte, sirup, getraenke. Cannibalisation: /blog/starbucks-latte owns "latte" (family overview); this page owns the vanilla variant.

@@ -2,7 +2,7 @@
 
 **Direkt-Antwort:** Der **Starbucks Vanilla Latte** ist ein **Caffè Latte** mit **Vanillesirup**: Espresso, gedämpfte Milch und eine dünne Schicht Milchschaum. In der deutschen Bestellkarte wählst du dafür Caffè Latte plus Vanilla Sirup. Voreingestellt sind je nach Größe 3, 4 oder 5 Pumpen. Der Caffè Latte kostet in Freiburg 4,90 €, der zuckerfreie Protein Vanilla Latte 5,90 €.
 
-Stand: 7. Oktober 2026. Rezept, Größen, Sirup-Pumpen und Nährwerte stammen von starbucks.de (Getränkeseite, Bestellkarte und Allergenliste „Autumn“ vom 10. September 2026). Die Preise stammen von der Bestellseite der Filiale Freiburg Hauptbahnhof. Starbucks nennt online keine einheitlichen Preise, sie können je nach Filiale abweichen.
+Stand: 7. Oktober 2026. Rezept, Größen, Sirup-Pumpen und Nährwerte stammen von starbucks.de (Getränkeseite, Bestellkarte sowie Nährwert- und Allergenliste „Autumn“ vom 10. September 2026). Die Preise stammen von der Bestellseite der Filiale Freiburg Hauptbahnhof. Starbucks nennt online keine einheitlichen Preise, sie können je nach Filiale abweichen.
 
 Der Vanilla Latte ist eines der beliebtesten Aromagetränke bei Starbucks, aber auf der deutschen Bestellkarte suchst du ihn als eigenen Eintrag vergeblich. Das verwirrt viele. Dieser Ratgeber zeigt, wo er steht, wie du ihn bestellst und was Sirup an Preis und Kalorien ändert.
 
@@ -22,6 +22,7 @@ Ja, aber nicht überall. Starbucks Deutschland führt den Vanilla Latte auf der 
 |---|---|---|
 | Getränkeseite „Hot Coffees“ auf starbucks.de | ja, mit Beschreibung | 7. Oktober 2026 |
 | Allergenliste „Autumn“ (PDF) | ja, mit sieben Milchsorten | 10. September 2026 |
+| Nährwertliste „Autumn“ (PDF) | nein, nur Caffè Latte ohne Sirup | 10. September 2026 |
 | Bestellkarte „Heiße Getränke“ (App und Web) | nein, nur als Caffè Latte plus Sirup | 7. Oktober 2026 |
 | Bestellseite Freiburg Hauptbahnhof | nein, nur Caffè Latte und Protein Vanilla Latte | 7. Oktober 2026 |
 
@@ -43,13 +44,15 @@ Du bestellst einen Caffè Latte und fügst **Vanilla Sirup** hinzu. In der App g
 
 Die deutsche Bestellkarte setzt 3 Pumpen im Tall, 4 im Grande und 5 im Venti. Das ist die Menge, die erscheint, wenn du den Sirup zum ersten Mal antippst. Du kannst die Zahl senken oder auf bis zu 12 Pumpen erhöhen.
 
-| Größe | Füllmenge heiß | Espresso-Shots | Vanilla Sirup (Voreinstellung) |
-|---|---|---|---|
-| Tall | 284 ml | 1 | 3 Pumpen |
-| Grande | 346 ml | 2 | 4 Pumpen |
-| Venti | 456 ml | 2 | 5 Pumpen |
+| Größe | Füllmenge heiß | Vanilla Sirup (Voreinstellung) |
+|---|---|---|
+| Tall | 284 ml | 3 Pumpen |
+| Grande | 346 ml | 4 Pumpen |
+| Venti | 456 ml | 5 Pumpen |
 
 Quelle: Bestellkarte auf starbucks.de, Produkt Caffè Latte, abgerufen am 7. Oktober 2026.
+
+Beim Espresso weichen zwei Angaben von Starbucks voneinander ab. Die Nährwertliste vom 10. September 2026 rechnet mit zwei Shots im Tall und im Grande und mit drei im Venti. Die Bestellkarte zeigt noch einen Shot im Tall und zwei im Venti. Das ist der Stand der älteren Frühjahrsliste.
 
 Wer es weniger süß mag, nimmt eine Pumpe weniger als voreingestellt. Der Vanillegeschmack bleibt, der Zucker sinkt um ein Viertel bis ein Drittel. Was die Größen bedeuten, erklärt die Übersicht [Tall, Grande, Venti](/blog/starbucks-groessen-tall-grande-venti).
 
@@ -81,19 +84,21 @@ Du sammelst 3 Sterne pro ausgegebenem Euro. Für 450 Sterne brauchst du also 150
 
 Ein Vanilla Latte in Grande hat rund 230 kcal, wenn du mit Halbfett-Milch und 4 Pumpen Sirup rechnest. Das ist eine Schätzung. Starbucks Deutschland nennt online nur die Werte für den Caffè Latte ohne Sirup.
 
-Die offiziellen Werte für die Basis: Ein **Caffè Latte** hat 129 kcal im Tall, 151 kcal im Grande und 204 kcal im Venti. Für den Sirup gibt es keine deutsche Angabe. Der US-Wert liegt bei etwa 20 kcal und 5 g Zucker pro Pumpe.
+Die offiziellen Werte für die Basis stehen in der Nährwertliste vom 10. September 2026: Ein **Caffè Latte** mit Halbfett-Milch hat 124 kcal im Tall, 151 kcal im Grande und 204 kcal im Venti. Für den Sirup gibt es keine deutsche Angabe. Der US-Wert liegt bei etwa 20 kcal und 5 g Zucker pro Pumpe.
 
 | Größe | Caffè Latte (offiziell) | Sirup (Schätzung) | Vanilla Latte (Schätzung) | Koffein |
 |---|---|---|---|---|
-| Tall | 129 kcal | 3 Pumpen, etwa 60 kcal | etwa 190 kcal | 44,5 mg |
+| Tall | 124 kcal | 3 Pumpen, etwa 60 kcal | etwa 185 kcal | 89,1 mg |
 | Grande | 151 kcal | 4 Pumpen, etwa 80 kcal | etwa 230 kcal | 89,1 mg |
-| Venti | 204 kcal | 5 Pumpen, etwa 100 kcal | etwa 300 kcal | 89,1 mg |
+| Venti | 204 kcal | 5 Pumpen, etwa 100 kcal | etwa 300 kcal | 133,6 mg |
 
-Quellen: Produktseite Caffè Latte auf starbucks.de (abgerufen am 7. Oktober 2026). Der Sirup-Wert pro Pumpe ist ein US-Wert von Tasting Table und für Deutschland nicht bestätigt.
+Quellen: Nährwertliste „Autumn“ von Starbucks Deutschland (PDF, Stand 10. September 2026). Der Sirup-Wert pro Pumpe ist ein US-Wert von Tasting Table und für Deutschland nicht bestätigt.
+
+Die Bestellkarte zeigt für den Tall noch 129 kcal und 44,5 mg Koffein, für den Venti 89,1 mg. Das entspricht der Frühjahrsliste 2026, in der Tall und Venti einen Espresso-Shot weniger hatten. Wir rechnen mit der neueren Nährwertliste.
 
 Die Schätzung passt zu anderen Angaben. Die Kalorientabelle von Yazio führt den Starbucks Vanilla Latte mit 220 kcal, nennt aber keine Größe. Beim Zucker kommen pro Pumpe rund 5 g dazu. Ein Grande landet so bei etwa 34 g, davon 14,2 g aus der Milch.
 
-Der Koffeingehalt ändert sich durch den Sirup nicht. Tall hat einen Shot, Grande und Venti haben zwei. Mehr Zahlen findest du im [Starbucks Kalorien-Guide](/blog/starbucks-kalorien-guide).
+Der Koffeingehalt ändert sich durch den Sirup nicht: Tall und Grande haben je 89,1 mg, der Venti 133,6 mg. Mehr Zahlen findest du im [Starbucks Kalorien-Guide](/blog/starbucks-kalorien-guide).
 
 ## 6. Gibt es einen zuckerfreien Vanilla Latte?
 
@@ -112,7 +117,7 @@ Der Soy Protein Vanilla Latte kombiniert Espresso Roast mit aufgeschäumtem Prot
 
 Quelle: Produktseiten auf starbucks.de, abgerufen am 7. Oktober 2026.
 
-Im Vergleich zum geschätzten Vanilla Latte spart der Protein Vanilla Latte in Grande rund 26 g Zucker. Dafür liefert er 16,6 g Eiweiß. Mehr dazu steht im Ratgeber [Starbucks Protein](/blog/starbucks-protein).
+Im Vergleich zum geschätzten Vanilla Latte spart der Protein Vanilla Latte in Grande rund 26 g Zucker. Dafür liefert er 16,6 g Eiweiß. Beim Koffein liegt er im Tall und im Venti einen Espresso-Shot unter dem normalen Caffè Latte. Mehr dazu steht im Ratgeber [Starbucks Protein](/blog/starbucks-protein).
 
 ### Sugar Free Vanilla Sirup im normalen Latte
 
@@ -182,7 +187,7 @@ Ein Vanilla Latte in Grande hat geschätzt rund 34 g Zucker. 14,2 g stammen laut
 
 ### Hat der Vanilla Latte Koffein?
 
-Ja. Ein Tall enthält einen Espresso-Shot mit 44,5 mg Koffein, Grande und Venti enthalten zwei Shots mit 89,1 mg. Mit der Bohne Decaf bekommst du ihn entkoffeiniert.
+Ja. Laut Nährwertliste von Starbucks Deutschland enthalten Tall und Grande je 89,1 mg Koffein, ein Venti 133,6 mg. Mit der Bohne Decaf bekommst du ihn entkoffeiniert.
 
 ### Gibt es den Vanilla Latte auch kalt?
 

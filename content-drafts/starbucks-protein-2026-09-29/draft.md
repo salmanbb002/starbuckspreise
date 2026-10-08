@@ -33,7 +33,7 @@ Ein Soy Protein Vanilla Latte im Grande hat 16,6 g Protein, der Soy Protein Matc
 | Soy Protein Matcha Latte Venti | 256 | 22,7 g | 11 g | 115 mg |
 | Iced Soy Protein Matcha Latte Grande | 137 | 12,1 g | 6 g | 86 mg |
 
-Der Vanilla Latte hat pro Größe einen Espresso-Shot weniger als ein normaler Caffè Latte. Tall hat 44,5 mg statt 89,1 mg Koffein, Venti 89,1 mg statt 133,6 mg. Der Matcha Latte hat im Venti mit 115 mg am meisten Koffein unter den Protein-Drinks.
+Der Vanilla Latte hat in Tall und Venti einen Espresso-Shot weniger als ein normaler Caffè Latte. Tall hat 44,5 mg statt 89,1 mg Koffein, Venti 89,1 mg statt 133,6 mg. Grundlage ist die Nährwertliste vom 10. September 2026. Die Bestellkarte auf starbucks.de zeigt beim Caffè Latte noch die älteren Werte mit 44,5 mg im Tall und 89,1 mg im Venti. Der Matcha Latte hat im Venti mit 115 mg am meisten Koffein unter den Protein-Drinks.
 
 ### Wie viel Zucker steckt drin?
 
