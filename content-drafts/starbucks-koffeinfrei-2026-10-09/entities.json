@@ -1,0 +1,406 @@
+[
+ {
+  "canonical": "Starbucks koffeinfrei",
+  "type": "Concept",
+  "aliases": [
+   "koffeinfreier Kaffee bei Starbucks"
+  ],
+  "sameAs": "",
+  "kind": "term",
+  "competitor_count": 2,
+  "in_title_or_h2": true,
+  "tier": 1,
+  "covered": true
+ },
+ {
+  "canonical": "Decaf",
+  "type": "Concept",
+  "aliases": [
+   "entkoffeiniert",
+   "entkoffeinierter Kaffee"
+  ],
+  "sameAs": "https://de.wikipedia.org/wiki/Entkoffeinierung",
+  "kind": "entity",
+  "competitor_count": 3,
+  "in_title_or_h2": true,
+  "tier": 1,
+  "covered": true
+ },
+ {
+  "canonical": "Koffein",
+  "type": "Concept",
+  "aliases": [
+   "Caffeine"
+  ],
+  "sameAs": "https://de.wikipedia.org/wiki/Coffein",
+  "kind": "entity",
+  "competitor_count": 3,
+  "in_title_or_h2": true,
+  "tier": 1,
+  "covered": true
+ },
+ {
+  "canonical": "Decaf Espresso Roast",
+  "type": "Product",
+  "aliases": [
+   "Entkoffeinierter Espresso Roast"
+  ],
+  "sameAs": "",
+  "kind": "entity",
+  "competitor_count": 1,
+  "in_title_or_h2": false,
+  "tier": 1,
+  "covered": true
+ },
+ {
+  "canonical": "Getränke ohne Koffein",
+  "type": "Concept",
+  "aliases": [
+   "koffeinfreie Getränke"
+  ],
+  "sameAs": "",
+  "kind": "term",
+  "competitor_count": 2,
+  "in_title_or_h2": true,
+  "tier": 1,
+  "covered": true
+ },
+ {
+  "canonical": "Bestellkarte",
+  "type": "Other",
+  "aliases": [
+   "Order menu",
+   "App"
+  ],
+  "sameAs": "",
+  "kind": "term",
+  "competitor_count": 0,
+  "in_title_or_h2": false,
+  "tier": 1,
+  "covered": true
+ },
+ {
+  "canonical": "Starbucks Deutschland",
+  "type": "Organization",
+  "aliases": [
+   "Starbucks"
+  ],
+  "sameAs": "https://www.wikidata.org/wiki/Q37158",
+  "kind": "entity",
+  "competitor_count": 0,
+  "in_title_or_h2": false,
+  "tier": 1,
+  "covered": true
+ },
+ {
+  "canonical": "Caffè Latte",
+  "type": "Product",
+  "aliases": [],
+  "sameAs": "https://de.wikipedia.org/wiki/Milchkaffee",
+  "kind": "entity",
+  "competitor_count": 1,
+  "in_title_or_h2": false,
+  "tier": 2,
+  "covered": true
+ },
+ {
+  "canonical": "Caffè Americano",
+  "type": "Product",
+  "aliases": [
+   "Americano"
+  ],
+  "sameAs": "https://de.wikipedia.org/wiki/Caff%C3%A8_americano",
+  "kind": "entity",
+  "competitor_count": 1,
+  "in_title_or_h2": false,
+  "tier": 2,
+  "covered": true
+ },
+ {
+  "canonical": "Cappuccino",
+  "type": "Product",
+  "aliases": [],
+  "sameAs": "https://de.wikipedia.org/wiki/Cappuccino",
+  "kind": "entity",
+  "competitor_count": 0,
+  "in_title_or_h2": false,
+  "tier": 2,
+  "covered": true
+ },
+ {
+  "canonical": "Frappuccino",
+  "type": "Product",
+  "aliases": [
+   "Cream Frappuccino"
+  ],
+  "sameAs": "https://de.wikipedia.org/wiki/Frappuccino",
+  "kind": "entity",
+  "competitor_count": 2,
+  "in_title_or_h2": true,
+  "tier": 2,
+  "covered": true
+ },
+ {
+  "canonical": "Kräutertee",
+  "type": "Product",
+  "aliases": [
+   "Mint Blend",
+   "Hibiscus"
+  ],
+  "sameAs": "https://de.wikipedia.org/wiki/Kr%C3%A4utertee",
+  "kind": "entity",
+  "competitor_count": 2,
+  "in_title_or_h2": false,
+  "tier": 2,
+  "covered": true
+ },
+ {
+  "canonical": "Heiße Schokolade",
+  "type": "Product",
+  "aliases": [
+   "Classic Hot Chocolate",
+   "Kakao"
+  ],
+  "sameAs": "https://de.wikipedia.org/wiki/Trinkschokolade",
+  "kind": "entity",
+  "competitor_count": 2,
+  "in_title_or_h2": true,
+  "tier": 2,
+  "covered": true
+ },
+ {
+  "canonical": "Refresha",
+  "type": "Product",
+  "aliases": [
+   "Refresher"
+  ],
+  "sameAs": "",
+  "kind": "entity",
+  "competitor_count": 1,
+  "in_title_or_h2": false,
+  "tier": 2,
+  "covered": true
+ },
+ {
+  "canonical": "Filterkaffee",
+  "type": "Product",
+  "aliases": [
+   "Pike Place Roast"
+  ],
+  "sameAs": "https://de.wikipedia.org/wiki/Filterkaffee",
+  "kind": "entity",
+  "competitor_count": 1,
+  "in_title_or_h2": false,
+  "tier": 2,
+  "covered": true
+ },
+ {
+  "canonical": "Cold Brew",
+  "type": "Product",
+  "aliases": [],
+  "sameAs": "",
+  "kind": "entity",
+  "competitor_count": 0,
+  "in_title_or_h2": false,
+  "tier": 2,
+  "covered": true
+ },
+ {
+  "canonical": "Eiskaffee",
+  "type": "Product",
+  "aliases": [
+   "Iced Caffè Latte",
+   "Iced Americano"
+  ],
+  "sameAs": "",
+  "kind": "term",
+  "competitor_count": 0,
+  "in_title_or_h2": true,
+  "tier": 2,
+  "covered": true
+ },
+ {
+  "canonical": "Preis",
+  "type": "Money",
+  "aliases": [
+   "Aufpreis"
+  ],
+  "sameAs": "",
+  "kind": "term",
+  "competitor_count": 0,
+  "in_title_or_h2": true,
+  "tier": 2,
+  "covered": true
+ },
+ {
+  "canonical": "Kaffeeverordnung",
+  "type": "Law",
+  "aliases": [
+   "KaffeeV"
+  ],
+  "sameAs": "",
+  "kind": "entity",
+  "competitor_count": 0,
+  "in_title_or_h2": false,
+  "tier": 2,
+  "covered": true
+ },
+ {
+  "canonical": "Schwangerschaft",
+  "type": "Concept",
+  "aliases": [],
+  "sameAs": "https://de.wikipedia.org/wiki/Schwangerschaft",
+  "kind": "term",
+  "competitor_count": 0,
+  "in_title_or_h2": true,
+  "tier": 2,
+  "covered": true
+ },
+ {
+  "canonical": "EFSA",
+  "type": "Organization",
+  "aliases": [
+   "Europäische Behörde für Lebensmittelsicherheit"
+  ],
+  "sameAs": "https://de.wikipedia.org/wiki/Europ%C3%A4ische_Beh%C3%B6rde_f%C3%BCr_Lebensmittelsicherheit",
+  "kind": "entity",
+  "competitor_count": 0,
+  "in_title_or_h2": false,
+  "tier": 2,
+  "covered": true
+ },
+ {
+  "canonical": "Nespresso-Kapseln",
+  "type": "Product",
+  "aliases": [
+   "Blonde Espresso Roast Decaf by Nespresso"
+  ],
+  "sameAs": "",
+  "kind": "entity",
+  "competitor_count": 1,
+  "in_title_or_h2": true,
+  "tier": 2,
+  "covered": true
+ },
+ {
+  "canonical": "Kaffeebohnen",
+  "type": "Product",
+  "aliases": [],
+  "sameAs": "",
+  "kind": "term",
+  "competitor_count": 0,
+  "in_title_or_h2": true,
+  "tier": 2,
+  "covered": true
+ },
+ {
+  "canonical": "Heiße Milch",
+  "type": "Product",
+  "aliases": [
+   "Hot Milk",
+   "Steamer"
+  ],
+  "sameAs": "",
+  "kind": "entity",
+  "competitor_count": 1,
+  "in_title_or_h2": false,
+  "tier": 2,
+  "covered": true
+ },
+ {
+  "canonical": "Chai Tea Latte",
+  "type": "Product",
+  "aliases": [],
+  "sameAs": "",
+  "kind": "entity",
+  "competitor_count": 1,
+  "in_title_or_h2": false,
+  "tier": 2,
+  "covered": true
+ },
+ {
+  "canonical": "Matcha",
+  "type": "Product",
+  "aliases": [
+   "Matcha Green Tea Latte"
+  ],
+  "sameAs": "",
+  "kind": "entity",
+  "competitor_count": 1,
+  "in_title_or_h2": false,
+  "tier": 2,
+  "covered": true
+ },
+ {
+  "canonical": "Blonde",
+  "type": "Product",
+  "aliases": [
+   "Blonde Espresso Roast"
+  ],
+  "sameAs": "",
+  "kind": "entity",
+  "competitor_count": 0,
+  "in_title_or_h2": false,
+  "tier": 3,
+  "covered": true
+ },
+ {
+  "canonical": "Direktes Kontaktverfahren",
+  "type": "Process",
+  "aliases": [
+   "Direct Contact Method"
+  ],
+  "sameAs": "",
+  "kind": "term",
+  "competitor_count": 1,
+  "in_title_or_h2": false,
+  "tier": 3,
+  "covered": true
+ },
+ {
+  "canonical": "Swiss-Water-Verfahren",
+  "type": "Process",
+  "aliases": [],
+  "sameAs": "",
+  "kind": "term",
+  "competitor_count": 1,
+  "in_title_or_h2": false,
+  "tier": 3,
+  "covered": true
+ },
+ {
+  "canonical": "Spiced Apple Tea",
+  "type": "Product",
+  "aliases": [],
+  "sameAs": "",
+  "kind": "entity",
+  "competitor_count": 0,
+  "in_title_or_h2": false,
+  "tier": 3,
+  "covered": true
+ },
+ {
+  "canonical": "White Hot Chocolate",
+  "type": "Product",
+  "aliases": [],
+  "sameAs": "",
+  "kind": "entity",
+  "competitor_count": 2,
+  "in_title_or_h2": false,
+  "tier": 3,
+  "covered": true
+ },
+ {
+  "canonical": "Bundesinstitut für Risikobewertung",
+  "type": "Organization",
+  "aliases": [
+   "BfR"
+  ],
+  "sameAs": "https://de.wikipedia.org/wiki/Bundesinstitut_f%C3%BCr_Risikobewertung",
+  "kind": "entity",
+  "competitor_count": 0,
+  "in_title_or_h2": false,
+  "tier": 3,
+  "covered": true
+ }
+]

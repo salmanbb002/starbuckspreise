@@ -1,0 +1,128 @@
+{
+  "slug": "/blog/starbucks-koffeinfrei",
+  "url": "https://starbuckspreise.com/blog/starbucks-koffeinfrei",
+  "date": "2026-10-09",
+  "crumb": "Starbucks koffeinfrei",
+  "title": "Starbucks koffeinfrei: Decaf & Getränke ohne Koffein (2026)",
+  "description": "Starbucks koffeinfrei: Fast jeder Espresso-Drink geht als Decaf ohne Aufpreis. Offizielle Koffeinwerte, Getränke mit 0 mg und Decaf-Kapseln für zu Hause.",
+  "published": "2026-10-09T12:00:00+02:00",
+  "about": [
+    {
+      "@type": "Thing",
+      "name": "Entkoffeinierter Kaffee",
+      "sameAs": "https://de.wikipedia.org/wiki/Entkoffeinierung"
+    },
+    {
+      "@type": "Thing",
+      "name": "Koffein",
+      "sameAs": "https://de.wikipedia.org/wiki/Coffein"
+    },
+    {
+      "@type": "Organization",
+      "name": "Starbucks",
+      "sameAs": [
+        "https://www.wikidata.org/wiki/Q37158",
+        "https://www.starbucks.de/"
+      ]
+    }
+  ],
+  "mentions": [
+    {
+      "@type": "Thing",
+      "name": "Decaf Espresso Roast"
+    },
+    {
+      "@type": "Thing",
+      "name": "Caffè Latte",
+      "sameAs": "https://de.wikipedia.org/wiki/Milchkaffee"
+    },
+    {
+      "@type": "Thing",
+      "name": "Caffè Americano",
+      "sameAs": "https://de.wikipedia.org/wiki/Caff%C3%A8_americano"
+    },
+    {
+      "@type": "Thing",
+      "name": "Frappuccino",
+      "sameAs": "https://de.wikipedia.org/wiki/Frappuccino"
+    },
+    {
+      "@type": "Thing",
+      "name": "Cold Brew"
+    },
+    {
+      "@type": "Thing",
+      "name": "Filterkaffee",
+      "sameAs": "https://de.wikipedia.org/wiki/Filterkaffee"
+    },
+    {
+      "@type": "Thing",
+      "name": "Heiße Schokolade",
+      "sameAs": "https://de.wikipedia.org/wiki/Trinkschokolade"
+    },
+    {
+      "@type": "Thing",
+      "name": "Kräutertee",
+      "sameAs": "https://de.wikipedia.org/wiki/Kr%C3%A4utertee"
+    },
+    {
+      "@type": "Thing",
+      "name": "Starbucks Refresha"
+    },
+    {
+      "@type": "Thing",
+      "name": "Kaffeeverordnung"
+    },
+    {
+      "@type": "Organization",
+      "name": "Europäische Behörde für Lebensmittelsicherheit",
+      "sameAs": "https://de.wikipedia.org/wiki/Europ%C3%A4ische_Beh%C3%B6rde_f%C3%BCr_Lebensmittelsicherheit"
+    },
+    {
+      "@type": "Organization",
+      "name": "Bundesinstitut für Risikobewertung",
+      "sameAs": "https://de.wikipedia.org/wiki/Bundesinstitut_f%C3%BCr_Risikobewertung"
+    },
+    {
+      "@type": "Thing",
+      "name": "Starbucks Blonde Espresso Roast Decaf by Nespresso"
+    },
+    {
+      "@type": "Thing",
+      "name": "Schwangerschaft",
+      "sameAs": "https://de.wikipedia.org/wiki/Schwangerschaft"
+    }
+  ],
+  "howto": {
+    "@type": "HowTo",
+    "@id": "https://starbuckspreise.com/blog/starbucks-koffeinfrei/#howto",
+    "name": "Wie bestellst du koffeinfrei bei Starbucks?",
+    "step": [
+      {
+        "@type": "HowToStep",
+        "position": 1,
+        "text": "Wähle ein Getränk mit Espresso, zum Beispiel Caffè Latte, Cappuccino oder Caffè Americano."
+      },
+      {
+        "@type": "HowToStep",
+        "position": 2,
+        "text": "Lege die Größe fest: Tall, Grande oder Venti. Größere Becher enthalten meist mehr Shots."
+      },
+      {
+        "@type": "HowToStep",
+        "position": 3,
+        "text": "Tippe bei der Bohnenauswahl auf Decaf. Voreingestellt ist Signature Espresso."
+      },
+      {
+        "@type": "HowToStep",
+        "position": 4,
+        "text": "Passe Milch und Sirup an. Beides ändert am Koffein nichts."
+      },
+      {
+        "@type": "HowToStep",
+        "position": 5,
+        "text": "Sag an der Theke „Decaf“ oder „entkoffeiniert“ zusammen mit dem Getränk."
+      }
+    ]
+  }
+}

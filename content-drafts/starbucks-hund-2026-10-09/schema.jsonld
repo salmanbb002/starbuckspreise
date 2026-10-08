@@ -1,0 +1,281 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "BlogPosting",
+      "@id": "https://starbuckspreise.com/blog/starbucks-hund#article",
+      "headline": "Starbucks Hund: Sind Hunde erlaubt & gibt es Puppuccino?",
+      "description": "Starbucks mit Hund: In Deutschland entscheidet die Filiale. Der Puppuccino steht nicht auf der Karte. Was erlaubt ist und was Sahne für Hunde bedeutet.",
+      "inLanguage": "de-DE",
+      "datePublished": "2026-10-09",
+      "dateModified": "2026-10-09",
+      "mainEntityOfPage": "https://starbuckspreise.com/blog/starbucks-hund",
+      "image": "https://starbuckspreise.com/img/blog/starbucks-hund-hero.webp",
+      "author": {
+        "@type": "Organization",
+        "name": "StarbucksPreise Redaktion",
+        "url": "https://starbuckspreise.com/ueber-uns"
+      },
+      "publisher": {
+        "@type": "Organization",
+        "name": "StarbucksPreise",
+        "url": "https://starbuckspreise.com/",
+        "logo": {
+          "@type": "ImageObject",
+          "url": "TODO: https://starbuckspreise.com/<logo-file>"
+        }
+      },
+      "about": [
+        {
+          "@type": "Thing",
+          "name": "Puppuccino"
+        },
+        {
+          "@type": "Thing",
+          "name": "Haushund",
+          "sameAs": "https://de.wikipedia.org/wiki/Haushund"
+        },
+        {
+          "@type": "Organization",
+          "name": "Starbucks",
+          "sameAs": [
+            "https://www.wikidata.org/wiki/Q37158",
+            "https://www.starbucks.de/"
+          ]
+        }
+      ],
+      "mentions": [
+        {
+          "@type": "Thing",
+          "name": "Hausrecht",
+          "sameAs": "https://de.wikipedia.org/wiki/Hausrecht"
+        },
+        {
+          "@type": "Thing",
+          "name": "Assistenzhund",
+          "sameAs": "https://de.wikipedia.org/wiki/Assistenzhund"
+        },
+        {
+          "@type": "Thing",
+          "name": "Behindertengleichstellungsgesetz",
+          "sameAs": "https://de.wikipedia.org/wiki/Behindertengleichstellungsgesetz_(Deutschland)"
+        },
+        {
+          "@type": "Thing",
+          "name": "Verordnung (EG) Nr. 852/2004"
+        },
+        {
+          "@type": "Thing",
+          "name": "Schlagsahne",
+          "sameAs": "https://de.wikipedia.org/wiki/Sahne"
+        },
+        {
+          "@type": "Thing",
+          "name": "Laktoseintoleranz",
+          "sameAs": "https://de.wikipedia.org/wiki/Laktoseintoleranz"
+        },
+        {
+          "@type": "Thing",
+          "name": "Theobromin",
+          "sameAs": "https://de.wikipedia.org/wiki/Theobromin"
+        },
+        {
+          "@type": "Thing",
+          "name": "Xylit",
+          "sameAs": "https://de.wikipedia.org/wiki/Xylit"
+        },
+        {
+          "@type": "Thing",
+          "name": "Koffein",
+          "sameAs": "https://de.wikipedia.org/wiki/Coffein"
+        },
+        {
+          "@type": "Organization",
+          "name": "Deutsche Bahn",
+          "sameAs": "https://de.wikipedia.org/wiki/Deutsche_Bahn"
+        },
+        {
+          "@type": "Organization",
+          "name": "American Kennel Club",
+          "sameAs": "https://de.wikipedia.org/wiki/American_Kennel_Club"
+        },
+        {
+          "@type": "Organization",
+          "name": "TASSO",
+          "sameAs": "https://de.wikipedia.org/wiki/Tasso_(Verein)"
+        },
+        {
+          "@type": "Thing",
+          "name": "Drive-Through"
+        },
+        {
+          "@type": "Thing",
+          "name": "Starbucks App"
+        }
+      ],
+      "speakable": {
+        "@type": "SpeakableSpecification",
+        "cssSelector": [
+          "#direct-answer"
+        ]
+      }
+    },
+    {
+      "@type": "FAQPage",
+      "@id": "https://starbuckspreise.com/blog/starbucks-hund#faq",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "Dürfen Hunde bei Starbucks rein?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Das entscheidet die einzelne Filiale. In Deutschland gibt es kein gesetzliches Hundeverbot für Cafés, der Betreiber hat das Hausrecht. Starbucks Deutschland veröffentlicht keine einheitliche Regel, frag deshalb an der Theke."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Gibt es den Puppuccino in Deutschland?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Offiziell gibt es ihn nicht. In der deutschen Bestellkarte standen am 9. Oktober 2026 135 Produkte, keines heißt Puppuccino oder Pup Cup. Schlagsahne ist als Topping in jeder Filiale vorhanden, du kannst also danach fragen."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Was kostet ein Puppuccino?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Einen Preis veröffentlicht Starbucks Deutschland nicht. In den USA wird der Becher laut Dexerto meist nicht berechnet. In Deutschland entscheidet die Filiale, ob sie die Sahne schenkt oder berechnet."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Was ist in einem Puppuccino drin?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Ein Puppuccino besteht aus Schlagsahne in einem kleinen Becher. Kaffee, Koffein oder Schokolade sind nicht enthalten. Starbucks Deutschland beschreibt seine Sahne an anderer Stelle als gesüßte Schlagsahne."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Ist ein Puppuccino schädlich für Hunde?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Für einen gesunden Hund ist eine kleine Portion kein Gift, aber auch kein gesunder Snack. Sahne enthält Laktose, mindestens 30 Prozent Fett und Zucker. Der American Kennel Club rät bei Übergewicht, Diabetes, Milchunverträglichkeit und Problemen mit der Bauchspeicheldrüse davon ab."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Wie oft darf ein Hund Schlagsahne bekommen?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Eine feste Zahl gibt es nicht, Sahne sollte die Ausnahme bleiben. Laut Petbook sollen Leckerlis weniger als zehn Prozent der täglichen Futtermenge ausmachen. Wie viel dein Hund verträgt, klärst du mit dem Tierarzt."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Kann ich den Puppuccino in der Starbucks App bestellen?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Nein, in der App gibt es ihn nicht. Die deutsche Bestellkarte führt kein Produkt für Hunde, und auch in den USA lässt er sich laut Dexerto nicht mobil bestellen. Du musst an der Theke fragen."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Gibt es bei Starbucks Hundeeis?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Nein, Starbucks Deutschland verkauft kein Hundeeis. Die Bestellkarte enthält kein Produkt für Tiere. Auch die Merchandise-Seite führt nichts für Hunde."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Verkauft Starbucks Hundespielzeug oder Hundebecher?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "In Deutschland nicht. Auf der Merchandise-Seite von starbucks.de standen am 9. Oktober 2026 nur Becher, Tassen und Tumbler. Spielzeug im Starbucks-Look aus dem Internet gehört nicht zum deutschen Sortiment."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Darf mein Assistenzhund mit in die Filiale?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Ja, Assistenzhunde haben ein gesetzliches Zutrittsrecht. § 12e des Behindertengleichstellungsgesetzes verbietet es Betreibern, den Zutritt wegen des Assistenzhundes zu verweigern. Der Hund muss als Assistenzhund gekennzeichnet sein."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Dürfen Hunde in eine Starbucks-Filiale im Bahnhof?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Im Bahnhof gilt zuerst die Hausordnung der Deutschen Bahn. Sie untersagt das Führen von Hunden ohne Leine und ohne geeigneten Maulkorb. Ob der Hund in die Filiale selbst darf, entscheidet zusätzlich das Personal vor Ort."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Darf mein Hund einen Schluck von meinem Kaffee haben?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Nein, Kaffee ist für Hunde tabu. Koffein bauen Hunde laut TASSO deutlich schlechter ab als Menschen. Das gilt auch für Tee, Kakao und Getränke mit Schokolade."
+          }
+        }
+      ]
+    },
+    {
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Startseite",
+          "item": "https://starbuckspreise.com/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Blog",
+          "item": "https://starbuckspreise.com/blog/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "Starbucks Hund",
+          "item": "https://starbuckspreise.com/blog/starbucks-hund"
+        }
+      ]
+    },
+    {
+      "@type": "HowTo",
+      "@id": "https://starbuckspreise.com/blog/starbucks-hund/#howto",
+      "name": "Wie fragst du bei Starbucks nach einem Puppuccino?",
+      "step": [
+        {
+          "@type": "HowToStep",
+          "position": 1,
+          "text": "Frag zuerst, ob dein Hund mit hinein darf, oder lass ihn bei einer zweiten Person draußen."
+        },
+        {
+          "@type": "HowToStep",
+          "position": 2,
+          "text": "Bestell selbst etwas. Der Becher ist eine Gefälligkeit und kein eigenes Produkt."
+        },
+        {
+          "@type": "HowToStep",
+          "position": 3,
+          "text": "Bitte um einen kleinen Becher mit etwas Schlagsahne für deinen Hund."
+        },
+        {
+          "@type": "HowToStep",
+          "position": 4,
+          "text": "Akzeptiere ein Nein. Die Filiale muss den Wunsch nicht erfüllen."
+        },
+        {
+          "@type": "HowToStep",
+          "position": 5,
+          "text": "Gib die Sahne vor der Tür und nicht an der Theke."
+        }
+      ]
+    }
+  ]
+}

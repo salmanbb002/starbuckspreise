@@ -1,0 +1,357 @@
+[
+ {
+  "canonical": "Starbucks",
+  "type": "Organization",
+  "aliases": [
+   "Starbucks Deutschland"
+  ],
+  "sameAs": "https://www.wikidata.org/wiki/Q37158",
+  "kind": "entity",
+  "competitor_count": 4,
+  "in_title_or_h2": true,
+  "tier": 1,
+  "covered": true
+ },
+ {
+  "canonical": "Hund",
+  "type": "Animal",
+  "aliases": [
+   "Haushund",
+   "Vierbeiner"
+  ],
+  "sameAs": "https://de.wikipedia.org/wiki/Haushund",
+  "kind": "entity",
+  "competitor_count": 4,
+  "in_title_or_h2": true,
+  "tier": 1,
+  "covered": true
+ },
+ {
+  "canonical": "Puppuccino",
+  "type": "Product",
+  "aliases": [
+   "Pup Cup"
+  ],
+  "sameAs": "",
+  "kind": "entity",
+  "competitor_count": 4,
+  "in_title_or_h2": true,
+  "tier": 1,
+  "covered": true
+ },
+ {
+  "canonical": "Hausrecht",
+  "type": "Concept",
+  "aliases": [],
+  "sameAs": "https://de.wikipedia.org/wiki/Hausrecht",
+  "kind": "entity",
+  "competitor_count": 0,
+  "in_title_or_h2": false,
+  "tier": 1,
+  "covered": true
+ },
+ {
+  "canonical": "Schlagsahne",
+  "type": "Product",
+  "aliases": [
+   "Sahne",
+   "Whipped cream"
+  ],
+  "sameAs": "https://de.wikipedia.org/wiki/Sahne",
+  "kind": "entity",
+  "competitor_count": 4,
+  "in_title_or_h2": true,
+  "tier": 1,
+  "covered": true
+ },
+ {
+  "canonical": "Filiale",
+  "type": "Place",
+  "aliases": [
+   "Coffee House",
+   "Store"
+  ],
+  "sameAs": "",
+  "kind": "term",
+  "competitor_count": 2,
+  "in_title_or_h2": false,
+  "tier": 1,
+  "covered": true
+ },
+ {
+  "canonical": "Assistenzhund",
+  "type": "Concept",
+  "aliases": [
+   "Blindenführhund",
+   "Service animal"
+  ],
+  "sameAs": "https://de.wikipedia.org/wiki/Assistenzhund",
+  "kind": "entity",
+  "competitor_count": 1,
+  "in_title_or_h2": true,
+  "tier": 2,
+  "covered": true
+ },
+ {
+  "canonical": "§ 12e Behindertengleichstellungsgesetz",
+  "type": "Law",
+  "aliases": [
+   "BGG"
+  ],
+  "sameAs": "https://de.wikipedia.org/wiki/Behindertengleichstellungsgesetz_(Deutschland)",
+  "kind": "entity",
+  "competitor_count": 0,
+  "in_title_or_h2": false,
+  "tier": 2,
+  "covered": true
+ },
+ {
+  "canonical": "Verordnung (EG) Nr. 852/2004",
+  "type": "Law",
+  "aliases": [
+   "Lebensmittelhygiene-Verordnung der EU"
+  ],
+  "sameAs": "",
+  "kind": "entity",
+  "competitor_count": 0,
+  "in_title_or_h2": false,
+  "tier": 2,
+  "covered": true
+ },
+ {
+  "canonical": "Bahnhof",
+  "type": "Place",
+  "aliases": [
+   "Hausordnung der Deutschen Bahn"
+  ],
+  "sameAs": "https://de.wikipedia.org/wiki/Deutsche_Bahn",
+  "kind": "entity",
+  "competitor_count": 0,
+  "in_title_or_h2": true,
+  "tier": 2,
+  "covered": true
+ },
+ {
+  "canonical": "Drive-Through",
+  "type": "Concept",
+  "aliases": [
+   "Drive-in",
+   "Drive-Thru"
+  ],
+  "sameAs": "",
+  "kind": "term",
+  "competitor_count": 0,
+  "in_title_or_h2": true,
+  "tier": 2,
+  "covered": true
+ },
+ {
+  "canonical": "Bestellkarte",
+  "type": "Other",
+  "aliases": [
+   "Karte",
+   "Menu"
+  ],
+  "sameAs": "",
+  "kind": "term",
+  "competitor_count": 2,
+  "in_title_or_h2": false,
+  "tier": 2,
+  "covered": true
+ },
+ {
+  "canonical": "Laktose",
+  "type": "Concept",
+  "aliases": [
+   "Milchzucker",
+   "Laktoseintoleranz"
+  ],
+  "sameAs": "https://de.wikipedia.org/wiki/Laktoseintoleranz",
+  "kind": "entity",
+  "competitor_count": 2,
+  "in_title_or_h2": false,
+  "tier": 2,
+  "covered": true
+ },
+ {
+  "canonical": "Fett",
+  "type": "Metric",
+  "aliases": [],
+  "sameAs": "",
+  "kind": "term",
+  "competitor_count": 1,
+  "in_title_or_h2": false,
+  "tier": 2,
+  "covered": true
+ },
+ {
+  "canonical": "Zucker",
+  "type": "Metric",
+  "aliases": [
+   "gesüßte Schlagsahne"
+  ],
+  "sameAs": "",
+  "kind": "term",
+  "competitor_count": 1,
+  "in_title_or_h2": false,
+  "tier": 2,
+  "covered": true
+ },
+ {
+  "canonical": "Tierarzt",
+  "type": "Person",
+  "aliases": [
+   "Veterinarian"
+  ],
+  "sameAs": "",
+  "kind": "term",
+  "competitor_count": 2,
+  "in_title_or_h2": false,
+  "tier": 2,
+  "covered": true
+ },
+ {
+  "canonical": "Koffein",
+  "type": "Concept",
+  "aliases": [],
+  "sameAs": "https://de.wikipedia.org/wiki/Coffein",
+  "kind": "entity",
+  "competitor_count": 2,
+  "in_title_or_h2": false,
+  "tier": 2,
+  "covered": true
+ },
+ {
+  "canonical": "Theobromin",
+  "type": "Concept",
+  "aliases": [
+   "Schokolade"
+  ],
+  "sameAs": "https://de.wikipedia.org/wiki/Theobromin",
+  "kind": "entity",
+  "competitor_count": 1,
+  "in_title_or_h2": false,
+  "tier": 2,
+  "covered": true
+ },
+ {
+  "canonical": "Xylit",
+  "type": "Concept",
+  "aliases": [
+   "Xylitol"
+  ],
+  "sameAs": "https://de.wikipedia.org/wiki/Xylit",
+  "kind": "entity",
+  "competitor_count": 1,
+  "in_title_or_h2": false,
+  "tier": 2,
+  "covered": true
+ },
+ {
+  "canonical": "Preis",
+  "type": "Money",
+  "aliases": [
+   "kostenlos"
+  ],
+  "sameAs": "",
+  "kind": "term",
+  "competitor_count": 2,
+  "in_title_or_h2": false,
+  "tier": 2,
+  "covered": true
+ },
+ {
+  "canonical": "Starbucks App",
+  "type": "Product",
+  "aliases": [
+   "mobiles Bestellen"
+  ],
+  "sameAs": "",
+  "kind": "entity",
+  "competitor_count": 1,
+  "in_title_or_h2": true,
+  "tier": 2,
+  "covered": true
+ },
+ {
+  "canonical": "Filialfinder",
+  "type": "Other",
+  "aliases": [
+   "Store Locator"
+  ],
+  "sameAs": "",
+  "kind": "term",
+  "competitor_count": 0,
+  "in_title_or_h2": false,
+  "tier": 2,
+  "covered": true
+ },
+ {
+  "canonical": "Hundeeis",
+  "type": "Product",
+  "aliases": [],
+  "sameAs": "",
+  "kind": "term",
+  "competitor_count": 0,
+  "in_title_or_h2": true,
+  "tier": 3,
+  "covered": true
+ },
+ {
+  "canonical": "Hundespielzeug",
+  "type": "Product",
+  "aliases": [],
+  "sameAs": "",
+  "kind": "term",
+  "competitor_count": 0,
+  "in_title_or_h2": true,
+  "tier": 3,
+  "covered": true
+ },
+ {
+  "canonical": "Vegane Schlagcreme",
+  "type": "Product",
+  "aliases": [],
+  "sameAs": "",
+  "kind": "entity",
+  "competitor_count": 0,
+  "in_title_or_h2": false,
+  "tier": 3,
+  "covered": true
+ },
+ {
+  "canonical": "Rosinen",
+  "type": "Product",
+  "aliases": [],
+  "sameAs": "",
+  "kind": "term",
+  "competitor_count": 0,
+  "in_title_or_h2": false,
+  "tier": 3,
+  "covered": true
+ },
+ {
+  "canonical": "American Kennel Club",
+  "type": "Organization",
+  "aliases": [
+   "AKC"
+  ],
+  "sameAs": "https://de.wikipedia.org/wiki/American_Kennel_Club",
+  "kind": "entity",
+  "competitor_count": 1,
+  "in_title_or_h2": false,
+  "tier": 3,
+  "covered": true
+ },
+ {
+  "canonical": "TASSO",
+  "type": "Organization",
+  "aliases": [],
+  "sameAs": "https://de.wikipedia.org/wiki/Tasso_(Verein)",
+  "kind": "entity",
+  "competitor_count": 0,
+  "in_title_or_h2": false,
+  "tier": 3,
+  "covered": true
+ }
+]

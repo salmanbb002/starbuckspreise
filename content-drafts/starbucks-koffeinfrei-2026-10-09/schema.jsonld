@@ -1,0 +1,280 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "BlogPosting",
+      "@id": "https://starbuckspreise.com/blog/starbucks-koffeinfrei#article",
+      "headline": "Starbucks koffeinfrei: Decaf & Getränke ohne Koffein (2026)",
+      "description": "Starbucks koffeinfrei: Fast jeder Espresso-Drink geht als Decaf ohne Aufpreis. Offizielle Koffeinwerte, Getränke mit 0 mg und Decaf-Kapseln für zu Hause.",
+      "inLanguage": "de-DE",
+      "datePublished": "2026-10-09",
+      "dateModified": "2026-10-09",
+      "mainEntityOfPage": "https://starbuckspreise.com/blog/starbucks-koffeinfrei",
+      "image": "https://starbuckspreise.com/img/blog/starbucks-koffeinfrei-hero.webp",
+      "author": {
+        "@type": "Organization",
+        "name": "StarbucksPreise Redaktion",
+        "url": "https://starbuckspreise.com/ueber-uns"
+      },
+      "publisher": {
+        "@type": "Organization",
+        "name": "StarbucksPreise",
+        "url": "https://starbuckspreise.com/",
+        "logo": {
+          "@type": "ImageObject",
+          "url": "TODO: https://starbuckspreise.com/<logo-file>"
+        }
+      },
+      "about": [
+        {
+          "@type": "Thing",
+          "name": "Entkoffeinierter Kaffee",
+          "sameAs": "https://de.wikipedia.org/wiki/Entkoffeinierung"
+        },
+        {
+          "@type": "Thing",
+          "name": "Koffein",
+          "sameAs": "https://de.wikipedia.org/wiki/Coffein"
+        },
+        {
+          "@type": "Organization",
+          "name": "Starbucks",
+          "sameAs": [
+            "https://www.wikidata.org/wiki/Q37158",
+            "https://www.starbucks.de/"
+          ]
+        }
+      ],
+      "mentions": [
+        {
+          "@type": "Thing",
+          "name": "Decaf Espresso Roast"
+        },
+        {
+          "@type": "Thing",
+          "name": "Caffè Latte",
+          "sameAs": "https://de.wikipedia.org/wiki/Milchkaffee"
+        },
+        {
+          "@type": "Thing",
+          "name": "Caffè Americano",
+          "sameAs": "https://de.wikipedia.org/wiki/Caff%C3%A8_americano"
+        },
+        {
+          "@type": "Thing",
+          "name": "Frappuccino",
+          "sameAs": "https://de.wikipedia.org/wiki/Frappuccino"
+        },
+        {
+          "@type": "Thing",
+          "name": "Cold Brew"
+        },
+        {
+          "@type": "Thing",
+          "name": "Filterkaffee",
+          "sameAs": "https://de.wikipedia.org/wiki/Filterkaffee"
+        },
+        {
+          "@type": "Thing",
+          "name": "Heiße Schokolade",
+          "sameAs": "https://de.wikipedia.org/wiki/Trinkschokolade"
+        },
+        {
+          "@type": "Thing",
+          "name": "Kräutertee",
+          "sameAs": "https://de.wikipedia.org/wiki/Kr%C3%A4utertee"
+        },
+        {
+          "@type": "Thing",
+          "name": "Starbucks Refresha"
+        },
+        {
+          "@type": "Thing",
+          "name": "Kaffeeverordnung"
+        },
+        {
+          "@type": "Organization",
+          "name": "Europäische Behörde für Lebensmittelsicherheit",
+          "sameAs": "https://de.wikipedia.org/wiki/Europ%C3%A4ische_Beh%C3%B6rde_f%C3%BCr_Lebensmittelsicherheit"
+        },
+        {
+          "@type": "Organization",
+          "name": "Bundesinstitut für Risikobewertung",
+          "sameAs": "https://de.wikipedia.org/wiki/Bundesinstitut_f%C3%BCr_Risikobewertung"
+        },
+        {
+          "@type": "Thing",
+          "name": "Starbucks Blonde Espresso Roast Decaf by Nespresso"
+        },
+        {
+          "@type": "Thing",
+          "name": "Schwangerschaft",
+          "sameAs": "https://de.wikipedia.org/wiki/Schwangerschaft"
+        }
+      ],
+      "speakable": {
+        "@type": "SpeakableSpecification",
+        "cssSelector": [
+          "#direct-answer"
+        ]
+      }
+    },
+    {
+      "@type": "FAQPage",
+      "@id": "https://starbuckspreise.com/blog/starbucks-koffeinfrei#faq",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "Hat Starbucks entkoffeinierten Kaffee?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Ja, Starbucks Deutschland bietet Decaf an. In der Bestellkarte lässt sich bei 25 von 31 geprüften Kaffeegetränken die Bohne Decaf wählen. Dazu gehören Caffè Latte, Cappuccino, Caffè Americano und Caramel Macchiato."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Ist Decaf bei Starbucks komplett koffeinfrei?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Nein, Decaf enthält einen kleinen Rest Koffein. Ein Shot Decaf Espresso hat 1,8 mg, ein normaler Shot 44,5 mg. Die Kaffeeverordnung erlaubt bei entkoffeiniertem Röstkaffee bis zu 0,1 Prozent Koffein in der Trockenmasse."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Kostet Decaf bei Starbucks einen Aufpreis?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Die Bestellkarte zeigt für Decaf keinen Aufpreis. Die Bohne steht dort wie Signature Espresso und Blonde ohne Preisangabe. Verbindlich ist der Betrag an der Kasse deiner Filiale."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Was bedeutet Decaf?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Decaf ist die Kurzform des englischen Wortes decaffeinated und heißt entkoffeiniert. Starbucks nutzt das Wort in der Bestellkarte als Namen der Bohne. An der Theke kannst du genauso „entkoffeiniert“ sagen."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Gibt es bei Starbucks koffeinfreien Filterkaffee?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Nein, der Filterkaffee hat in der Bestellkarte keine Bohnenauswahl. Er wird mit Pike Place Roast gebrüht und hat im Grande 254,6 mg Koffein. Die Alternative ist ein Decaf Caffè Americano mit 5,4 mg."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Gibt es Cold Brew ohne Koffein?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Nein, Cold Brew gibt es bei Starbucks Deutschland nicht entkoffeiniert. Ein Grande hat 255,8 mg Koffein. Als kalte Alternative eignet sich ein Decaf Iced Caffè Americano mit 5,4 mg."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Welcher Starbucks Tee hat kein Koffein?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Mint Blend und Hibiscus sind koffeinfrei. Beide sind Kräutermischungen ohne Teeblätter und kosten in Freiburg 3,90 €. English Breakfast hat dagegen 102 mg Koffein im Grande."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Hat die heiße Schokolade bei Starbucks Koffein?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Ja, eine Classic Hot Chocolate Grande hat laut Nährwertliste 26,1 mg Koffein. Es stammt aus dem Kakao. Die Bestellkarte zeigt 0,0 mg an, das passt nicht zur Nährwertliste."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Ist Starbucks Refresha koffeinfrei?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Nein, aber der Wert ist niedrig. Die deutsche Nährwertliste nennt 4,9 mg für einen Strawberry Acai oder Mango Dragonfruit Refresha im Grande. Im Venti sind es 6,2 mg."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Welcher Frappuccino ist koffeinfrei?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Vanilla Cream, Caramel Cream, Strawberries and Cream, Cookies and Cream und Pumpkin Spice Cream haben 0 mg Koffein. Chocolate Cream hat im Grande 10,3 mg, Matcha Cream 74,3 mg. Die Frappuccinos mit Kaffee gibt es als Decaf."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Kann ich Chai Latte oder Matcha Latte koffeinfrei bestellen?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Nein, bei beiden kommt das Koffein aus dem Tee und lässt sich nicht abwählen. Ein Chai Tea Latte Grande hat 52,4 mg, ein Matcha Green Tea Latte Grande 83,0 mg. Die Bestellkarte bietet bei beiden keine Bohnenauswahl."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Gibt es Starbucks Decaf als Nespresso-Kapseln?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Ja, Starbucks at Home führt den Blonde Espresso Roast Decaf by Nespresso mit 10 Kapseln pro Packung. Er hat die Intensität 6 und besteht aus 100 Prozent Arabica. Im Café gibt es zusätzlich die Bohne Decaf Espresso Roast."
+          }
+        }
+      ]
+    },
+    {
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Startseite",
+          "item": "https://starbuckspreise.com/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Blog",
+          "item": "https://starbuckspreise.com/blog/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "Starbucks koffeinfrei",
+          "item": "https://starbuckspreise.com/blog/starbucks-koffeinfrei"
+        }
+      ]
+    },
+    {
+      "@type": "HowTo",
+      "@id": "https://starbuckspreise.com/blog/starbucks-koffeinfrei/#howto",
+      "name": "Wie bestellst du koffeinfrei bei Starbucks?",
+      "step": [
+        {
+          "@type": "HowToStep",
+          "position": 1,
+          "text": "Wähle ein Getränk mit Espresso, zum Beispiel Caffè Latte, Cappuccino oder Caffè Americano."
+        },
+        {
+          "@type": "HowToStep",
+          "position": 2,
+          "text": "Lege die Größe fest: Tall, Grande oder Venti. Größere Becher enthalten meist mehr Shots."
+        },
+        {
+          "@type": "HowToStep",
+          "position": 3,
+          "text": "Tippe bei der Bohnenauswahl auf Decaf. Voreingestellt ist Signature Espresso."
+        },
+        {
+          "@type": "HowToStep",
+          "position": 4,
+          "text": "Passe Milch und Sirup an. Beides ändert am Koffein nichts."
+        },
+        {
+          "@type": "HowToStep",
+          "position": 5,
+          "text": "Sag an der Theke „Decaf“ oder „entkoffeiniert“ zusammen mit dem Getränk."
+        }
+      ]
+    }
+  ]
+}

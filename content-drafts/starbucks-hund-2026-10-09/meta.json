@@ -1,0 +1,129 @@
+{
+  "slug": "/blog/starbucks-hund",
+  "url": "https://starbuckspreise.com/blog/starbucks-hund",
+  "date": "2026-10-09",
+  "crumb": "Starbucks Hund",
+  "title": "Starbucks Hund: Sind Hunde erlaubt & gibt es Puppuccino?",
+  "description": "Starbucks mit Hund: In Deutschland entscheidet die Filiale. Der Puppuccino steht nicht auf der Karte. Was erlaubt ist und was Sahne für Hunde bedeutet.",
+  "published": "2026-10-09T12:00:00+02:00",
+  "about": [
+    {
+      "@type": "Thing",
+      "name": "Puppuccino"
+    },
+    {
+      "@type": "Thing",
+      "name": "Haushund",
+      "sameAs": "https://de.wikipedia.org/wiki/Haushund"
+    },
+    {
+      "@type": "Organization",
+      "name": "Starbucks",
+      "sameAs": [
+        "https://www.wikidata.org/wiki/Q37158",
+        "https://www.starbucks.de/"
+      ]
+    }
+  ],
+  "mentions": [
+    {
+      "@type": "Thing",
+      "name": "Hausrecht",
+      "sameAs": "https://de.wikipedia.org/wiki/Hausrecht"
+    },
+    {
+      "@type": "Thing",
+      "name": "Assistenzhund",
+      "sameAs": "https://de.wikipedia.org/wiki/Assistenzhund"
+    },
+    {
+      "@type": "Thing",
+      "name": "Behindertengleichstellungsgesetz",
+      "sameAs": "https://de.wikipedia.org/wiki/Behindertengleichstellungsgesetz_(Deutschland)"
+    },
+    {
+      "@type": "Thing",
+      "name": "Verordnung (EG) Nr. 852/2004"
+    },
+    {
+      "@type": "Thing",
+      "name": "Schlagsahne",
+      "sameAs": "https://de.wikipedia.org/wiki/Sahne"
+    },
+    {
+      "@type": "Thing",
+      "name": "Laktoseintoleranz",
+      "sameAs": "https://de.wikipedia.org/wiki/Laktoseintoleranz"
+    },
+    {
+      "@type": "Thing",
+      "name": "Theobromin",
+      "sameAs": "https://de.wikipedia.org/wiki/Theobromin"
+    },
+    {
+      "@type": "Thing",
+      "name": "Xylit",
+      "sameAs": "https://de.wikipedia.org/wiki/Xylit"
+    },
+    {
+      "@type": "Thing",
+      "name": "Koffein",
+      "sameAs": "https://de.wikipedia.org/wiki/Coffein"
+    },
+    {
+      "@type": "Organization",
+      "name": "Deutsche Bahn",
+      "sameAs": "https://de.wikipedia.org/wiki/Deutsche_Bahn"
+    },
+    {
+      "@type": "Organization",
+      "name": "American Kennel Club",
+      "sameAs": "https://de.wikipedia.org/wiki/American_Kennel_Club"
+    },
+    {
+      "@type": "Organization",
+      "name": "TASSO",
+      "sameAs": "https://de.wikipedia.org/wiki/Tasso_(Verein)"
+    },
+    {
+      "@type": "Thing",
+      "name": "Drive-Through"
+    },
+    {
+      "@type": "Thing",
+      "name": "Starbucks App"
+    }
+  ],
+  "howto": {
+    "@type": "HowTo",
+    "@id": "https://starbuckspreise.com/blog/starbucks-hund/#howto",
+    "name": "Wie fragst du bei Starbucks nach einem Puppuccino?",
+    "step": [
+      {
+        "@type": "HowToStep",
+        "position": 1,
+        "text": "Frag zuerst, ob dein Hund mit hinein darf, oder lass ihn bei einer zweiten Person draußen."
+      },
+      {
+        "@type": "HowToStep",
+        "position": 2,
+        "text": "Bestell selbst etwas. Der Becher ist eine Gefälligkeit und kein eigenes Produkt."
+      },
+      {
+        "@type": "HowToStep",
+        "position": 3,
+        "text": "Bitte um einen kleinen Becher mit etwas Schlagsahne für deinen Hund."
+      },
+      {
+        "@type": "HowToStep",
+        "position": 4,
+        "text": "Akzeptiere ein Nein. Die Filiale muss den Wunsch nicht erfüllen."
+      },
+      {
+        "@type": "HowToStep",
+        "position": 5,
+        "text": "Gib die Sahne vor der Tür und nicht an der Theke."
+      }
+    ]
+  }
+}

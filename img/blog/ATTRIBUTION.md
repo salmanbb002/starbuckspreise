@@ -318,3 +318,62 @@ Hero photos sourced from Wikimedia Commons for the 2026-09-17 location/product p
 - License: own work; Natural Earth data is public domain — no credit required
 - Note: 2026-10-08 — inline map (1200x750) of the 10 outlet centres with a Starbucks, positions from the starbucks.de store locator (7 Oct 2026). No Starbucks logo used. Regenerate when a store opens or closes.
 
+## starbucks-koffeinfrei-hero.webp
+- Source: https://www.starbucks.de/de/menu-kaffeebohnen (2023_WHOLEBEAN_DecafEspressoRoast_RGB_0.jpg) + https://www.starbucks.de/de/menu-drinks-hot-coffees (Cappuccino_Mug_WHITE_2023.jpg)
+- Author: Starbucks Coffee Company (official product images, starbucks.de)
+- License: Starbucks product images, used at the site owner's request — not CC/Unsplash, so no on-page credit is rendered
+- Note: 2026-10-09 — Cappuccino and the Decaf Espresso Roast whole-bean pack on white, multiplied so both shadows survive, 1600x1000; same style as the americano and vanilla-latte heroes.
+
+## starbucks-koffeinfrei-vergleich.webp
+- Source: own graphic; data from the Starbucks DE nutrition list "Autumn – 10.09.2026 (Getränke Nährwerte)"
+- Author: StarbucksPreise (own work)
+- License: own work — no credit required
+- Note: 2026-10-09 — inline bar chart (1200x705), caffeine per Grande drink with Signature Espresso vs Decaf. No Starbucks logo used. Regenerate when the nutrition list changes.
+
+## starbucks-hund-hero.webp
+- Source: https://commons.wikimedia.org/wiki/File:Dog_waiting_by_a_coffee_shop_(Unsplash).jpg
+- Author: Ross Sokolovski (Unsplash)
+- License: CC0 (public-domain dedication, as marked on Wikimedia Commons) — no credit required
+- Note: 2026-10-09 — leashed dog waiting on a bench outside a coffee shop, New York, 27 Nov 2016, 5402x3601 original. Cropped to 1600x1000 below the faces of the two people behind the window, so nobody is identifiable. Not a Starbucks; the alt text does not claim otherwise. Replaced the first version (portrait pup-cup photo on a blurred fill), which now lives in the article as starbucks-hund-puppuccino.webp.
+
+## starbucks-hund-puppuccino.webp
+- Source: https://commons.wikimedia.org/wiki/File:Greyhound_eating_whipped_cream.jpg
+- Author: Supreme Chungus
+- License: CC BY-SA 4.0 — attribution required if reused/redistributed further; this crop is shared under the same licence
+- Note: 2026-10-09 — inline photo, "A greyhound dog eats a 'pup cup' of whipped cream", 18 Apr 2020, square crop 971x971. Credit with licence and source link is in the figcaption. Not a Starbucks cup; the caption says so.
+
+## starbucks-hund-sahne.webp
+- Source: https://www.starbucks.de/de/menu-drinks-hot-chocolates (Signature_Hot_Chocolate_Mug_WHITE_2023.jpg) + https://www.starbucks.de/de/menu-drinks-frappuccino (Strawberries_and_Cream_Frappuccino_Glass_WHITE_2023.jpg)
+- Author: Starbucks Coffee Company (official product images, starbucks.de)
+- License: Starbucks product images, used at the site owner's request — not CC/Unsplash; "Produktbilder: Starbucks" in the figcaption
+- Note: 2026-10-09 — inline composite (1200x675) of two drinks with whipped-cream topping.
+
+## starbucks-hund-pup-cup.webp
+- Source: https://commons.wikimedia.org/wiki/File:Whipped_cream_pup_with_dog_biscuit.jpg
+- Author: Simply Social
+- License: Public domain (as marked on Wikimedia Commons) — no credit required; credited in the figcaption anyway
+- Note: 2026-10-09 — inline photo (1200x900 crop) of a pup cup with a dog biscuit, dated 20 Jan 2023. Cup of another café, not Starbucks; the caption says so.
+
+## starbucks-hund-standorte.webp
+- Source: own graphic; data from the starbucks.de store locator sweep of 6 Oct 2026 (content-drafts/starbucks-wlan-2026-10-06/store-locator-wlan-2026-10-06.csv)
+- Author: StarbucksPreise (own work)
+- License: own work — no credit required
+- Note: 2026-10-09 — inline bar chart (1200x570), 170 German branches by location type (133 / 21 / 10 / 6; type derived from the store name). Regenerate after a new locator sweep.
+
+## starbucks-koffeinfrei-ohne-koffein.webp
+- Source: https://www.starbucks.de/de/menu-drinks-hot-teas (Mint_Blend_Mug_WHITE_2023_2.jpg, Hibiscus_Mug_WHITE_2023.jpg) + https://www.starbucks.de/de/menu-drinks-frappuccino (Strawberries_and_Cream_Frappuccino_Glass_WHITE_2023.jpg)
+- Author: Starbucks Coffee Company (official product images, starbucks.de)
+- License: Starbucks product images, used at the site owner's request — not CC/Unsplash; "Produktbilder: Starbucks" in the figcaption
+- Note: 2026-10-09 — inline composite (1200x675) of three drinks with 0 mg caffeine.
+
+## starbucks-koffeinfrei-koffein-fallen.webp
+- Source: https://www.starbucks.de/de/menu-drinks-hot-chocolates (Classic_Hot_Chocolate_Mug_WHITE_2023.jpg) + https://www.starbucks.de/de/menu-drinks-hot-teas (…Hot_Drinks_Matcha_Tea_Latte.jpg, …Hot_Drinks_Chai_Tea_Latte.jpg)
+- Author: Starbucks Coffee Company (official product images, starbucks.de)
+- License: Starbucks product images, used at the site owner's request — not CC/Unsplash; "Produktbilder: Starbucks" in the figcaption
+- Note: 2026-10-09 — inline composite (1200x675) of three coffee-free drinks that contain caffeine.
+
+## starbucks-koffeinfrei-kapseln.webp
+- Source: https://www.starbucksathome.com/de/produkte/blonde-espresso-decaf-roast-nespresso (FR_fr_SBX_WEB_PACKS_NESP_Blonde-Espresso-Decaf_front_240306_1.png)
+- Author: Starbucks at Home / Nestlé (official pack shot)
+- License: official product image, used at the site owner's request — not CC/Unsplash; "Produktbild: Starbucks at Home" in the figcaption
+- Note: 2026-10-09 — inline pack shot (1200x304) of Starbucks Blonde Espresso Roast Decaf by Nespresso, trimmed to the sleeve.
